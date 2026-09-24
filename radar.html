@@ -308,6 +308,40 @@ button.btn.sm{min-height:30px}
   .grid > *,.card{min-width:0}
   label.f select,label.f input,label.f textarea{width:100%;min-width:0}
 }
+/* ---- Estudio ---- */
+#studio{border-color:var(--accent);padding:18px 20px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.st-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px 20px;flex-wrap:wrap}
+.st-title{min-width:0;flex:1 1 380px}
+.st-title h3{font-size:22px;margin:2px 0 6px}
+.st-ang > summary{cursor:pointer;list-style:none;color:var(--ink-2);font-size:13.5px;line-height:1.5;max-width:80ch;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.st-ang > summary::-webkit-details-marker{display:none}
+.st-ang[open] > summary{display:none}
+.st-ang > p{color:var(--ink-2);font-size:13.5px;line-height:1.5;max-width:80ch}
+.st-tools{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.st-bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding:10px 12px;background:var(--surface-2);border-radius:10px}
+.st-bar .sp{flex:1 1 0}
+.st-redo{display:inline-flex;align-items:center;gap:6px}
+.st-redo select{padding:5px 8px;font-size:12.5px;min-height:30px}
+.st-steps{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:6px}
+.st-step{display:grid;grid-template-columns:10px minmax(0,1fr);column-gap:8px;row-gap:1px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);min-width:0}
+.st-step .dot{width:8px;height:8px;border-radius:50%;background:var(--line-2);margin-top:5px;grid-row:span 2}
+.st-step .lab{font-size:13px;font-weight:600;color:var(--ink-2)}
+.st-step .det{font-size:11.5px;color:var(--ink-3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.st-step.is-listo .dot{background:var(--good)}
+.st-step.is-listo .lab{color:var(--ink)}
+.st-step.is-curso{border-color:var(--accent);background:var(--accent-soft)}
+.st-step.is-curso .dot{background:var(--accent);animation:pulse 1.4s infinite}
+.st-step.is-curso .lab{color:var(--ink)}
+.st-step.is-error{border-color:var(--bad);background:var(--bad-soft)}
+.st-step.is-error .dot{background:var(--bad)}
+.st-step.is-error .det{white-space:normal;color:var(--bad)}
+.st-log > summary{cursor:pointer;width:max-content}
+.st-body{display:flex;flex-direction:column;gap:12px;min-width:0}
+.st-body > div{min-width:0}
+#studio .pill{white-space:normal;max-width:100%}
+#studio textarea{width:100%}
+#studio .idea{min-width:0}
+@media (max-width:980px){#studio{padding:14px}.st-steps{grid-template-columns:repeat(auto-fill,minmax(130px,1fr))}}
 </style>
 
 <div class="app">
@@ -3213,20 +3247,27 @@ function nextStep(job){return STEPS.find(k=>stepState(job,k)!=='listo')}
 function studioHTML(job){
   const d=job.doc||{};const partes=d.partes||[];const words=partes.reduce((s,p)=>s+(p.words||0),0)+(d.intro?wc(d.intro):0);const done=STEPS.filter(k=>stepState(job,k)==='listo').length;const next=nextStep(job);const TOTAL=STEPS.length;
   const btn=(id,label,primary,dis)=>`<button class="btn ${primary?'primary':''} sm" id="${id}" ${dis?'disabled':''}>${label}</button>`;
-  return `<div class="card" id="studio" style="border-color:var(--accent)">
-    <div class="head" style="margin-bottom:10px"><div><div class="eyebrow" style="color:var(--accent)">Estudio de guion</div><h3 style="font-size:20px">${esc(job.persona||(d.nicho?'Nicho: '+d.nicho.n:'Guion'))}</h3><p class="src">${esc(job.angulo||'')}</p></div>
-      <div class="toolbar"><span class="pill" id="s-ai">${sample?'Claude: listo':'Claude: no disponible'}</span><button class="btn sm" id="s-test">Probar Claude</button><span class="pill ${done===TOTAL?'good':'accent'}">${done} de ${TOTAL} pasos</span><span class="pill">${words?fmt(words)+' palabras · '+Math.round(words/134)+' min':'sin texto aún'}</span>${!job.busy?`<button class="btn sm" id="s-archive">${d.archivado?'Restaurar':'Archivar'}</button><button class="btn sm" id="s-delete">Eliminar</button>`:''}<button class="btn sm" id="s-close">Cerrar</button></div></div>
-    <div class="grid g32" style="align-items:start">
-      <div>
-        <div class="toolbar" style="margin-bottom:10px">
-          ${job.busy?btn('s-stop','Detener',false,false):btn('s-run',(d.nicho&&!d.tema)?'Elige primero el tema':(d.nicho&&!d.metodo)?'Saca primero el método':done===0?'Crear guion completo':done===TOTAL?'Todo listo ✓':'Continuar desde '+String(stepLabelOf(next,d)||'').split(' ')[0],true,done===TOTAL||!!(d.nicho&&(!d.tema||!d.metodo)))}
-          ${!job.busy&&done>0?btn('s-reset','Empezar de cero',false,false):''}
-          <span class="src" id="s-msg"></span></div>
-        <div class="ideas">${STEPS.map(k=>{const st=stepState(job,k);const col=st==='listo'?'var(--good)':st==='en curso'?'var(--accent)':st==='error'?'var(--bad)':'var(--ink-3)';const p=/^p\d$/.test(k)?partes.find(x=>x.n===+k.slice(1)):null;
-          return `<div class="idea" style="padding:8px 10px;border-left:3px solid ${col}"><div><div class="t" style="font-size:13.5px">${stepLabelOf(k,d)}</div><div class="m">${st==='listo'?(p?fmt(p.words)+' palabras'+chk(d,k):k==='dossier'?fmt((d.dossier||'').split(/\\s+/).length)+' palabras':k==='intro'?fmt(wc(d.intro))+' palabras'+chk(d,'intro'):k==='revisao'?(d.revisao.nBloq?d.revisao.nBloq+' bloqueos pendientes':'sin bloqueos · '+d.revisao.nAvisa+' avisos'):k==='narracao'?d.narracao.n+' partes · '+d.narracao.min+' min':k==='seo'?(d.seo.titulos||[]).length+' títulos':'listo'):st==='error'?esc(job.errors[k]):st}</div></div><div class="acts">${st==='listo'&&!job.busy?`<button class="btn sm" data-redo="${k}" title="Borra este paso y todo lo que viene después, y vuelve a escribir desde aquí">Reempezar desde aquí</button>`:''}</div></div>`}).join('')}</div>
-        <div id="s-live" class="msg" style="margin-top:10px;display:${job.busy||job.liveMsg?'block':'none'}">${esc(job.liveMsg||'')}</div>
-        <div id="s-log" class="src" style="margin-top:6px;font-family:var(--mono,monospace);font-size:11.5px;line-height:1.5;display:${(job.log||[]).length?'block':'none'}">${(job.log||[]).map(esc).join('<br>')}</div>
-      </div>
+  const SHORT={dossier:'Pesquisa',titulo:'Enfoque y título',intro:'Introducción',revisao:'Revisión',checagem:'Checagem',narracao:'Narración',seo:'SEO'};
+  const shortLab=k=>/^p\d$/.test(k)?'Parte '+k.slice(1):(SHORT[k]||stepLabelOf(k,d));
+  const listos=STEPS.filter(k=>stepState(job,k)==='listo');
+  const ang=job.angulo||'';
+  return `<div class="card" id="studio">
+    <div class="st-head">
+      <div class="st-title"><div class="eyebrow" style="color:var(--accent)">Estudio de guion</div><h3>${esc(job.persona||(d.nicho?'Nicho: '+d.nicho.n:'Guion'))}</h3>${ang?`<details class="st-ang"><summary title="Ver el ángulo completo">${esc(ang)}</summary><p>${esc(ang)}</p></details>`:''}</div>
+      <div class="st-tools"><span class="pill" id="s-ai">${sample?'Claude: listo':'Claude: no disponible'}</span><button class="btn sm" id="s-test">Probar Claude</button>${!job.busy?`<button class="btn sm" id="s-archive">${d.archivado?'Restaurar':'Archivar'}</button><button class="btn sm" id="s-delete">Eliminar</button>`:''}<button class="btn sm" id="s-close">Cerrar</button></div>
+    </div>
+    <div class="st-bar">
+      ${job.busy?btn('s-stop','Detener',false,false):btn('s-run',(d.nicho&&!d.tema)?'Elige primero el tema':(d.nicho&&!d.metodo)?'Saca primero el método':done===0?'Crear guion completo':done===TOTAL?'Todo listo ✓':'Continuar: '+shortLab(next),true,done===TOTAL||!!(d.nicho&&(!d.tema||!d.metodo)))}
+      ${!job.busy&&done>0?btn('s-reset','Empezar de cero',false,false):''}
+      <span class="pill ${done===TOTAL?'good':''}">${done} de ${TOTAL} pasos</span><span class="pill">${words?fmt(words)+' palabras · '+Math.round(words/134)+' min':'sin texto aún'}</span>
+      <span class="src" id="s-msg"></span><span class="sp"></span>
+      ${listos.length&&!job.busy?`<label class="src st-redo">Reempezar desde <select id="s-redo-sel">${listos.map(k=>`<option value="${k}">${esc(shortLab(k))}</option>`).join('')}</select></label><button class="btn sm" id="s-redo-btn" data-redo="${listos[0]}" title="Borra ese paso y todo lo que viene después, y vuelve a escribir desde ahí">Reempezar</button>`:''}
+    </div>
+    <ol class="st-steps">${STEPS.map(k=>{const st=stepState(job,k);const cls=st==='listo'?'listo':st==='en curso'?'curso':st==='error'?'error':'pend';const p=/^p\d$/.test(k)?partes.find(x=>x.n===+k.slice(1)):null;const det=`${st==='listo'?(p?fmt(p.words)+' palabras'+chk(d,k):k==='dossier'?fmt(wc(d.dossier))+' palabras':k==='intro'?fmt(wc(d.intro))+' palabras'+chk(d,'intro'):k==='revisao'?(d.revisao.nBloq?d.revisao.nBloq+' bloqueos pendientes':'sin bloqueos · '+d.revisao.nAvisa+' avisos'):k==='narracao'?d.narracao.n+' partes · '+d.narracao.min+' min':k==='seo'?(d.seo.titulos||[]).length+' títulos':'listo'):st==='error'?esc(job.errors[k]):st}`;
+      return `<li class="st-step is-${cls}" title="${esc(stepLabelOf(k,d))}"><span class="dot"></span><span class="lab">${esc(shortLab(k))}</span><span class="det">${det}</span></li>`}).join('')}</ol>
+    <div id="s-live" class="msg" style="display:${job.busy||job.liveMsg?'block':'none'}">${esc(job.liveMsg||'')}</div>
+    <details class="st-log"><summary class="src">Registro técnico</summary><div id="s-log" class="src" style="margin-top:6px;font-family:'IBM Plex Mono',monospace;font-size:11.5px;line-height:1.5;display:${(job.log||[]).length?'block':'none'}">${(job.log||[]).map(esc).join('<br>')}</div></details>
+    <div class="st-body">
       <div>
         ${d.nicho&&d.tema&&!d.metodo?`<div style="margin-bottom:14px;padding:12px 14px;border:1px solid var(--brass);border-radius:8px">
           <div class="eyebrow" style="margin-bottom:4px">Nicho · ${esc(d.nicho.vert||'')}</div>
@@ -3376,6 +3417,7 @@ function renderStudio(){const job=studio;
   const dn=$('#s-dl-narr');if(dn)dn.addEventListener('click',async()=>{if(!downloads){$('#s-msg2').textContent='Descarga no disponible aquí; usa los botones Copiar.';return}try{await downloads.save({filename:`narracao-${slug(job.persona)}.html`,data:narracaoHTML(job)});$('#s-msg2').textContent='Descargado.'}catch(e){$('#s-msg2').textContent=e.code==='cancelled'?'Cancelado.':'No se pudo descargar: '+(e.message||e.code)}});
   const dt=$('#s-dl-narrtxt');if(dt)dt.addEventListener('click',async()=>{if(!downloads){$('#s-msg2').textContent='Descarga no disponible aquí; usa los botones Copiar.';return}try{await downloads.save({filename:`narracao-${slug(job.persona)}.txt`,data:narracaoBuild(job).texto});$('#s-msg2').textContent='Descargado.'}catch(e){$('#s-msg2').textContent=e.code==='cancelled'?'Cancelado.':'No se pudo descargar: '+(e.message||e.code)}});
   $$('[data-copypart]').forEach(b=>b.addEventListener('click',()=>copyText(narracaoBuild(job).partes[+b.dataset.copypart],'Parte copiada.')));
+  const rsel=$('#s-redo-sel');if(rsel)rsel.addEventListener('change',()=>{const rb=$('#s-redo-btn');if(rb)rb.dataset.redo=rsel.value});
   $$('[data-fortalecer]').forEach(b=>b.addEventListener('click',ev=>{ev.preventDefault();ev.stopPropagation();guard(()=>fortalecerEnfoque(job,+b.dataset.fortalecer))()}));
   const cfs=$('#chk-fix-sem');if(cfs)cfs.addEventListener('click',guard(()=>chkAction(job,'sem')));
   const cfh=$('#chk-fix-hooks');if(cfh)cfh.addEventListener('click',guard(()=>chkAction(job,'hooks')));
