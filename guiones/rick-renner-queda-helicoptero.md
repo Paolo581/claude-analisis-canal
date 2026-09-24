@@ -2,7 +2,7 @@
 
 VERMELHO = hook e microganchos · AZUL = revelação do 1º gancho + 2º grande gancho · PRETO = narração (parágrafos sem marca)
 
-INTRO + P1 + P2 + P3 + P4 + P5 · ~3900p · ~26 min
+INTRO + P1 + P2 + P3 + P4 + P5 · ~4030p · ~27 min
 
 ---
 
