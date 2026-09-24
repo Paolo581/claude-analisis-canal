@@ -2,7 +2,7 @@
 
 VERMELHO = hook e microganchos · AZUL = revelação do 1º gancho + 2º grande gancho · PRETO = narração (parágrafos sem marca)
 
-INTRO + P1 + P2 + P3 + P4 + P5
+INTRO + P1 + P2 + P3 + P4 + P5 · ~3900p · ~26 min
 
 ---
 
@@ -54,11 +54,15 @@ No começo, os dois chegaram a se apresentar como Rick e Ray, inspirados nos art
 
 [VERMELHO] Repara nesse detalhe. A troca de nome foi a primeira mudança dessa parceria. As outras iam doer muito mais.
 
-Os primeiros palcos foram as casas noturnas de Brasília. E foi diante de um deles que uma mulher parou pra olhar o cantor.
+Os primeiros palcos foram as casas noturnas de Brasília. Palcos que o Rick já conhecia bem.
 
-Geralda Helena de Oliveira era quatro anos mais velha que ele. Muito tempo depois, contou à revista Caras o que sentiu naquele momento. Foi amor à primeira vista.
+Porque foi diante de um deles, dois anos antes do Renner, quando ele ainda cantava ao lado da irmã, que uma mulher parou pra olhar o cantor.
 
-[VERMELHO] Os dois iam ficar juntos por mais de quarenta anos. Só que, décadas mais tarde, ela ia escolher um verbo forte pra falar desse casamento. Suportar.
+Geralda Helena de Oliveira era dois anos mais velha que ele. Os dois eram praticamente adolescentes. Muito tempo depois, ela contou à revista Caras o que sentiu naquele momento. Foi amor à primeira vista.
+
+Repara no nome. Ela, Geralda. Ele, Geraldo.
+
+[VERMELHO] Os dois iam ficar juntos por quarenta e dois anos. Só que, décadas mais tarde, ela ia escolher um verbo forte pra falar desse casamento. Suportar.
 
 [VERMELHO] Quem vive um conto de fadas não fala assim. Esse verbo ainda vai voltar, e aí vai fazer sentido.
 
@@ -172,7 +176,7 @@ Oito anos se passaram, e essa turnê ainda estava na estrada, agora celebrando q
 
 ## PARTE 3
 
-Eram cinco pessoas a bordo. O Rick, o empresário Bruno Avelar, o videomaker Paulo Soares, o piloto Antônio e o copiloto Leopoldo.
+Eram cinco pessoas a bordo. O Rick, o empresário Bruno Avelar, o videomaker Paulo Soares, o piloto e o copiloto.
 
 O Bruno era amigo do cantor e conhecido pelos eventos ligados ao esporte.
 
@@ -204,7 +208,7 @@ A Força Aérea Brasileira também entrou na operação, junto com equipes da Po
 
 Imagina estar do outro lado do oceano quando o telefone toca com uma notícia dessas.
 
-A Geralda estava nos Estados Unidos, onde o casal vivia. A mulher que se apaixonou pelo cantor diante de um palco de casa noturna, quarenta anos antes, deixou tudo e embarcou de volta pro Brasil.
+A Geralda estava nos Estados Unidos, onde o casal vivia. A mulher que se apaixonou pelo cantor diante de um palco de casa noturna, quarenta e dois anos antes, deixou tudo e embarcou de volta pro Brasil.
 
 O Renner foi às redes sociais falar em momentos de angústia. O parceiro de quarenta anos esperava sem poder fazer nada, como milhões de fãs.
 
@@ -213,6 +217,8 @@ A resposta chegou por volta do meio-dia de terça.
 A aeronave Arcanjo zero três, dos bombeiros, localizou os destroços numa área de acesso muito complicado, na localidade de Santa Bárbara, interior de Urubici.
 
 Ninguém sobreviveu.
+
+[VERMELHO] Repara no nome daquele lugar. Santa Bárbara. O mesmo nome da cidade paulista onde, vinte e cinco anos antes, o acidente de carro do Renner tinha deixado dois mortos.
 
 A turnê dos quarenta anos de dupla ainda tinha shows marcados na agenda. As causas da queda seguem sob investigação dos órgãos responsáveis.
 
@@ -318,7 +324,7 @@ Em novembro de dois mil e vinte e cinco, o Rick fechou a compra de uma casa num 
 
 O pai do Rick se chamava Vitor Antônio de Carvalho. Cantava e compunha pra Folia de Reis, a tradição de fé que atravessa o interior do Brasil.
 
-A irmã se chamava Dalva. Juntos, os dois formavam a dupla Sereno e Serenata. O Rick tinha só dez anos.
+A irmã se chamava Dalva. Os dois começaram a cantar juntos quando o Rick tinha dez anos, na dupla Sereno e Serenata. E seguiram lado a lado até as casas noturnas de Brasília.
 
 Eles se apresentavam em bares. E foi a preocupação com aquele ambiente que fez o seu Vitor interromper a dupla dos filhos.
 
@@ -362,11 +368,23 @@ Por decisão da família, o velório e o sepultamento do Rick foram marcados pra
 
 O cantor que pertenceu ao Brasil inteiro durante quarenta anos, na despedida, voltou a pertencer só aos seus.
 
-A Geralda, que suportou tudo por amor. Os filhos, que nunca precisaram subir num palco pra ter o pai. Os quatro netos. E o parceiro que, num dia de luto, tinha escolhido estender a mão de volta.
+Os filhos, que nunca precisaram subir num palco pra ter o pai. Os quatro netos. O parceiro que, num dia de luto, tinha escolhido estender a mão de volta.
 
-Lá de dentro da cabine, o Paulo Soares escreveu que tinha nascido praquilo.
+E a Geralda, que suportou tudo por amor.
 
-O Rick também nasceu pra alguma coisa. Nasceu ouvindo um pai cantar Folia de Reis numa feira do interior. E passou a vida devolvendo aquela música pro Brasil, uma canção de cada vez.
+Lá de dentro da cabine, o Paulo Soares escreveu que tinha nascido praquilo. O Rick também nasceu pra alguma coisa. Nasceu ouvindo um pai cantar Folia de Reis numa feira do interior, e passou a vida devolvendo aquela música pro Brasil.
+
+[AZUL] Um dia depois da confirmação da morte, a Geralda publicou uma carta nas redes sociais. A primeira palavra dela desde a queda.
+
+[AZUL] "Nós éramos praticamente dois adolescentes quando nossa história começou."
+
+[AZUL] "Você conheceu a menina que eu fui e a mulher que me tornei."
+
+[AZUL] "Esteve ao meu lado por praticamente toda a minha vida. Por isso, hoje eu não sei como será continuar sem você."
+
+[AZUL] E terminou com a frase que responde a tudo o que o Brasil descobriu depois da queda.
+
+[AZUL] "Hoje me despeço do meu marido, do meu companheiro e do amor da minha vida. Mas jamais me despeço do nosso amor."
 
 [VERMELHO] Agora me conta aqui nos comentários. Qual música de Rick e Renner marcou um momento da sua vida? Onde você estava quando ouviu Ela é Demais pela primeira vez?
 
