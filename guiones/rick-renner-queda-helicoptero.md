@@ -2,31 +2,33 @@
 
 VERMELHO = hook e microganchos · AZUL = revelação do 1º gancho + 2º grande gancho · PRETO = narração (parágrafos sem marca)
 
-INTRO + P1 + P2 + P3 + P4 + P5 + P6 · ~6100p · ~40.7 min (150 ppm)
+INTRO + P1 + P2 + P3 + P4 + P5 + P6 · ~6080p · ~40.5 min (150 ppm)
 
 ---
 
 ## INTRO
 
-[VERMELHO] Rick, da dupla Rick e Renner, morreu aos cinquenta e nove anos na queda de um helicóptero, a caminho de São Joaquim.
+[VERMELHO] "Eu estou indo agora para São Joaquim. Vou almoçar lá em São Joaquim e depois eu desço."
 
-[VERMELHO] Lá de dentro da cabine, alguém tinha publicado uma frase. Hoje ela soa como uma despedida.
+[VERMELHO] Essa foi uma das últimas mensagens que o Rick, da dupla Rick e Renner, mandou na vida. Um áudio gravado na manhã de vinte e um de setembro, com a voz tranquila.
 
-[VERMELHO] Mas foi depois da queda que o Brasil começou a descobrir o que o cantor guardava longe dos palcos. Uma escolha que ele tinha feito muitos anos atrás.
+[VERMELHO] Ele nunca chegou a São Joaquim. O helicóptero em que estava caiu no meio da serra catarinense, com cinco pessoas a bordo. O Rick tinha cinquenta e nove anos.
 
-[VERMELHO] No caminho, você vai ouvir o áudio que ele mandou na manhã do voo. Vai conhecer um registro antigo daquele helicóptero. E vai entender por que uma notícia sobre a família dele correu o Brasil inteiro sem ser verdade.
+[VERMELHO] Lá de dentro da cabine, um dos passageiros tinha acabado de publicar uma frase de cinco palavras. Hoje ninguém consegue ler aquela legenda do mesmo jeito.
 
-[VERMELHO] Fica comigo até o final. Porque essa escolha só faz sentido pra quem conhece uma ferida antiga. Uma decisão que, muito cedo, partiu o coração de um menino.
+[VERMELHO] Mas foi nos dias seguintes à queda que o Brasil começou a descobrir o que o cantor guardava longe dos palcos. Um registro antigo daquele helicóptero. Uma notícia sobre a família dele que correu o país inteiro sem ser verdade. E uma escolha que ele tinha feito muitos anos atrás.
 
-Pra entender essa ferida, é preciso voltar décadas no tempo. Até um menino parado no meio de uma feira do interior.
+[VERMELHO] Essa escolha só faz sentido pra quem conhece uma ferida antiga. Uma decisão que, muito cedo, partiu o coração de um menino. Fica comigo até o final, porque é ela que explica todo o resto.
+
+Pra entender essa ferida, é preciso voltar mais de cinquenta anos no tempo. Até um menino parado no meio de uma feira do interior.
 
 Geraldo Antônio de Carvalho nasceu em dezembro de mil novecentos e sessenta e seis, em Monte do Carmo, no Tocantins.
 
 O pai cantava nas feiras da região. Foi ouvindo aquele homem que o menino começou a cantar, ainda criança.
 
-Quando cresceu, a primeira voz ao lado dele na estrada foi a da irmã.
+A primeira voz ao lado dele foi a da irmã. Os dois cresceram cantando juntos e chegaram até os bares e as casas noturnas.
 
-O problema eram os lugares onde os dois se apresentavam. O pai achava perigosos demais pra uma moça.
+O problema eram justamente esses lugares. O pai achava perigosos demais pra uma moça.
 
 E o homem que tinha ensinado o filho a cantar tomou uma decisão dura. Proibiu a filha de continuar.
 
@@ -36,47 +38,45 @@ O Geraldo perdeu a primeira parceira da vida pela mão de quem colocou a música
 
 Sem a irmã, nenhuma dupla durava.
 
-[VERMELHO] Até o dia em que ele chegou a Brasília pra um show, ligou pra uma casa noturna e ouviu uma voz desconhecida do outro lado da linha.
+[VERMELHO] Até o dia em que, já cantando em Brasília, ele ligou pra uma casa noturna e ouviu uma voz desconhecida do outro lado da linha.
 
 ## PARTE 1
 
 Ele só queria um equipamento emprestado. Mas, enquanto esperava alguém voltar ao aparelho, aquela voz continuava cantando lá no fundo da casa.
 
-O Rick desligou o telefone com uma ideia fixa na cabeça. Tinha que descobrir quem cantava daquele jeito.
+O Rick desligou o telefone com uma ideia fixa. Precisava descobrir quem cantava daquele jeito.
 
-[VERMELHO] A resposta ia surpreender qualquer um. O dono daquela voz era um adolescente.
+[VERMELHO] Quando descobriu, levou um susto. O dono daquela voz era um adolescente.
 
-Ivair dos Reis Gonçalves tinha começado a cantar rock aos catorze anos. Quando os dois formaram a dupla em Brasília, em mil novecentos e oitenta e seis, ele mal tinha idade pra entrar sozinho numa casa noturna. Tinha catorze anos.
+Ivair dos Reis Gonçalves tinha começado a cantar rock aos catorze anos. E tinha essa mesma idade quando os dois formaram a dupla, em Brasília, em mil novecentos e oitenta e seis. Mal podia entrar sozinho numa casa noturna.
 
 O Rick estava com dezenove anos e carregava uma fila de parceiros que nunca duravam.
 
-Um cresceu com as modas que o pai cantava nas feiras. O outro gostava dos acordes e das letras da Legião Urbana. Daquela mistura improvável nasceu um som que nenhum dos dois alcançava sozinho.
+Um cresceu com as modas que o pai cantava nas feiras. O outro gostava dos acordes e das letras da Legião Urbana. Daquela mistura improvável saiu um som que nenhum dos dois alcançava sozinho.
 
-No começo, os dois chegaram a se apresentar como Rick e Ray, inspirados nos artistas de fora do país. Mais precisamente, em dois integrantes do Menudo, o grupo porto-riquenho que enlouquecia os adolescentes nos anos oitenta. O nome não durou.
+No começo, os dois se apresentaram como Rick e Ray, um nome inspirado em dois integrantes do Menudo, o grupo porto-riquenho que enlouquecia os adolescentes nos anos oitenta.
 
-[VERMELHO] Repara nesse detalhe. A troca de nome foi a primeira mudança dessa parceria. As outras iam doer muito mais.
+[VERMELHO] Esse detalhe do Menudo parece bobo agora. Quase quarenta anos depois, ele vai reaparecer numa das confusões mais estranhas que cercaram a morte do Rick.
 
-Os primeiros palcos foram as casas noturnas de Brasília. Foram cerca de cinco anos cantando na noite antes de qualquer contrato. Palcos que o Rick já conhecia bem.
+O nome não durou. O Ivair virou Renner, e foram cerca de cinco anos cantando na noite de Brasília antes de qualquer contrato.
 
-Porque foi diante de um deles, dois anos antes do Renner, quando ele ainda cantava ao lado da irmã, que uma mulher parou pra olhar o cantor.
+Palcos que o Rick já conhecia bem. Foi diante de um deles, dois anos antes do Renner, quando ainda cantava com a irmã, que uma moça parou pra olhar o cantor.
 
-Geralda Helena de Oliveira era dois anos mais velha que ele. Os dois eram praticamente adolescentes. Muito tempo depois, ela contou à revista Caras o que sentiu naquele momento. Foi amor à primeira vista.
+Geralda Helena de Oliveira era dois anos mais velha que ele. Muito tempo depois, contou à revista Caras o que sentiu naquela noite. Amor à primeira vista.
 
-Repara no nome. Ela, Geralda. Ele, Geraldo.
+Ela se chamava Geralda. Ele, Geraldo.
 
-[VERMELHO] Os dois iam ficar juntos por quarenta e dois anos. Só que, décadas mais tarde, ela ia escolher um verbo forte pra falar desse casamento. Suportar.
+[VERMELHO] Os dois ficaram juntos por quarenta e dois anos. Só que, décadas mais tarde, ela usou um verbo pesado pra falar dessa história. Suportar.
 
-[VERMELHO] Quem vive um conto de fadas não fala assim. Esse verbo ainda vai voltar, e aí vai fazer sentido.
+[VERMELHO] Ninguém usa essa palavra pra descrever um conto de fadas. Mais pra frente você vai entender por que ela escolheu justamente essa.
 
-Havia um detalhe sobre o garoto da dupla que pouca gente conhecia.
+O garoto da dupla também carregava um peso que pouca gente conhecia.
 
-Aos dezesseis anos, o Ivair virou pai. O dinheiro dos shows passou a pagar as contas da família dele.
+Aos dezesseis anos, o Ivair virou pai. O dinheiro dos shows passou a pagar as contas da família dele. Cada cachê já chegava com destino certo.
 
-Pra ele, cada cachê chegava com destino certo.
+Em mil novecentos e oitenta e nove, os dois gravaram um disco independente, com o Renner puxando a voz principal. Faltava alguém de fora que acreditasse neles.
 
-Em mil novecentos e oitenta e nove, os dois gravaram um disco independente, com o Ivair puxando a voz principal. Faltava alguém de fora que acreditasse neles.
-
-[VERMELHO] Aqui é onde tudo muda. Numa daquelas noites, Zezé Di Camargo e Luciano estavam na plateia.
+[VERMELHO] Essa pessoa apareceu numa noite qualquer, sentada na plateia. Na verdade, eram duas. Zezé Di Camargo e Luciano.
 
 Os irmãos goianos gostaram do que ouviram. Levaram a dupla até a gravadora Continental e apresentaram os dois ao produtor Manoel Nenzinho Pinto.
 
@@ -84,443 +84,451 @@ Em mil novecentos e noventa e dois saiu o primeiro álbum de Rick e Renner por u
 
 Seis anos separavam aquele telefonema em Brasília do primeiro contrato.
 
-[VERMELHO] A música que ia mudar a vida dos dois ainda nem tinha sido gravada.
+[VERMELHO] E a música que ia mudar a vida deles ainda demoraria mais seis.
 
-Ela chegou em mil novecentos e noventa e oito, no álbum Mil Vezes Cantarei. Ela é Demais passou cinco meses nas paradas de sucesso sem sair.
+Ela chegou em mil novecentos e noventa e oito, no álbum Mil Vezes Cantarei. Ela é Demais ficou cinco meses nas paradas de sucesso sem sair.
 
-A dupla levou guitarra e teclado pro sertanejo romântico sem largar a raiz caipira. Com aquela canção, esse som chegou a todo canto do Brasil.
+A dupla colocou guitarra e teclado no sertanejo romântico sem largar a raiz caipira. Com aquela canção, esse som chegou a todo canto do Brasil.
 
-Talvez você lembre onde estava quando ouviu essa música pela primeira vez. Num rádio de cozinha, ou no carro de alguém que você amava.
+Talvez você lembre onde estava quando ouviu essa música pela primeira vez. Num rádio de cozinha, numa festa de família, ou no carro de alguém que você amava.
 
-Ao longo da carreira, a dupla gravou dezessete discos de estúdio. Os shows passaram a reunir, em média, quinze mil pessoas por noite. Muleca e Nos Bares da Cidade entraram na boca do povo, e os discos ultrapassaram dez milhões de cópias.
+Ao longo da carreira, foram dezessete discos de estúdio. Os shows reuniam, em média, quinze mil pessoas por noite. Muleca e Nos Bares da Cidade entraram na boca do povo, e as vendas passaram de quinze milhões de discos.
 
-O garoto do rock e o rapaz das feiras viraram um dos nomes mais fortes do sertanejo romântico.
+Na chegada do ano dois mil, a dupla voltou a Brasília, a cidade onde tudo tinha começado. Dessa vez, pra tocar na Esplanada dos Ministérios, na festa da virada do milênio. Cerca de trezentas mil pessoas estavam lá.
 
-A prova veio na virada do milênio, justamente em Brasília, a cidade onde tudo tinha começado. Na festa da chegada do ano dois mil, na Esplanada dos Ministérios, cerca de trezentas mil pessoas se juntaram diante do palco da dupla.
+Catorze anos antes, os mesmos dois cantavam nos palcos pequenos das casas noturnas daquela cidade.
 
-Catorze anos antes, os dois dividiam os palcos pequenos das casas noturnas daquela mesma cidade.
-
-[VERMELHO] Só que o nome estampado na capa contava metade da história. Longe dos holofotes, o Rick brilhava também na voz de outros artistas.
+[VERMELHO] Só que o nome na capa dos discos contava metade da história. Muita gente cantou músicas do Rick sem saber que eram dele.
 
 Página de Amigos, composta por ele, virou sucesso com Chitãozinho e Xororó. Só Dá Você na Minha Vida ficou marcada na voz de João Paulo e Daniel.
 
-E a lista não parava aí. Eu Menti também foi parar no repertório de Chitãozinho e Xororó. Agenda Rabiscada ganhou a voz de Milionário e José Rico. Recaída foi gravada por Bruno e Marrone. E o Daniel, já em carreira solo, cantou Difícil Não Falar de Amor e Um Beijo Pra Me Enlouquecer.
+Eu Menti também foi parar no repertório de Chitãozinho e Xororó. Agenda Rabiscada ganhou a voz de Milionário e José Rico. Recaída foi gravada por Bruno e Marrone. E o Daniel, já em carreira solo, cantou Difícil Não Falar de Amor e Um Beijo Pra Me Enlouquecer.
 
-Até o Zezé Di Camargo e o Luciano, os mesmos da plateia daquela noite, gravaram canções dele.
+Até o Zezé e o Luciano, os mesmos daquela plateia, gravaram canções dele.
 
 O menino que perdeu a irmã como parceira virou o homem que escrevia pras maiores duplas do país.
 
-[VERMELHO] Aquele pai das feiras, lembra dele? Ainda vai reaparecer nesta história, no lugar onde você menos espera.
+[VERMELHO] E o pai das feiras ainda vai reaparecer nesta história. Num lugar que quase ninguém percebeu.
 
-Durante anos, a parceria parecia impossível de quebrar. Os dois cantavam como se tivessem nascido juntos.
+Durante anos, a parceria parecia impossível de quebrar.
 
-Mas no início de dois mil e dez, os rumores começaram a circular nos bastidores.
+Mas no começo de dois mil e dez, os bastidores começaram a falar em separação.
 
 Meses depois, a dupla que tinha nascido de um telefonema anunciou o fim.
 
-[VERMELHO] E aquela não ia ser a última vez. Na separação que ainda estava por vir, o Rick ia publicar um desabafo sobre o parceiro. Uma frase daquele texto diz mais sobre essa dupla do que qualquer entrevista.
+[VERMELHO] E não seria a última vez. Na separação seguinte, o Rick escreveu um desabafo público sobre o parceiro. E uma frase daquele texto explica essa dupla melhor do que qualquer entrevista que os dois deram.
 
 ## PARTE 2
 
-O anúncio aconteceu em cima de um palco. No dia primeiro de janeiro de dois mil e onze, durante um show em Gaspar, os dois contaram ao público que a dupla ia acabar.
+O primeiro fim foi anunciado em cima de um palco. No dia primeiro de janeiro de dois mil e onze, durante um show em Gaspar, os dois contaram ao público que a dupla ia acabar.
 
-[VERMELHO] Anota o nome desse estado. Gaspar fica em Santa Catarina, e Santa Catarina ainda vai aparecer duas vezes na vida do Rick. A última é justamente na serra.
+[VERMELHO] Anota o nome desse estado. Gaspar fica em Santa Catarina. E Santa Catarina vai ter um papel na vida do Rick muito maior do que qualquer fã imaginava.
 
-O fim vinha sendo construído havia meses, por dois projetos que puxavam os parceiros pra lados opostos.
+A separação vinha sendo construída havia meses, por dois projetos que puxavam os parceiros pra lados opostos.
 
 Em dois mil e dez, o Rick gravou um disco ao lado do filho, Victor Henrique. O projeto se chamava Mais Que Pai e Filho.
 
-O rapaz tinha vinte e dois anos e sonhava seguir os passos do pai. Numa entrevista à Caras, disse que a postura dos pais era de dar inveja. Uma frase bonita, dita num ano em que tudo ao redor do pai começava a rachar.
+O rapaz tinha vinte e dois anos e sonhava seguir os passos do pai. Numa entrevista à Caras, disse que a postura dos pais era de dar inveja.
 
-No mesmo ano, o Renner olhou pra outro palco. Lançou candidatura ao Senado por Goiás. A poucas semanas da eleição, desistiu da disputa, alegando motivos pessoais.
+No mesmo ano, o Renner mirou outro tipo de palanque. Lançou candidatura ao Senado por Goiás, a convite do ex-governador Alcides Rodrigues, pelo Partido Progressista. A poucas semanas da eleição, desistiu da disputa, alegando motivos pessoais.
 
-O candidato começou a faltar aos shows da dupla. Em várias datas daquele ano, o público chegou pra ver os dois e o parceiro não apareceu.
+Durante a campanha, o candidato começou a faltar aos shows. Em várias datas daquele ano, o público chegou pra ver a dupla e o parceiro não apareceu.
 
-Depois de vinte e cinco anos de estrada, cada um seguiu com um nome novo. O parceiro virou Renner Reis, e o Rick passou a assinar como Rick Sollo, num disco solo chamado Pronto pra Te Amar. O disco passou das vinte mil cópias vendidas.
+Depois de vinte e cinco anos de estrada, cada um seguiu com um nome novo. O parceiro virou Renner Reis. O Rick passou a assinar Rick Sollo, e lançou um disco solo chamado Pronto pra Te Amar.
 
-Era um bom número pra quem começava do zero. Mas era muito pouco pra quem tinha lotado a Esplanada dos Ministérios.
+O disco passou das vinte mil cópias. Pra quem começava do zero, seria um bom número. Pra quem tinha cantado pra trezentas mil pessoas na Esplanada, era quase nada.
 
 A separação durou menos de dois anos.
 
-Em setembro de dois mil e doze, os dois voltaram a dividir o microfone e gravaram mais dois discos juntos. O primeiro tinha um título que hoje soa como promessa. Inacreditável Poder do Amor.
+Em setembro de dois mil e doze, os dois voltaram a dividir o microfone e gravaram mais dois discos juntos. O primeiro se chamava Inacreditável Poder do Amor.
 
-[VERMELHO] Só que a reconciliação tinha prazo. E ele acabou numa manhã de sexta-feira, em São Paulo.
+[VERMELHO] A paz durou pouco mais de dois anos. Acabou numa manhã de sexta-feira, num bairro da zona sul de São Paulo.
 
-Era vinte e seis de dezembro de dois mil e catorze, por volta das oito e meia da manhã, numa rua do Jardim Aeroporto, na zona sul da cidade. O carro do Renner bateu em dois postes.
+Era vinte e seis de dezembro de dois mil e catorze, por volta das oito e meia da manhã, no Jardim Aeroporto. A BMW X cinco do Renner acertou a traseira de um Fiat Uno estacionado, que ficou prensado contra um poste. No total, dois postes foram atingidos.
 
-Era uma BMW X cinco. Na batida, ela acertou a traseira de um Fiat Uno estacionado, que ficou prensado contra um dos postes.
+Um homem que trabalhava ali perto filmou tudo. As imagens mostram o cantor cambaleando, tentando sair do local do acidente.
 
-Um homem que trabalhava ali perto gravou a cena. As imagens mostram o cantor cambaleando, tentando ir embora do lugar do acidente.
+O Renner estava embriagado. Foi preso ali mesmo e só saiu depois de pagar dez mil reais de fiança.
 
-O Renner estava embriagado. Foi preso ali mesmo e só saiu com o pagamento de dez mil reais de fiança.
+A explicação que ele deu foi outra. Disse que estava apenas dando carona a um morador de rua.
 
-A versão que ele deu foi outra. Disse que estava apenas dando carona a um morador de rua.
+No dia seguinte, o advogado admitiu que o cantor tinha bebido antes de dirigir e disse que ele estava arrependido.
 
-No dia seguinte, o advogado do cantor admitiu que ele tinha bebido antes de dirigir. E disse que o Renner estava arrependido.
+Dois dias depois do acidente, o Rick se pronunciou pela primeira vez. "Quero aqui, do fundo do meu coração, pedir desculpas a cada fã e cada admirador", escreveu. "Estou envergonhado mesmo! Não sei mais o que dizer, mil vezes perdão."
 
-Poucos dias depois, veio a resposta do Rick. Por escrito, pra quem quisesse ler.
+Quem pedia perdão era ele. Quem tinha batido o carro era o parceiro.
 
-Era o começo de janeiro de dois mil e quinze, e o texto apareceu nas redes sociais do cantor. Começava pela idade. Ele tinha quarenta e oito anos, filhos e netos, e sentia a vida passando depressa.
+[VERMELHO] Mas o texto que ia marcar aquela história ainda estava por vir. E ele chegou numa data que não parece coincidência.
 
-[AZUL] Foi ali que apareceu a frase que diz mais sobre essa dupla do que qualquer entrevista. "Não tenho mais tempo para construir castelos de areia."
+Primeiro de janeiro de dois mil e quinze. Exatamente quatro anos depois do anúncio em Gaspar, o Rick publicou nas redes um texto longo. Começava pela idade. Ele tinha quarenta e oito anos, filhos e netos, e sentia a vida passando depressa.
 
-Contou que apostou de novo na dupla, e que agora via o trabalho de uma vida escorrendo pelas mãos. "Deus sabe o quanto lutei por Rick e Renner", escreveu.
+[AZUL] E foi ali que ele escreveu a frase que explica essa dupla. "Não tenho mais tempo para construir castelos de areia."
 
-Disse que tinha perdido as contas de quantas vezes tinha sentado pra conversar e aconselhar o parceiro. Contou que sentia vergonha, e pediu perdão aos fãs.
+Contou que tinha apostado de novo na parceria, e que agora via tudo o que construiu "ser jogado fora diante dos meus olhos". "Deus sabe o quanto lutei por Rick e Renner", escreveu.
+
+Disse que tinha perdido as contas de quantas vezes tinha sentado pra conversar e aconselhar o parceiro.
 
 Admitiu que dependia da música pra viver e que o futuro era incerto. Mas o que mais doía, nas palavras dele, era "a falta de paz no meu coração".
 
-[VERMELHO] Guarda essa ideia de futuro incerto. Alguns anos mais tarde, ela ia ganhar número e endereço.
+[VERMELHO] Guarda essa expressão, futuro incerto. Alguns anos depois, ela ganhou número e endereço.
 
-No mesmo texto, o Rick foi além e lembrou o histórico de ocorrências envolvendo o parceiro.
+No mesmo texto, o Rick lembrou o histórico de ocorrências envolvendo o parceiro.
 
-Entre elas, uma colisão de carro em dois mil e um, em Santa Bárbara d'Oeste, no interior paulista. Duas pessoas morreram naquele acidente.
+A mais grave tinha acontecido treze anos antes, em Santa Bárbara d'Oeste, no interior paulista.
 
-Foi no dia vinte de agosto, na rodovia Luiz de Queiroz, na região de Campinas. Segundo testemunhas, o Renner dirigia uma BMW em alta velocidade. Perdeu o controle, atravessou o canteiro central e bateu de frente numa moto.
+Foi em vinte de agosto de dois mil e um, na rodovia Luiz de Queiroz, na região de Campinas. Segundo testemunhas, o Renner dirigia uma BMW em alta velocidade. Perdeu o controle, atravessou o canteiro central e bateu de frente numa moto.
 
-Na moto estava um casal. O engenheiro químico Luís Antônio Nunes e Eveline Soares Rossi morreram ali mesmo.
+Na moto estava um casal. O engenheiro químico Luís Antônio Nunes e Eveline Soares Rossi morreram no local.
 
-O Renner foi condenado por homicídio culposo. A Justiça aumentou a pena pra três anos e seis meses de detenção e suspendeu a carteira de motorista dele pelo mesmo período. Em dois mil e oito, veio outra condenação: uma indenização de dois mil salários mínimos.
+O Renner foi condenado por homicídio culposo. A Justiça aumentou a pena pra três anos e seis meses de detenção e suspendeu a carteira de motorista dele pelo mesmo período. Em dois mil e oito, veio outra condenação, a pagar uma indenização de dois mil salários mínimos.
 
-Treze anos depois daquela rodovia, o parceiro estava de novo envolvido num acidente de carro. E o Rick já não conseguia tratar aquilo como a primeira vez.
+[VERMELHO] Presta atenção nesse nome, Santa Bárbara. Ele vai aparecer de novo, no lugar mais improvável.
 
-Fechou o desabafo prometendo ajudar o Renner em tudo o que estivesse ao alcance dele. Mas deixou claro que, daquela vez, só ia até ali, e entregou o recomeço nas mãos de Deus.
+O Rick fechou o desabafo prometendo ajudar o Renner no que estivesse ao alcance dele. Mas avisou que, daquela vez, só ia até ali. E deixou o recomeço nas mãos de Deus.
 
-Imagina dedicar quase trinta anos a uma parceria e sentir que precisa escolher entre ela e a sua paz.
+Quase trinta anos de parceria, e ele tinha chegado ao ponto de escolher entre a dupla e a própria paz.
 
-Nos três anos que vieram, o Rick seguiu sem o Renner.
+Nos três anos seguintes, o Rick seguiu sem o Renner.
 
-Ainda em dois mil e quinze, lançou mais um disco solo. O título dizia muito sobre aquele momento. Foi Deus.
+Ainda em dois mil e quinze, lançou mais um disco solo. O título resumia aquele período. Foi Deus.
 
-Depois, chegou a formar dupla com Giovani, que tinha feito sucesso ao lado de Gian. Em dois mil e dezessete, a parceria ganhou nome de projeto, Dois Corações, e um primeiro clipe, Tudo Que Eu Tenho.
+Depois, formou dupla com Giovani, que tinha feito sucesso ao lado de Gian. Em dois mil e dezessete, a parceria virou um projeto chamado Dois Corações, com um primeiro clipe, Tudo Que Eu Tenho.
 
-Dois cantores que tinham perdido os parceiros de uma vida, dividindo o mesmo palco.
+Dois cantores que tinham perdido os parceiros de uma vida, tentando recomeçar juntos.
 
-O Renner também tentou outros caminhos. Formou dupla com um cantor chamado Ricardo, e depois com outro, chamado Rennan.
+O Renner também procurou outros caminhos. Cantou gospel. Formou dupla com um cantor chamado Ricardo, e depois com outro, chamado Rennan.
 
-Nenhuma daquelas parcerias ocupou o lugar da antiga.
+Nenhuma dessas parcerias pegou.
 
 Até que, em agosto de dois mil e dezoito, os dois publicaram duas palavras nas redes sociais. Voltamos, Brasil.
 
-O anúncio oficial foi feito no dia doze de agosto, no palco do Domingão do Faustão, diante do país inteiro.
+O anúncio oficial foi no dia doze de agosto, no palco do Domingão do Faustão.
 
-Junto com a volta veio o anúncio de uma turnê que ia passar pelo Brasil, pelos Estados Unidos, pelo Canadá, pela Europa e até pelo Japão. O nome dela era Seguir em Frente.
+Com a volta veio uma turnê que ia passar pelo Brasil, pelos Estados Unidos, pelo Canadá, pela Europa e até pelo Japão. O nome era Seguir em Frente.
 
-Oito anos se passaram, e essa turnê ainda estava na estrada, agora celebrando quarenta anos de dupla.
+[VERMELHO] O que quase ninguém sabia era o que tinha aproximado os dois de novo. Não foi um empresário nem um contrato. Foi um velório. E você vai saber de quem.
 
-[VERMELHO] E foi no meio dela que o Rick embarcou naquele helicóptero. Ao lado de um passageiro que, lá de dentro da cabine, ia publicar a frase que você ainda vai ouvir.
+Oito anos depois, a turnê ainda estava na estrada, agora comemorando quarenta anos de dupla.
+
+[VERMELHO] Foi no meio dela que o Rick embarcou naquele helicóptero. Ao lado de um rapaz que, lá de dentro da cabine, publicou a frase que você ainda vai ouvir.
 
 ## PARTE 3
 
 Eram cinco pessoas a bordo. O Rick, o empresário Bruno Avelar, o videomaker Paulo Soares, o piloto Antônio Roberto Nóbrega de Araújo e o copiloto Leopoldo Barros Teixeira.
 
-O Bruno era amigo do cantor e conhecido pelos eventos ligados ao esporte. Fundador do Poder do Network, somava mais de seiscentos mil seguidores nas redes. Em dois mil e vinte e cinco, tinha aparecido ao lado do Neymar num leilão do instituto do jogador.
+O Bruno era amigo do cantor e conhecido pelos eventos ligados ao esporte. Fundador do Poder do Network, tinha mais de seiscentos mil seguidores. Em dois mil e vinte e cinco, apareceu ao lado do Neymar num leilão do instituto do jogador.
 
-Na segunda-feira, vinte e um de setembro, o Bell quatrocentos e trinta decolou de Porto Belo, no litoral norte de Santa Catarina.
+Na segunda-feira, vinte e um de setembro, o Bell quatrocentos e trinta saiu de Porto Belo, no litoral norte de Santa Catarina.
 
-O destino era São Joaquim, lá no alto da serra. O Rick ia participar de um almoço com o prefeito da cidade.
+O destino era São Joaquim, no alto da serra. Lá, o grupo tinha um almoço com o prefeito.
 
-O encontro estava marcado pro meio-dia, na Vinícola Leone di Venezia. O prefeito José Teodoro de Sena Amaral, o Dorinho, ia receber o grupo pra falar de investimentos num condomínio da região, o Morada dos Vinhos. O rosto do Rick aparecia no material de divulgação. O Bruno seria apresentado como possível investidor.
+O encontro estava marcado pro meio-dia, na Vinícola Leone di Venezia. O prefeito José Teodoro de Sena Amaral, o Dorinho, ia conversar com eles sobre investimentos num condomínio da região, o Morada dos Vinhos. O Rick aparecia no material de divulgação do empreendimento. O Bruno seria apresentado como possível investidor.
 
-[VERMELHO] Só que tinha mais alguém convidado pra aquele voo.
+[VERMELHO] Só que havia mais alguém convidado pra aquele voo. E ele disse não.
 
-O Olívio Beltrão, sócio do Rick. O cantor insistiu pra que ele fosse junto no helicóptero. O Olívio preferiu ir de carro. Disse que gosta de viajar por terra. Saiu de Palhoça e subiu a serra dirigindo.
+Era o Olívio Beltrão, sócio do Rick. O cantor insistiu pra que ele fosse junto no helicóptero. O Olívio preferiu ir de carro, porque gosta de viajar por terra. Saiu de Palhoça e subiu a serra dirigindo.
 
-[VERMELHO] Aquela preferência simples salvou a vida dele.
+Foi essa preferência que o manteve vivo.
 
-Por volta das dez da manhã, os dois se falaram pela última vez. O Rick queria saber como estava o tempo lá em cima. "Mostrei o tempo para ele", contou o Olívio depois. "O piloto estava do lado."
+Por volta das dez da manhã, os dois se falaram pela última vez. O Rick queria saber como estava o tempo lá em cima. "Mostrei o tempo para ele", contou o Olívio. "O piloto estava do lado."
 
-O helicóptero decolou perto das onze. A chegada estava prevista pro meio-dia. Antes de embarcar, o próprio Rick publicou nas redes um vídeo ao lado do Bruno, mostrando a preparação do voo.
+O helicóptero decolou perto das onze, com chegada prevista pro meio-dia. Antes de embarcar, o próprio Rick postou um vídeo ao lado do Bruno, mostrando a preparação do voo.
 
-[VERMELHO] Repara onde ele estava. O mesmo estado do palco onde a dupla tinha acabado, quinze anos antes.
+O Paulo Soares tinha vinte e quatro anos e era de Osasco, na Grande São Paulo. Trabalhava com o Bruno havia uns cinco meses, gravando e editando os vídeos do empresário. Era casado desde dois mil e vinte e dois com a psicóloga Kelly Costa, e mostrava nas redes a rotina ao lado dela.
 
-O Paulo Soares tinha vinte e quatro anos e era de Osasco, na Grande São Paulo. Trabalhava com o Bruno havia uns cinco meses, gravando e editando os vídeos do empresário. Era casado desde dois mil e vinte e dois com a psicóloga Kelly Costa, e costumava mostrar nas redes a rotina ao lado dela.
+[VERMELHO] Já dentro da cabine, ele postou um vídeo do voo com uma legenda curta. Cinco palavras. Daqui a pouco você vai saber quais foram.
 
-[VERMELHO] Já dentro da cabine, ele publicou um registro com uma legenda curta. Cinco palavras.
-
-O voo seguiu do litoral em direção à serra. Pouco antes de chegar a São Joaquim, sobre a região de Urubici, o helicóptero perdeu a comunicação.
+O helicóptero seguiu do litoral em direção à serra. Pouco antes de São Joaquim, sobre a região de Urubici, perdeu a comunicação.
 
 Sumiu dos radares.
 
 A partir daquele momento, ninguém mais conseguiu falar com os cinco.
 
-Em São Joaquim, o prefeito esperava na vinícola. O grupo não chegou. "A partir de meio-dia, eu não tinha mais contato", lembrou o Olívio, que já estava na cidade.
+Na vinícola, o prefeito esperava. O Olívio já estava na cidade. "A partir de meio-dia, eu não tinha mais contato", lembrou depois.
 
-O alerta chegou ao Corpo de Bombeiros de Santa Catarina por volta das quatro da tarde. As buscas começaram pelo último ponto em que o celular de um dos tripulantes tinha dado sinal.
+O alerta chegou ao Corpo de Bombeiros de Santa Catarina por volta das quatro da tarde. As buscas começaram pelo último ponto em que o celular de um dos ocupantes tinha dado sinal.
 
-Segundo as autoridades, a região enfrentava chuva forte e vendaval. Havia alerta até de granizo.
-
-A região perto de São Joaquim estava sob um aviso de grande perigo pra tempestades. A previsão falava em mais de cem milímetros de chuva no dia e em ventos acima de cem quilômetros por hora.
+O tempo na serra estava péssimo. Chuva forte e vendaval, com alerta até de granizo. A área perto de São Joaquim estava sob um aviso de grande perigo pra tempestades, com previsão de mais de cem milímetros de chuva no dia e ventos acima de cem quilômetros por hora.
 
 [VERMELHO] E a noite estava chegando.
 
 As equipes atravessaram a madrugada na serra. Cerca de quarenta bombeiros, dois cães farejadores, mais de dez viaturas e drones com câmera térmica.
 
-A Força Aérea Brasileira também entrou na operação, junto com equipes da Polícia Militar.
+A Força Aérea Brasileira entrou na operação, junto com a Polícia Militar.
 
 O último ponto conhecido ficava na zona rural de Urubici, perto da rodovia SC trezentos e setenta. Na manhã de terça, o helicóptero Arcanjo zero três, dos bombeiros de Blumenau, foi mandado pra serra pra reforçar as buscas.
 
-[VERMELHO] Se essa história está mexendo com você, deixa o seu like e se inscreve no canal. Porque o que o Brasil descobriu depois é ainda mais difícil de ouvir.
+[VERMELHO] Se essa história está mexendo com você, deixa o seu like e se inscreve no canal. Porque o que o Brasil descobriu nos dias seguintes é ainda mais difícil de ouvir.
 
-Imagina estar do outro lado do oceano quando o telefone toca com uma notícia dessas.
+Do outro lado do oceano, o telefone tocou.
 
-A Geralda estava nos Estados Unidos, onde o casal vivia. A mulher que se apaixonou pelo cantor diante de um palco de casa noturna, quarenta e dois anos antes, deixou tudo e embarcou de volta pro Brasil.
+A Geralda estava nos Estados Unidos, onde o casal vivia. A moça que se apaixonou pelo cantor numa casa noturna de Brasília, quarenta e dois anos antes, largou tudo e embarcou de volta pro Brasil.
 
-O Renner foi às redes sociais falar em momentos de angústia. O parceiro de quarenta anos esperava sem poder fazer nada, como milhões de fãs.
+[VERMELHO] No meio das buscas, ela publicou uma mensagem. Hoje é difícil ler aquelas palavras.
 
-A resposta chegou por volta do meio-dia de terça.
+"Surgirá um testemunho tão grande que será impossível dizer que não foi Deus."
 
-A aeronave Arcanjo zero três, dos bombeiros, localizou os destroços numa área de acesso muito complicado, na localidade de Santa Bárbara, interior de Urubici.
+Era a fé de quem ainda esperava ver o marido sair vivo daquela mata.
+
+O Renner foi às redes falar em momentos de angústia. O parceiro de quarenta anos esperava sem poder fazer nada, como milhões de fãs.
+
+A resposta veio por volta do meio-dia de terça.
+
+O Arcanjo zero três localizou os destroços numa área de acesso muito difícil, na localidade de Santa Bárbara, no interior de Urubici.
 
 Ninguém sobreviveu.
 
-[VERMELHO] Repara no nome daquele lugar. Santa Bárbara. O mesmo nome da cidade paulista onde, vinte e cinco anos antes, o acidente de carro do Renner tinha deixado dois mortos.
+[VERMELHO] Santa Bárbara. O mesmo nome da cidade paulista onde, vinte e cinco anos antes, o acidente de carro do Renner tinha matado aquele casal.
 
-O lugar da queda era tão isolado que as viaturas só chegavam até certo ponto. Dali em diante, eram três horas de caminhada pela mata. Pelo menos vinte bombeiros trabalharam na retirada. Por causa do relevo, os corpos tiveram de ser levados de helicóptero.
+O local era tão isolado que as viaturas só chegavam até certo ponto. Dali em diante, eram três horas de caminhada pela mata. Pelo menos vinte bombeiros trabalharam na retirada, e por causa do relevo os corpos tiveram de sair de helicóptero.
 
-A turnê dos quarenta anos de dupla ainda tinha shows marcados na agenda. As causas da queda seguem sob investigação dos órgãos responsáveis.
+A turnê dos quarenta anos ainda tinha shows marcados na agenda.
 
-A esposa do Renner publicou um vídeo do último show dos dois juntos. Na legenda, só duas palavras. Sem acreditar.
+A esposa do Renner publicou um vídeo do último show dos dois juntos. Na legenda, duas palavras. Sem acreditar.
 
-Um sócio do Rick resumiu o que ficava com uma frase curta. Fica o legado.
+Um sócio do Rick resumiu tudo numa frase curta. Fica o legado.
 
-Foi aí que o Brasil voltou os olhos pra aquele registro publicado lá de dentro da cabine.
+Foi então que as pessoas voltaram àquele vídeo postado de dentro da cabine.
 
-[AZUL] A legenda que o Paulo Soares escreveu tinha só cinco palavras. "Acho que nasci para isso."
+[AZUL] A legenda que o Paulo Soares escreveu dizia: "Acho que nasci para isso."
 
-[AZUL] Uma frase de quem estava feliz fazendo o que gostava, lá no alto, ao lado de um cantor que marcou a vida de milhões. Hoje, aquela legenda soa como uma despedida.
+[AZUL] Era a frase de um rapaz de vinte e quatro anos, feliz, voando sobre Santa Catarina ao lado de um cantor que marcou a vida de milhões. Pouco depois, ela virou despedida.
 
 A esposa dele, Kelly, se despediu nas redes com uma frase só. "Sou grata por encontrar em você abrigo, suporte, amor e cuidado."
 
-[AZUL] Mas houve um detalhe que deu um arrepio em muita gente quando a notícia se espalhou.
+[AZUL] Enquanto isso, uma lembrança começou a circular e deu um arrepio em muita gente.
 
-[AZUL] Dois anos antes, em outubro de dois mil e vinte e quatro, o Rick já tinha sofrido um acidente numa estrada. Na mesma Santa Catarina.
+[AZUL] Dois anos antes, em outubro de dois mil e vinte e quatro, o Rick já tinha sofrido um acidente em Santa Catarina. Numa estrada.
 
-[AZUL] O carro derrapou no asfalto da BR duzentos e oitenta e dois, a caminho de Rancho Queimado. E o que aconteceu naquela estrada é só a primeira parte do que o Brasil descobriu depois da queda.
+[AZUL] O carro derrapou na BR duzentos e oitenta e dois, a caminho de Rancho Queimado. E o que aconteceu naquela tarde é só a primeira das coisas que o Brasil descobriu depois da queda.
 
 ## PARTE 4
 
 Era dois de outubro de dois mil e vinte e quatro, por volta das quatro e meia da tarde. Chovia forte na Grande Florianópolis.
 
-O Rick dirigia um Jeep pela BR duzentos e oitenta e dois, no trecho entre Águas Mornas e Rancho Queimado.
+O Rick dirigia um Jeep pela BR duzentos e oitenta e dois, no quilômetro quarenta e nove, no trecho entre Águas Mornas e Rancho Queimado.
 
-A pista estava encharcada. O carro derrapou e bateu na mureta de proteção. A frente do Jeep foi parar em cima da defensa.
+Com a pista encharcada, o carro derrapou e bateu na mureta de proteção. O Jeep terminou com a dianteira em cima da defensa.
 
-O cantor saiu dali sem ferimentos graves.
+Ele saiu sem ferimentos graves.
 
-Na época, pouca gente deu importância. Um susto na estrada, mais um na vida de quem passa o ano inteiro viajando.
+Na época, quase ninguém deu importância. Foi só mais um susto na vida de quem passa o ano inteiro na estrada.
 
-[VERMELHO] Mas depois da queda, alguém fez as contas. Aquele acidente ia completar dois anos em menos de duas semanas.
+[VERMELHO] Depois da queda, alguém fez as contas. Aquele acidente ia completar dois anos em menos de duas semanas.
 
-Mesmo estado. Mesma serra. E, nas duas vezes, chuva forte no caminho.
+Nos dois casos, o mesmo estado, a serra no caminho e chuva forte.
 
-[VERMELHO] Só que o detalhe mais revelador daquela tarde não foi a batida. Foi o lugar de onde o Rick tinha saído, e o lugar pra onde ele estava indo.
+[VERMELHO] Mas o detalhe mais revelador daquela tarde não foi a batida. Foi de onde o Rick tinha saído, e pra onde ele estava indo.
 
-Ele tinha deixado um apartamento em Itapema, no litoral catarinense. E seguia pra um sítio que mantinha em Rancho Queimado, a uns sessenta e cinco quilômetros de Florianópolis.
+Ele vinha de um apartamento em Itapema, no litoral catarinense. E ia pra um sítio que mantinha em Rancho Queimado, a uns sessenta e cinco quilômetros de Florianópolis.
 
-O cantor nascido no Tocantins, que fez carreira em Brasília e em São Paulo, tinha escolhido Santa Catarina pra viver.
+O cantor nascido no Tocantins, que fez carreira em Brasília e em São Paulo, tinha escolhido Santa Catarina pra morar.
 
-Aquele estado não era só palco e estrada. Era casa.
+O mesmo estado onde a dupla tinha acabado pela primeira vez tinha virado a casa dele.
 
-O sítio tinha três andares e paredes de vidro viradas pra um vale cercado de montanhas. Um deck de madeira, e uma fogueira no chão pros meses de frio.
+O sítio tinha três andares e paredes de vidro viradas pra um vale cercado de montanhas. Um deck de madeira e uma fogueira no chão pros meses de frio.
 
-Ele chamava aquele lugar de paraíso particular. Mostrava nas redes os fins de tarde no deck, ao lado da família, olhando o sol descer atrás da serra. Silêncio, neblina e mato.
+"Eu amo esse lugar", dizia. Chamava aquele sítio de paraíso particular. Postava os fins de tarde no deck, com a família, vendo o sol descer atrás da serra. Neblina, silêncio e mato.
 
-[VERMELHO] Repara no que ele procurava ali. O homem que passou quarenta anos cercado de caixas de som e multidões queria exatamente o contrário.
+Depois de quarenta anos de caixas de som e multidões, era isso que ele procurava.
 
-Mesmo morando no litoral, com o mar de Itapema na janela, era da terra que ele sentia saudade.
+Mesmo morando de frente pro mar em Itapema, sentia falta da terra.
 
-"Não vou negar que sinto falta do mato", disse ele numa entrevista. "Sinto falta disso, do campo, da natureza mesmo."
+"Não vou negar que sinto falta do mato", disse numa entrevista. "Sinto falta disso, do campo, da natureza mesmo."
 
-Quem falava ali era o menino de Monte do Carmo. O menino das feiras do interior.
+Parecia o menino de Monte do Carmo falando.
 
-[VERMELHO] E tem uma coisa que só veio a público depois da queda. Um áudio.
+[VERMELHO] E é aqui que entra aquele áudio do começo do vídeo. A parte que ficou faltando.
 
-Na manhã do voo, o Rick mandou uma mensagem pra pessoa responsável pelo condomínio em Rancho Queimado. A voz estava tranquila.
+Na manhã do voo, o Rick mandou a mensagem pra pessoa responsável pelo condomínio em Rancho Queimado.
 
 "Porque eu estou indo agora para São Joaquim, vou almoçar lá em São Joaquim e depois eu desço, a gente vai para Rancho Queimado."
 
-Pediu as coordenadas pro piloto pousar tudo certinho. E lembrou que, dentro do condomínio, o celular às vezes não pegava.
+Pediu as coordenadas pro piloto pousar certinho. E avisou que, dentro do condomínio, o celular às vezes não pegava.
 
-[AZUL] Repara no destino. Depois do almoço, o Rick ia voltar pra Rancho Queimado. O mesmo lugar pra onde ele dirigia naquela tarde de chuva de dois mil e vinte e quatro, quando o Jeep derrapou na BR duzentos e oitenta e dois.
+[AZUL] Depois do almoço, o Rick ia voltar pra Rancho Queimado. O mesmo sítio pra onde ele dirigia naquela tarde de chuva de dois mil e vinte e quatro, quando o Jeep derrapou na BR duzentos e oitenta e dois.
 
-[AZUL] Duas vezes a caminho do mesmo paraíso particular, debaixo de chuva forte. Na primeira, ele saiu andando. Na segunda, não chegou.
+[AZUL] Duas vezes a caminho do mesmo lugar, debaixo de chuva forte. Na primeira, ele saiu andando. Na segunda, não chegou.
 
-E foi assim que o Brasil começou a enxergar o que o Rick guardava longe dos palcos. Não era um escândalo. Era uma vida inteira protegida dos holofotes.
+Foi assim que o Brasil começou a enxergar o que o Rick guardava longe dos palcos. Uma vida inteira protegida dos holofotes.
 
-[VERMELHO] Só que essa vida tinha passado por um teste que quase ninguém conhecia. E ele começou no mesmo ano dos castelos de areia.
+[VERMELHO] E pra entender essa vida, é preciso voltar àquela reconciliação com o Renner. Porque ela começou num velório.
 
-Em dois mil e quinze, o Rick perdeu a mãe. Dona Aldenora Cirilo de Carvalho tinha oitenta e dois anos e morreu de uma infecção generalizada.
+O desabafo dos castelos de areia saiu no primeiro dia de dois mil e quinze. Pouco tempo depois, ainda naquele ano, o Rick perdeu a mãe. Dona Aldenora Cirilo de Carvalho tinha oitenta e dois anos e morreu de uma infecção generalizada.
 
-Naquela altura, os dois parceiros não se falavam. O Renner seguia carreira como cantor gospel.
+Os dois parceiros não se falavam desde a separação. O Renner seguia carreira como cantor gospel.
 
-Mesmo assim, foi ele quem anunciou a morte nas redes sociais. Pediu orações pela alma da Aldenora e pela família. E se referiu ao Rick como "meu ex-parceiro".
+Mesmo assim, foi ele quem anunciou a morte nas redes. Pediu orações pela alma da Aldenora e pela família, e se referiu ao Rick como "meu ex-parceiro".
 
-Mais tarde, explicou por que tinha feito aquilo. "A gente estava sem se falar desde a separação. Mas são trinta anos de amizade e eu não podia deixar de confortá-lo nesse momento."
+Mais tarde, explicou o gesto. "A gente estava sem se falar desde a separação. Mas são trinta anos de amizade e eu não podia deixar de confortá-lo nesse momento."
 
-O desabafo tinha fechado uma porta. O luto abriu outra.
+Foi o primeiro passo de volta. Três anos depois vieram as duas palavras nas redes, Voltamos, Brasil. E uma turnê chamada Seguir em Frente.
 
-Três anos depois vieram as duas palavras nas redes. Voltamos, Brasil. E uma turnê com um nome que agora faz outro sentido. Seguir em Frente.
+[VERMELHO] Dois mil e quinze ainda guardava outra cena. É nela que o verbo da Geralda começa a fazer sentido.
 
-[VERMELHO] Mas dois mil e quinze guardava mais uma cena. E é nela que aquele verbo da Geralda finalmente se explica.
+Em março daquele ano, o Rick subiu ao altar da Basílica de Nossa Senhora Aparecida, no interior de São Paulo. Depois de quase trinta anos juntos, casou no religioso com a Geralda.
 
-Em março daquele ano, o Rick subiu ao altar da Basílica de Nossa Senhora Aparecida, no interior de São Paulo. Casou no religioso com a Geralda, depois de quase trinta anos juntos.
+Quem celebrou foi o Padre Fábio de Melo, diante de cerca de trezentos convidados, entre parentes, amigos e nomes conhecidos da música sertaneja. O Rick cantou pra ela uma música que compôs pra ocasião. Perfeição.
 
-A cerimônia foi celebrada pelo Padre Fábio de Melo, diante de cerca de trezentos convidados. O Rick cantou pra ela uma música composta especialmente praquele dia. O nome da canção era Perfeição.
+E disse uma frase que, vinda dele e naquele momento, pesava o dobro. "Em um mundo com tantas separações, nós formalizamos nosso amor e mostramos que é possível acreditar em relações e em encontros de almas."
 
-E disse uma frase que, vinda dele, naquele ano, pesava o dobro. "Em um mundo com tantas separações, nós formalizamos nosso amor e mostramos que é possível acreditar em relações e em encontros de almas."
+Fazia dois meses que ele tinha anunciado o fim da dupla. E foi justamente nesse ano que resolveu subir ao altar.
 
-O homem que tinha acabado de se separar do parceiro de uma vida escolheu justamente aquele ano pra jurar que ficava.
+[AZUL] Anos depois, a Geralda contou qual era o segredo. "O amor é o segredo. Porque para suportar tudo o que a gente passou, tem de amar muito e acreditar em Deus."
 
-[AZUL] Anos depois, a Geralda explicou qual era o segredo daqueles quarenta anos. "O amor é o segredo. Porque para suportar tudo o que a gente passou, tem de amar muito e acreditar em Deus."
-
-[AZUL] Suportar. Não era um casamento que ela aguentava. Era tudo o que os dois atravessaram juntos. As estradas, as noites sem ele em casa, as separações da dupla, o futuro que nunca estava garantido.
+[AZUL] Olhando pra esta história inteira, dá pra ver o que cabe nessa palavra. A estrada que levava o marido quase o ano todo. As separações da dupla. Os escândalos do parceiro. Um sustento que dependia de show e um futuro que nunca estava garantido.
 
 O Rick sabia o preço disso. "Apesar de ser fisicamente ausente, por estar viajando o tempo todo, nunca deixei que sentissem minha falta."
 
-E a Geralda resumiu a confiança numa frase só. "Podia estar com ele embaixo de uma ponte que estaria segura."
+E a Geralda resumiu a confiança que tinha nele de um jeito simples. "Podia estar com ele embaixo de uma ponte que estaria segura."
 
-[VERMELHO] E aquele futuro incerto do desabafo, lembra? Foi aqui que ele ganhou número e endereço.
+[VERMELHO] E aquele futuro incerto do desabafo de dois mil e quinze? Oito anos depois, o Rick finalmente deu a ele um número e um endereço.
 
-Em dois mil e vinte e três, o Rick falou do plano numa entrevista. "Estamos com quarenta anos de casados e a gente ainda não teve assim um momento meu e dela pra gente curtir a vida. Quando ela viaja comigo, é a trabalho."
+Em dois mil e vinte e três, falou do plano numa entrevista. "Estamos com quarenta anos de casados e a gente ainda não teve assim um momento meu e dela pra gente curtir a vida. Quando ela viaja comigo, é a trabalho."
 
-A intenção, nas palavras dele, era dar uma desacelerada.
+A ideia, nas palavras dele, era dar uma desacelerada.
 
-O número era quarenta. Quarenta anos juntos. O endereço ficava em Orlando, na Flórida.
+O número eram os quarenta anos ao lado dela. O endereço ficava em Orlando, na Flórida.
 
-Em novembro de dois mil e vinte e cinco, o Rick fechou a compra de uma casa num condomínio fechado da cidade. Piscina, área gourmet, espaço pra família. Era ali que a Geralda estava quando o telefone tocou.
+Em novembro de dois mil e vinte e cinco, o Rick comprou uma casa num condomínio fechado da cidade. Piscina, área gourmet, espaço pra família. Foi lá que a Geralda estava quando o telefone tocou.
 
-[VERMELHO] Menos de um ano depois de receber as chaves da casa onde ia desacelerar, o Rick estava num helicóptero sobre a serra catarinense. Ainda na estrada. Ainda cumprindo a agenda de quarenta anos de dupla.
+[VERMELHO] Menos de um ano depois de pegar as chaves da casa onde ia desacelerar, ele estava num helicóptero sobre a serra catarinense. Ainda na estrada, cumprindo a agenda dos quarenta anos de dupla.
 
-[VERMELHO] Mas o que veio depois da queda ainda ia surpreender. Primeiro, um registro antigo daquele helicóptero. Depois, uma notícia sobre a família do Rick que correu o Brasil inteiro. E que não era verdade.
+[VERMELHO] E o que veio depois da queda ainda ia surpreender. Primeiro, um registro de seis meses antes, envolvendo aquele mesmo helicóptero. Depois, uma notícia sobre os filhos do Rick que se espalhou pelo país inteiro. E que era falsa.
 
 ## PARTE 5
 
-Enquanto o país ainda tentava entender a tragédia, uma pergunta começou a circular. Como um helicóptero com dois pilotos some assim, no meio da serra?
+Enquanto o país tentava entender a tragédia, uma pergunta começou a circular. Como um helicóptero com dois pilotos some assim, no meio da serra?
 
-A investigação ficou com o Cenipa, o Centro de Investigação e Prevenção de Acidentes Aeronáuticos, ligado à Força Aérea. A Polícia Civil de Santa Catarina também passou a apurar o caso.
+A investigação ficou com o Cenipa, o Centro de Investigação e Prevenção de Acidentes Aeronáuticos, ligado à Força Aérea. A Polícia Civil de Santa Catarina também abriu apuração.
 
-Na tarde de quarta-feira, vinte e três de setembro, o Cenipa concluiu a primeira fase do trabalho no local. Os investigadores conseguiram resgatar o gravador de voz da cabine. A chamada caixa-preta.
+Na tarde de quarta-feira, vinte e três de setembro, o Cenipa encerrou a primeira fase do trabalho no local. Os investigadores resgataram o gravador de voz da cabine, a chamada caixa-preta.
 
-[VERMELHO] Tudo o que foi dito lá dentro nos últimos minutos pode estar naquele equipamento.
+[VERMELHO] O que foi dito lá dentro nos últimos minutos pode estar gravado ali.
 
-A aeronave tinha a matrícula PP-MGR. Era um Bell quatrocentos e trinta fabricado em dois mil e um. Vinte e cinco anos de uso. Desde o fim de abril, pertencia a uma empresa chamada JTA Empreendimentos e Urbanismo, e o certificado de aeronavegabilidade estava válido até agosto de dois mil e vinte e sete.
+A aeronave tinha a matrícula PP-MGR. Um Bell quatrocentos e trinta fabricado em dois mil e um, com vinte e cinco anos de uso. Desde o fim de abril, pertencia a uma empresa chamada JTA Empreendimentos e Urbanismo. O certificado de aeronavegabilidade valia até agosto de dois mil e vinte e sete.
 
-[VERMELHO] Só que, quando aquela matrícula foi divulgada, apareceu um registro de seis meses antes.
+[VERMELHO] Quando essa matrícula foi divulgada, apareceu um vídeo de seis meses antes.
 
-No dia trinta e um de março, aquele mesmo helicóptero tinha pousado no meio de uma lavoura, na comunidade de Rio Telha, interior de Ibiaçá, no Rio Grande do Sul. O motivo, segundo relatos, seriam problemas técnicos.
+No dia trinta e um de março, aquele mesmo helicóptero tinha pousado no meio de uma lavoura, na comunidade de Rio Telha, interior de Ibiaçá, no Rio Grande do Sul. Segundo relatos, por problemas técnicos.
 
-Moradores filmaram a cena. Pelo que contaram, a aeronave perdia força, levantava e descia. Depois de verificada, decolou de novo. Ninguém se feriu naquele dia.
+Moradores filmaram. Pelo que contaram, a aeronave perdia força, levantava e descia. Depois de uma verificação, decolou de novo. Ninguém se feriu.
 
-É importante dizer. Não existe nenhuma conclusão oficial ligando aquele pouso à queda na serra. O Cenipa analisa os danos da aeronave, a dinâmica do voo e as condições do tempo. Enquanto o relatório não sair, a causa segue em aberto.
+Até agora, não existe nenhuma conclusão oficial ligando aquele pouso à queda na serra. O Cenipa analisa os danos, a dinâmica do voo e as condições do tempo. Enquanto o relatório não sair, a causa segue em aberto.
 
-[VERMELHO] Mas a investigação não foi a única coisa que o Brasil começou a vasculhar naqueles dias. Muita gente foi atrás da vida particular do Rick. E aí aconteceu uma confusão que mostra o quanto essa vida era protegida.
+[VERMELHO] Só que a investigação não foi a única coisa que o Brasil começou a vasculhar. Muita gente foi atrás da vida particular do Rick. E aí aconteceu uma confusão difícil de acreditar.
 
 Nas primeiras horas depois da confirmação da morte, alguns sites publicaram que o Rick deixava seis filhos.
 
 Além da Mônica e do Victor Henrique, as reportagens listavam mais quatro. Os gêmeos Valentino e Matteo, uma menina chamada Lucía e um menino chamado Renn. Filhos, segundo aqueles textos, de outros relacionamentos.
 
-A informação se espalhou depressa. Parecia a grande revelação escondida da vida do cantor.
+A informação se espalhou rápido. Tinha cara de segredo que só aparece depois que alguém morre.
 
-Imagina a Geralda, recém-chegada dos Estados Unidos, no meio do luto, vendo aquilo circular.
+[AZUL] Só que Valentino, Matteo, Lucía e Renn são os filhos de outro cantor. O porto-riquenho Ricky Martin.
 
-[AZUL] Só que tinha um problema. Valentino, Matteo, Lucía e Renn são os nomes dos filhos de outro cantor. O porto-riquenho Ricky Martin.
+[AZUL] Alguém trocou Rick por Ricky, e a troca virou notícia.
 
-[AZUL] A confusão entre Rick e Ricky tinha virado notícia.
+[AZUL] E lembra do Menudo, o grupo que inspirou o primeiro nome da dupla, Rick e Ray? O Ricky Martin fez parte do Menudo nos anos oitenta.
 
-E tem uma ironia que quase ninguém percebeu. Nos anos oitenta, o Ricky Martin fazia parte do Menudo. O mesmo grupo que tinha inspirado o primeiro nome da dupla, Rick e Ray.
+Um dos portais corrigiu o texto, confirmou que o Rick tinha dois filhos, Victor Henrique e Mônica, e publicou um pedido de desculpas. "Pedimos desculpas à família do cantor pelo ocorrido."
 
-Um dos portais corrigiu o texto, confirmou que o Rick era pai de dois filhos, Victor Henrique e Mônica, e pediu desculpas à família.
+Mas a essa altura, a história dos seis filhos já tinha sido reproduzida por outros sites.
 
-Pensa no que isso revela. A família do Rick era tão discreta que, quando o Brasil foi procurar saber quem eram os filhos dele, havia pouquíssima coisa pública pra encontrar.
+Um erro desses diz muito sobre a família do Rick. Quando o Brasil foi procurar saber quem eram os filhos dele, quase não havia nada público pra encontrar.
 
 Enquanto isso, o meio sertanejo se despedia.
 
-O Zezé Di Camargo, que tinha visto os dois cantarem naquela casa noturna décadas antes, escreveu uma frase curta. "Dois meninos em busca de um sonho! Sem palavras para expressar o que estou sentindo!"
+O Zezé Di Camargo, que tinha visto os dois cantarem décadas antes naquela casa noturna, escreveu: "Dois meninos em busca de um sonho! Sem palavras para expressar o que estou sentindo!"
 
-Chitãozinho e Xororó, que gravaram Página de Amigos e Eu Menti, resumiram assim. "Hoje o sertanejo ficou mais silencioso."
+Chitãozinho e Xororó, que gravaram Página de Amigos e Eu Menti, escreveram que "hoje o sertanejo ficou mais silencioso".
 
 Bruno e Marrone chamaram o Rick de "irmão de estrada, de música e de tantos momentos". O Michel Teló lembrou de um homem "apaixonado pelos seus, pela família, por Nossa Senhora Aparecida e por Jesus Cristo".
 
+Edson e Hudson escreveram que o Rick era "um exímio cantor, um compositor brilhante e, acima de tudo, um amigo querido". O Rionegro prometeu: "Aqui vamos seguir cantando suas músicas, a saudade vai ser eterna!!"
+
+O Felipe Araújo escreveu: "Eu te amarei pra sempre. Os momentos que vivemos ficarão eternamente em mim." Zé Neto e Cristiano chamaram o Rick de ídolo.
+
+E o Luciano, o outro irmão daquela plateia de Brasília, disse que, "nessas horas, nos faltam palavras".
+
 A mesma Nossa Senhora Aparecida da basílica onde ele tinha se casado, onze anos antes.
 
-[VERMELHO] Só uma voz demorou a aparecer. A do parceiro de quarenta anos.
+[VERMELHO] Uma voz, porém, demorou a aparecer. A do parceiro de quarenta anos.
 
-A equipe da dupla publicou um comunicado. Falava de uma voz inconfundível que marcou gerações e de um legado de amor, amizade e momentos inesquecíveis.
+A equipe da dupla publicou um comunicado falando de uma voz inconfundível, que marcou gerações, e de um legado de amor, amizade e momentos inesquecíveis.
 
-Mas despedida pessoal do Renner, não havia nenhuma.
+Uma despedida pessoal do Renner não veio.
 
-Na madrugada de quarta-feira, ele finalmente reapareceu nas redes. Não com palavras dele. Compartilhou o vídeo de uma artista mirim, a Gigica Prado, lembrando momentos de carinho com o Rick. Na gravação, a criança dizia que ele tinha ido morar com o Papai do Céu.
+Na madrugada de quarta-feira, ele finalmente apareceu nas redes. Compartilhou o vídeo de uma artista mirim, a Gigica Prado, lembrando momentos de carinho com o Rick. Na gravação, a menina dizia que ele tinha ido morar com o Papai do Céu.
 
-O Renner não acrescentou nenhuma frase.
+O Renner não escreveu nada junto.
 
-Pra quem dividia o microfone com o Rick desde os catorze anos, talvez não existisse frase que coubesse.
+Ele dividia o microfone com o Rick desde os catorze anos. Talvez não tivesse palavra que desse conta.
 
-[VERMELHO] E é aqui que esta história volta pro começo. Pro homem que você guardou na memória lá no início deste vídeo.
+[VERMELHO] Agora a história volta pro começo. Pro homem que você guardou na memória lá no início.
 
 ## PARTE 6
 
-O pai do Rick se chamava Vitor Antônio de Carvalho. Cantava e compunha pra Folia de Reis, a tradição de fé que atravessa o interior do Brasil.
+O pai do Rick se chamava Vitor Antônio de Carvalho. Cantava e compunha pra Folia de Reis.
 
-Quem cresceu no interior conhece. Entre o Natal e o Dia de Reis, os foliões saem de casa em casa com viola, bandeira e cantoria, lembrando a viagem dos Reis Magos. Foi nesse som que o Rick aprendeu o que era música.
+Quem cresceu no interior conhece. Entre o Natal e o Dia de Reis, os foliões saem de casa em casa com viola, bandeira e cantoria, lembrando a viagem dos Reis Magos. Foi ouvindo isso que o Rick aprendeu o que era música.
 
-A irmã se chamava Dalva. Os dois começaram a cantar juntos quando o Rick tinha dez anos, na dupla Sereno e Serenata. E seguiram lado a lado até as casas noturnas de Brasília.
+A irmã se chamava Dalva. Os dois começaram a cantar juntos quando o Rick tinha dez anos, na dupla Sereno e Serenata, e seguiram lado a lado até as casas noturnas de Brasília.
 
-Eles se apresentavam em bares. E foi a preocupação com aquele ambiente que fez o seu Vitor interromper a dupla dos filhos.
+Foi a preocupação com esses lugares que fez o seu Vitor acabar com a dupla dos filhos.
 
-Uma decisão de pai que queria proteger a filha. E que tirou do menino a primeira parceira da vida.
+Ele queria proteger a filha. E, pra isso, tirou do filho a primeira parceira da vida.
 
-[VERMELHO] Agora vem o detalhe que muita gente não tinha ligado.
+[VERMELHO] Tem uma data aqui que pouca gente ligou.
 
-Em agosto de dois mil e dezoito, o Rick e o Renner anunciaram a volta. Um mês depois, em setembro, o seu Vitor sofreu um AVC em Monte do Carmo.
+Em agosto de dois mil e dezoito, o Rick e o Renner anunciaram a volta. No mês seguinte, o seu Vitor, que morava em Monte do Carmo, sofreu um AVC.
 
 Foi levado pro Hospital Geral de Palmas, passou por uma cirurgia de emergência e ficou setenta e cinco dias internado. Morreu na manhã de vinte e nove de novembro, aos oitenta e seis anos.
 
-O filho que perdeu a irmã como parceira pela decisão daquele homem escreveu uma despedida nas redes sociais.
+O Rick, que tinha perdido a irmã como parceira por decisão daquele homem, escreveu nas redes:
 
 "Deus acaba de levar meu maior exemplo de um homem de verdade, minha riqueza, meu herói, meu querido, eterno e velho pai."
 
-E completou. "Estou destruído mais uma vez, pois perdi a outra metade. Hoje sou um filho sem mãe e sem pai."
+E continuou. "Estou destruído mais uma vez, pois perdi a outra metade. Hoje sou um filho sem mãe e sem pai."
 
-O homem que partiu o coração do menino morreu como o herói do homem.
+Décadas depois daquela decisão, o Rick se despediu do pai chamando ele de herói.
 
-[AZUL] Mas o seu Vitor já tinha voltado a esta história antes disso. No lugar onde você menos esperava.
+[AZUL] Mas o seu Vitor já estava nesta história antes disso. Bem na nossa frente.
 
 [AZUL] Lembra do disco de dois mil e dez, Mais Que Pai e Filho? O rapaz que dividiu o microfone com o Rick naquele projeto se chama Victor. Victor Henrique.
 
-[AZUL] O mesmo nome do avô. O mesmo nome do homem que, décadas antes, tinha tirado a irmã do Rick de cima do palco.
+[AZUL] O mesmo nome do avô. O nome do homem que, décadas antes, tinha tirado a irmã do Rick do palco.
 
-E é aqui que aquela escolha feita muitos anos atrás finalmente aparece inteira.
+Aqui aquela escolha de muitos anos atrás aparece por inteiro.
 
-O seu Vitor protegeu a família fechando a porta do palco. O Rick nunca fechou essa porta. Deixou o filho cantar ao lado dele, com o próprio nome na capa de um disco.
+O seu Vitor protegeu a família fechando a porta do palco. O Rick fez o contrário. Deixou o filho cantar ao lado dele, com o nome na capa de um disco.
 
-Só que, quando o Victor escolheu outro caminho, o pai deixou ir também. Hoje ele é faixa-preta e instrutor de jiu-jítsu, longe da música sertaneja.
+E quando o Victor decidiu seguir outro caminho, o pai também deixou. Hoje ele é faixa-preta e instrutor de jiu-jítsu, longe da música sertaneja.
 
-A filha mais velha, Mônica, inspirou uma das canções do pai, Filha. E mesmo assim sempre viveu longe dos holofotes.
+A filha mais velha, Mônica, inspirou uma das canções do pai, chamada Filha. Mesmo assim, sempre viveu longe dos holofotes.
 
-A Mônica tem quarenta anos. Nasceu praticamente junto com a dupla Rick e Renner, e cresceu vendo o pai sair pra estrada. Hoje é mãe do Mateus e da Maria Helena.
+A Mônica tem quarenta anos. Nasceu praticamente junto com a dupla Rick e Renner e cresceu vendo o pai sair pra estrada. Hoje é mãe do Mateus e da Maria Helena.
 
-O Victor, aos trinta e oito anos, é pai da Mariana e da Isabela. Quatro netos que conheceram o avô longe dos palcos, no deck de um sítio na serra ou numa casa na Flórida.
+O Victor, aos trinta e oito, é pai da Mariana e da Isabela. Quatro netos que conheceram o avô fora do palco, no deck de um sítio na serra ou numa casa na Flórida.
 
-Um homem que passou a vida cantando pra milhões e manteve os filhos longe de tudo isso. Sem proibir. Sem tirar ninguém de palco nenhum.
+O Rick passou a vida cantando pra milhões e manteve os filhos longe disso tudo, sem proibir ninguém de nada.
 
-A ferida que o pai abriu no menino virou, no homem, uma escolha oposta. Proteger sem prender.
+O menino que teve o palco tirado dele virou um pai que deixou os filhos escolherem.
 
-E essa escolha foi respeitada até o fim.
+E a família manteve essa escolha até o fim.
 
-Por decisão da família, o velório e o sepultamento do Rick foram marcados pra Sorocaba, no interior de São Paulo. Fechados ao público e à imprensa. Só família, amigos e pessoas autorizadas.
+O velório e o sepultamento do Rick foram marcados pra Sorocaba, no interior de São Paulo, no Jardim Cemitério Pax. Por decisão da família, fechados ao público e à imprensa. Só parentes, amigos e pessoas autorizadas.
 
-Um dia inteiro de despedida no Jardim Cemitério Pax. O velório começando às oito da manhã. O sepultamento marcado pras cinco da tarde. Sem câmeras, sem multidão, sem palco.
+O velório começando às oito da manhã, o sepultamento marcado pras cinco da tarde. Nenhuma câmera lá dentro.
 
-O cantor que pertenceu ao Brasil inteiro durante quarenta anos, na despedida, voltou a pertencer só aos seus.
+Durante quarenta anos, o Rick pertenceu ao Brasil inteiro. Na despedida, ficou só com os seus.
 
-Os filhos, que nunca precisaram subir num palco pra ter o pai. Os quatro netos. O parceiro que, num dia de luto, tinha escolhido estender a mão de volta.
+Os filhos, que nunca precisaram subir num palco pra ter o pai. Os quatro netos. O parceiro que, num dia de luto, resolveu estender a mão de volta.
 
 E a Geralda, que suportou tudo por amor.
 
-Lá de dentro da cabine, o Paulo Soares escreveu que tinha nascido praquilo. O Rick também nasceu pra alguma coisa. Nasceu ouvindo um pai cantar Folia de Reis numa feira do interior, e passou a vida devolvendo aquela música pro Brasil.
+Lá de dentro da cabine, o Paulo Soares escreveu que tinha nascido praquilo. O Rick também nasceu pra alguma coisa. Nasceu ouvindo o pai cantar Folia de Reis numa feira do interior, e passou a vida devolvendo aquela música pro Brasil.
 
-[AZUL] Um dia depois da confirmação da morte, a Geralda publicou uma carta nas redes sociais. A primeira palavra dela desde a queda.
+[AZUL] Um dia depois da confirmação da morte, a Geralda publicou uma carta nas redes. Foram as primeiras palavras dela desde a queda.
 
 [AZUL] "Nós éramos praticamente dois adolescentes quando nossa história começou."
 
@@ -528,7 +536,7 @@ Lá de dentro da cabine, o Paulo Soares escreveu que tinha nascido praquilo. O R
 
 [AZUL] "Esteve ao meu lado por praticamente toda a minha vida. Por isso, hoje eu não sei como será continuar sem você."
 
-[AZUL] E terminou com a frase que responde a tudo o que o Brasil descobriu depois da queda.
+[AZUL] E terminou assim.
 
 [AZUL] "Hoje me despeço do meu marido, do meu companheiro e do amor da minha vida. Mas jamais me despeço do nosso amor."
 
