@@ -262,6 +262,52 @@ nav.rail button.cmdk-open kbd{font-family:inherit;font-size:11px;color:var(--ink
 @media (max-width:980px){.railgroup{display:none}nav.rail button.cmdk-open{display:none}.topbar{position:static}}
 
 [hidden]{display:none!important}
+/* ---- comodidad: cabeceras cortas, orden de trabajo, móvil ---- */
+main{min-width:0}
+input,select,textarea{max-width:100%}
+.topbar .where{display:none}
+.topbar{padding:4px 0 2px;margin-bottom:0}
+.topbar:has(#tb-jump:empty){display:none}
+section.tab{gap:18px}
+section.tab > .head{padding-bottom:14px;border-bottom:1px solid var(--line);align-items:center}
+section.tab > .head > div:first-child{min-width:0;flex:1 1 420px}
+section.tab > .head h2{font-size:25px;letter-spacing:-.015em}
+.head .lede{color:var(--ink-2);max-width:68ch;margin-top:6px}
+details.more{margin-top:6px;max-width:68ch}
+details.more > summary{cursor:pointer;list-style:none;display:inline-flex;align-items:center;gap:6px;color:var(--accent);font-size:13px;font-weight:600;padding:2px 0}
+details.more > summary::-webkit-details-marker{display:none}
+details.more > summary::before{content:"+";font-family:"IBM Plex Mono",monospace;font-weight:500;width:14px;height:14px;display:inline-flex;align-items:center;justify-content:center;border:1px solid currentColor;border-radius:4px;font-size:11px;line-height:1}
+details.more[open] > summary::before{content:"–"}
+details.more > p{margin-top:8px;color:var(--ink-2);font-size:14px;line-height:1.6}
+.tools-row{align-items:start}
+details.methodgroup{border:1px dashed var(--line-2);border-radius:var(--r);padding:14px 18px;background:transparent}
+details.methodgroup > summary{cursor:pointer;list-style:none;display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px}
+details.methodgroup > summary::-webkit-details-marker{display:none}
+details.methodgroup > summary span{font-family:"Bricolage Grotesque","IBM Plex Sans",system-ui,sans-serif;font-weight:700;font-size:16px}
+details.methodgroup > summary span::before{content:"▸ ";color:var(--accent)}
+details.methodgroup[open] > summary span::before{content:"▾ "}
+details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
+nav.rail details.conn{margin-top:auto;padding:6px 8px;border-top:1px solid var(--line)}
+nav.rail details.conn > summary{cursor:pointer;font-size:12px;color:var(--ink-3);list-style:none;padding:6px 0;display:flex;align-items:center;gap:6px}
+nav.rail details.conn > summary::-webkit-details-marker{display:none}
+nav.rail details.conn > summary::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--good)}
+nav.rail details.conn .status{padding:4px 0}
+nav.rail details.conn .foot{margin-top:4px;padding:4px 0}
+.card h3{line-height:1.25}
+label.f{gap:6px}
+button.btn,input,select{min-height:36px}
+button.btn.sm{min-height:30px}
+@media (max-width:980px){
+  .app{grid-template-columns:minmax(0,1fr)}
+  nav.rail details.conn{display:none}
+  section.tab > .head{align-items:flex-start}
+  section.tab > .head h2{font-size:22px}
+  .head .toolbar{width:100%}
+  .g4{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .g3,.g2,.g32,.g23,.opps{grid-template-columns:minmax(0,1fr)}
+  .grid > *,.card{min-width:0}
+  label.f select,label.f input,label.f textarea{width:100%;min-width:0}
+}
 </style>
 
 <div class="app">
@@ -286,11 +332,13 @@ nav.rail button.cmdk-open kbd{font-family:inherit;font-size:11px;color:var(--ink
   <div class="railgroup">Ajustes del método</div>
   <button data-tab="aprendizaje"><span class="k">9</span>Aprendizaje</button>
   <button data-tab="fuentes"><span class="k">0</span>Fuentes y prompts</button>
+  <details class="conn"><summary>Conexiones y datos</summary>
   <div class="status" id="st-mcp"><i></i>YouTube: comprobando la conexión</div>
   <div class="status" id="st-db"><i></i>Ideas guardadas: comprobando</div>
   <div class="status" id="st-ai"><i></i>Claude: comprobando</div>
   <div class="status" id="st-fresh"><i></i>Datos: medidos el <span id="gen"></span></div>
   <div class="foot">Se actualiza sola desde NexLev al abrirla, una vez al día. Reglas: <span class="mono">dados.md</span>.</div>
+  </details>
 </nav>
 
 <main>
@@ -467,6 +515,21 @@ nav.rail button.cmdk-open kbd{font-family:inherit;font-size:11px;color:var(--ink
     <div class="card"><div class="toolbar" style="margin-bottom:10px"><h3 style="margin:0">Cola de personajes</h3><span class="sp"></span><span class="src">Sugeridas e Investigar, del banco de ideas</span></div><div class="ideas" id="g-queue"></div></div>
     <div class="card"><div class="toolbar" style="margin-bottom:10px"><h3 style="margin:0">Guiones en marcha</h3><span class="sp"></span><button class="btn sm" id="g-archtoggle">Ver archivados</button></div><div class="ideas" id="g-list"></div></div>
   </div>
+  <div id="studio-host"></div>
+  <div class="grid g2 tools-row">
+  <div class="card" id="imp-card"><h3>Importar un guion escrito fuera</h3>
+    <p class="src" style="margin-bottom:8px">Pega un guion o sube el .md. Reconoce «## INTRO» y «## PARTE n»; las líneas [VERMELHO] pasan a microgancho y las [AZUL] a narración. Entra como guion escrito: el Estudio no lo reescribe desde cero, solo lo revisa, checa hechos y ganchos, hace la narración y el SEO.</p>
+    <div class="grid g2" style="gap:10px"><label class="f">Personaje<input id="imp-persona" placeholder="ej. Rick (Rick e Renner)"></label><label class="f">Título<input id="imp-titulo" placeholder="Si no lo pones, se toma de la primera línea «# …»"></label></div>
+    <label class="f" style="margin-top:10px">Guion<textarea id="imp-txt" style="min-height:110px" placeholder="Pega aquí el guion completo…"></textarea></label>
+    <label class="f" style="margin-top:10px">Pesquisa o fuentes (opcional; es la base de la checagem)<textarea id="imp-fontes" style="min-height:56px" placeholder="Hechos, enlaces y notas de investigación…"></textarea></label>
+    <div class="toolbar" style="margin-top:8px"><input type="file" id="imp-file" accept=".md,.txt,text/markdown,text/plain"><button class="btn primary" id="imp-go">Importar al Estudio</button><span class="src" id="imp-msg"></span></div></div>
+  <div class="card"><h3>Evaluar un guion ya escrito</h3><p class="src" style="margin-bottom:8px">Pega un guion (o una parte). Se miden las señales que el canal ya tiene calibradas y Claude lo contrasta con las lecciones activas.</p>
+    <textarea id="ev-txt" style="min-height:140px" placeholder="Pega aquí la narración…"></textarea>
+    <div class="toolbar" style="margin-top:8px"><button class="btn" id="ev-metrics">Medir señales</button><button class="btn" id="ev-hooks">Mapa de ganchos</button><button class="btn primary" id="ev-claude">Revisar con Claude</button><label class="src">Meta <input id="ev-meta" type="number" min="5" max="120" placeholder="min" style="width:64px"> min</label><span class="src" id="ev-msg"></span></div>
+    <div id="ev-out" style="margin-top:10px"></div></div>
+  </div>
+  <details class="methodgroup"><summary><span>Método del canal</span><small>Aperturas que retienen, CTA, modelos, prompts y reglas que usa el Estudio al escribir</small></summary>
+  <div class="grid" style="gap:14px;margin-top:12px">
   <div class="card" id="g-adn"><h3>ADN de las aperturas que retienen (medido en tus vídeos)</h3>
     <div class="grid g2" style="gap:14px">
       <div><span class="pill good">Faustão · 43,3 % · pierde 27,6 puntos hasta el minuto 3</span><p class="src" style="margin-top:6px;font-style:italic">«…é preciso voltar muito antes, a uma cidade pequena chamada Porto Ferreira, no interior de São Paulo. Há um menino de catorze anos com um microfone na mão, e uma descoberta silenciosa que esse menino fez dentro de uma rádio de cidade pequena, que ia definir o tipo de adulto que ele ia se tornar.»</p><p class="src">Lugar con nombre, edad exacta, objeto en la mano, una habitación y una cosa retenida. Es escena. Antes, el puente explícito: «para entender…, é preciso voltar a…». En 49 transcripciones ese puente es el rasgo con más correlación con la retención (+0,51).</p></div>
@@ -476,17 +539,7 @@ nav.rail button.cmdk-open kbd{font-family:inherit;font-size:11px;color:var(--ink
   <div class="card" id="g-modelos"></div>
   <div class="card" id="g-prompts"></div>
   <div class="card" id="g-regras"></div>
-  <div class="card" id="imp-card"><h3>Importar un guion escrito fuera</h3>
-    <p class="src" style="margin-bottom:8px">Pega un guion o sube el .md. Reconoce «## INTRO» y «## PARTE n»; las líneas [VERMELHO] pasan a microgancho y las [AZUL] a narración. Entra como guion escrito: el Estudio no lo reescribe desde cero, solo lo revisa, checa hechos y ganchos, hace la narración y el SEO.</p>
-    <div class="grid g2" style="gap:10px"><label class="f">Personaje<input id="imp-persona" placeholder="ej. Rick (Rick e Renner)"></label><label class="f">Título<input id="imp-titulo" placeholder="Si no lo pones, se toma de la primera línea «# …»"></label></div>
-    <label class="f" style="margin-top:10px">Guion<textarea id="imp-txt" style="min-height:110px" placeholder="Pega aquí el guion completo…"></textarea></label>
-    <label class="f" style="margin-top:10px">Pesquisa o fuentes (opcional; es la base de la checagem)<textarea id="imp-fontes" style="min-height:56px" placeholder="Hechos, enlaces y notas de investigación…"></textarea></label>
-    <div class="toolbar" style="margin-top:8px"><input type="file" id="imp-file" accept=".md,.txt,text/markdown,text/plain"><button class="btn primary" id="imp-go">Importar al Estudio</button><span class="src" id="imp-msg"></span></div></div>
-  <div id="studio-host"></div>
-  <div class="card"><h3>Evaluar un guion ya escrito</h3><p class="src" style="margin-bottom:8px">Pega un guion (o una parte). Se miden las señales que el canal ya tiene calibradas y Claude lo contrasta con las lecciones activas.</p>
-    <textarea id="ev-txt" style="min-height:140px" placeholder="Pega aquí la narración…"></textarea>
-    <div class="toolbar" style="margin-top:8px"><button class="btn" id="ev-metrics">Medir señales</button><button class="btn" id="ev-hooks">Mapa de ganchos</button><button class="btn primary" id="ev-claude">Revisar con Claude</button><label class="src">Meta <input id="ev-meta" type="number" min="5" max="120" placeholder="min" style="width:64px"> min</label><span class="src" id="ev-msg"></span></div>
-    <div id="ev-out" style="margin-top:10px"></div></div>
+  </div></details>
 </section>
 
 <!-- ===================== APRENDIZAJE ===================== -->
@@ -4122,6 +4175,18 @@ function escadaParteTxt(n,d){const e=d&&d.escada;if(!e||!e.length)return '';cons
   if(!here.length&&!later.length)return '';
   return `ESCADA DE REVELAÇÕES NESTA PARTE: ${here.length?'entregue, em cena e nesta ordem: '+here.map(s=>`«${s.fato}» (${s.min}${s.emocao?', '+s.emocao:''})`).join('; ')+'.':'nenhum degrau novo aqui; construa a tensão e a subida emocional para o próximo.'}${later.length?` NÃO antecipe o que vem depois: ${later.map(s=>'«'+s.fato+'»').join('; ')}.`:''}\n\n`}
 
+/* ---------- comodidade: cabeceiras curtas ---------- */
+function uiPolish(){
+  document.querySelectorAll('section.tab > .head .eyebrow').forEach(e=>{e.textContent=e.textContent.replace(/^\s*\d+\s*·\s*/,'')});
+  document.querySelectorAll('section.tab > .head > div:first-child > p').forEach(p=>{
+    const txt=p.textContent.trim();if(txt.length<170)return;
+    const m=txt.match(/^(.{40,220}?[.!?])\s+([\s\S]+)$/);if(!m)return;
+    const wrap=document.createElement('div');const lede=document.createElement('p');lede.className='lede';lede.textContent=m[1];
+    const det=document.createElement('details');det.className='more';const sum=document.createElement('summary');sum.textContent='Cómo funciona';const rest=document.createElement('p');rest.textContent=m[2];
+    det.append(sum,rest);wrap.append(lede,det);p.replaceWith(wrap);
+  });
+}
+try{uiPolish()}catch(e){}
 /* ---------- boot ---------- */
 renderKpis();renderCharts();renderFindings();renderVideos();renderComps();renderOpps();renderNeigh();renderAI();renderScore();renderIdeas();renderLearn();renderCurves();renderQueue();renderPromptsPanel();renderModelosPanel();renderCtaPanel();
 (async()=>{
