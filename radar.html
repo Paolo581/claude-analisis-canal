@@ -2408,7 +2408,7 @@ function mcpErr(e){
   const m={needs_reauth:'NexLev pide reconectar: ve a Ajustes → Conectores en claude.ai, vuelve a autorizar NexLev y pulsa de nuevo.',server_not_connected:'NexLev no está conectado a tu cuenta de claude.ai. Añádelo en Ajustes → Conectores.',server_not_found:'Este visor no encuentra el conector NexLev.',consent_required:'Hace falta tu permiso para que la página use NexLev. Acepta el aviso y vuelve a pulsar.',not_granted:'No has concedido acceso a NexLev en esta página.',approval_required:'La llamada necesita tu aprobación en el visor.',rate_limited:'NexLev ha limitado las llamadas. Espera un minuto y vuelve a intentarlo.',tool_error:'NexLev devolvió un error: '+(e.message||''),upstream_error:'NexLev no responde ahora mismo. Inténtalo en unos minutos.',blocked_by_policy:'La política de tu organización bloquea esta llamada.'};
   return m[c]||('No se pudo completar: '+(e&&e.message||c||'error desconocido'));
 }
-async function call(tool,input){ if(!mcp)throw {code:'server_not_found'}; const r=await mcp.callTool('NexLev',tool,input,{cache:false}); return parseResult(r); }
+async function call(tool,input){ if(!mcp)throw {code:'server_not_found'}; for(let k=0;;k++){ try{ const r=await mcp.callTool('NexLev',tool,input,{cache:false}); return parseResult(r); }catch(e){ if(e&&e.code==='rate_limited'&&k<2){ await new Promise(r=>setTimeout(r,[15000,40000][k])); continue } throw e } } }
 function setStatus(id,on,txt){const el=$(id);el.classList.toggle('on',!!on);el.lastChild.textContent=txt}
 
 async function refreshMe(){
@@ -2782,7 +2782,7 @@ EVIDÊNCIA 1 · vídeos que superaram a média nos canais concorrentes (o que j�
 EVIDÊNCIA 2 · títulos publicados no último mês no YouTube Brasil com mais vistas nas buscas do nicho (o que funciona agora): ${JSON.stringify(ev.recientes).slice(0,5000)}
 EVIDÊNCIA 3 · outliers recentes de canais sem rosto em português: ${JSON.stringify(ev.outliers).slice(0,5000)}
 Responda SOMENTE com JSON válido, sem markdown, neste formato: {"ideas":[{"persona":"nome","angulo":"o vilão, o parentesco, o objeto e a pergunta, em duas frases","nivel":"A|B","eje":"um destes: Madres e hijos; Lealtad traicionada por el más cercano; El precio de la fama; Envejecer sola después de haberlo sido todo; Dinero dentro de la familia; Enfermedad escondida del público; Hijos que se alejaron; Culpa sin redención; Secretos que aparecieron tras la muerte","fama":"por que o público 55+ reconhece esse nome (novela, programa, música, caso)","titulo":"título sugerido em português (40-55 caracteres)","porque":"por que agora, em uma frase, citando a evidência","evidencia":[{"canal":"","titulo":"","vistas":0}],"fuente":"agora|comprovado","novo":true,"formato":"Documental 55–65 min|Prueba 25–35 min|Reactivo 15–20 min (24–48 h)","segredo":"o segredo sombrio ou fato chocante concreto que o público não sabe, em uma frase (quem, o quê, quando, onde)","viral":0,"por_que_viral":"em uma frase, por que esta história explode: o que a faz parar o dedo"}]}. Devolva SOMENTE ideias com viral igual ou superior a oito; se só houver três, devolva três; nunca encha a lista com ideias fracas. Todas com celebridades novas para o canal, reconhecidas pelo nome; nenhuma ideia cujo protagonista seja apenas o parente de um famoso. Nunca invente vistas: use só as da evidência.`;
-    const out=await sample.json(prompt,{modelTier:'complex',cache:false});
+    let out;for(let k=0;;k++){try{out=await sample.json(prompt,{modelTier:'complex',cache:false});break}catch(e){if(e&&e.code==='rate_limited'&&k<2){log(`Claude ha limitado las peticiones; reintento en ${[30,60][k]} s…`);await new Promise(r=>setTimeout(r,[30000,60000][k]));continue}e.fromClaude=true;throw e}}
     S.genRound=(S.genRound||0)+1;try{await db.doc('config/ideas').set({round:S.genRound,updatedAt:new Date().toISOString()})}catch(e){}
     const ideas=(out&&out.ideas)||[];if(!ideas.length)throw {message:'Claude no devolvió ideas'};
     let saved=0;const nk=s=>norm(s||'').replace(/\(.*?\)/g,'').replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();const ex=new Set(ideasCache.map(i=>nk(i.persona)));const rej=[];
@@ -2791,7 +2791,7 @@ Responda SOMENTE com JSON válido, sem markdown, neste formato: {"ideas":[{"pers
     try{await db.doc('snapshots/ideas').set({at:new Date().toISOString(),saved,rechazados:rej.slice(0,20)})}catch(e){}
     if(!saved&&!retry){log(`Esta ronda no dejó personajes nuevos (${rej.slice(0,4).join(', ')||'Claude no devolvió nombres válidos'}). Probando otra ronda con otras búsquedas…`);return await generateIdeas(auto,true)}
     m.textContent=saved?`${saved} ideas con potencial viral alto (8+) guardadas como «Sugeridas»${skipped?` (${skipped} descartadas: ya hechos, fuera del universo del canal o sin potencial viral de 8+)`:''}.`:`Sin personajes nuevos en dos rondas. Descartados: ${rej.slice(0,10).join(' · ')||'ninguno válido'}. Tienes ${ideasCache.filter(i=>i.status==='Sugerida').length} sugeridas sin revisar: descartar las que no quieras libera espacio, o escribe tú un nombre en «Nueva idea».`;
-  }catch(e){m.textContent=e&&e.code?(e.code==='not_granted'?'Falta permiso para usar Claude o NexLev.':mcpErr(e)):'No se pudo generar: '+(e&&e.message||'')}
+  }catch(e){m.textContent=e&&e.code?(e.code==='rate_limited'?(e.fromClaude?'Claude ha limitado las peticiones (hay mucho uso a la vez). Espera dos o tres minutos y vuelve a pulsar.':'NexLev ha limitado las llamadas incluso tras reintentar. Espera dos o tres minutos y vuelve a pulsar.'):e.code==='not_granted'?'Falta permiso para usar Claude o NexLev.':e.fromClaude?sampleErr(e):mcpErr(e)):'No se pudo generar: '+(e&&e.message||'')}
   b.disabled=false;
 }
 $('#gen-ideas').addEventListener('click',()=>generateIdeas(false));
@@ -3994,7 +3994,7 @@ $('#ev-hooks').addEventListener('click',async()=>{const t=$('#ev-txt').value.tri
   try{const g=await hookMapFor(t);const open=g.filter(x=>x.status==='aberto'||x.status==='falso').length;$('#ev-out').innerHTML=`<div class="eyebrow" style="margin-bottom:6px">Mapa de ganchos · ${g.length-open} de ${g.length} pagados${open?` · ${open} abiertos o falsos`:''}</div>${hooksTable(g)}`;msg.textContent=''}catch(e){msg.textContent=sampleErr(e)}});
 
 /* ---------- alerta de notícia quente (formato reativo) ---------- */
-const ALERT_QS=['morre cantor','morre cantora','morre atriz','morre ator','morre apresentador','morreu aos','velório','sepultamento famoso','internado em estado grave','luto famosos'];
+const ALERT_QS=['morre cantor','morre atriz','velório famoso','internado em estado grave'];
 let ALERTAS=null;
 function alertaNome(t){const s=(t||'').replace(/[|🔴⚠️!]+/g,' ');const N="([A-ZÁÉÍÓÚÂÊÔÃÕÇ][\\wÀ-ÿ'.-]+(?:\\s+(?:d[aeo]s?\\s+|e\\s+|&\\s+)?[A-ZÁÉÍÓÚÂÊÔÃÕÇ][\\wÀ-ÿ'.-]*){0,3})";const ROLE="(?:(?:o|a|do|da|de|cantor|cantora|ator|atriz|apresentador|apresentadora|jornalista|humorista|sertanejo|sertaneja|ex-\\S+|ex|famoso|famosa)\\s+)*";
   const pats=[new RegExp("(?:[Mm]orre|[Mm]orreu|[Ff]aleceu|[Mm]orte|[Vv]el[óo]rio|[Ss]epultamento|[Aa]deus a|[Ll]uto por|[Ii]nternad[oa])(?:\\s+d[eoa]s?)?\\s+"+ROLE+N),new RegExp("(?:[Cc]antor|[Cc]antora|[Aa]tor|[Aa]triz|[Aa]presentador|[Aa]presentadora|[Jj]ornalista|[Hh]umorista|[Ss]ertanejo)\\s+"+N+"\\s*,?\\s+(?:morre|morreu|faleceu|é internad|está internad)")];
@@ -4005,7 +4005,7 @@ async function refreshAlertas(force){
   if(!force&&ALERTAS&&Date.now()-new Date(ALERTAS.at).getTime()<3*36e5){renderAlertas();return}
   if(!mcp){renderAlertas();return}
   $('#al-at').textContent='Buscando en YouTube…';const seen=new Set(),items=[];
-  for(const q of ALERT_QS){try{const r=await call('youtube_search',{query:q,type:'video',upload_date:'today',sort_by:'views',geo:'BR',lang:'pt'});((r&&r.results)||[]).forEach((x,rank)=>{if(x.type!=='video'||!x.videoId||seen.has(x.videoId)||x.channelId===S.channel.id)return;if(!/morre|morreu|morte|velório|velorio|luto|sepult|internad|faleceu|despedida/i.test(x.title||''))return;seen.add(x.videoId);items.push({id:x.videoId,t:x.title||'',ch:x.channelTitle||'',quando:x.publishedTime||'',rank})})}catch(e){}}
+  for(const q of ALERT_QS){try{await new Promise(r=>setTimeout(r,1500));const r=await mcp.callTool('NexLev','youtube_search',{query:q,type:'video',upload_date:'today',sort_by:'views',geo:'BR',lang:'pt'},{cache:false}).then(parseResult);((r&&r.results)||[]).forEach((x,rank)=>{if(x.type!=='video'||!x.videoId||seen.has(x.videoId)||x.channelId===S.channel.id)return;if(!/morre|morreu|morte|velório|velorio|luto|sepult|internad|faleceu|despedida/i.test(x.title||''))return;seen.add(x.videoId);items.push({id:x.videoId,t:x.title||'',ch:x.channelTitle||'',quando:x.publishedTime||'',rank})})}catch(e){if(e&&e.code==='rate_limited')break}}
   ALERTAS={at:new Date().toISOString(),items:items.slice(0,80)};if(db){try{await db.doc('snapshots/alertas').set(ALERTAS)}catch(e){}}
   renderAlertas();
 }
@@ -4136,6 +4136,6 @@ renderKpis();renderCharts();renderFindings();renderVideos();renderComps();render
     ns.collection('ideas').orderBy('createdAt','desc').onSnapshot(snap=>{ideasCache=snap.docs.map(d=>({id:d.id,...d.data()}));renderIdeas();renderQueue();autorunPending()},e=>{$('#ideas').innerHTML=`<p class="msg err">No se pudieron leer las ideas: ${esc(e.message||e.code)}</p>`});
   });
   Promise.all([pm,pd]).then(autoRefresh).then(()=>setTimeout(autoPublico,90000));
-  Promise.all([pm,pd]).then(()=>refreshAlertas(false)).catch(()=>{});
+  Promise.all([pm,pd]).then(()=>setTimeout(()=>refreshAlertas(false).catch(()=>{}),180000)).catch(()=>{});
 })();
 </script>
