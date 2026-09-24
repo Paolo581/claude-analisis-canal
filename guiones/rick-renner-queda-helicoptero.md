@@ -2,33 +2,31 @@
 
 VERMELHO = hook e microganchos · AZUL = revelação do 1º gancho + 2º grande gancho · PRETO = narração (parágrafos sem marca)
 
-INTRO + P1 + P2 + P3 + P4 + P5 + P6 · ~6080p · ~40.5 min (150 ppm)
+INTRO + P1 + P2 + P3 + P4 + P5 + P6 · ~5994p · ~40.0 min (150 ppm)
 
 ---
 
 ## INTRO
 
-[VERMELHO] "Eu estou indo agora para São Joaquim. Vou almoçar lá em São Joaquim e depois eu desço."
+[VERMELHO] Rick, da dupla Rick e Renner, morreu aos cinquenta e nove anos na queda de um helicóptero, a caminho de São Joaquim.
 
-[VERMELHO] Essa foi uma das últimas mensagens que o Rick, da dupla Rick e Renner, mandou na vida. Um áudio gravado na manhã de vinte e um de setembro, com a voz tranquila.
+[VERMELHO] Lá de dentro da cabine, alguém tinha publicado uma frase. Hoje ela soa como uma despedida.
 
-[VERMELHO] Ele nunca chegou a São Joaquim. O helicóptero em que estava caiu no meio da serra catarinense, com cinco pessoas a bordo. O Rick tinha cinquenta e nove anos.
+[VERMELHO] Mas foi depois da queda que o Brasil começou a descobrir o que o cantor guardava longe dos palcos. Uma escolha que ele tinha feito muitos anos atrás.
 
-[VERMELHO] Lá de dentro da cabine, um dos passageiros tinha acabado de publicar uma frase de cinco palavras. Hoje ninguém consegue ler aquela legenda do mesmo jeito.
+[VERMELHO] No caminho, você vai ouvir o áudio que ele mandou na manhã do voo. Vai conhecer um registro antigo daquele helicóptero. E vai entender por que uma notícia sobre a família dele correu o Brasil inteiro sem ser verdade.
 
-[VERMELHO] Mas foi nos dias seguintes à queda que o Brasil começou a descobrir o que o cantor guardava longe dos palcos. Um registro antigo daquele helicóptero. Uma notícia sobre a família dele que correu o país inteiro sem ser verdade. E uma escolha que ele tinha feito muitos anos atrás.
+[VERMELHO] Fica comigo até o final. Porque essa escolha só faz sentido pra quem conhece uma ferida antiga. Uma decisão que, muito cedo, partiu o coração de um menino.
 
-[VERMELHO] Essa escolha só faz sentido pra quem conhece uma ferida antiga. Uma decisão que, muito cedo, partiu o coração de um menino. Fica comigo até o final, porque é ela que explica todo o resto.
-
-Pra entender essa ferida, é preciso voltar mais de cinquenta anos no tempo. Até um menino parado no meio de uma feira do interior.
+Pra entender essa ferida, é preciso voltar décadas no tempo. Até um menino parado no meio de uma feira do interior.
 
 Geraldo Antônio de Carvalho nasceu em dezembro de mil novecentos e sessenta e seis, em Monte do Carmo, no Tocantins.
 
 O pai cantava nas feiras da região. Foi ouvindo aquele homem que o menino começou a cantar, ainda criança.
 
-A primeira voz ao lado dele foi a da irmã. Os dois cresceram cantando juntos e chegaram até os bares e as casas noturnas.
+Quando cresceu, a primeira voz ao lado dele na estrada foi a da irmã.
 
-O problema eram justamente esses lugares. O pai achava perigosos demais pra uma moça.
+O problema eram os lugares onde os dois se apresentavam. O pai achava perigosos demais pra uma moça.
 
 E o homem que tinha ensinado o filho a cantar tomou uma decisão dura. Proibiu a filha de continuar.
 
@@ -38,7 +36,7 @@ O Geraldo perdeu a primeira parceira da vida pela mão de quem colocou a música
 
 Sem a irmã, nenhuma dupla durava.
 
-[VERMELHO] Até o dia em que, já cantando em Brasília, ele ligou pra uma casa noturna e ouviu uma voz desconhecida do outro lado da linha.
+[VERMELHO] Até o dia em que ele chegou a Brasília pra um show, ligou pra uma casa noturna e ouviu uma voz desconhecida do outro lado da linha.
 
 ## PARTE 1
 
@@ -338,7 +336,7 @@ Mesmo morando de frente pro mar em Itapema, sentia falta da terra.
 
 Parecia o menino de Monte do Carmo falando.
 
-[VERMELHO] E é aqui que entra aquele áudio do começo do vídeo. A parte que ficou faltando.
+[VERMELHO] E é aqui que entra aquele áudio que eu te prometi no começo do vídeo.
 
 Na manhã do voo, o Rick mandou a mensagem pra pessoa responsável pelo condomínio em Rancho Queimado.
 
