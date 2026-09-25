@@ -2816,16 +2816,17 @@ async function loadNichesSnapshot(){if(!db)return;try{const s=await db.doc('snap
 
 /* ---------- IDEAS AUTOMÁTICAS (NexLev + búsqueda YouTube + Claude) ---------- */
 const NIVEL_TXT={A:'A · núcleo familiar + villano con nombre',B:'B · funciona con buen guion',C:'C · evitar (nostalgia sin drama)'};
-async function gatherEvidence(log){
+async function gatherEvidence(log,signal){
+  const qcall=(tool,input)=>{if(signal&&signal.aborted)return Promise.reject({code:'cancelled'});return Promise.race([mcp.callTool('NexLev',tool,input,{cache:false}).then(parseResult),new Promise((_,rj)=>setTimeout(()=>rj({code:'timeout',message:'NexLev tardó más de 25 s'}),25000))])};
   const iso=d=>new Date(Date.now()-d*864e5).toISOString().slice(0,10);
   const ev={competidores:[],recientes:[],outliers:[]};
   S.comps.forEach(c=>(c.out||[]).slice(0,6).forEach(o=>ev.competidores.push({canal:c.name,titulo:o.t,vistas:o.views,min:o.min,fecha:o.d,x:o.x})));
   const BANK=['segredo famosa morte verdade','assim foi a vida de','o que aconteceu com a atriz','a verdade sobre o cantor','herança famoso brasileiro família','lembra dela sumiu da tv','viúva do cantor revela','filho do ator hoje','a triste história da atriz da globo','como vive hoje aos anos famosa','o fim trágico do apresentador','a briga pela herança do cantor','ex esposa do famoso conta','atriz de novela dos anos 80 hoje','o que ninguém contou sobre a cantora','a doença escondida do ator','a filha que nunca perdoou','o casamento que destruiu a cantora','sertanejo morte verdade família','humorista vida triste final','a mãe de famoso abandonada','o irmão que traiu o cantor','herdeira alta sociedade escândalo','a última entrevista antes de morrer'];
-  const round=S.genRound||0;const qs=Array.from({length:6},(_,i)=>BANK[(round*6+i)%BANK.length]);
+  const round=S.genRound||0;const qs=Array.from({length:4},(_,i)=>BANK[(round*4+i)%BANK.length]);
   const OUTQ=['celebridades brasileiras famosos novela cantores morte segredo família herança','atrizes da globo antigas vida hoje tragédia viúva filhos','cantores sertanejos e da mpb morte herança briga família','apresentadores humoristas tv anos 80 90 fim triste doença'];
-  for(const q of qs){try{log(`Buscando en YouTube: «${q}»`);const r=await call('youtube_search',{query:q,type:'video',duration:'long',upload_date:'month',sort_by:'views',geo:'BR',lang:'pt'});
+  for(const q of qs){try{log(`Buscando en YouTube: «${q}»`);const r=await qcall('youtube_search',{query:q,type:'video',duration:'long',upload_date:'month',sort_by:'views',geo:'BR',lang:'pt'});
     ((r&&r.results)||[]).filter(x=>x.type==='video'&&x.channelId!==S.channel.id).slice(0,8).forEach(x=>ev.recientes.push({titulo:x.title,canal:x.channelTitle,publicado:x.publishedTime,duracion:x.duration}))}catch(e){log('YouTube: '+mcpErr(e))}}
-  try{log('Buscando outliers recientes en NexLev');const r=await call('faceless_outliers_videos',{query:OUTQ[round%OUTQ.length],languages:['portuguese'],videoType:'long',minUploadDate:iso(75),limit:40,minScore:0.4});
+  try{log('Buscando outliers recientes en NexLev');const r=await qcall('faceless_outliers_videos',{query:OUTQ[round%OUTQ.length],languages:['portuguese'],videoType:'long',minUploadDate:iso(75),limit:40,minScore:0.4});
     ((r&&r.videos)||[]).forEach(v=>ev.outliers.push({titulo:v.videoTitle,canal:v.channelTitle,vistas:v.videoViews,x:+(+v.outlierScore).toFixed(1),min:Math.round(v.videoLengthSeconds/60),fecha:(v.videoPublishedAt||'').slice(0,10)}))}catch(e){log('NexLev: '+mcpErr(e))}
   return ev;
 }
@@ -2844,9 +2845,11 @@ const jlogIdeas=t=>{try{console.log('[ideas] '+t)}catch(e){}};
 async function generateIdeas(auto,retry){
   const m=$('#gen-msg'),b=$('#gen-ideas'),log=t=>{m.textContent=t};
   if(!mcp||!sample||!db){m.textContent='Necesita NexLev, Claude y el guardado activos en claude.ai.';return}
-  b.disabled=true;
+  if(GEN_CTL&&!retry){GEN_CTL.abort();m.textContent='Búsqueda detenida.';return}
+  const ctl=retry&&GEN_CTL?GEN_CTL:new AbortController();GEN_CTL=ctl;b.textContent='Detener búsqueda';b.classList.remove('primary');
+  const t0=Date.now();const killer=setTimeout(()=>ctl.abort(),300000);
   try{
-    const ev=await gatherEvidence(log);
+    const ev=await gatherEvidence(log,ctl.signal);if(ctl.signal.aborted)throw {code:'cancelled'};
     if(!ev.competidores.length&&!ev.recientes.length&&!ev.outliers.length)throw {message:'sin evidencia'};
     log('Claude está cruzando la evidencia con las reglas del canal…');
     const done=S.videos.map(v=>v.t);const existing=ideasCache.map(i=>i.persona);
@@ -2869,18 +2872,20 @@ EVIDÊNCIA 1 · vídeos que superaram a média nos canais concorrentes (o que j�
 EVIDÊNCIA 2 · títulos publicados no último mês no YouTube Brasil com mais vistas nas buscas do nicho (o que funciona agora): ${JSON.stringify(ev.recientes).slice(0,5000)}
 EVIDÊNCIA 3 · outliers recentes de canais sem rosto em português: ${JSON.stringify(ev.outliers).slice(0,5000)}
 Responda SOMENTE com JSON válido, sem markdown, neste formato: {"ideas":[{"persona":"nome","angulo":"o vilão, o parentesco, o objeto e a pergunta, em duas frases","nivel":"A|B","eje":"um destes: Madres e hijos; Lealtad traicionada por el más cercano; El precio de la fama; Envejecer sola después de haberlo sido todo; Dinero dentro de la familia; Enfermedad escondida del público; Hijos que se alejaron; Culpa sin redención; Secretos que aparecieron tras la muerte","fama":"por que o público 55+ reconhece esse nome (novela, programa, música, caso)","titulo":"título sugerido em português (40-55 caracteres)","porque":"por que agora, em uma frase, citando a evidência","evidencia":[{"canal":"","titulo":"","vistas":0}],"fuente":"agora|comprovado","novo":true,"formato":"Documental 55–65 min|Prueba 25–35 min|Reactivo 15–20 min (24–48 h)","segredo":"o segredo sombrio ou fato chocante concreto que o público não sabe, em uma frase (quem, o quê, quando, onde)","viral":0,"por_que_viral":"em uma frase, por que esta história explode: o que a faz parar o dedo"}]}. Devolva SOMENTE ideias com viral igual ou superior a oito; se só houver três, devolva três; nunca encha a lista com ideias fracas. Todas com celebridades novas para o canal, reconhecidas pelo nome; nenhuma ideia cujo protagonista seja apenas o parente de um famoso. Nunca invente vistas: use só as da evidência.`;
-    let out;for(let k=0;;k++){try{out=await sample.json(prompt,{modelTier:'complex',cache:false});break}catch(e){if(e&&e.code==='rate_limited'&&k<2){log(`Claude ha limitado las peticiones; reintento en ${[30,60][k]} s…`);await new Promise(r=>setTimeout(r,[30000,60000][k]));continue}e.fromClaude=true;throw e}}
+    let P=prompt;try{const mx=await sampleMax();let guard=0;while(bytesOf(P)>mx*0.9&&guard<6){guard++;P=P.replace(/(EVIDÊNCIA \d · [^:]*: )([\s\S]*?)(\nEVIDÊNCIA|\nResponda)/g,(all,a,body,z)=>a+body.slice(0,Math.floor(body.length*0.6))+z).replace(/(JÁ NO BANCO DE IDEIAS \(não repetir\): )([^\n]*)/,(all,a,l)=>a+l.split(' | ').slice(-120).join(' | '))}}catch(e){}
+    let out;for(let k=0;;k++){if(ctl.signal.aborted)throw {code:'cancelled'};log(`Claude está eligiendo personajes${k?' (reintento '+k+')':''}… lleva ${Math.round((Date.now()-t0)/1000)} s`);try{const sc=new AbortController();const tm=setTimeout(()=>sc.abort(),120000);const onAb=()=>sc.abort();ctl.signal.addEventListener('abort',onAb);try{out=await sample.json(P,{modelTier:'complex',cache:false,signal:sc.signal})}finally{clearTimeout(tm);ctl.signal.removeEventListener('abort',onAb)}break}catch(e){if(ctl.signal.aborted)throw {code:'cancelled'};if(e&&e.code==='cancelled'){e={code:'timeout',message:'Claude tardó más de dos minutos'}}if(e&&(e.code==='rate_limited'||e.code==='timeout')&&k<1){log(e.code==='timeout'?'Claude tardó demasiado; reintento una vez…':'Claude ha limitado las peticiones; reintento en 30 s…');if(e.code==='rate_limited')await new Promise(r=>setTimeout(r,30000));continue}e.fromClaude=true;throw e}}
     S.genRound=(S.genRound||0)+1;try{await db.doc('config/ideas').set({round:S.genRound,updatedAt:new Date().toISOString()})}catch(e){}
     const ideas=(out&&out.ideas)||[];if(!ideas.length)throw {message:'Claude no devolvió ideas'};
     let saved=0;const nk=s=>norm(s||'').replace(/\(.*?\)/g,'').replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();const ex=new Set(ideasCache.map(i=>nk(i.persona)));const rej=[];
     let skipped=0;for(const i of ideas){const key=nk(i.persona);if(!key)continue;if(ex.has(key)){skipped++;rej.push(`${i.persona} (ya está en el banco)`);continue}if(isDone(i.persona)){skipped++;rej.push(`${i.persona} (ya hecho en el canal)`);continue}if(foraDoUniverso(i.persona,i.fama||'')){skipped++;rej.push(`${i.persona} (fuera del universo del canal)`);continue}const vir=+(i.viral||0);if(!(vir>=8)){skipped++;rej.push(`${i.persona} (viral ${i.viral||'sin nota'})`);continue}ex.add(key);
       await db.collection('ideas').add({persona:i.persona,viral:+(i.viral||0),porqueViral:i.por_que_viral||'',segredo:i.segredo||'',angulo:i.angulo||'',nivel:NIVEL_TXT[(i.nivel||'B').slice(0,1)]||NIVEL_TXT.B,eje:i.eje||'',fmt:i.formato||'Documental 55–65 min',status:'Sugerida',source:'auto',fuente:i.fuente||'',fama:i.fama||'',titulo:i.titulo||'',porque:i.porque||'',evidencia:(i.evidencia||[]).slice(0,3),novo:true,createdAt:new Date().toISOString()});saved++}
     try{await db.doc('snapshots/ideas').set({at:new Date().toISOString(),saved,rechazados:rej.slice(0,20)})}catch(e){}
-    if(!saved&&!retry){log(`Esta ronda no dejó personajes nuevos (${rej.slice(0,4).join(', ')||'Claude no devolvió nombres válidos'}). Probando otra ronda con otras búsquedas…`);return await generateIdeas(auto,true)}
+    if(!saved&&!retry&&Date.now()-t0<150000&&!ctl.signal.aborted){log(`Esta ronda no dejó personajes nuevos (${rej.slice(0,4).join(', ')||'Claude no devolvió nombres válidos'}). Probando otra ronda con otras búsquedas…`);clearTimeout(killer);return await generateIdeas(auto,true)}
     m.textContent=saved?`${saved} ideas con potencial viral alto (8+) guardadas como «Sugeridas»${skipped?` (${skipped} descartadas: ya hechos, fuera del universo del canal o sin potencial viral de 8+)`:''}.`:`Sin personajes nuevos en dos rondas. Descartados: ${rej.slice(0,10).join(' · ')||'ninguno válido'}. Tienes ${ideasCache.filter(i=>i.status==='Sugerida').length} sugeridas sin revisar: descartar las que no quieras libera espacio, o escribe tú un nombre en «Nueva idea».`;
-  }catch(e){m.textContent=e&&e.code?(e.code==='rate_limited'?(e.fromClaude?'Claude ha limitado las peticiones (hay mucho uso a la vez). Espera dos o tres minutos y vuelve a pulsar.':'NexLev ha limitado las llamadas incluso tras reintentar. Espera dos o tres minutos y vuelve a pulsar.'):e.code==='not_granted'?'Falta permiso para usar Claude o NexLev.':e.fromClaude?sampleErr(e):mcpErr(e)):'No se pudo generar: '+(e&&e.message||'')}
-  b.disabled=false;
+  }catch(e){m.textContent=e&&e.code==='cancelled'?(Date.now()-t0>=299000?'La búsqueda superó cinco minutos y la detuve. Vuelve a pulsar; si se repite, espera unos minutos.':'Búsqueda detenida.'):e&&e.code==='timeout'?'Claude no respondió a tiempo (dos veces). Vuelve a pulsar en unos minutos.':e&&e.code?(e.code==='rate_limited'?(e.fromClaude?'Claude ha limitado las peticiones (hay mucho uso a la vez). Espera dos o tres minutos y vuelve a pulsar.':'NexLev ha limitado las llamadas incluso tras reintentar. Espera dos o tres minutos y vuelve a pulsar.'):e.code==='not_granted'?'Falta permiso para usar Claude o NexLev.':e.fromClaude?sampleErr(e):mcpErr(e)):'No se pudo generar: '+(e&&e.message||'')}
+  clearTimeout(killer);if(!retry||!GEN_CTL||GEN_CTL===ctl){GEN_CTL=null;b.disabled=false;b.textContent='Buscar más personajes';b.classList.add('primary')}
 }
+let GEN_CTL=null;
 $('#gen-ideas').addEventListener('click',()=>generateIdeas(false));
 $('#pub-go').addEventListener('click',()=>readComments(false));
 async function autoIdeas(){
