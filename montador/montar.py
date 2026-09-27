@@ -65,11 +65,27 @@ def key(*parts):
 
 # ---------------------------------------------------------------- ai33.pro (OpenSpeaker)
 AI33 = "https://api.ai33.pro"
+PROXY = "(credencial del entorno)"
+
+
+def ai33_key():
+    """Clave de ai33: variable AI33_API_KEY o, si no existe, la credencial guardada en el entorno de Claude."""
+    k = os.environ.get("AI33_API_KEY")
+    if k:
+        return k
+    try:
+        r = requests.get(AI33 + "/v1/credits", timeout=20)
+        if r.status_code == 200 and r.json().get("success") is not False:
+            return PROXY
+    except Exception:
+        pass
+    return None
 
 
 def ai33_req(method, path, api_key, **kw):
     for attempt in range(8):
-        r = requests.request(method, AI33 + path, headers={"xi-api-key": api_key}, timeout=120, **kw)
+        hdr = {} if api_key == PROXY else {"xi-api-key": api_key}  # PROXY: la clave la pone el entorno
+        r = requests.request(method, AI33 + path, headers=hdr, timeout=120, **kw)
         if r.status_code == 429 or r.status_code == 503:
             time.sleep(float(r.headers.get("Retry-After") or 5 * (attempt + 1)))
             continue
@@ -304,7 +320,9 @@ def main():
     ap.add_argument("--demo", action="store_true", help="sin claves: voz en silencio e imágenes de texto")
     ap.add_argument("--sin-subtitulos", action="store_true")
     a = ap.parse_args()
-    ai_key = os.environ.get("AI33_API_KEY")
+    ai_key = ai33_key()
+    if ai_key:
+        log("ai33 conectado" + (" (credencial del entorno)" if ai_key == PROXY else ""))
     if a.listar_voces:
         if not ai_key:
             sys.exit("Falta AI33_API_KEY.")
