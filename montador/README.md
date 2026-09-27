@@ -8,12 +8,15 @@ Guárdalas como variables de entorno, nunca en el código ni en el chat:
 
 | Variable | Para qué | Dónde se saca |
 |---|---|---|
-| `ELEVENLABS_API_KEY` | la voz (obligatoria) | elevenlabs.io → Profile → API Keys |
+| `AI33_API_KEY` | voz (voces de ElevenLabs, MiniMax…) **e** imágenes IA con una sola clave — sustituye a ElevenLabs y Replicate | ai33.pro → API key |
+| `AI33_VOICE_ID` | la voz de ai33, con prefijo (ej. `elevenlabs_pNInz6obpgDQGcFmaJgB`) | `python montador/montar.py --listar-voces Portuguese` |
+| `AI33_IMAGE_MODEL` | modelo de imagen (opcional, por defecto `bytedance-seedream-4.5`) | ai33.pro |
+| `ELEVENLABS_API_KEY` | la voz directa de ElevenLabs (si no usas ai33) | elevenlabs.io → Profile → API Keys |
 | `ELEVENLABS_VOICE_ID` | la voz elegida (opcional) | elevenlabs.io → Voices → «Copy voice ID» |
 | `PEXELS_API_KEY` | fotos de stock (gratis) | pexels.com/api |
 | `REPLICATE_API_TOKEN` | imágenes IA con Flux (opcional, ~0,003 US$/imagen) | replicate.com → Account → API tokens |
 
-En una sesión de Claude Code en la nube: menú del entorno en la barra de título → Edit → variables de entorno. Si la red del entorno está limitada, permite `api.elevenlabs.io`, `api.pexels.com`, `images.pexels.com`, `api.replicate.com` y `replicate.delivery`.
+En una sesión de Claude Code en la nube: menú del entorno en la barra de título → Edit → variables de entorno. Si la red del entorno está limitada, permite `api.ai33.pro` (y los dominios desde los que sirve sus audios e imágenes), `api.elevenlabs.io`, `api.pexels.com`, `images.pexels.com`, `api.replicate.com` y `replicate.delivery`.
 
 ## 2. Usarlo
 

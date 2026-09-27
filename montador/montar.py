@@ -7,7 +7,10 @@ Uso:
 
 Entrada: el .json que descarga la Fábrica («Descargar proyecto para el Montador»).
 Claves (variables de entorno, nunca en el código):
-    ELEVENLABS_API_KEY   voz (obligatoria salvo en --demo)
+    AI33_API_KEY         ai33.pro / OpenSpeaker: voz (ElevenLabs, MiniMax…) e imágenes IA con una sola clave
+    AI33_VOICE_ID        voz de ai33 con prefijo, ej. elevenlabs_pNInz6obpgDQGcFmaJgB (ver --listar-voces)
+    AI33_IMAGE_MODEL     modelo de imagen de ai33 (por defecto bytedance-seedream-4.5)
+    ELEVENLABS_API_KEY   voz directa de ElevenLabs (alternativa a ai33)
     ELEVENLABS_VOICE_ID  voz por defecto (opcional; --voz la sustituye)
     PEXELS_API_KEY       fotos y vídeos de stock (gratis)
     REPLICATE_API_TOKEN  imágenes IA con Flux (opcional)
@@ -58,6 +61,81 @@ def font(size):
 
 def key(*parts):
     return hashlib.sha1("|".join(map(str, parts)).encode()).hexdigest()[:12]
+
+
+# ---------------------------------------------------------------- ai33.pro (OpenSpeaker)
+AI33 = "https://api.ai33.pro"
+
+
+def ai33_req(method, path, api_key, **kw):
+    for attempt in range(8):
+        r = requests.request(method, AI33 + path, headers={"xi-api-key": api_key}, timeout=120, **kw)
+        if r.status_code == 429 or r.status_code == 503:
+            time.sleep(float(r.headers.get("Retry-After") or 5 * (attempt + 1)))
+            continue
+        if r.status_code >= 400:
+            raise RuntimeError(f"ai33 {path} respondió {r.status_code}: {r.text[:300]}")
+        return r.json()
+    raise RuntimeError(f"ai33 {path}: demasiados reintentos")
+
+
+def ai33_wait(task_id, api_key, what):
+    t0 = time.time()
+    while time.time() - t0 < 900:
+        d = ai33_req("GET", f"/v1/task/{task_id}", api_key)
+        st = d.get("status")
+        if st == "done":
+            return d.get("metadata") or {}
+        if st in ("error", "failed", "fail"):
+            raise RuntimeError(f"ai33 no pudo generar {what}: {d.get('error_message')}")
+        time.sleep(3)
+    raise RuntimeError(f"ai33 tardó más de 15 min en {what}")
+
+
+def first_url(meta, exts):
+    found = []
+
+    def walk(x):
+        if isinstance(x, str) and x.startswith("http"):
+            found.append(x)
+        elif isinstance(x, dict):
+            for v in x.values():
+                walk(v)
+        elif isinstance(x, list):
+            for v in x:
+                walk(v)
+    walk(meta)
+    for u in found:
+        if any(u.split("?")[0].lower().endswith(e) for e in exts):
+            return u
+    return found[0] if found else None
+
+
+def ai33_tts_submit(text, voice, api_key):
+    d = ai33_req("POST", "/v3/text-to-speech", api_key, data={"text": text, "voice_id": voice, "speed": "1"})
+    if not d.get("task_id"):
+        raise RuntimeError(f"ai33 no devolvió tarea de voz: {d}")
+    return d["task_id"]
+
+
+def ai33_image(prompt, out, aspect, api_key, model):
+    d = ai33_req("POST", "/v1i/task/generate-image", api_key, data={
+        "prompt": prompt, "model_id": model, "generations_count": "1",
+        "model_parameters": json.dumps({"aspect_ratio": aspect, "resolution": "2K"})})
+    meta = ai33_wait(d["task_id"], api_key, "la imagen")
+    url = first_url(meta, (".jpg", ".jpeg", ".png", ".webp"))
+    if not url:
+        raise RuntimeError(f"ai33 no devolvió imagen: {str(meta)[:200]}")
+    open(out, "wb").write(requests.get(url, timeout=120).content)
+    return True
+
+
+def listar_voces(lang, api_key):
+    for prov in ("elevenlabs", "minimax"):
+        d = ai33_req("GET", "/v3/voices", api_key, params={"provider": prov, "language": lang, "page_size": 40})
+        print(f"\n== {prov} · {lang} ==")
+        for v in d.get("data", []):
+            print(f"{v.get('voice_id')}\t{v.get('name')}\t{v.get('gender') or ''}\t{v.get('accent') or v.get('description') or ''}"[:160])
 
 
 # ---------------------------------------------------------------- voz
@@ -218,13 +296,22 @@ def write_srt(proj, real, path):
 # ---------------------------------------------------------------- principal
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("proyecto")
+    ap.add_argument("proyecto", nargs="?")
+    ap.add_argument("--listar-voces", metavar="IDIOMA", help="lista voces de ai33, ej. Portuguese o Spanish")
     ap.add_argument("--salida", default=None)
     ap.add_argument("--voz", default=os.environ.get("ELEVENLABS_VOICE_ID", DEFAULT_VOICE))
     ap.add_argument("--musica", default=None, help="mp3 de fondo (se pone a -20 dB bajo la voz)")
     ap.add_argument("--demo", action="store_true", help="sin claves: voz en silencio e imágenes de texto")
     ap.add_argument("--sin-subtitulos", action="store_true")
     a = ap.parse_args()
+    ai_key = os.environ.get("AI33_API_KEY")
+    if a.listar_voces:
+        if not ai_key:
+            sys.exit("Falta AI33_API_KEY.")
+        listar_voces(a.listar_voces, ai_key)
+        return
+    if not a.proyecto:
+        ap.error("falta el archivo del proyecto")
 
     proj = json.load(open(a.proyecto, encoding="utf-8"))
     if not proj.get("paras"):
@@ -236,22 +323,42 @@ def main():
         os.makedirs(os.path.join(out_dir, sub), exist_ok=True)
 
     el_key, px_key, rp_key = (os.environ.get(k) for k in ("ELEVENLABS_API_KEY", "PEXELS_API_KEY", "REPLICATE_API_TOKEN"))
-    if not a.demo and not el_key:
-        sys.exit("Falta ELEVENLABS_API_KEY (o usa --demo para una prueba sin voz).")
-    if not a.demo and not px_key and not rp_key:
+    use_ai33_voice = bool(ai_key) and not el_key
+    voice_id = os.environ.get("AI33_VOICE_ID", "elevenlabs_" + DEFAULT_VOICE) if use_ai33_voice else a.voz
+    if use_ai33_voice and a.voz != os.environ.get("ELEVENLABS_VOICE_ID", DEFAULT_VOICE):
+        voice_id = a.voz if "_" in a.voz else "elevenlabs_" + a.voz
+    img_model = os.environ.get("AI33_IMAGE_MODEL", "bytedance-seedream-4.5")
+    if not a.demo and not el_key and not ai_key:
+        sys.exit("Falta AI33_API_KEY o ELEVENLABS_API_KEY (o usa --demo para una prueba sin voz).")
+    if not a.demo and not px_key and not rp_key and not ai_key:
         log("Aviso: sin PEXELS_API_KEY ni REPLICATE_API_TOKEN, las escenas serán tarjetas de texto.")
 
     # 1. voz, párrafo por párrafo (sincroniza escenas y subtítulos)
     wpm = 150
     durs, voice_files = [], []
     for i, p in enumerate(proj["paras"]):
-        f = os.path.join(out_dir, "voz", f"{i:04d}-{key(p['texto'], a.voz)}.mp3")
+        voice_files.append(os.path.join(out_dir, "voz", f"{i:04d}-{key(p['texto'], voice_id)}.mp3"))
+    if not a.demo and use_ai33_voice:
+        pend = [(i, f) for i, f in enumerate(voice_files) if not (os.path.exists(f) and os.path.getsize(f) > 1000)]
+        for k in range(0, len(pend), 6):  # 6 tareas a la vez para no saturar la cuota
+            batch = [(i, f, ai33_tts_submit(proj["paras"][i]["texto"], voice_id, ai_key)) for i, f in pend[k:k + 6]]
+            for i, f, tid in batch:
+                meta = ai33_wait(tid, ai_key, f"la voz del párrafo {i + 1}")
+                url = first_url(meta, (".mp3", ".wav", ".m4a"))
+                if not url:
+                    raise RuntimeError(f"ai33 no devolvió audio: {str(meta)[:200]}")
+                raw = f + ".src"
+                open(raw, "wb").write(requests.get(url, timeout=120).content)
+                run([FFMPEG, "-y", "-i", raw, "-ac", "1", "-ar", "44100", "-c:a", "libmp3lame", "-b:a", "128k", f])
+                os.remove(raw)
+            log(f"Voz {min(k + 6, len(pend))}/{len(pend)}")
+    for i, p in enumerate(proj["paras"]):
+        f = voice_files[i]
         if a.demo:
             silence(f, max(1.0, len(p["texto"].split()) / wpm * 60))
-        else:
+        elif not use_ai33_voice:
             log(f"Voz {i + 1}/{len(proj['paras'])}")
-            tts(p["texto"], f, a.voz, el_key)
-        voice_files.append(f)
+            tts(p["texto"], f, voice_id, el_key)
         durs.append(media_duration(f) + 0.25)
     scenes, real, total = build_timeline(proj, durs)
     log(f"Voz lista: {total / 60:.1f} min · {len(scenes)} escenas")
@@ -265,8 +372,11 @@ def main():
         if not os.path.exists(raw):
             done = False
             try:
-                if not a.demo and rp_key and c.get("prompt_ia") and ("ia" in tipo or "anim" in tipo):
+                wants_ai = c.get("prompt_ia") and ("ia" in tipo or "anim" in tipo)
+                if not a.demo and wants_ai and rp_key:
                     done = flux_image(c["prompt_ia"], raw, aspect, rp_key)
+                elif not a.demo and wants_ai and ai_key:
+                    done = ai33_image(c["prompt_ia"], raw, aspect, ai_key, img_model)
                 if not done and not a.demo and px_key:
                     q = c.get("busca") or c.get("visual") or proj.get("titulo")
                     if "mapa" in tipo and "map" not in q.lower():
