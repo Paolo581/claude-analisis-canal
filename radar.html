@@ -69,8 +69,8 @@ a{color:inherit}
 nav.rail{position:sticky;top:0;height:100vh;overflow-y:auto;padding:20px 12px 14px;display:flex;flex-direction:column;gap:2px;background:var(--rail);color:var(--rail-ink);color-scheme:dark;scrollbar-width:thin}
 .brand{padding:4px 10px 18px;display:flex;flex-direction:column;gap:6px}
 .brand .eyebrow{color:var(--rail-ink-2);letter-spacing:.2em;font-size:10px}
-.brand h1{font-size:34px;font-weight:900;font-stretch:72%;line-height:.9;letter-spacing:.01em;text-transform:uppercase;color:var(--rail-ink);display:flex;align-items:center;gap:8px;white-space:nowrap}
-.brand h1::after{content:"CONFIDENCIAL";display:inline-block;flex:none;font-family:var(--f-mono);font-size:8.5px;font-weight:600;letter-spacing:.14em;color:#ff5068;border:1.5px solid #ff5068;padding:2px 4px 1px;border-radius:2px;transform:rotate(-6deg)}
+.brand h1{font-size:34px;font-weight:900;font-stretch:72%;line-height:.9;letter-spacing:.01em;text-transform:uppercase;color:var(--rail-ink);display:flex;align-items:center;flex-wrap:wrap;gap:6px 8px}
+.brand h1::after{content:"CONFIDENCIAL";display:inline-block;flex:none;font-family:var(--f-mono);font-size:7.5px;font-weight:600;letter-spacing:.14em;color:#ff5068;border:1.5px solid #ff5068;padding:2px 4px 1px;border-radius:2px;transform:rotate(-6deg)}
 .brand small{display:block;color:var(--rail-ink-2);font-size:12px;line-height:1.45}
 nav.rail button{all:unset;cursor:pointer;display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:6px;color:var(--rail-ink-2);font-weight:500;font-size:14px;position:relative}
 nav.rail button .k{font-family:var(--f-mono);font-size:10.5px;color:var(--rail-ink-2);width:16px;opacity:.7}
@@ -396,6 +396,36 @@ details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
 }
 @media (max-width:820px){.nfx{grid-template-columns:1fr}.nfx .nfx-x{display:none}}
 @media (max-width:900px){.nfwrap{grid-template-columns:1fr}.nfidx{position:static;max-height:none}}
+/* ---------- Hoy ---------- */
+.hoy{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.hoy .card h3{display:flex;align-items:baseline;gap:8px}
+.hoy .card h3 .n{font-family:var(--f-mono);font-weight:500;color:var(--accent);font-size:15px}
+.hoy .next{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:12px 18px;background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.hoy .next .eyebrow{color:var(--bg);opacity:.7}
+.hoy .next b{font-family:var(--f-display);font-stretch:82%;font-size:22px;font-weight:800}
+.hoy .next .sp{flex:1}
+.hoy .next button.btn{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.hoy .row{display:flex;align-items:center;gap:10px;padding:8px 0;border-top:1px solid var(--line)}
+.hoy .row:first-of-type{border-top:0}
+.hoy .row .x{flex:1;min-width:0}
+.hoy .row .x div:first-child{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hoy .row small{color:var(--ink-2);font-size:12.5px}
+.agenda{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px}
+.agenda .d{border:1px solid var(--line);border-radius:6px;padding:6px 7px;min-height:74px;background:var(--surface);min-width:0}
+.agenda .d.today{border-color:var(--ink)}
+.agenda .d .h{font-family:var(--f-mono);font-size:10.5px;color:var(--ink-3);text-transform:uppercase;letter-spacing:.06em}
+.agenda .d .it{font-size:12px;font-weight:600;margin-top:4px;line-height:1.25;hyphens:auto;overflow-wrap:break-word}
+.hoy .card.wide{grid-column:1/-1}
+.agenda .d .it.warn{color:var(--warn)}
+/* ---------- modo lectura ---------- */
+.reader{position:fixed;inset:0;z-index:300;background:var(--surface);overflow:auto;padding:calc(20px + env(safe-area-inset-top,0px)) 16px calc(60px + env(safe-area-inset-bottom,0px))}
+.reader .in{max-width:680px;margin:0 auto}
+.reader .bar{position:sticky;top:0;display:flex;gap:8px;align-items:center;padding:8px 0 12px;background:var(--surface);border-bottom:1px solid var(--line);margin-bottom:22px;flex-wrap:wrap}
+.reader .bar .sp{flex:1}
+.reader h1{font-family:var(--f-display);font-stretch:80%;font-size:32px;margin-bottom:6px}
+.reader .part{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin:34px 0 10px}
+.reader p{font-size:var(--rd,20px);line-height:1.7;margin:0 0 1em;max-width:62ch}
+@media (max-width:980px){.hoy{grid-template-columns:minmax(0,1fr)}.agenda{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 
@@ -408,6 +438,7 @@ details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
   </div>
   <button class="cmdk-open" id="cmdk-btn" type="button"><span>Buscar o saltar…</span><kbd>⌘K</kbd></button>
   <div class="railgroup">Trabajo del día</div>
+  <button data-tab="hoy"><span class="k">·</span>Hoy</button>
   <button data-tab="guiones"><span class="k">1</span>Guiones</button>
   <button data-tab="ideas"><span class="k">2</span>Banco de ideas</button>
   <div class="railgroup">Tu canal</div>
@@ -432,6 +463,15 @@ details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
 
 <main>
 <div class="topbar"><div class="where">Estás en <b id="tb-where">Panorama</b></div><div class="spacer"></div><div id="tb-jump"></div></div>
+<!-- ===================== HOY ===================== -->
+<section class="tab" id="tab-hoy">
+  <div class="head">
+    <div><div class="eyebrow">Hoy</div><h2>Lo que toca hoy en el canal</h2>
+      <p>El siguiente paso, los guiones a medias, las ideas nuevas, la noticia caliente y la semana de publicación, todo en una pantalla.</p></div>
+  </div>
+  <div class="hoy" id="hoy-out"><p class="src">Cargando…</p></div>
+</section>
+
 <!-- ===================== PANORAMA ===================== -->
 <section class="tab active" id="tab-panorama">
   <div class="head">
@@ -566,7 +606,9 @@ details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
   <div class="card">
     <div class="toolbar" style="margin-bottom:10px"><h3 style="margin:0">Ideas guardadas</h3><span class="sp"></span>
       <button class="chip" data-s="" aria-pressed="true">Todas</button><button class="chip" data-s="Sugerida" aria-pressed="false">Sugeridas</button><button class="chip" data-s="Investigar" aria-pressed="false">Investigar</button><button class="chip" data-s="Guion" aria-pressed="false">Guion</button><button class="chip" data-s="Publicado" aria-pressed="false">Publicado</button><button class="chip" data-s="Descartado" aria-pressed="false">Descartado</button></div>
+    <div class="toolbar" style="margin:-2px 0 10px"><label class="src" for="ideas-eje">Eje emocional</label><select id="ideas-eje"><option value="">Todos</option></select><span class="sp"></span><span class="src" id="ideas-count"></span></div>
     <div class="ideas" id="ideas"></div>
+    <details class="more" id="vet-box" style="margin-top:12px;max-width:none"><summary>Nombres borrados (no se vuelven a proponer)</summary><div id="vet-out" style="margin-top:8px"></div></details>
   </div>
   <div class="grid g2">
     <div class="card">
@@ -673,6 +715,7 @@ details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
     <div><div class="eyebrow">09 · Resultados</div><h2>Qué pasó con cada guion cuando salió al aire</h2>
       <p>Enlaza un guion con su vídeo publicado (pega el link en el Estudio) y la app baja la curva de retención real de YouTube, la alinea con la introducción y las seis partes por minutos, y te enseña dónde se fue la gente y qué frase se estaba narrando en ese momento. Claude convierte esas caídas en lecciones para los siguientes guiones.</p></div>
   </div>
+  <div class="card" id="pred-card"><h3>Predicción contra resultado</h3><p class="src" style="margin-bottom:10px">Cada idea del banco con nota viral, cruzada con el vídeo que el canal publicó sobre esa persona. Sirve para ver si la nota de Claude acierta: una nota de 8 o más debería dar vistas por encima de la mediana del canal.</p><div id="pred-out"></div></div>
   <div id="res-out"><p class="src">Ningún guion enlazado con un vídeo todavía. En el Estudio de cada guion terminado hay un campo «Vídeo publicado».</p></div>
 </section>
 <section class="tab" id="tab-fuentes">
@@ -2179,7 +2222,7 @@ $$('nav.rail button[data-tab]').forEach(b=>b.addEventListener('click',()=>{
   const w=$('#tb-where');if(w)w.textContent=b.textContent.replace(/^[0-9]+/,'').trim();
 }));
 function goTab(id){const b=$(`nav.rail button[data-tab="${id}"]`);if(b)b.click()}
-try{const t=localStorage.getItem('radar.tab'); if(t){const b=$(`nav.rail button[data-tab="${t}"]`); if(b) b.click();}}catch(e){}
+try{const t=localStorage.getItem('radar.tab');const b=t&&$(`nav.rail button[data-tab="${t}"]`);if(b)b.click();else goTab('hoy')}catch(e){try{goTab('hoy')}catch(_){}}
 
 
 
@@ -2374,7 +2417,7 @@ function hbars(el, rows, opts={}){ // horizontal, rows [label,value,share]
   s+='</svg>';el.innerHTML=s;bindTips(el);
 }
 function lineChart(el, rows){ // [label, ret, dur]
-  const W=560,H=220,pl=40,pb=28,pt=12,pr=12;
+  const W=420,H=210,pl=40,pb=28,pt=12,pr=12;
   const ys=rows.map(r=>r[1]);const min=Math.floor(Math.min(...ys)-4),max=Math.ceil(Math.max(...ys)+3);
   const x=i=>pl+(W-pl-pr)*(rows.length===1?0.5:i/(rows.length-1)),y=v=>pt+(H-pt-pb)*(1-(v-min)/(max-min));
   let s=`<svg class="chart" viewBox="0 0 ${W} ${H}">`;
@@ -2620,7 +2663,7 @@ function analyzeRetencao(d){const ret=d.retencao;if(!ret||!ret.points||!ret.poin
   const open=+((at(0.6)-at(3))*100).toFixed(1);const w3=at(3),w45=at(45);return {rows,worst,rises,open,body:w3?+(w45/w3).toFixed(2):null,end:+(ret.points[ret.points.length-1].w*100).toFixed(1),avg:+(ret.points.reduce((a,x)=>a+x.w,0)/ret.points.length*100).toFixed(1)}}
 function curveSVG(d){const ret=d.retencao;if(!ret)return '';const W=640,H=160;const pts=ret.points;const path=pts.map((x,i)=>`${i?'L':'M'}${(x.p*W).toFixed(1)},${(H-Math.min(1,x.w)*H).toFixed(1)}`).join(' ');const dur=ret.dur||3600;const {segs}=partBounds(d);const lines=segs.map(sg=>{const x=Math.min(W,(sg.start*60/dur)*W);return `<line x1="${x.toFixed(1)}" y1="0" x2="${x.toFixed(1)}" y2="${H}" stroke="var(--line)" stroke-dasharray="3 3"/><text x="${(x+3).toFixed(1)}" y="12" font-size="10" fill="var(--muted)">${sg.k==='intro'?'intro':sg.k.replace('p','P')}</text>`}).join('');
   return `<svg viewBox="0 0 ${W} ${H}" width="100%" height="${H}" style="background:var(--surface-2);border-radius:6px"><path d="M0,${H*0.5}L${W},${H*0.5}" stroke="var(--line)"/>${lines}<path d="${path}" fill="none" stroke="var(--accent)" stroke-width="2"/></svg>`}
-function renderResultados(){const el=$('#res-out');if(!el)return;const list=guionesCache.filter(g=>g.videoId);if(!list.length){el.innerHTML='<p class="src">Ningún guion enlazado con un vídeo todavía. En el Estudio de cada guion terminado hay un campo «Vídeo publicado».</p>';return}
+function renderResultados(){try{renderPred()}catch(e){}const el=$('#res-out');if(!el)return;const list=guionesCache.filter(g=>g.videoId);if(!list.length){el.innerHTML='<p class="src">Ningún guion enlazado con un vídeo todavía. En el Estudio de cada guion terminado hay un campo «Vídeo publicado».</p>';return}
   el.innerHTML=list.map(g=>{const d=(JOBS.get(g.id)||{}).doc||g;const a=analyzeRetencao(d);const worstRow=a?a.rows.slice().sort((x,y)=>y.perMin-x.perMin)[0]:null;
     return `<div class="card" style="margin-bottom:14px"><div class="toolbar" style="margin-bottom:8px"><h3 style="margin:0">${esc(d.titulo||d.persona)}</h3><span class="sp"></span><span class="src">vídeo ${esc(d.videoId)}${d.retencao?` · curva del ${new Date(d.retencao.at).toLocaleDateString('es-ES')}`:''}</span><button class="btn sm" data-resload="${g.id}">${d.retencao?'Actualizar curva':'Cargar curva'}</button><span class="src" id="res-msg-${g.id}"></span></div>
     ${a?`${curveSVG(d)}<div class="grid g2" style="margin-top:10px"><div><table><thead><tr><th>Trecho</th><th class="num">min</th><th class="num">entra</th><th class="num">sale</th><th class="num">pierde</th><th class="num">/min</th></tr></thead><tbody>${a.rows.map(r=>`<tr style="${worstRow&&r.k===worstRow.k?'color:var(--bad)':''}"><td>${r.k==='intro'?'Introdução':'Parte '+r.k.slice(1)}</td><td class="num">${r.start.toFixed(0)}–${r.end.toFixed(0)}</td><td class="num">${Math.round(r.w0*100)}%</td><td class="num">${Math.round(r.w1*100)}%</td><td class="num">${r.loss}</td><td class="num">${r.perMin}</td></tr>`).join('')}</tbody></table><p class="src" style="margin-top:6px">Apertura (36 s → 3:00): pierde ${a.open} puntos · cuerpo (45/3 min): ${a.body!=null?Math.round(a.body*100)+'%':'—'} · final: ${a.end}% · media: ${a.avg}%. Referencia del canal: los mejores pierden 27–28 puntos en la apertura y conservan más del 50% del cuerpo.</p></div>
@@ -2745,17 +2788,20 @@ $('#i-check').addEventListener('click',checkPersona);$('#i-persona').addEventLis
 
 /* ---------- ideas (db) ---------- */
 let ideasCache=[];
-function renderIdeas(){
+function renderIdeas(){try{renderHoy()}catch(e){}
   try{$$('#tab-ideas .chip').forEach(c=>{if(!c.dataset.base)c.dataset.base=c.textContent;const n=c.dataset.s?ideasCache.filter(i=>i.status===c.dataset.s).length:ideasCache.length;c.textContent=`${c.dataset.base} · ${n}`});
     const nb=$('nav.rail button[data-tab="ideas"]');if(nb){let s=nb.querySelector('.nb');if(!s){s=document.createElement('span');s.className='nb';nb.append(s)}const n=ideasCache.filter(i=>i.status==='Sugerida').length;s.textContent=n?String(n):'';s.title=n+' ideas sugeridas por revisar'}}catch(e){}
-  const NEW=S.newIdeaIds||new Set();const rows=ideasCache.filter(i=>!S.ideasFilter||i.status===S.ideasFilter).slice().sort((a,b)=>((NEW.has(b.id)?1:0)-(NEW.has(a.id)?1:0))||String(b.createdAt||'').localeCompare(String(a.createdAt||''))||(+(b.viral||0))-(+(a.viral||0)));
+  const NEW=S.newIdeaIds||new Set();const EJE=S.ideasEje||'';const rows=ideasCache.filter(i=>(!S.ideasFilter||i.status===S.ideasFilter)&&(!EJE||(i.eje||'')===EJE)).slice().sort((a,b)=>((NEW.has(b.id)?1:0)-(NEW.has(a.id)?1:0))||String(b.createdAt||'').localeCompare(String(a.createdAt||''))||(+(b.viral||0))-(+(a.viral||0)));
   if(!db){$('#ideas').innerHTML='<p class="msg">El banco de ideas no está disponible en este visor. Las ideas se guardan cuando abres la página desde claude.ai.</p>';return}
+  try{renderEjeSel();renderVetados();const ic=$('#ideas-count');if(ic)ic.textContent=`${rows.length} de ${ideasCache.length}`}catch(e){}
   if(!rows.length){$('#ideas').innerHTML='<p class="src">Todavía no hay ideas en este filtro.</p>';return}
   $('#ideas').innerHTML=rows.map(i=>{const vir=i.viral!=null&&i.viral!==''?+i.viral:null;const lv=(i.nivel||'').slice(0,1);
     const why=[i.fama?`<div class="m"><b>Por qué lo conocen:</b> ${esc(i.fama)}</div>`:'',i.porqueViral?`<div class="m"><b>Por qué explota:</b> ${esc(i.porqueViral)}</div>`:'',i.porque?`<div class="m"><b>Por qué ahora:</b> ${esc(i.porque)}</div>`:'',(i.evidencia||[]).length?`<div class="m"><b>Evidencia:</b> ${i.evidencia.map(e=>esc(e.canal)+' · «'+esc(e.titulo)+'»'+(e.vistas?' · '+k(e.vistas):'')).join(' — ')}</div>`:'',`<div class="m">${esc(i.fmt||'')} · Eje: ${esc(i.eje||'—')}${i.source==='auto'?` · ${i.fuente==='agora'?'funciona ahora':i.fuente==='comprovado'?'ya funcionó en otro canal':'propuesta automática'}`:''} · ${i.createdAt?new Date(i.createdAt).toLocaleDateString('es-ES'):''}</div>`].join('');
-    return `<div class="idea${NEW.has(i.id)?' is-new':i.status==='Sugerida'?' is-sug':''}"><div style="min-width:0"><div class="t">${NEW.has(i.id)?'<span class="pill good">NUEVA</span>':''}<span class="who">${esc(i.persona)}</span>${vir!=null?`<span class="pill ${vir>=9?'good':vir>=8?'warn':'bad'}">viral ${esc(String(i.viral))}/10</span>`:''}${lv?`<span class="pill ${lv==='A'?'good':lv==='B'?'warn':'bad'}" title="${esc(i.nivel)}">nivel ${esc(lv)}</span>`:''}${i.validada?`<span class="pill good">validada${i.nota!=null?' '+i.nota+'/10':''}</span>`:''}${i.novo?'':isDone(i.persona)?'<span class="pill warn">ya hecho en el canal</span>':''}</div>${i.titulo?`<div class="m tit">«${esc(i.titulo)}» <span class="src">· ${i.titulo.length} car.</span></div>`:''}${i.segredo?`<div class="m seg">Segredo: ${esc(i.segredo)}</div>`:''}${i.angulo?`<div class="m">${esc(i.angulo)}</div>`:''}<details class="why-i"><summary>Por qué, evidencia y detalles</summary>${why}</details></div>
+    return `<div class="idea${NEW.has(i.id)?' is-new':i.status==='Sugerida'?' is-sug':''}"><div style="min-width:0"><div class="t">${NEW.has(i.id)?'<span class="pill good">NUEVA</span>':''}<span class="who">${esc(i.persona)}</span>${vir!=null?`<span class="pill ${vir>=9?'good':vir>=8?'warn':'bad'}">viral ${esc(String(i.viral))}/10</span>`:''}${lv?`<span class="pill ${lv==='A'?'good':lv==='B'?'warn':'bad'}" title="${esc(i.nivel)}">nivel ${esc(lv)}</span>`:''}${i.validada?`<span class="pill good">validada${i.nota!=null?' '+i.nota+'/10':''}</span>`:''}${i.demanda?`<span class="pill ${i.demanda.n>=8?'warn':'brass'}" title="${esc(demandaTip(i.demanda))}">YouTube: ${i.demanda.n} vídeo${i.demanda.n===1?'':'s'} largo${i.demanda.n===1?'':'s'}${i.demanda.mes?` · ${i.demanda.mes} este mes`:''}</span>`:''}${i.fecha?`<span class="pill accent">publicar ${esc(fechaCorta(i.fecha))}</span>`:''}${i.novo?'':isDone(i.persona)?'<span class="pill warn">ya hecho en el canal</span>':''}</div>${i.titulo?`<div class="m tit">«${esc(i.titulo)}» <span class="src">· ${i.titulo.length} car.</span></div>`:''}${i.segredo?`<div class="m seg">Segredo: ${esc(i.segredo)}</div>`:''}${i.angulo?`<div class="m">${esc(i.angulo)}</div>`:''}<details class="why-i"><summary>Por qué, evidencia y detalles</summary>${why}<div class="toolbar" style="margin-top:8px"><label class="src" for="fe-${i.id}">Día de publicación</label><input type="date" id="fe-${i.id}" data-fecha="${i.id}" value="${esc(i.fecha||'')}" style="min-height:30px;padding:4px 8px;font-size:12.5px"><button class="btn sm" data-medir="${i.id}">${i.demanda?'Volver a medir en YouTube':'Medir en YouTube'}</button><span class="src" id="med-${i.id}"></span></div></details></div>
     <div class="acts"><select data-status="${i.id}" aria-label="Estado de ${esc(i.persona)}">${['Sugerida','Investigar','Guion','Publicado','Descartado'].map(s=>`<option ${s===i.status?'selected':''}>${s}</option>`).join('')}</select><button class="btn sm primary" data-studio="${i.id}">Guion con Claude</button><button class="btn sm" data-title="${i.id}">Títulos</button><button class="btn sm" data-del="${i.id}">Borrar</button></div></div>`}).join('');
   $$('[data-status]').forEach(s=>s.addEventListener('change',async()=>{try{await db.collection('ideas').doc(s.dataset.status).update({status:s.value})}catch(e){toast('No se pudo guardar: '+(e.message||e.code))}}));
+  $$('[data-fecha]').forEach(s=>s.addEventListener('change',async()=>{try{await db.collection('ideas').doc(s.dataset.fecha).update({fecha:s.value||null});toast(s.value?'Fecha guardada: sale en la agenda de «Hoy».':'Fecha quitada.')}catch(e){toast('No se pudo guardar la fecha: '+(e.message||e.code))}}));
+  $$('[data-medir]').forEach(b=>b.addEventListener('click',()=>medirIdea(b.dataset.medir,true)));
   $$('[data-del]').forEach(b=>b.addEventListener('click',()=>confirmBtn(b,async()=>{try{const it=ideasCache.find(x=>x.id===b.dataset.del);if(it&&it.persona)await vetarNome(it.persona);await db.collection('ideas').doc(b.dataset.del).delete()}catch(e){toast('No se pudo borrar: '+(e.message||e.code))}})));
   $$('[data-studio]').forEach(b=>b.addEventListener('click',()=>{const i=ideasCache.find(x=>x.id===b.dataset.studio);const j=JOBS.get(i.id);openStudio(i,!(j&&j.busy))}));
   $$('[data-title]').forEach(b=>b.addEventListener('click',()=>{const i=ideasCache.find(x=>x.id===b.dataset.title);$('#i-persona').value=i.persona;$('#i-angulo').value=i.angulo||'';genTitles();$('#t-genout').scrollIntoView({behavior:'smooth',block:'center'})}));
@@ -2941,7 +2987,7 @@ Responda SOMENTE com JSON válido, sem markdown, neste formato: {"ideas":[{"pers
         if(!first){log(`Claude está pensando en los personajes… ${secs} s (con este volumen de datos puede tardar hasta dos minutos en empezar)`);if(now-s0>(k===0?240000:150000)){why='nunca empezó';sc.abort()}}
         else{log(`Claude está escribiendo… ${PERS_N} personaje${PERS_N===1?'':'s'} · ${secs} s`);if(now-last>90000){why='se quedó callado';sc.abort()}}},2000);
       let PERS_N=0,TXT='';const tier=k===0?'complex':'default';
-      try{out=await sample.json(k===0?P:shrinkIdeasPrompt(P),{modelTier:tier,cache:false,signal:sc.signal,onText:({text})=>{if(!first)first=Date.now();last=Date.now();TXT=text;PERS_N=(text.match(/"persona"\s*:/g)||[]).length}});break}
+      try{await claudeGate();out=await sample.json(k===0?P:shrinkIdeasPrompt(P),{modelTier:tier,cache:false,signal:sc.signal,onText:({text})=>{if(!first)first=Date.now();last=Date.now();TXT=text;PERS_N=(text.match(/"persona"\s*:/g)||[]).length}});break}
       catch(e){if(ctl.signal.aborted&&!partialIdeas(TXT).length)throw {code:'cancelled'};if(e&&e.code==='cancelled')e={code:'timeout',message:'Claude '+(why||'no respondió')};
         const part=partialIdeas(TXT);if(part.length){log(`Claude se cortó (${e.code||e.message}), pero ya había escrito ${part.length} personaje${part.length>1?'s':''}: los aprovecho.`);out={ideas:part};break}
         if(k<2){const w=e&&e.code==='rate_limited'?45:5;log(`Claude falló (${e.code==='rate_limited'?'demasiadas peticiones':e.message||e.code}). Reintento ${k+1} de 2 en ${w} s con un modelo más rápido…`);await new Promise(r=>setTimeout(r,w*1000));continue}
@@ -2954,11 +3000,84 @@ Responda SOMENTE com JSON válido, sem markdown, neste formato: {"ideas":[{"pers
       const ref=await db.collection('ideas').add({persona:i.persona,viral:+(i.viral||0),porqueViral:i.por_que_viral||'',segredo:i.segredo||'',angulo:i.angulo||'',nivel:NIVEL_TXT[(i.nivel||'B').slice(0,1)]||NIVEL_TXT.B,eje:i.eje||'',fmt:i.formato||'Documental 55–65 min',status:'Sugerida',source:'auto',fuente:i.fuente||'',fama:i.fama||'',titulo:i.titulo||'',porque:i.porque||'',evidencia:(i.evidencia||[]).slice(0,3),novo:true,createdAt:new Date().toISOString()});;if(ref&&ref.id){S.newIdeaIds=S.newIdeaIds||new Set();S.newIdeaIds.add(ref.id)}newNames.push(i.persona);saved++}
     try{await db.doc('snapshots/ideas').set({at:new Date().toISOString(),saved,rechazados:rej.slice(0,20)})}catch(e){}
     if(!saved&&!retry&&Date.now()-t0<180000&&!ctl.signal.aborted){log(`Esta ronda no dejó personajes nuevos (${rej.slice(0,4).join(', ')||'Claude no devolvió nombres válidos'}). Probando otra ronda con otras búsquedas…`);clearTimeout(killer);return await generateIdeas(auto,true)}
-    if(saved){m.innerHTML=`${saved} idea${saved>1?'s':''} nueva${saved>1?'s':''}: <b>${newNames.map(esc).join(', ')}</b>${skipped?` <span class="src">(${skipped} descartadas: ${esc(rej.slice(0,4).join(' · '))})</span>`:''} <button class="btn sm primary" id="gen-see" type="button">Ver las nuevas</button>`;const gs=$('#gen-see');if(gs)gs.addEventListener('click',()=>{S.ideasFilter='Sugerida';$$('[data-s]').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.s==='Sugerida')));renderIdeas();$('#ideas').scrollIntoView({behavior:'smooth',block:'start'})});renderIdeas()}else m.textContent=saved?'':`Sin personajes nuevos en dos rondas. Descartados: ${rej.slice(0,10).join(' · ')||'ninguno válido'}. Tienes ${ideasCache.filter(i=>i.status==='Sugerida').length} sugeridas sin revisar: descartar las que no quieras libera espacio, o escribe tú un nombre en «Nueva idea».`;
+    if(saved){m.innerHTML=`${saved} idea${saved>1?'s':''} nueva${saved>1?'s':''}: <b>${newNames.map(esc).join(', ')}</b>${skipped?` <span class="src">(${skipped} descartadas: ${esc(rej.slice(0,4).join(' · '))})</span>`:''} <button class="btn sm primary" id="gen-see" type="button">Ver las nuevas</button>`;const gs=$('#gen-see');if(gs)gs.addEventListener('click',()=>{S.ideasFilter='Sugerida';$$('[data-s]').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.s==='Sugerida')));renderIdeas();$('#ideas').scrollIntoView({behavior:'smooth',block:'start'})});renderIdeas();medirNuevas([...(S.newIdeaIds||[])])}else m.textContent=saved?'':`Sin personajes nuevos en dos rondas. Descartados: ${rej.slice(0,10).join(' · ')||'ninguno válido'}. Tienes ${ideasCache.filter(i=>i.status==='Sugerida').length} sugeridas sin revisar: descartar las que no quieras libera espacio, o escribe tú un nombre en «Nueva idea».`;
   }catch(e){m.textContent=e&&e.code==='cancelled'?(Date.now()-t0>=479000?'La búsqueda superó ocho minutos y la detuve. Vuelve a pulsar; si se repite, espera unos minutos.':'Búsqueda detenida.'):e&&e.code==='timeout'?`${e.message||'Claude no respondió'}: suele pasar cuando Claude tiene mucha carga. Vuelve a pulsar en unos minutos.`:e&&e.code?(e.code==='rate_limited'?(e.fromClaude?'Claude ha limitado las peticiones (hay mucho uso a la vez). Espera dos o tres minutos y vuelve a pulsar.':'NexLev ha limitado las llamadas incluso tras reintentar. Espera dos o tres minutos y vuelve a pulsar.'):e.code==='not_granted'?'Falta permiso para usar Claude o NexLev.':e.fromClaude?sampleErr(e):mcpErr(e)):'No se pudo generar: '+(e&&e.message||'')}
   clearTimeout(killer);if(!retry||!GEN_CTL||GEN_CTL===ctl){GEN_CTL=null;b.disabled=false;b.textContent='Buscar más personajes';b.classList.add('primary')}
 }
 let GEN_CTL=null;let VETADOS=[];
+/* ---------- demanda en YouTube por idea ---------- */
+function demandaTip(d){return `${d.n} vídeos largos en YouTube Brasil sobre este nombre${d.mes?`, ${d.mes} del último mes`:''}${d.mine?`, ${d.mine} tuyos`:''}. ${d.n>=8?'Tema muy trabajado: busca un ángulo que nadie haya contado.':d.n?'Hay público y hueco.':'Casi nadie lo ha contado: comprueba que el nombre se reconoce.'}${d.top?' Más visto: «'+d.top+'»':''} · medido ${new Date(d.at).toLocaleDateString('es-ES')}`}
+function fechaCorta(s){try{const d=new Date(s+'T12:00:00');return d.toLocaleDateString('es-ES',{weekday:'short',day:'numeric',month:'short'})}catch(e){return s}}
+async function medirIdea(id,manual){const i=ideasCache.find(x=>x.id===id);if(!i||!mcp||!db)return;const el=$('#med-'+id);if(el)el.textContent='Buscando en YouTube…';
+  try{const name=i.persona.replace(/\(.*?\)/g,'').trim();const toks=norm(name).split(/\s+/).filter(w=>w.length>2);const hit=x=>{const tt=norm(x.title||'');return toks.filter(w=>tt.includes(w)).length>=Math.min(2,toks.length)};
+    const r=await call('youtube_search',{query:name,type:'video',duration:'long',sort_by:'relevance',geo:'BR',lang:'pt'});const vs=((r&&r.results)||[]).filter(x=>x.type==='video'&&hit(x));
+    const mes=vs.filter(x=>/hora|dia|semana|sem\.|minuto|hour|day|week/i.test(x.publishedTime||'')).length;
+    const demanda={n:vs.length,mes,mine:vs.filter(x=>x.channelId===S.channel.id).length,top:(vs[0]&&vs[0].title||'').slice(0,90),at:new Date().toISOString()};
+    await db.collection('ideas').doc(id).update({demanda});if(el)el.textContent='Medido.'}
+  catch(e){if(el)el.textContent='No se pudo medir: '+mcpErr(e);if(manual)toast('No se pudo medir: '+mcpErr(e))}}
+async function medirNuevas(ids){for(const id of ids){await new Promise(r=>setTimeout(r,3000));try{await medirIdea(id,false)}catch(e){}}}
+/* ---------- eje y nombres borrados ---------- */
+function renderEjeSel(){const s=$('#ideas-eje');if(!s)return;const ejes=[...new Set(ideasCache.map(i=>i.eje).filter(Boolean))].sort();const cur=S.ideasEje||'';const want=['',...ejes];if(s.options.length!==want.length||[...s.options].some((o,k)=>o.value!==want[k])){s.innerHTML='<option value="">Todos</option>'+ejes.map(e=>`<option value="${esc(e)}">${esc(e)} · ${ideasCache.filter(i=>i.eje===e).length}</option>`).join('')}s.value=cur;if(!s.dataset.bound){s.dataset.bound='1';s.addEventListener('change',()=>{S.ideasEje=s.value;renderIdeas()})}}
+function renderVetados(){const el=$('#vet-out');if(!el)return;const box=$('#vet-box');if(box)box.querySelector('summary').textContent=`Nombres borrados (${VETADOS.length}): no se vuelven a proponer`;
+  el.innerHTML=VETADOS.length?`<div class="toolbar">${VETADOS.map((n,k)=>`<span class="pill">${esc(n)} <button class="btn sm" data-unvet="${k}" style="min-height:22px;padding:0 6px;font-size:11.5px">Recuperar</button></span>`).join('')}</div>`:'<p class="src">Ninguno todavía. Al pulsar «Borrar» en una idea, el nombre queda aquí.</p>';
+  $$('[data-unvet]').forEach(b=>b.addEventListener('click',async()=>{const n=VETADOS[+b.dataset.unvet];VETADOS=VETADOS.filter((_,k)=>k!==+b.dataset.unvet);try{await db.doc('config/vetados').set({nomes:VETADOS,updatedAt:new Date().toISOString()});toast(`«${n}» puede volver a proponerse.`)}catch(e){toast('No se pudo guardar: '+(e.message||e.code))}renderVetados()}))}
+setTimeout(()=>{loadVetados().then(()=>{try{renderVetados()}catch(e){}})},1500);
+/* ---------- Hoy ---------- */
+function renderHoy(){const el=$('#hoy-out');if(!el)return;
+  const prog=g=>g?STEPS.filter(k=>stepState({doc:g,errors:{}},k)==='listo').length:0;
+  const docs=[...new Set([...JOBS.keys(),...guionesCache.map(g=>g.id)])].map(id=>{const j=JOBS.get(id);const g=(j&&j.doc)||guionesCache.find(x=>x.id===id);if(!g||g.archivado)return null;return {id,persona:(j&&j.persona)||g.persona||id,n:prog(g),busy:!!(j&&j.busy),retry:j&&j.retryAt,live:(j&&j.liveMsg)||'',updatedAt:g.updatedAt||''}}).filter(Boolean);
+  const abiertos=docs.filter(d=>d.n<STEPS.length).sort((a,b)=>(b.busy-a.busy)||(b.updatedAt>a.updatedAt?1:-1));
+  const nuevas=ideasCache.filter(i=>i.status==='Sugerida').sort((a,b)=>String(b.createdAt||'').localeCompare(String(a.createdAt||'')));
+  const next=abiertos.find(d=>!d.busy);const al=(ALERTAS&&ALERTAS.items)||[];
+  const gs=new Map();al.forEach(x=>{const n=alertaNome(x.t);if(!n)return;const k=norm(n).split(/\s+/).slice(0,2).join(' ');if(!gs.has(k))gs.set(k,{nome:n,c:0});gs.get(k).c++});const hot=[...gs.values()].sort((a,b)=>b.c-a.c).slice(0,4);
+  let nextHTML;if(hot.length&&hot[0].c>=3&&!isDone(hot[0].nome))nextHTML=`<div><div class="eyebrow">Lo primero hoy</div><b>Noticia caliente: ${esc(hot[0].nome)}</b><div class="src" style="color:inherit;opacity:.8">${hot[0].c} vídeos hoy en YouTube Brasil. El formato reactivo gana si sale en 24–48 h.</div></div><span class="sp"></span><button class="btn" data-hoy-go="panorama">Ver la alerta</button>`;
+  else if(next)nextHTML=`<div><div class="eyebrow">Lo primero hoy</div><b>Seguir el guion de ${esc(next.persona)}</b><div class="src" style="color:inherit;opacity:.8">${next.n} de ${STEPS.length} pasos hechos${next.retry?' · reintento automático programado':''}.</div></div><span class="sp"></span><button class="btn" data-hoy-cont="${next.id}">Continuar guion</button>`;
+  else if(nuevas.length)nextHTML=`<div><div class="eyebrow">Lo primero hoy</div><b>Elegir la próxima historia</b><div class="src" style="color:inherit;opacity:.8">${nuevas.length} ideas sugeridas esperan tu decisión.</div></div><span class="sp"></span><button class="btn" data-hoy-go="ideas">Revisar ideas</button>`;
+  else nextHTML=`<div><div class="eyebrow">Lo primero hoy</div><b>Buscar personajes nuevos</b><div class="src" style="color:inherit;opacity:.8">No hay guiones a medias ni ideas por revisar.</div></div><span class="sp"></span><button class="btn" data-hoy-go="ideas">Ir al banco de ideas</button>`;
+  const rowG=d=>`<div class="row"><div class="x"><div>${esc(d.persona)}</div><small>${d.busy?'escribiéndose ahora':d.retry?'reintento automático programado':`${d.n}/${STEPS.length} pasos`}${d.busy&&d.live?' · '+esc(d.live.slice(0,70)):''}</small></div><button class="btn sm${d.busy?'':' primary'}" data-hoy-${d.busy?'open':'cont'}="${d.id}">${d.busy?'Ver':'Continuar'}</button></div>`;
+  const rowI=i=>`<div class="row"><div class="x"><div>${esc(i.persona)}</div><small>${i.viral!=null&&i.viral!==''?'viral '+esc(String(i.viral))+'/10 · ':''}${esc((i.titulo||i.angulo||'').slice(0,90))}</small></div><button class="btn sm" data-hoy-idea="${i.id}">Guion</button></div>`;
+  const today=new Date();today.setHours(12,0,0,0);const days=[...Array(7)].map((_,k)=>{const d=new Date(today);d.setDate(d.getDate()+k);return d});
+  const iso=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+  const byDay=days.map(d=>ideasCache.filter(i=>i.fecha===iso(d)));let prevEje=null;const warnEje=new Set();byDay.forEach(list=>{list.forEach(i=>{if(i.eje&&i.eje===prevEje)warnEje.add(i.id)});if(list.length)prevEje=list[list.length-1].eje||null});
+  const programadas=ideasCache.filter(i=>i.fecha&&i.fecha>=iso(today)).length;
+  el.innerHTML=`<div class="card next">${nextHTML}</div>
+  <div class="card"><h3>Guiones a medias <span class="n">${abiertos.length}</span></h3>${abiertos.length?abiertos.slice(0,5).map(rowG).join(''):'<p class="src">Ninguno. Crea uno desde el banco de ideas.</p>'}${abiertos.length>5?`<button class="btn sm" data-hoy-go="guiones" style="margin-top:8px">Ver los ${abiertos.length}</button>`:''}</div>
+  <div class="card"><h3>Ideas por revisar <span class="n">${nuevas.length}</span></h3>${nuevas.length?nuevas.slice(0,5).map(rowI).join(''):'<p class="src">No hay ideas sugeridas pendientes.</p>'}<div class="toolbar" style="margin-top:8px"><button class="btn sm" data-hoy-go="ideas">Abrir el banco</button></div></div>
+  <div class="card"><h3>Noticia caliente <span class="n">${hot.length}</span></h3>${hot.length?hot.map(h=>`<div class="row"><div class="x"><div>${esc(h.nome)}</div><small>${h.c} vídeo${h.c>1?'s':''} hoy${isDone(h.nome)?' · ya hecho en el canal':''}</small></div></div>`).join(''):`<p class="src">${ALERTAS?'Nada fuerte en las últimas 24 horas.':'La alerta se busca sola al abrir la app.'}</p>`}<div class="toolbar" style="margin-top:8px"><button class="btn sm" data-hoy-go="panorama">Ver la alerta completa</button></div></div>
+  <div class="card wide"><h3>Semana de publicación <span class="n">${programadas}</span></h3><div class="agenda">${days.map((d,k)=>`<div class="d${k===0?' today':''}"><div class="h">${d.toLocaleDateString('es-ES',{weekday:'short',day:'numeric'})}</div>${byDay[k].map(i=>`<div class="it${warnEje.has(i.id)?' warn':''}" title="${warnEje.has(i.id)?'Mismo eje emocional que el vídeo anterior: el público puede sentir repetición':esc(i.eje||'')}">${esc(i.persona)}</div>`).join('')}</div>`).join('')}</div><p class="src" style="margin-top:8px">Pon el día de cada idea en el banco (en «Por qué, evidencia y detalles»). En naranja: mismo eje emocional que el vídeo anterior.</p></div>`;
+  $$('[data-hoy-go]').forEach(b=>b.addEventListener('click',()=>goTab(b.dataset.hoyGo)));
+  const ideaFor=id=>ideasCache.find(x=>x.id===id)||{id,persona:((JOBS.get(id)||{}).persona)||(guionesCache.find(g=>g.id===id)||{}).persona||id};
+  $$('[data-hoy-cont]').forEach(b=>b.addEventListener('click',()=>openStudio(ideaFor(b.dataset.hoyCont),true)));
+  $$('[data-hoy-open]').forEach(b=>b.addEventListener('click',()=>openStudio(ideaFor(b.dataset.hoyOpen),false)));
+  $$('[data-hoy-idea]').forEach(b=>b.addEventListener('click',()=>{const i=ideasCache.find(x=>x.id===b.dataset.hoyIdea);if(i)openStudio(i,false)}));
+}
+/* ---------- predicción contra resultado ---------- */
+function renderPred(){const el=$('#pred-out');if(!el)return;const vids=S.videos||[];if(!vids.length){el.innerHTML='<p class="src">Faltan los datos del canal.</p>';return}
+  const recent=vids.slice().sort((a,b)=>(b.d||'').localeCompare(a.d||'')).slice(0,40);const med=(a=>{const s=a.slice().sort((x,y)=>x-y);return s.length?s[Math.floor(s.length/2)]:0})(recent.map(v=>v.views||0));
+  const medRet=(a=>{const s=a.filter(x=>x!=null).sort((x,y)=>x-y);return s.length?s[Math.floor(s.length/2)]:null})(recent.map(v=>v.ret));
+  const match=p=>{const n=norm(p).replace(/\(.*?\)/g,'').trim();const toks=n.split(/\s+/).filter(w=>w.length>2&&!['de','da','do','dos','das'].includes(w));if(!toks.length)return null;return vids.filter(v=>{const tt=norm(v.t);return toks.filter(w=>tt.includes(w)).length>=Math.min(2,toks.length)}).sort((a,b)=>(b.d||'').localeCompare(a.d||''))[0]||null};
+  const rows=ideasCache.filter(i=>i.viral!=null&&i.viral!=='').map(i=>({i,v:match(i.persona)})).filter(r=>r.v);
+  if(!rows.length){el.innerHTML=`<p class="src">Todavía no hay vídeos publicados sobre personas del banco con nota viral. Cuando publiques uno, aparece aquí solo. Mediana del canal: ${fmt(med)} vistas${medRet!=null?' · '+pct(medRet)+' visto':''}.</p>`;return}
+  const verd=r=>{const hi=+r.i.viral>=8,good=(r.v.views||0)>=med;return hi&&good?['good','acertó']:!hi&&!good?['good','acertó (baja)']:hi?['bad','sobrestimó']:['warn','subestimó']};
+  const ok=rows.filter(r=>verd(r)[0]==='good').length;
+  el.innerHTML=`<p class="src" style="margin-bottom:8px">Aciertos: <b>${ok} de ${rows.length}</b> · mediana de los últimos 40 vídeos: ${fmt(med)} vistas${medRet!=null?' · '+pct(medRet)+' visto':''}.</p><div class="scroll"><table><thead><tr><th>Persona</th><th class="num">Nota viral</th><th>Vídeo publicado</th><th class="num">Vistas</th><th class="num">% visto</th><th>Veredicto</th></tr></thead><tbody>${rows.map(r=>{const [c,l]=verd(r);return `<tr><td>${esc(r.i.persona)}</td><td class="num">${esc(String(r.i.viral))}/10</td><td><span class="t"><a href="https://youtu.be/${esc(r.v.id)}" target="_blank" rel="noopener">${esc(r.v.t)}</a></span><span class="src">${esc(r.v.d||'')}</span></td><td class="num">${fmt(r.v.views||0)}</td><td class="num">${r.v.ret!=null?pct(r.v.ret):'—'}</td><td><span class="pill ${c}">${l}</span></td></tr>`}).join('')}</tbody></table></div>`}
+/* ---------- modo lectura ---------- */
+function openReader(job){const d=job.doc||{};const blocks=[['Introdução',d.intro||''],...(d.partes||[]).map((p,k)=>['Parte '+(k+1),p.text||''])].filter(b=>b[1].trim());
+  const clean=s=>s.split('\n').map(l=>l.replace(/\[(?:VERMELHO|AZUL|PRETO)\]\s*/gi,'').trim()).filter(l=>l&&!/^#/.test(l)&&!/^\[RESUMO\]/i.test(l));
+  let size=20;try{size=+localStorage.getItem('radar.rd')||20}catch(e){}
+  const w=narrWords(job);const r=document.createElement('div');r.className='reader';r.setAttribute('role','dialog');r.setAttribute('aria-label','Modo lectura');r.style.setProperty('--rd',size+'px');
+  r.innerHTML=`<div class="in"><div class="bar"><b>${esc(job.persona)}</b><span class="src">${fmt(w)} palabras · ~${Math.round(w/150)} min</span><span class="sp"></span><button class="btn sm" data-rd="-2" aria-label="Letra más pequeña">A−</button><button class="btn sm" data-rd="2" aria-label="Letra más grande">A+</button><button class="btn sm primary" data-rd-close>Cerrar</button></div><h1>${esc(d.titulo||job.persona)}</h1>${blocks.map(b=>`<div class="part">${b[0]}</div>${clean(b[1]).map(l=>`<p>${esc(l)}</p>`).join('')}`).join('')}</div>`;
+  document.body.append(r);document.body.style.overflow='hidden';
+  const close=()=>{r.remove();document.body.style.overflow='';document.removeEventListener('keydown',onKey)};const onKey=e=>{if(e.key==='Escape')close()};document.addEventListener('keydown',onKey);
+  r.querySelector('[data-rd-close]').addEventListener('click',close);r.querySelector('[data-rd-close]').focus();
+  r.querySelectorAll('[data-rd]').forEach(b=>b.addEventListener('click',()=>{size=Math.max(15,Math.min(30,size+ +b.dataset.rd));r.style.setProperty('--rd',size+'px');try{localStorage.setItem('radar.rd',String(size))}catch(e){}}))}
+/* ---------- limpieza de registros internos (más de 7 días) ---------- */
+async function cleanDiag(){if(!db)return;try{const last=+(localStorage.getItem('radar.cleanDiag')||0);if(Date.now()-last<864e5)return}catch(e){}
+  try{const snap=await db.collection('diag').get();const lim=Date.now()-7*864e5;const old=snap.docs.filter(d=>{const a=Date.parse((d.data()||{}).at||'');return a&&a<lim&&d.id!=='ideas-search'});
+    for(const d of old.slice(0,200)){try{await db.collection('diag').doc(d.id).delete()}catch(e){}await new Promise(r=>setTimeout(r,120))}
+    try{localStorage.setItem('radar.cleanDiag',String(Date.now()))}catch(e){}console.log('[diag] borrados',Math.min(200,old.length),'registros viejos')}catch(e){console.log('[diag] limpieza no disponible',e&&e.message)}}
+setTimeout(cleanDiag,90000);
+setTimeout(()=>{try{renderHoy()}catch(e){}},1200);
 function partialIdeas(txt){const out=[];if(!txt)return out;const s=txt.indexOf('"ideas"');if(s<0)return out;let i=txt.indexOf('[',s);if(i<0)return out;let depth=0,start=-1,inStr=false,esc=false;
   for(i=i+1;i<txt.length;i++){const c=txt[i];if(inStr){if(esc)esc=false;else if(c==='\\')esc=true;else if(c==='"')inStr=false;continue}
     if(c==='"'){inStr=true;continue}if(c==='{'){if(depth===0)start=i;depth++}else if(c==='}'){depth--;if(depth===0&&start>=0){try{const o=JSON.parse(txt.slice(start,i+1));if(o&&o.persona)out.push(o)}catch(e){}start=-1}}else if(c===']'&&depth===0)break}
@@ -3051,7 +3170,7 @@ async function autorunPending(){
   toast(`Reinicio pedido desde Claude Code: ${mine.map(g=>g.persona).join(', ')}. Cada guion corre por su cuenta; míralos en la cola.`);
   }finally{AUTORUN_BUSY=false}
 }
-function renderQueue(){ try{renderTopbar()}catch(e){}
+function renderQueue(){ try{renderTopbar()}catch(e){}try{renderHoy()}catch(e){}
   const q=ideasCache.filter(i=>i.status==='Sugerida'||i.status==='Investigar').sort((a,b)=>(isDone(b.persona)?0:1)-(isDone(a.persona)?0:1));
   const el=$('#g-queue');if(!db){el.innerHTML='<p class="msg">La cola se llena con el banco de ideas cuando abres la página desde claude.ai.</p>';return}
   const docOf=id=>(JOBS.get(id)||{}).doc||guionesCache.find(x=>x.id===id);
@@ -3339,7 +3458,7 @@ function studioHTML(job){
   return `<div class="card" id="studio">
     <div class="st-head">
       <div class="st-title"><div class="eyebrow" style="color:var(--accent)">Estudio de guion</div><h3>${esc(job.persona||(d.nicho?'Nicho: '+d.nicho.n:'Guion'))}</h3>${ang?`<details class="st-ang"><summary title="Ver el ángulo completo">${esc(ang)}</summary><p>${esc(ang)}</p></details>`:''}</div>
-      <div class="st-tools"><span class="pill" id="s-ai">${sample?'Claude: listo':'Claude: no disponible'}</span><button class="btn sm" id="s-test">Probar Claude</button>${!job.busy?`<button class="btn sm" id="s-archive">${d.archivado?'Restaurar':'Archivar'}</button><button class="btn sm" id="s-delete">Eliminar</button>`:''}<button class="btn sm" id="s-close">Cerrar</button></div>
+      <div class="st-tools"><span class="pill" id="s-ai">${sample?'Claude: listo':'Claude: no disponible'}</span>${(d.intro||(d.partes||[]).length)?'<button class="btn sm" id="s-read">Modo lectura</button>':''}<button class="btn sm" id="s-test">Probar Claude</button>${!job.busy?`<button class="btn sm" id="s-archive">${d.archivado?'Restaurar':'Archivar'}</button><button class="btn sm" id="s-delete">Eliminar</button>`:''}<button class="btn sm" id="s-close">Cerrar</button></div>
     </div>
     <div class="st-bar">
       ${job.busy?btn('s-stop','Detener',false,false):btn('s-run',(d.nicho&&!d.tema)?'Elige primero el tema':(d.nicho&&!d.metodo)?'Saca primero el método':done===0?'Crear guion completo':done===TOTAL?'Todo listo ✓':'Continuar: '+shortLab(next),true,done===TOTAL||!!(d.nicho&&(!d.tema||!d.metodo)))}
@@ -3498,6 +3617,7 @@ function renderStudio(){const job=studio;
   $$('[data-pfix]').forEach(b=>b.addEventListener('click',guard(async()=>{const label=b.dataset.pfix;const instr=($('#s-fix-'+label)||{}).value.trim();if(!instr){toast('Escribe qué quieres que Claude cambie.');return}await fixWithClaude(job,label,instr)})));
   $('#s-copy').addEventListener('click',()=>copyText($('#s-full').value,'Guion copiado.'));
   $('#s-dl').addEventListener('click',()=>downloadScript(job));
+  {const rb=$('#s-read');if(rb)rb.addEventListener('click',()=>openReader(job))}
   $('#s-cc').addEventListener('click',()=>copyText(claudeCodeOrder(job),'Orden copiada. Pégala en Claude Code.'));
   const dn=$('#s-dl-narr');if(dn)dn.addEventListener('click',async()=>{if(!downloads){$('#s-msg2').textContent='Descarga no disponible aquí; usa los botones Copiar.';return}try{await downloads.save({filename:`narracao-${slug(job.persona)}.html`,data:narracaoHTML(job)});$('#s-msg2').textContent='Descargado.'}catch(e){$('#s-msg2').textContent=e.code==='cancelled'?'Cancelado.':'No se pudo descargar: '+(e.message||e.code)}});
   const dt=$('#s-dl-narrtxt');if(dt)dt.addEventListener('click',async()=>{if(!downloads){$('#s-msg2').textContent='Descarga no disponible aquí; usa los botones Copiar.';return}try{await downloads.save({filename:`narracao-${slug(job.persona)}.txt`,data:narracaoBuild(job).texto});$('#s-msg2').textContent='Descargado.'}catch(e){$('#s-msg2').textContent=e.code==='cancelled'?'Cancelado.':'No se pudo descargar: '+(e.message||e.code)}});
@@ -3520,6 +3640,7 @@ const VIEW_ID=Math.random().toString(36).slice(2,8);const DIAG_T={};
 function diag(job){if(!db||!job.id)return;const now=Date.now();if(DIAG_T[job.id]&&now-DIAG_T[job.id]<4000){if(!job._diagT){job._diagT=setTimeout(()=>{job._diagT=null;diag(job)},4200)}return}DIAG_T[job.id]=now;try{db.doc('diag/'+job.id+'-'+VIEW_ID).set({persona:job.persona,view:VIEW_ID,busy:!!job.busy,current:job.current||null,keys:Object.keys(job.doc||{}),log:(job.log||[]).slice(-30),at:new Date().toISOString(),ua:navigator.userAgent.slice(0,60),hidden:document.hidden}).catch(()=>{})}catch(e){}}
 function jlog(job,t){job.log=job.log||[];job.log.push(`${new Date().toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit',second:'2-digit'})} · ${t}`);if(job.log.length>40)job.log.shift();diag(job);if(job===studio){const el=$('#s-log');if(el){el.style.display='block';el.innerHTML=job.log.map(esc).join('<br>')}}}
 let STALL_MS=150000;
+let LAST_SAMPLE=0;async function claudeGate(){const now=Date.now();const at=Math.max(now,LAST_SAMPLE+4000);LAST_SAMPLE=at;if(at>now)await new Promise(r=>setTimeout(r,at-now))}
 async function callClaude(job,build,onText){
   jlog(job,'preparando el texto para Claude…');
   const prompt=await fitPrompt(build);jlog(job,`texto listo: ${Math.round(bytesOf(typeof prompt==='string'?prompt:JSON.stringify(prompt))/1024)} KB (límite ${Math.round((SAMPLE_MAX||60000)/1024)} KB)`);
@@ -3528,7 +3649,7 @@ async function callClaude(job,build,onText){
     const ac=new AbortController();const onAbort=()=>ac.abort();job.abort.signal.addEventListener('abort',onAbort,{once:true});
     let last=Date.now(),got=0;const t0=Date.now();let stalled=false;
     const tick=setInterval(()=>{const idle=Date.now()-last;diag(job);if(!got)setLive(job,`${job.current?STEP_LABEL[job.current]:''}: esperando a Claude (${tier}) · ${Math.round((Date.now()-t0)/1000)} s sin respuesta…`);if(idle>STALL_MS){stalled=true;ac.abort()}},5000);
-    try{jlog(job,`llamada ${attempt+1} a Claude, modelo ${tier}`);
+    try{jlog(job,`llamada ${attempt+1} a Claude, modelo ${tier}`);await claudeGate();
       const r=await sample(prompt,{modelTier:tier,signal:ac.signal,cache:false,onText:u=>{last=Date.now();got=(u.text||'').length;onText&&onText(u)}});
       clearInterval(tick);if(!r||!r.text||!r.text.trim())throw {code:'empty_completion',message:'respuesta vacía'};jlog(job,`Claude respondió: ${wc(r.text)} palabras en ${Math.round((Date.now()-t0)/1000)} s`);return r.text}
     catch(e){clearInterval(tick);job.abort.signal.removeEventListener('abort',onAbort);
@@ -4009,7 +4130,7 @@ function postHTML(job){
 
 const MAX_RUN=2;
 async function runPipeline(job){
-  if(job.busy)return;
+  if(job.busy)return;clearTimeout(job.retryT);job.retryAt=null;
   if(!(await ensureSample())){job.liveMsg='Claude no está disponible en esta página. Pulsa «Probar Claude» para ver el motivo.';if(job===studio)renderStudio();return}
   if(job.doc&&(Object.isFrozen(job.doc)||Object.isFrozen(job.doc.partes||[])))job.doc=JSON.parse(JSON.stringify(job.doc));job.doc=job.doc||{persona:job.persona,partes:[]};
   syncStudioEdits();job.busy=true;job.abort=new AbortController();job.errors={};job.log=[];jlog(job,'pipeline iniciado (vista '+VIEW_ID+')');
@@ -4025,7 +4146,11 @@ async function runPipeline(job){
       job.current=null;if(job===studio)renderStudio();renderQueue();
     }
     if(!paused)job.liveMsg='Todo listo: guion revisado, narración troceada y SEO. Descarga o copia lo que necesites.';
-  }catch(e){jlog(job,'error en '+(job.current||'?')+': '+(e&&e.code||'')+' '+String(e&&e.message||e).slice(0,100));job.errors[job.current||'dossier']=sampleErr(e);job.liveMsg=(e&&e.code==='cancelled')?'Detenido. Pulsa «Continuar» para seguir desde donde quedó.':sampleErr(e)+' El progreso está guardado: pulsa «Continuar» para reintentar.'}
+    job.autoRetries=0;
+  }catch(e){jlog(job,'error en '+(job.current||'?')+': '+(e&&e.code||'')+' '+String(e&&e.message||e).slice(0,100));job.errors[job.current||'dossier']=sampleErr(e);job.liveMsg=(e&&e.code==='cancelled')?'Detenido. Pulsa «Continuar» para seguir desde donde quedó.':sampleErr(e)+' El progreso está guardado: pulsa «Continuar» para reintentar.';
+    const retryable=e&&['rate_limited','upstream_error','queue_overflow','timeout','empty_completion','no_progress'].includes(e.code);
+    if(retryable&&(job.autoRetries||0)<3){job.autoRetries=(job.autoRetries||0)+1;const mins=[5,10,20][job.autoRetries-1];job.retryAt=Date.now()+mins*60000;job.liveMsg=sampleErr(e)+` El progreso está guardado. Lo reintento solo en ${mins} min (intento ${job.autoRetries} de 3); puedes pulsar «Continuar» antes.`;jlog(job,`reintento automático programado en ${mins} min`);
+      clearTimeout(job.retryT);job.retryT=setTimeout(()=>{if(!job.busy&&job.retryAt){job.retryAt=null;jlog(job,'reintento automático');runPipeline(job)}},mins*60000)}}
   jlog(job,'pipeline terminado: '+(job.liveMsg||'').slice(0,80));job.busy=false;job.abort=null;job.current=null;if(job===studio)renderStudio();renderQueue();
 }
 if(window.claude&&window.claude.use)window.claude.use('downloads').then(ns=>{downloads=ns});
@@ -4195,6 +4320,7 @@ function renderAlertas(){
   $('#al-at').textContent='medido '+new Date(ALERTAS.at).toLocaleString('es-ES',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'});
   const groups=new Map();ALERTAS.items.forEach(x=>{const n=alertaNome(x.t);if(!n)return;const k=norm(n).split(/\s+/).slice(0,2).join(' ');if(!groups.has(k))groups.set(k,{nome:n,vids:[]});groups.get(k).vids.push(x)});
   const gs=[...groups.values()].sort((a,b)=>b.vids.length-a.vids.length||a.vids[0].rank-b.vids[0].rank).slice(0,8);
+  try{renderHoy()}catch(e){}
   if(!gs.length){out.innerHTML='<p class="src">Nada fuerte en las últimas 24 horas.</p>';return}
   out.innerHTML=`<div class="ideas">${gs.map((g,i)=>`<div class="idea"><div><div class="t">${esc(g.nome)} <span class="pill ${g.vids.length>=3?'bad':'warn'}">${g.vids.length} vídeo${g.vids.length>1?'s':''} hoy</span>${isDone(g.nome)?' <span class="pill">ya hecho en el canal</span>':''}</div><div class="m">${g.vids.slice(0,3).map(v=>`<a href="https://youtube.com/watch?v=${esc(v.id)}" target="_blank" rel="noopener">${esc(v.t)}</a> · ${esc(v.ch)}${v.quando?' · '+esc(v.quando):''}`).join('<br>')}</div></div><div class="acts"><button class="btn sm primary" data-alreact="${i}">Idea reactiva</button></div></div>`).join('')}</div>`;
   $$('[data-alreact]').forEach(b=>b.addEventListener('click',()=>{const g=gs[+b.dataset.alreact];goTab('ideas');$('#i-persona').value=g.nome;$('#i-angulo').value='Reativo: '+g.vids[0].t;const f=$('#i-fmt');[...f.options].forEach(o=>{if(/Reactivo/.test(o.text))f.value=o.value});$('#i-msg').textContent='Revisa el nombre y el ángulo, y pulsa «Guardar idea».';$('#i-persona').focus()}));
