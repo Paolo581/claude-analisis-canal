@@ -400,6 +400,11 @@ def main():
                     if "mapa" in tipo and "map" not in q.lower():
                         q = "map " + q
                     done = pexels_photo(q, raw, orient, px_key)
+                if not done and not a.demo and ai_key and (c.get("visual") or c.get("busca")):
+                    # sin Pexels: la escena de stock/mapa se genera con IA a partir de su descripción
+                    desc = c.get("visual") or c.get("busca")
+                    done = ai33_image(f"Photorealistic cinematic still frame, documentary style, no text: {desc}",
+                                      raw, aspect, ai_key, img_model)
             except Exception as e:  # una escena fallida no para el montaje
                 log(f"Escena {i + 1}: {e}")
             if not done:
