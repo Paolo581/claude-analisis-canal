@@ -426,6 +426,22 @@ details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
 .reader .part{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin:34px 0 10px}
 .reader p{font-size:var(--rd,20px);line-height:1.7;margin:0 0 1em;max-width:62ch}
 @media (max-width:980px){.hoy{grid-template-columns:minmax(0,1fr)}.agenda{grid-template-columns:repeat(4,minmax(0,1fr))}}
+/* ---------- Fábrica ---------- */
+.fab{display:grid;grid-template-columns:260px minmax(0,1fr);gap:14px;align-items:start}
+.fab-list{position:sticky;top:12px;display:flex;flex-direction:column;gap:4px;max-height:calc(100vh - 40px);overflow:auto}
+button.fab-it{all:unset;cursor:pointer;display:flex;flex-direction:column;gap:2px;padding:8px 10px;border-radius:6px;border:1px solid transparent}
+button.fab-it:hover{background:var(--surface-2)}
+button.fab-it.on{border-color:var(--ink);background:var(--surface-2)}
+button.fab-it b{font-size:13.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+button.fab-it small{font-size:11.5px;color:var(--ink-3)}
+.fab-main{display:flex;flex-direction:column;gap:12px;min-width:0}
+.fab-step.good{border-left:3px solid var(--good)}
+.fab-step.warn{border-left:3px solid var(--warn)}
+.fab-an{margin-top:10px;display:flex;flex-direction:column;gap:6px;font-size:14px}
+.fab-an ul{margin:4px 0 0;padding-left:18px}
+.fab-part{margin-top:10px}
+.fab-part textarea{min-height:140px;margin-top:4px}
+@media (max-width:980px){.fab{grid-template-columns:minmax(0,1fr)}.fab-list{position:static;max-height:none}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 
@@ -441,6 +457,7 @@ details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
   <button data-tab="hoy"><span class="k">·</span>Hoy</button>
   <button data-tab="guiones"><span class="k">1</span>Guiones</button>
   <button data-tab="ideas"><span class="k">2</span>Banco de ideas</button>
+  <button data-tab="fabrica"><span class="k">·</span>Fábrica</button>
   <div class="railgroup">Tu canal</div>
   <button data-tab="panorama" aria-current="page"><span class="k">3</span>Panorama</button>
   <button data-tab="videos"><span class="k">4</span>Mis vídeos</button>
@@ -470,6 +487,15 @@ details.methodgroup > summary small{color:var(--ink-3);font-size:12.5px}
       <p>El siguiente paso, los guiones a medias, las ideas nuevas, la noticia caliente y la semana de publicación, todo en una pantalla.</p></div>
   </div>
   <div class="hoy" id="hoy-out"><p class="src">Cargando…</p></div>
+</section>
+
+<!-- ===================== FÁBRICA ===================== -->
+<section class="tab" id="tab-fabrica">
+  <div class="head">
+    <div><div class="eyebrow">Fábrica</div><h2>De un vídeo viral a tu guion y tu plan de edición</h2>
+      <p>Para los nichos nuevos. Pegas un vídeo que funcionó, la app entiende por qué retiene y construye un vídeo original con la misma ingeniería: guion por partes, tiempos de voz y plan visual escena por escena listo para el editor.</p></div>
+  </div>
+  <div id="fab-out"><p class="src">Cargando…</p></div>
 </section>
 
 <!-- ===================== PANORAMA ===================== -->
@@ -3093,6 +3119,103 @@ async function cleanDiag(){if(!db)return;try{const last=+(localStorage.getItem('
   try{const snap=await db.collection('diag').get();const lim=Date.now()-7*864e5;const old=snap.docs.filter(d=>{const a=Date.parse((d.data()||{}).at||'');return a&&a<lim&&d.id!=='ideas-search'});
     for(const d of old.slice(0,200)){try{await db.collection('diag').doc(d.id).delete()}catch(e){}await new Promise(r=>setTimeout(r,120))}
     try{localStorage.setItem('radar.cleanDiag',String(Date.now()))}catch(e){}console.log('[diag] borrados',Math.min(200,old.length),'registros viejos')}catch(e){console.log('[diag] limpieza no disponible',e&&e.message)}}
+/* ---------- FÁBRICA: del vídeo viral de referencia al guion y al plan visual ---------- */
+let FAB_LIST=[],FAB_CUR=null,FAB_BUSY=null;
+const FAB_LANG={pt:'português do Brasil',es:'espanhol',en:'inglês'};
+const FAB_STYLES=[['anim','Animaciones'],['mapa','Mapas'],['ia','Imágenes IA'],['stock','Stock'],['clip','Clips de YouTube']];
+function fabWpm(p){return p.lang==='en'?155:150}
+function fabTarget(p){return p.formato==='short'?Math.round((+p.min||1)*fabWpm(p)):Math.round((+p.min||20)*fabWpm(p))}
+async function fabSave(p){if(!db||!p)return;p.updatedAt=new Date().toISOString();try{if(p.id)await db.collection('fabrica').doc(p.id).set(JSON.parse(JSON.stringify(p)));else{const r=await db.collection('fabrica').add(JSON.parse(JSON.stringify(p)));p.id=r.id}}catch(e){toast('No se pudo guardar el proyecto: '+(e.message||e.code))}}
+let FAB_MSG='';function fabMsg(t){FAB_MSG=t;const el=$('#fab-msg');if(el)el.textContent=t}
+async function fabClaude(prompt,{json=false,label='Claude'}={}){if(!sample)throw {code:'no_sample',message:'Claude no está disponible en esta página.'};
+  for(let k=0;k<3;k++){const ac=new AbortController();let first=0,last=0;const t0=Date.now();const tier=k===0?'complex':'default';
+    const tick=setInterval(()=>{const s=Math.round((Date.now()-t0)/1000);fabMsg(first?`${label}: Claude está escribiendo… ${s} s`:`${label}: Claude está pensando… ${s} s`);if(!first&&Date.now()-t0>240000)ac.abort();if(first&&Date.now()-last>90000)ac.abort()},2000);
+    try{await claudeGate();const opts={modelTier:tier,cache:false,signal:ac.signal,onText:()=>{if(!first)first=Date.now();last=Date.now()}};
+      const r=json?await sample.json(prompt,opts):await sample(prompt,opts);clearInterval(tick);return json?r:(r&&r.text)||''}
+    catch(e){clearInterval(tick);if(k<2){const w=e&&e.code==='rate_limited'?45:8;fabMsg(`${label}: Claude falló (${e.code==='cancelled'?'no respondió a tiempo':e.code==='rate_limited'?'demasiadas peticiones':e.message||e.code}). Reintento en ${w} s…`);await new Promise(r=>setTimeout(r,w*1000));continue}throw e}}}
+async function fabTranscript(id){const r=await Promise.race([call('get_bulk_video_transcripts',{videoIds:[id]}),new Promise((_,rj)=>setTimeout(()=>rj({code:'timeout',message:'la transcripción tardó demasiado'}),90000))]);
+  const x=((r&&r.transcripts&&r.transcripts.results)||[]).find(y=>y.videoId===id)||((r&&r.transcripts&&r.transcripts.results)||[])[0];if(!x||!x.success||!x.data||!Array.isArray(x.data.transcript))throw {message:'ese vídeo no tiene transcripción disponible'};
+  let out='',lastMark=-999;x.data.transcript.forEach(t=>{const s=+(t.start??t.offset??t.startTime??NaN);if(!isNaN(s)&&s-lastMark>=30){const sec=s>1e4?Math.round(s/1000):Math.round(s);out+=` [${Math.floor(sec/60)}:${String(sec%60).padStart(2,'0')}] `;lastMark=s}out+=' '+(t.text||'')});
+  return {txt:out.replace(/\s+/g,' ').trim(),title:(x.data&&(x.data.title||x.data.videoTitle))||''}}
+async function fabAnalizar(p){const id=videoIdFrom(p.refUrl||'');if(!id){toast('Pega un enlace de YouTube válido.');return}
+  fabMsg('Leyendo la transcripción del vídeo de referencia…');const tr=await fabTranscript(id);p.ref={id,title:tr.title,words:wc(tr.txt),txt:tr.txt.slice(0,45000)};await fabSave(p);renderFab();
+  const prompt=`Você é um analista de retenção de YouTube. Analise a transcrição de um vídeo que viralizou e explique POR QUE ele prende a audiência, para que outro canal crie um vídeo ORIGINAL com a mesma engenharia (sem copiar frases nem fatos).
+Título do vídeo de referência: ${tr.title||'(desconhecido)'}
+Formato: ${p.formato==='short'?'Short vertical até 60 s':'vídeo longo'}
+TRANSCRIÇÃO (com marcas de tempo aproximadas):
+${tr.txt.slice(0,Math.max(8000,(await sampleMax())*0.7|0))}
+Responda SOMENTE JSON válido, em espanhol, neste formato:
+{"resumo":"do que trata, em 2 frases","gancho":{"texto":"o que acontece nos primeiros 5-15 s","tecnica":"por que funciona"},"estrutura":[{"tempo":"0:00","bloco":"nome do bloco","funcao":"o que ele faz com a atenção"}],"retencao":["recursos que seguram a audiência: perguntas abertas, viradas, contagem, promessas adiadas…"],"tom":"voz do narrador e ritmo","ppm":número estimado de palavras por minuto,"visual":"como o vídeo parece ser editado: mapas, animação, stock, IA…","por_que_viral":"a razão principal em 2 frases","aplicar":["5 regras concretas para replicar a engenharia num tema novo"]}`;
+  const a=await fabClaude(prompt,{json:true,label:'Análisis'});p.analise=a;p.guiao=null;p.plano=null;await fabSave(p);fabMsg('Análisis listo. Ahora «Reescribir» crea el guion original con esa estructura.');renderFab()}
+async function fabReescrever(p){if(!p.analise){toast('Primero analiza la referencia.');return}const alvo=fabTarget(p);const lang=FAB_LANG[p.lang]||FAB_LANG.pt;
+  const base=`CANAL/NICHO: ${p.nicho||'—'}
+TÍTULO DO NOVO VÍDEO: ${p.titulo}
+DESCRIÇÃO/ÂNGULO: ${p.desc||'—'}
+IDIOMA DO ROTEIRO: ${lang}
+FORMATO: ${p.formato==='short'?'Short vertical de até 60 s':'vídeo longo de '+p.min+' minutos'} · ALVO: ${alvo} palavras de narração
+ENGENHARIA DO VÍDEO VIRAL DE REFERÊNCIA (replicar a estrutura e os recursos de retenção, NUNCA copiar frases nem fatos): ${JSON.stringify(p.analise).slice(0,6000)}
+REGRAS: texto só de narração, pronto para voz (sem rubricas, sem emojis, sem marcadores, sem "[música]"); frases curtas e faladas; números por extenso; gancho nos primeiros 5 s; abrir perguntas e pagá-las mais tarde; nada inventado apresentado como fato: se o tema exige dados, use só o que é amplamente documentado e marque dúvidas como hipótese.`;
+  if(p.formato==='short'){const t=await fabClaude(`Você é roteirista de Shorts virais.\n${base}\nEscreva o roteiro completo agora, em parágrafos curtos (uma ideia por parágrafo). Responda só com o texto.`,{label:'Guion'});p.guiao={partes:[{titulo:'Short',texto:t.trim()}]};await fabSave(p);renderFab();return}
+  const nP=Math.max(2,Math.min(8,Math.round(alvo/900)));
+  const esc_=await fabClaude(`Você é roteirista-chefe de documentários de YouTube com alta retenção.\n${base}\nPlaneje o roteiro em ${nP} partes. Responda SOMENTE JSON: {"gancho":"a promessa central do vídeo em 1 frase","partes":[{"titulo":"nome da parte","objetivo":"o que ela revela e que pergunta deixa aberta no fim","beats":["3 a 6 momentos"],"palavras":número}]} — as palavras somam cerca de ${alvo}.`,{json:true,label:'Escaleta'});
+  const partes=(esc_&&esc_.partes)||[];if(!partes.length)throw {message:'Claude no devolvió la escaleta'};p.guiao={gancho:esc_.gancho||'',partes:partes.map(x=>({...x,texto:''}))};await fabSave(p);renderFab();
+  for(let i=0;i<partes.length;i++){const prev=p.guiao.partes.slice(0,i).map(x=>x.texto).join('\n\n');const pp=p.guiao.partes[i];
+    const t=await fabClaude(`Você é roteirista de documentários de YouTube com alta retenção.\n${base}\nPROMESSA CENTRAL: ${p.guiao.gancho}\nESCALETA COMPLETA: ${JSON.stringify(partes.map(x=>({titulo:x.titulo,objetivo:x.objetivo})))}\n${prev?`FINAL DO QUE JÁ FOI ESCRITO (continue daqui, sem repetir):\n…${prev.slice(-2500)}\n`:''}\nEscreva AGORA só a parte ${i+1} de ${partes.length}: «${pp.titulo}». Objetivo: ${pp.objetivo}. Beats: ${(pp.beats||[]).join(' | ')}. Cerca de ${pp.palavras||Math.round(alvo/partes.length)} palavras.${i===0?' Comece pelo gancho, sem introdução nem saudação.':''}${i===partes.length-1?' Feche pagando a promessa central e termine com uma frase forte.':' Termine com uma pergunta ou virada que obrigue a continuar.'} Responda só com o texto da narração, em parágrafos curtos.`,{label:`Guion parte ${i+1}/${partes.length}`});
+    pp.texto=t.trim();await fabSave(p);renderFab()}
+  p.plano=null;await fabSave(p);fabMsg('Guion listo. Revisa los tiempos y pulsa «Planificar».');renderFab()}
+function fabParas(p){const out=[];let acc=0;const w=fabWpm(p);((p.guiao&&p.guiao.partes)||[]).forEach((pt,pi)=>{(pt.texto||'').split(/\n+/).map(s=>s.trim()).filter(Boolean).forEach(tx=>{const n=wc(tx);const d=n/w*60;out.push({pi,parte:pt.titulo,texto:tx,ini:acc,fim:acc+d,n});acc+=d})});return out}
+const fabT=s=>`${Math.floor(s/60)}:${String(Math.round(s%60)).padStart(2,'0')}`;
+async function fabPlanejar(p){const paras=fabParas(p);if(!paras.length){toast('Primero escribe el guion.');return}const estilos=(p.estilos&&p.estilos.length?p.estilos:['anim','mapa','stock']).map(k=>(FAB_STYLES.find(s=>s[0]===k)||[k,k])[1]);
+  const passo=p.formato==='short'?4:9;const scenes=[];const lotes=[];let cur=[];paras.forEach(x=>{cur.push(x);if(cur.reduce((s,y)=>s+y.n,0)>700){lotes.push(cur);cur=[]}});if(cur.length)lotes.push(cur);
+  for(let i=0;i<lotes.length;i++){const L=lotes[i];
+    const r=await fabClaude(`Você é diretor de edição de vídeos de YouTube sem rosto (faceless). Crie o PLANO VISUAL deste trecho de narração, cena por cena.
+Estilos permitidos: ${estilos.join(', ')}. Um corte novo a cada ${passo} segundos, mais ou menos (mais rápido no gancho). Idioma do vídeo: ${FAB_LANG[p.lang]||FAB_LANG.pt}. Título: ${p.titulo}.
+TRECHO (com tempo de início e fim de cada parágrafo, em segundos):
+${L.map(x=>`[${Math.round(x.ini)}–${Math.round(x.fim)}] ${x.texto}`).join('\n')}
+Responda SOMENTE JSON: {"cenas":[{"ini":segundos,"fim":segundos,"fala":"trecho curto da narração que cai nessa cena","tipo":"um dos estilos permitidos","visual":"o que aparece na tela, em espanhol, concreto","prompt_ia":"prompt em inglês para gerar a imagem ou animação (cinematic, 16:9${p.formato==='short'?' → 9:16':''}), vazio se não for IA/animação","busca":"termos de busca em inglês para stock ou YouTube, vazio se não servir","texto_tela":"texto curto na tela, ou vazio","som":"efeito ou clima musical, curto"}]}`,{json:true,label:`Plan visual ${i+1}/${lotes.length}`});
+    (r&&r.cenas||[]).forEach(c=>scenes.push(c));p.plano={cenas:scenes.slice(),estilos};await fabSave(p);renderFab()}
+  fabMsg(`Plan visual listo: ${scenes.length} escenas. Descarga el guion para la voz y el plan para el editor.`);renderFab()}
+function fabScriptTxt(p){return ((p.guiao&&p.guiao.partes)||[]).map(x=>x.texto).join('\n\n')}
+function fabCsv(p){const q=s=>'"'+String(s==null?'':s).replace(/"/g,'""')+'"';const rows=[['inicio','fin','tipo','narracion','visual','prompt_ia','busqueda','texto_pantalla','sonido']];((p.plano&&p.plano.cenas)||[]).forEach(c=>rows.push([fabT(+c.ini||0),fabT(+c.fim||0),c.tipo,c.fala,c.visual,c.prompt_ia,c.busca,c.texto_tela,c.som]));return rows.map(r=>r.map(q).join(',')).join('\n')}
+function fabMd(p){return `# ${p.titulo}\n\n${p.desc?p.desc+'\n\n':''}## Guion (narración)\n\n${((p.guiao&&p.guiao.partes)||[]).map(x=>(p.guiao.partes.length>1?`### ${x.titulo}\n\n`:'')+x.texto).join('\n\n')}\n\n## Plan visual\n\n${((p.plano&&p.plano.cenas)||[]).map(c=>`- **${fabT(+c.ini||0)}–${fabT(+c.fim||0)} · ${c.tipo}** — ${c.visual}${c.prompt_ia?`\n  - Prompt IA: ${c.prompt_ia}`:''}${c.busca?`\n  - Buscar: ${c.busca}`:''}${c.texto_tela?`\n  - Texto en pantalla: ${c.texto_tela}`:''}`).join('\n')}\n`}
+async function fabDownload(name,data){if(!downloads){try{await navigator.clipboard.writeText(data);toast('Descarga no disponible aquí: lo he copiado al portapapeles.')}catch(e){toast('Descarga no disponible aquí.')}return}try{await downloads.save({filename:name,data});toast('Descargado: '+name)}catch(e){if(e&&e.code!=='cancelled')toast('No se pudo descargar: '+(e.message||e.code))}}
+async function fabRun(kind){const p=FAB_CUR;if(!p||FAB_BUSY)return;FAB_BUSY=kind;renderFab();try{if(kind==='analizar')await fabAnalizar(p);else if(kind==='reescribir')await fabReescrever(p);else if(kind==='planificar')await fabPlanejar(p)}catch(e){fabMsg('No se pudo: '+(e&&e.message?e.message:e&&e.code?sampleErr(e):String(e)))}FAB_BUSY=null;renderFab()}
+function fabNew(){FAB_CUR={titulo:'',desc:'',nicho:'',formato:'long',min:12,lang:'es',refUrl:'',estilos:['anim','mapa','stock'],createdAt:new Date().toISOString()};renderFab()}
+function renderFab(){const el=$('#fab-out');if(!el)return;if(!db){el.innerHTML='<p class="msg">La Fábrica guarda los proyectos en la app: ábrela desde claude.ai.</p>';return}
+  const list=FAB_LIST.slice().sort((a,b)=>String(b.updatedAt||'').localeCompare(String(a.updatedAt||'')));
+  const p=FAB_CUR;const busy=FAB_BUSY;
+  const st=k=>{if(!p)return '';if(k==='ref')return p.analise?'good':p.ref?'warn':'';if(k==='guion')return p.guiao&&p.guiao.partes.every(x=>x.texto)?'good':p.guiao?'warn':'';if(k==='plan')return p.plano&&p.plano.cenas.length?'good':'';return ''};
+  const paras=p?fabParas(p):[];const dur=paras.length?paras[paras.length-1].fim:0;const words=paras.reduce((s,x)=>s+x.n,0);
+  el.innerHTML=`<div class="fab"><aside class="card fab-list"><div class="toolbar" style="margin-bottom:8px"><h3 style="margin:0">Proyectos</h3><span class="sp"></span><button class="btn sm primary" id="fab-new">Nuevo</button></div>${list.length?list.map(x=>`<button class="fab-it${p&&p.id===x.id?' on':''}" data-fab="${x.id}"><b>${esc(x.titulo||'(sin título)')}</b><small>${esc(x.nicho||'')}${x.nicho?' · ':''}${x.formato==='short'?'Short':x.min+' min'} · ${x.plano?'plan listo':x.guiao?'guion':x.analise?'analizado':'nuevo'}</small></button>`).join(''):'<p class="src">Ninguno todavía. Pulsa «Nuevo».</p>'}</aside>
+  <div class="fab-main">${!p?`<div class="card"><h3>Cómo funciona</h3><ol class="src" style="margin:0;padding-left:18px;line-height:1.8"><li>Pegas el enlace de un vídeo viral de tu nicho nuevo.</li><li>«Analizar»: la app lee la transcripción y Claude explica por qué retiene (gancho, estructura, recursos).</li><li>«Reescribir»: guion original sobre tu título con la misma ingeniería, por partes.</li><li>Tiempos: duración de cada párrafo a ${150} palabras por minuto.</li><li>«Planificar»: plan visual escena por escena (animación, mapa, IA, stock o clip) con prompts y búsquedas.</li><li>Descargas el guion para la voz y el plan (CSV) para el editor.</li></ol><div class="toolbar" style="margin-top:12px"><button class="btn primary" id="fab-new2">Crear el primer proyecto</button></div></div>`:`
+   <div class="card"><h3>1 · Proyecto</h3><div class="grid g2" style="gap:10px"><label class="f">Título del vídeo<input id="fab-tit" value="${esc(p.titulo)}" placeholder="ej. ¿Por qué Virginia se partió en dos?"></label><label class="f">Nicho / canal<input id="fab-nicho" value="${esc(p.nicho)}" placeholder="ej. Geografía curiosa (canal nuevo)"></label></div>
+     <label class="f" style="margin-top:10px">Descripción o ángulo<textarea id="fab-desc" placeholder="Qué pregunta responde el vídeo y qué promete al espectador">${esc(p.desc)}</textarea></label>
+     <div class="toolbar" style="margin-top:10px"><label class="f">Formato<select id="fab-fmt"><option value="long"${p.formato!=='short'?' selected':''}>Largo</option><option value="short"${p.formato==='short'?' selected':''}>Short (vertical)</option></select></label><label class="f">Minutos<input id="fab-min" type="number" min="0.5" max="90" step="0.5" value="${esc(String(p.min))}" style="width:90px"></label><label class="f">Idioma<select id="fab-lang">${Object.entries({es:'Español',pt:'Português',en:'English'}).map(([k,v])=>`<option value="${k}"${p.lang===k?' selected':''}>${v}</option>`).join('')}</select></label><span class="src" style="align-self:flex-end">Objetivo: ~${fmt(fabTarget(p))} palabras</span></div></div>
+   <div class="card fab-step ${st('ref')}"><h3>2 · Referencia viral y análisis</h3><div class="toolbar"><input id="fab-ref" value="${esc(p.refUrl)}" placeholder="Enlace de YouTube del vídeo viral de referencia" style="flex:1;min-width:220px"><button class="btn primary" id="fab-an"${busy?' disabled':''}>${busy==='analizar'?'Analizando…':p.analise?'Volver a analizar':'Analizar'}</button></div>
+     ${p.ref?`<p class="src" style="margin-top:8px">Referencia: <a href="https://youtu.be/${esc(p.ref.id)}" target="_blank" rel="noopener">${esc(p.ref.title||p.ref.id)}</a> · ${fmt(p.ref.words)} palabras transcritas</p>`:''}
+     ${p.analise?`<div class="fab-an"><p><b>Por qué se hizo viral:</b> ${esc(p.analise.por_que_viral||'')}</p><p><b>Gancho:</b> ${esc((p.analise.gancho||{}).texto||'')} <span class="src">— ${esc((p.analise.gancho||{}).tecnica||'')}</span></p><details class="more" style="max-width:none"><summary>Estructura, recursos de retención y reglas</summary><div class="scroll"><table><thead><tr><th>Tiempo</th><th>Bloque</th><th>Qué hace</th></tr></thead><tbody>${(p.analise.estrutura||[]).map(b=>`<tr><td class="num">${esc(b.tempo||'')}</td><td>${esc(b.bloco||'')}</td><td>${esc(b.funcao||'')}</td></tr>`).join('')}</tbody></table></div><p style="margin-top:8px"><b>Retención:</b> ${(p.analise.retencao||[]).map(esc).join(' · ')}</p><p><b>Tono:</b> ${esc(p.analise.tom||'')} · <b>Ritmo:</b> ${esc(String(p.analise.ppm||'—'))} palabras/min · <b>Edición:</b> ${esc(p.analise.visual||'')}</p><p><b>Reglas para tu vídeo:</b></p><ul>${(p.analise.aplicar||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ul></details></div>`:''}</div>
+   <div class="card fab-step ${st('guion')}"><div class="toolbar"><h3 style="margin:0">3 · Guion</h3><span class="sp"></span>${words?`<span class="src">${fmt(words)} palabras · ~${fabT(dur)} min de voz</span>`:''}<button class="btn primary" id="fab-re"${busy||!p.analise?' disabled':''}>${busy==='reescribir'?'Escribiendo…':p.guiao?'Reescribir de nuevo':'Reescribir'}</button></div>
+     ${p.guiao?p.guiao.partes.map((x,i)=>`<div class="fab-part"><div class="eyebrow">${p.guiao.partes.length>1?`Parte ${i+1} · ${esc(x.titulo||'')}`:'Guion'}</div>${x.texto?`<textarea data-fabtxt="${i}" rows="8">${esc(x.texto)}</textarea>`:`<p class="src">${busy==='reescribir'?'Pendiente…':'Sin escribir.'}</p>`}</div>`).join(''):`<p class="src" style="margin-top:8px">${p.analise?'Pulsa «Reescribir» para crear el guion original.':'Analiza primero la referencia.'}</p>`}</div>
+   <div class="card fab-step"><h3>4 · Voz y tiempos</h3>${paras.length?`<div class="scroll" style="max-height:260px;overflow:auto"><table><thead><tr><th class="num">Inicio</th><th class="num">Fin</th><th>Párrafo</th></tr></thead><tbody>${paras.map(x=>`<tr><td class="num">${fabT(x.ini)}</td><td class="num">${fabT(x.fim)}</td><td>${esc(x.texto.slice(0,140))}${x.texto.length>140?'…':''}</td></tr>`).join('')}</tbody></table></div><div class="toolbar" style="margin-top:8px"><button class="btn sm" id="fab-copy">Copiar guion limpio para la voz</button><button class="btn sm" id="fab-dltxt">Descargar .txt para la voz</button><span class="src">La voz se genera fuera (ElevenLabs, CapCut…); los tiempos se calculan a ${fabWpm(p)} palabras por minuto.</span></div>`:'<p class="src">Aparecen cuando el guion está escrito.</p>'}</div>
+   <div class="card fab-step ${st('plan')}"><div class="toolbar"><h3 style="margin:0">5 · Plan visual</h3><span class="sp"></span>${FAB_STYLES.map(([k,l])=>`<label class="src" style="display:inline-flex;gap:5px;align-items:center"><input type="checkbox" data-fabst="${k}"${(p.estilos||[]).includes(k)?' checked':''} style="min-height:0">${l}</label>`).join('')}<button class="btn primary" id="fab-pl"${busy||!paras.length?' disabled':''}>${busy==='planificar'?'Planificando…':p.plano?'Planificar de nuevo':'Planificar'}</button></div>
+     ${p.plano&&p.plano.cenas.length?`<div class="scroll" style="max-height:420px;overflow:auto;margin-top:8px"><table><thead><tr><th class="num">Tiempo</th><th>Tipo</th><th>En pantalla</th><th>Prompt IA / búsqueda</th></tr></thead><tbody>${p.plano.cenas.map(c=>`<tr><td class="num">${fabT(+c.ini||0)}–${fabT(+c.fim||0)}</td><td><span class="pill">${esc(c.tipo||'')}</span></td><td>${esc(c.visual||'')}${c.texto_tela?`<br><span class="src">Texto: ${esc(c.texto_tela)}</span>`:''}</td><td class="src">${esc(c.prompt_ia||'')}${c.busca?`<br>Buscar: ${esc(c.busca)}`:''}</td></tr>`).join('')}</tbody></table></div><div class="toolbar" style="margin-top:8px"><button class="btn sm primary" id="fab-dlcsv">Descargar plan (CSV)</button><button class="btn sm" id="fab-dlmd">Descargar todo (.md)</button></div>`:'<p class="src" style="margin-top:8px">Elige los estilos y pulsa «Planificar» cuando el guion esté listo.</p>'}</div>
+   <div class="toolbar"><span class="src" id="fab-msg">${esc(FAB_MSG)}</span><span class="sp"></span>${p.id&&!busy?'<button class="btn sm" id="fab-del">Eliminar proyecto</button>':''}</div>`}</div></div>`;
+  $$('[data-fab]').forEach(b=>b.addEventListener('click',()=>{if(FAB_BUSY)return;FAB_CUR=JSON.parse(JSON.stringify(FAB_LIST.find(x=>x.id===b.dataset.fab)));renderFab()}));
+  ['#fab-new','#fab-new2'].forEach(s=>{const b=$(s);if(b)b.addEventListener('click',()=>{if(!FAB_BUSY)fabNew()})});
+  if(!p)return;
+  const bind=(sel,key,num)=>{const i=$(sel);if(i)i.addEventListener('change',()=>{p[key]=num?+i.value:i.value;fabSave(p).then(renderFab)})};
+  bind('#fab-tit','titulo');bind('#fab-nicho','nicho');bind('#fab-desc','desc');bind('#fab-fmt','formato');bind('#fab-min','min',true);bind('#fab-lang','lang');bind('#fab-ref','refUrl');
+  $$('[data-fabst]').forEach(c=>c.addEventListener('change',()=>{p.estilos=$$('[data-fabst]').filter(x=>x.checked).map(x=>x.dataset.fabst);fabSave(p)}));
+  $$('[data-fabtxt]').forEach(t=>t.addEventListener('change',()=>{p.guiao.partes[+t.dataset.fabtxt].texto=t.value;fabSave(p).then(renderFab)}));
+  const on=(s,f)=>{const b=$(s);if(b)b.addEventListener('click',f)};
+  on('#fab-an',()=>{p.refUrl=$('#fab-ref').value.trim();if(!p.titulo){toast('Escribe primero el título del vídeo.');return}fabRun('analizar')});
+  on('#fab-re',()=>{if(!p.titulo){toast('Escribe primero el título del vídeo.');return}fabRun('reescribir')});on('#fab-pl',()=>fabRun('planificar'));
+  on('#fab-copy',async()=>{try{await navigator.clipboard.writeText(fabScriptTxt(p));toast('Guion copiado.')}catch(e){toast('No se pudo copiar; usa «Descargar .txt».')}});
+  on('#fab-dltxt',()=>fabDownload(`guion-${slug(p.titulo||'video')}.txt`,fabScriptTxt(p)));on('#fab-dlcsv',()=>fabDownload(`plan-visual-${slug(p.titulo||'video')}.csv`,fabCsv(p)));on('#fab-dlmd',()=>fabDownload(`fabrica-${slug(p.titulo||'video')}.md`,fabMd(p)));
+  on('#fab-del',b=>{const btn=$('#fab-del');confirmBtn(btn,async()=>{try{await db.collection('fabrica').doc(p.id).delete();FAB_CUR=null;renderFab()}catch(e){toast('No se pudo eliminar: '+(e.message||e.code))}})});
+}
+function fabBoot(){if(!db)return;try{db.collection('fabrica').onSnapshot(snap=>{FAB_LIST=snap.docs.map(d=>({id:d.id,...d.data()}));if(FAB_CUR&&FAB_CUR.id&&!FAB_BUSY){const f=FAB_LIST.find(x=>x.id===FAB_CUR.id);if(!f)FAB_CUR=null}if(!$('#fab-out textarea:focus')&&!$('#fab-out input:focus'))renderFab()},e=>{const el=$('#fab-out');if(el)el.innerHTML=`<p class="msg err">No se pudieron leer los proyectos: ${esc(e.message||e.code)}</p>`})}catch(e){}}
+
 setTimeout(cleanDiag,90000);
 setTimeout(()=>{try{renderHoy()}catch(e){}},1200);
 function partialIdeas(txt){const out=[];if(!txt)return out;const s=txt.indexOf('"ideas"');if(s<0)return out;let i=txt.indexOf('[',s);if(i<0)return out;let depth=0,start=-1,inStr=false,esc=false;
@@ -4468,6 +4591,7 @@ renderKpis();renderCharts();renderFindings();renderVideos();renderComps();render
     try{const rs=await ns.doc('snapshots/refresh').get();if(rs.exists&&rs.data().ok!==true)S.refreshFail=rs.data();renderFreshLine()}catch(e){}
     await loadNichesSnapshot();await loadUserPrompts();await loadModelos();await loadCta();await loadPublico();try{const c=await ns.doc('config/ideas').get();if(c.exists)S.genRound=c.data().round||0}catch(e){}
     ns.collection('aprendizajes').orderBy('createdAt','desc').onSnapshot(snap=>{learnCache=snap.docs.map(d=>({id:d.id,...d.data()}));renderLearn()},e=>{$('#learn-list').innerHTML=`<p class="msg err">No se pudieron leer las lecciones: ${esc(e.message||e.code)}</p>`});
+    try{fabBoot()}catch(e){}
     ns.collection('guiones').onSnapshot(snap=>{guionesCache=snap.docs.map(d=>({id:d.id,...d.data()}));renderQueue();renderResultados();autorunPending()},()=>{});
     ns.collection('ideas').orderBy('createdAt','desc').onSnapshot(snap=>{ideasCache=snap.docs.map(d=>({id:d.id,...d.data()}));renderIdeas();renderQueue();autorunPending()},e=>{$('#ideas').innerHTML=`<p class="msg err">No se pudieron leer las ideas: ${esc(e.message||e.code)}</p>`});
   });
