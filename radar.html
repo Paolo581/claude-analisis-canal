@@ -545,7 +545,7 @@ button.fab-it small{font-size:11.5px;color:var(--ink-3)}
       <span class="sp"></span><span class="src" id="v-count"></span>
     </div>
     <div class="scroll"><table id="v-table">
-      <thead><tr><th data-sort="d">Publicado</th><th data-sort="t">Título</th><th class="num" data-sort="views">Vistas</th><th class="num" data-sort="v90">Vistas 90 d</th><th class="num" data-sort="dur">Min</th><th class="num" data-sort="avd">Vista media</th><th class="num" data-sort="ret">% visto</th><th class="num" data-sort="length">Car.</th></tr></thead>
+      <thead><tr><th data-sort="d">Publicado</th><th data-sort="t">Título</th><th class="num" data-sort="views">Vistas</th><th class="num" data-sort="v90">Vistas 90 d</th><th class="num" data-sort="dur">Min</th><th class="num" data-sort="avd">Vista media</th><th class="num" data-sort="ret">% visto</th><th class="num" data-sort="imp" title="Impresiones de la miniatura, últimos 28 días (API de YouTube)">Impr. 28 d</th><th class="num" data-sort="ctr" title="Porcentaje de clics sobre impresiones, últimos 28 días">CTR</th><th class="num" data-sort="length">Car.</th></tr></thead>
       <tbody></tbody></table></div>
   </div>
 </section>
@@ -2521,7 +2521,7 @@ function renderVideos(){
   S.filters.forEach(f=>rows=rows.filter(v=>v[f]));
   const {key,dir}=S.sort;rows.sort((a,b)=>{const x=a[key],y=b[key];if(x==null)return 1;if(y==null)return -1;return (x>y?1:x<y?-1:0)*dir});
   $('#v-count').textContent=`${rows.length} vídeos`;
-  $('#v-table tbody').innerHTML=rows.map(v=>`<tr><td class="mono" style="white-space:nowrap">${v.d.slice(5).split('-').reverse().join('/')}</td><td><span class="t"><a href="https://youtu.be/${v.id}" target="_blank" rel="noopener">${esc(v.t)}</a></span><span class="tags">${tagsFor(v)}</span></td><td class="num">${fmt(v.views)}</td><td class="num">${v.v90!=null?fmt(v.v90):'—'}</td><td class="num">${v.dur?v.dur.toFixed(0):'—'}</td><td class="num">${v.avd?mins(v.avd):'—'}</td><td class="num" style="${v.ret>=38?'color:var(--good);font-weight:600':v.ret!=null&&v.ret<28?'color:var(--bad);font-weight:600':''}">${v.ret!=null?pct(v.ret):'—'}</td><td class="num">${v.length}</td></tr>`).join('');
+  $('#v-table tbody').innerHTML=rows.map(v=>`<tr><td class="mono" style="white-space:nowrap">${v.d.slice(5).split('-').reverse().join('/')}</td><td><span class="t"><a href="https://youtu.be/${v.id}" target="_blank" rel="noopener">${esc(v.t)}</a></span><span class="tags">${tagsFor(v)}</span></td><td class="num">${fmt(v.views)}</td><td class="num">${v.v90!=null?fmt(v.v90):'—'}</td><td class="num">${v.dur?v.dur.toFixed(0):'—'}</td><td class="num">${v.avd?mins(v.avd):'—'}</td><td class="num" style="${v.ret>=38?'color:var(--good);font-weight:600':v.ret!=null&&v.ret<28?'color:var(--bad);font-weight:600':''}">${v.ret!=null?pct(v.ret):'—'}</td><td class="num">${v.imp!=null?fmt(v.imp):'—'}</td><td class="num" style="${v.ctr>=6?'color:var(--good);font-weight:600':v.ctr!=null&&v.ctr<3?'color:var(--bad);font-weight:600':''}">${v.ctr!=null?String(v.ctr).replace('.',',')+' %':'—'}</td><td class="num">${v.length}</td></tr>`).join('');
   $$('#v-table th[data-sort]').forEach(th=>th.classList.toggle('active',th.dataset.sort===key));
 }
 $('#v-search').addEventListener('input',renderVideos);
@@ -2674,10 +2674,18 @@ async function saveSnapshot(res){
   try{await db.doc('snapshots/latest').set({at:S.refreshedAt,okAt:S.okAt,channel:S.channel,videos:S.videos,comps:S.comps.map(c=>({id:c.id,out:c.out,subs:c.subs,avg:c.avg,n:c.n}))})}catch(e){console.warn('snapshot',e)}
   try{await db.doc('snapshots/refresh').set({at:S.refreshedAt,ok:true})}catch(e){}
 }
+function applyYT(d){if(!d||!d.channel||!Array.isArray(d.videos))return false;const c=d.channel;
+  S.channel.subs=c.subs||S.channel.subs;S.channel.views=c.views||S.channel.views;if(c.period)S.channel.period=Object.assign({},S.channel.period||{},c.period);
+  if(c.weekly&&c.weekly.length)S.channel.weekly=c.weekly;if(c.daily)S.channel.daily=c.daily;if(c.traffic&&c.traffic.length)S.channel.traffic=c.traffic;if(c.age&&c.age.length)S.channel.age=c.age;if(c.gender&&c.gender.length)S.channel.gender=c.gender;
+  const byId=Object.fromEntries(S.videos.map(v=>[v.id,v]));
+  d.videos.forEach(y=>{let v=byId[y.id];if(!v){v={id:y.id,t:y.t,d:y.d,length:(y.t||'').length,caps:!!y.caps,fam:FAM.test(y.t||''),inst:INST.test(y.t||''),shock:SHOCK_GOOD.test(y.t||'')||SHOCK_TIRED.test(y.t||'')||SHOCK_OK.test(y.t||'')};S.videos.push(v);byId[y.id]=v}
+    ['dur','views','v90','avd','ret','likes','comments'].forEach(k=>{if(y[k]!=null)v[k]=y[k]});if(y.imp28!=null)v.imp=y.imp28;if(y.ctr28!=null)v.ctr=y.ctr28;if(y.rev90!=null)v.rev=y.rev90;if(y.subs!=null)v.subsV=y.subs});
+  S.ytAt=d.at;S.ytInfo={reach:d.reach,avisos:d.avisos||[]};if(!S.okAt||d.at>S.okAt)S.okAt=d.at;
+  try{renderKpis();renderCharts();renderFindings();renderVideos()}catch(e){}return true}
 function renderFreshLine(){const el=$('#fresh-line');if(!el)return;const ok=S.okAt?new Date(S.okAt):null;const age=ok?(Date.now()-ok.getTime())/36e5:null;
   const when=ok?(new Date().toDateString()===ok.toDateString()?'hoy '+ok.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'}):ok.toLocaleDateString('es-ES',{day:'2-digit',month:'2-digit'})+' '+ok.toLocaleTimeString('es-ES',{hour:'2-digit',minute:'2-digit'})):'nunca';
   el.className='pill '+(REFRESHING?'brass':age!=null&&age<26?'good':'bad');
-  el.textContent=REFRESHING?'Actualizando datos del canal…':`Datos del canal: ${when}`+(S.refreshFail&&(!ok||new Date(S.refreshFail.at)>ok)?' · último intento falló':'');
+  el.textContent=REFRESHING?'Actualizando datos del canal…':`Datos del canal: ${when}${S.ytAt?' · API de YouTube':''}`+(S.refreshFail&&(!ok||new Date(S.refreshFail.at)>ok)?' · último intento falló':'');
   el.title=S.refreshFail?('Último fallo: '+S.refreshFail.msg):'Se actualiza sola al abrir la app y cada 6 horas mientras está abierta.'}
 let REFRESHING=false;
 function applySnapshot(d){
@@ -4619,6 +4627,7 @@ renderKpis();renderCharts();renderFindings();renderVideos();renderComps();render
   claude.use('sample').then(ns=>{sample=ns;setStatus('#st-ai',!!ns,ns?'Claude: listo':'Claude: sin permiso aún')});
   const pd=claude.use('db').then(async ns=>{db=ns;setStatus('#st-db',!!ns,ns?'Ideas guardadas: sincronizadas':'Ideas guardadas: no disponible');if(!ns){renderIdeas();return}
     try{const snap=await ns.doc('snapshots/latest').get();if(snap.exists)applySnapshot(snap.data())}catch(e){console.warn('snapshot read',e)}
+    try{const ys=await ns.doc('snapshots/youtube').get();if(ys.exists)applyYT(ys.data())}catch(e){}
     try{const rs=await ns.doc('snapshots/refresh').get();if(rs.exists&&rs.data().ok!==true)S.refreshFail=rs.data();renderFreshLine()}catch(e){}
     await loadNichesSnapshot();await loadUserPrompts();await loadModelos();await loadCta();await loadPublico();try{const c=await ns.doc('config/ideas').get();if(c.exists)S.genRound=c.data().round||0}catch(e){}
     ns.collection('aprendizajes').orderBy('createdAt','desc').onSnapshot(snap=>{learnCache=snap.docs.map(d=>({id:d.id,...d.data()}));renderLearn()},e=>{$('#learn-list').innerHTML=`<p class="msg err">No se pudieron leer las lecciones: ${esc(e.message||e.code)}</p>`});
