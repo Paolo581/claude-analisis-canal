@@ -729,3 +729,49 @@ Power with nobody to question it always rots. That's true of power over a compan
 Elvis had fame and the love of the entire world. But he didn't have someone beside him with the courage to ask where his money was going. Or to tell him he needed help.
 
 If you blindly trust someone who handles your money or your life, send this video to someone you love who can still ask you the right questions.
+
+---
+
+## YOUTUBE DESCRIPTION
+
+Elvis Presley was the most famous man on Earth, and he never played a single concert in Europe. Not one. The reason had nothing to do with Elvis. It was hidden in the past of the man who controlled his every move for more than twenty years: Colonel Tom Parker.
+
+In this video you'll discover who the Colonel really was, why he never set foot outside the United States, how he ended up with HALF of everything Elvis earned, and what happened the one night Elvis tried to fire him. You'll also hear about the doctor who prescribed Elvis more than ten thousand doses in eight months, the 1973 deal that sold off every hit he ever recorded, and the unsolved crime in a small Dutch city that has haunted the Colonel's name for almost a century.
+
+This is the story of how a boy from a two-room house in Tupelo became the King of Rock and Roll, and how one man built an empire on his back, right up to the day he died at Graceland at forty-two.
+
+⏱️ CHAPTERS
+00:00 The star who never left the country
+02:10 Tupelo: a two-room house and a dead twin
+06:30 Sun Records and the truck driver who changed music
+09:40 The man who called himself Colonel
+14:20 Graceland, the Army and the death of Gladys
+20:50 Ten years trapped in Hollywood
+26:30 The 50/50 contract and a wedding in a hotel room
+31:00 The Comeback Special and the world knocking on the door
+35:40 Who Tom Parker really was
+41:30 The night Elvis fired the Colonel
+45:20 The 1973 sale, the roulette table and Dr. Nick
+50:30 August 16, 1977
+55:00 Breda, 1929: the question nobody has answered
+58:30 The report that finally called it by its name
+
+(Adjust the timestamps to the final edit.)
+
+⚠️ Note: the possible link between Andreas van Kuijk and the 1929 crime in Breda has never been proven. He was never investigated or charged. We present it as his biographers do: as a possibility, not a fact.
+
+If you blindly trust someone who handles your money or your life, send this video to someone you love who can still ask you the right questions.
+
+👍 Like, subscribe and turn on notifications for more untold stories of the most famous people in the world.
+
+#ElvisPresley #ColonelTomParker #Elvis
+
+## TAGS (comma-separated, under 500 characters)
+
+elvis presley, colonel tom parker, elvis presley documentary, elvis presley story, tom parker, colonel parker, elvis manager, elvis presley death, graceland, elvis presley biography, what happened to elvis, elvis presley secrets, andreas van kuijk, elvis presley 1977, elvis and the colonel, elvis presley life story, elvis presley true story, king of rock and roll, priscilla presley, lisa marie presley, dr nick elvis, elvis presley untold story, elvis movie true story, elvis never toured europe, elvis presley tragedy
+
+## TITLE OPTIONS
+
+1. ELVIS PRESLEY: The DISGUSTING Secret of the Man Who ROBBED Him for 20 Years
+2. The SICKENING Truth About the Man Who Controlled ELVIS for 20 Years
+3. Why ELVIS Never Played Europe: The DARK Secret of Colonel Tom Parker
