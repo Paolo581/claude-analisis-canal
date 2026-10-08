@@ -768,7 +768,7 @@ If you blindly trust someone who handles your money or your life, send this vide
 
 ## TAGS (comma-separated, under 500 characters)
 
-elvis presley, colonel tom parker, elvis presley documentary, elvis presley story, tom parker, colonel parker, elvis manager, elvis presley death, graceland, elvis presley biography, what happened to elvis, elvis presley secrets, andreas van kuijk, elvis presley 1977, elvis and the colonel, elvis presley life story, elvis presley true story, king of rock and roll, priscilla presley, lisa marie presley, dr nick elvis, elvis presley untold story, elvis movie true story, elvis never toured europe, elvis presley tragedy
+elvis presley, colonel tom parker, elvis presley documentary, elvis presley story, tom parker, colonel parker, elvis manager, elvis presley death, graceland, elvis presley biography, what happened to elvis, elvis presley secrets, andreas van kuijk, elvis presley 1977, elvis and the colonel, elvis presley true story, king of rock and roll, priscilla presley, lisa marie presley, dr nick elvis, elvis presley untold story, elvis movie true story, elvis never toured europe
 
 ## TITLE OPTIONS
 
