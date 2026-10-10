@@ -1,6 +1,6 @@
 # The DISTURBING Truth About Angelina Jolie's Life (and the Night Brad Pitt Went Too Far)
 
-English narration script, retention-edited version. Numbers spelled out for the voice. Paragraph breaks mark the pauses. Closing hotline adapted for a US audience (note at the end).
+English narration script, retention-edited and expanded. Numbers spelled out for the voice. Paragraph breaks mark the pauses. Closing hotline adapted for a US audience (note at the end).
 
 ---
 
@@ -8,11 +8,11 @@ English narration script, retention-edited version. Numbers spelled out for the 
 
 Three in the morning. A private jet makes an unscheduled landing in Minnesota. A woman walks down the steps holding the hands of six children, and she does not look back at the man still inside the plane.
 
-That woman is Angelina Jolie. The man is Brad Pitt. And forty-eight hours later, she is on the phone with the FBI.
+That woman is Angelina Jolie. The man is Brad Pitt. And forty-eight hours later, she is giving a statement to the FBI.
 
-For eight years, what happened on that flight stayed sealed in court files. Tonight, you're going to hear it. What Brad Pitt did to his oldest son. What he did to his wife in front of the other five. And why the most powerful couple in Hollywood ended with four of their children erasing his name.
+For years, what happened on that flight stayed sealed in court files. Tonight, you're going to hear it. What Brad Pitt did to his oldest son. What he did to his wife in front of the other five. What he poured on the children. And why the most powerful couple in Hollywood ended with four of their kids erasing his name.
 
-But that night on the plane only makes sense if you know what Angelina Jolie was carrying with her when she boarded. A scar on her neck from when she was thirteen. A mother who was abandoned with two babies. And a lifetime of choosing men who were already taken.
+But that night only makes sense if you know what Angelina Jolie was carrying with her when she boarded. A scar on her neck from when she was thirteen. A mother who was left alone with two babies. And a lifetime of choosing men who already belonged to someone else.
 
 So stay with me. Because to understand that night, we have to go back fifty-one years. To a hot June morning in Los Angeles.
 
@@ -36,6 +36,10 @@ Because the abandonment was only the first wound. The next one, Angelina would c
 
 The Sherman Oaks apartment where Angelina grew up was modest. Marcheline paid the bills teaching drama to neighborhood kids and raised the two children alone.
 
+Jon Voight drifted in and out. When Angelina was seven, he put her in one of his movies, a small part in a film called Lookin' to Get Out. For a few weeks she had a father on set every day. Then the movie wrapped, and he was gone again.
+
+She would say later that he was never really there. And years from now, when she finally cut him out of her life completely, he would go on national television and say something about her that no daughter forgets. We'll get to that.
+
 Angelina was not an easy child to raise. At school she was painfully thin, with round glasses and braces. The other girls called her "giraffe" and "skeleton." Nobody wanted to play with her at lunch, so she spent recess alone, drawing coffins and skulls in a little notebook.
 
 She was eight years old, and she already thought about death a great deal.
@@ -56,6 +60,8 @@ One night, she cut so close to the jugular vein that she almost died alone in th
 
 The scar from that cut is still on her neck today. You've seen it in a hundred photographs without knowing what it was.
 
+Angelina explained it years later in a way that is hard to hear. She said that when she was a teenager, she couldn't feel anything. Cutting was the only thing that felt real. The pain was proof she was alive.
+
 Marcheline spent nights awake in the dark hallway, watching the door. She took the girl to one psychologist after another. Nothing worked. And at fourteen, out of options, she made a decision that neighbors would still be whispering about years later.
 
 She let Angelina's boyfriend move into the apartment. A boy her own age, sleeping in her daughter's bedroom every night. Marcheline's reasoning was simple: better here, where I can see them, than out on the street where I can't.
@@ -68,7 +74,9 @@ Years later, Angelina told Rolling Stone that she and her first boyfriend cut ea
 
 Marcheline walked in one night to call them for dinner and froze in the doorway. Two teenagers covered in blood. The knives on the floor.
 
-At sixteen, Angelina left. She moved to New York to study acting, alone, in a tiny apartment far from the mother who had watched her door for three years.
+The relationship lasted two years. When it ended, Angelina was sixteen, and she did what her father had done. She left.
+
+She moved to New York to study acting, alone, in a tiny apartment far from the mother who had watched her door for three years.
 
 She was about to learn that a city can hurt you worse than any knife.
 
@@ -84,9 +92,9 @@ Heroin.
 
 She snorted it. She injected it. Several times a week, in that small apartment, spending everything she earned from bit parts in independent films.
 
-Her dealer was a man named Franklin Meyer. A hundred dollars of heroin and cocaine, three times a week, delivered to her door. What Angelina didn't know was that Meyer was filming her. For months. That tape would surface in the press more than a decade later, when she was the biggest actress in the world.
+Her dealer was a man named Franklin Meyer. A hundred dollars of heroin and cocaine, three times a week, delivered to her door. What Angelina didn't know was that Meyer was filming her. For months. That tape would surface in the press more than a decade later, when she was the biggest actress in the world. On it, a skinny young woman with dark circles under her eyes, pacing an apartment, talking about her father.
 
-She never denied it. She told Rolling Stone she had tried practically every drug there was.
+She never denied any of it. She told Rolling Stone she had tried practically every drug there was.
 
 In nineteen ninety-five, on the set of the movie Hackers, she met a tall British actor named Jonny Lee Miller. They married in secret the following March. She was twenty.
 
@@ -111,6 +119,8 @@ Then she comes down from the stage, finds James, and kisses him. On the mouth. I
 By morning, the pictures were everywhere, and the word on every magazine cover was incest.
 
 She had just won the biggest prize in her profession, and the thing the world was talking about was her brother.
+
+She and James both said the same thing afterward. They had grown up with no father and a mother who was often sick. They had been each other's whole family. The kiss, they said, was that and nothing more. The tabloids didn't care.
 
 And within months, she would meet a man twenty years older who would make the Oscar kiss look tame. A man who would walk red carpets with her blood hanging around his neck.
 
@@ -142,11 +152,23 @@ That same year, Angelina got the offer that would save her career: Lara Croft in
 
 She agreed. And by every account, she never touched hard drugs again.
 
-Tomb Raider opened in June of two thousand and one and made her the biggest action star of the decade.
+Tomb Raider opened in June of two thousand and one and made her the biggest action star of the decade. But something else happened on that shoot that nobody saw coming.
 
-The marriage didn't survive it. In March of two thousand and two, Angelina flew to Cambodia alone and came back with a seven-month-old boy named Maddox. Billy Bob didn't want children. The divorce was final in May of two thousand and three.
+Part of the film was made in Cambodia. Between takes, Angelina saw what thirty years of war had left behind. Fields full of landmines. Children missing legs. Families living in camps. She said later that she had been raised in Los Angeles, famous, rich, and completely ignorant of how most of the world lived.
+
+She called the United Nations refugee agency and asked how she could help. Within months she was in the camps, first in Sierra Leone, then Tanzania, then Pakistan. In August of two thousand and one, the UN made her a Goodwill Ambassador. She would spend the next twenty years in war zones.
+
+The girl who had drawn coffins at recess had found something that felt more real than a knife.
+
+The marriage to Billy Bob didn't survive it. In March of two thousand and two, Angelina flew back to Cambodia alone and came home with a seven-month-old boy named Maddox. Billy Bob didn't want children. The divorce was final in May of two thousand and three.
 
 Remember Maddox. Fourteen years later, he's the one Brad Pitt goes after on the plane.
+
+That same year, two thousand and two, Angelina did two things to her father. First, she went to court and had the name Voight legally removed from her own. She would be Angelina Jolie, nothing else. Second, she stopped speaking to him.
+
+Jon Voight's response was the thing I promised you earlier. He went on the television show Access Hollywood, in tears, and told the country that his daughter had "serious mental problems" and needed help. He said it on camera, to millions of people, about a woman who had just adopted a baby and was working in refugee camps.
+
+Angelina did not speak to her father for the better part of a decade.
 
 Two thousand and four. Angelina is twenty-nine. The movie is Mr. and Mrs. Smith. Her co-star is the most wanted man in Hollywood, forty years old, four years into his marriage to Jennifer Aniston, the star of Friends. Brad and Jen were the couple America had decided was perfect.
 
@@ -156,9 +178,11 @@ She fell for the married man on set, and the affair started during filming. In J
 
 Brangelina had begun.
 
-Jennifer Aniston never forgave her. Asked about it years later, she chose her words carefully and said what Angelina did was "really uncool."
+Jennifer Aniston gave one interview about it, to Vanity Fair, and chose her words with surgical care. She said Brad was missing "a sensitivity chip." And about Angelina, years later, she said only that what she did was "really uncool."
 
-Then the family grew fast. Zahara, adopted from Ethiopia in July of two thousand and five. Shiloh, born in Namibia in May of two thousand and six. Pax, adopted from Vietnam in March of two thousand and seven. And the twins, Knox and Vivienne, born in Nice in July of two thousand and eight.
+Brad was less careful. In an interview in two thousand and eleven, he said that in his marriage to Jennifer he had been "pretending" to be happy and "wasn't living an interesting life." He had to apologize publicly the next day.
+
+Then the family grew fast. Zahara, adopted from Ethiopia in July of two thousand and five. Shiloh, born in Namibia in May of two thousand and six, with the whole country's government helping keep the paparazzi out. Pax, adopted from Vietnam in March of two thousand and seven. And the twins, Knox and Vivienne, born in Nice in July of two thousand and eight. The first photographs of the twins sold for a reported fourteen million dollars, the most ever paid for a celebrity picture. Angelina and Brad gave the money to charity.
 
 Six children in four years. The most photographed family on earth.
 
@@ -170,15 +194,15 @@ January twenty-seventh, two thousand and seven. A private hospital in Los Angele
 
 Angelina is in the room, holding her hand. She stays fifteen hours beside the body before she can make herself leave.
 
-Marcheline had seen the knives. She had seen the heroin years. She never got to see the six grandchildren grow up.
+Marcheline had seen the knives. She had seen the heroin years. She had seen the first grandchild, Maddox, and had just met Zahara and baby Shiloh. She never got to see the six of them grow up.
 
 Within weeks, Angelina was in a doctor's office asking for a genetic test almost nobody talked about at the time. The result came back positive for a mutation called BRCA1.
 
-Eighty-seven percent chance of breast cancer. Fifty percent chance of ovarian cancer. The same cancers that had just killed her mother.
+Eighty-seven percent chance of breast cancer. Fifty percent chance of ovarian cancer. The same cancers that had just killed her mother. The same cancer that had killed her grandmother before that.
 
 She had six small children. She had grown up watching what it does to a child when a parent disappears. She was not going to let it happen to them.
 
-February two thousand and thirteen. Angelina Jolie, thirty-seven years old, voted the most beautiful woman in the world more times than anyone could count, has both breasts removed at a clinic in Beverly Hills. A preventive double mastectomy, with reconstruction in the same operation.
+February two thousand and thirteen. Angelina Jolie, thirty-seven years old, voted the most beautiful woman in the world more times than anyone could count, has both breasts removed at a clinic in Beverly Hills. A preventive double mastectomy, with reconstruction in the same operation. Brad was in the room for every procedure. She would say later that she had never felt more loved than in those weeks.
 
 In May she wrote about it in The New York Times. The letter went around the world in hours. Millions of women asked their doctors for the BRCA test. Medicine gave it a name: the Angelina Jolie effect.
 
@@ -194,11 +218,13 @@ Because the wedding photographs were a lie.
 
 Inside the château that year, Brad and Angelina were fighting constantly. Neighbors heard shouting through the windows at night. The children had started to notice their parents drifting apart.
 
-Brad Pitt was drinking. Heavily. He had been for years, and it was getting worse. Angelina pushed him toward rehab more than once. Nothing held.
+Brad Pitt was drinking. Heavily. He admitted it himself, later, in an interview with GQ. He said he had been "boozing too much" for years. He said, and this is a quote, that he could "drink a Russian under the table with his own vodka." He said he had struggled with it since college, and that he had gotten very good at hiding it.
 
-The fights got louder. Then they got physical.
+Remember the Russian and the vodka. That line is going to come back in a way Brad Pitt never intended.
 
-And in September of two thousand and sixteen, on a plane somewhere over the United States, the drinking turned into the night this whole story has been leading to.
+Angelina pushed him toward help more than once. Nothing held. The fights got louder. And in the children's accounts, which would stay sealed for years, they started getting physical.
+
+In September of two thousand and sixteen, on a plane somewhere between France and California, the drinking turned into the night this whole story has been leading to.
 
 ## PART 5
 
@@ -208,17 +234,21 @@ Angelina is forty-one. Brad is fifty-two. The six children are between eight and
 
 Brad had been drinking since lunch. A bottle of red wine at a winery near Nice. Then bourbon on the plane.
 
-Somewhere over the Atlantic, he started shouting at Maddox in the main cabin. Nobody outside the family has ever said exactly what it was about.
+Here is what happened next, according to the FBI report and the court filings that came out years later. Brad Pitt's lawyers have disputed this account, and I'll tell you what they said. But this is what Angelina and the children told investigators.
 
-Angelina stepped between them. And Brad Pitt lost control.
+Somewhere over the Atlantic, Brad took Angelina to the back of the plane, into the bathroom, and started shouting at her. He told her she was ruining the family. He grabbed her by the head and shook her. Then he grabbed her by the shoulders and shook her again.
 
-He grabbed Maddox by the head. The fifteen-year-old screamed for his mother.
+She told him the children could hear. He went back into the cabin.
 
-When Angelina tried to pull him off, Brad turned on her. He grabbed her by the head and shook her, in front of all six children. The younger ones were crying at the back of the cabin. Zahara begged her father to stop. According to the court filings, he went after her too.
+Maddox, fifteen, stood up to defend his mother. Brad went for him. According to the filing, he choked one of the children and struck another in the face. When Angelina got between them, he grabbed her again.
+
+Then he picked up a beer and poured it over her. And he poured beer and red wine on the children.
+
+The younger ones were crying at the back of the cabin. Zahara begged her father to stop. One of the children, according to Angelina's statement, told him: "It's not her, it's you."
 
 The pilot heard it through the intercom and diverted. The plane landed at a small airport in Minnesota at three in the morning on September fifteenth.
 
-Angelina came down the steps with six children holding her hands and went straight to a hotel. She did not say another word to her husband.
+According to the report, Brad kept drinking on the tarmac and tried to stop the family from getting off. Angelina came down the steps with six children holding her hands and went straight to a hotel. She did not say another word to her husband.
 
 Picture that for a moment. A forty-one-year-old woman, in a hotel room in Minnesota, in the middle of the night, with six crying children. And a decision to make before the sun comes up.
 
@@ -228,13 +258,15 @@ She called her lawyer in Los Angeles and told her everything. By the end of that
 
 The headline was everywhere within hours. Nobody knew why.
 
-Forty-eight hours after the plane, she told the FBI.
+Forty-eight hours after the plane, she was sitting with an FBI agent.
 
-Because the assault happened in the air, on a flight bound for the United States, it fell under federal jurisdiction. Angelina gave her statement. Child protective services interviewed all six children that same week. Their recorded statements were sealed in court files, where they stayed for eight years.
+Because the assault happened in the air, on a flight bound for the United States, it fell under federal jurisdiction. Angelina gave her statement. She showed the agent a bruise on her elbow. Child protective services interviewed all six children that same week. Their recorded statements were sealed in court files, where they stayed for years.
 
 The court suspended Brad Pitt's custody immediately. For eight weeks he could not see his children. Only phone calls, with a social worker listening.
 
-The couple that had sold more magazine covers than anyone alive was over, twelve years after a beach in Namibia.
+Brad's side of it, then and now: his lawyers say the account is exaggerated and was rewritten over the years to hurt him. They say he never struck a child. He has said he regrets how he behaved on that flight, that he was drinking, and that he got sober afterward and went to Alcoholics Anonymous.
+
+Whatever happened in that cabin, this much is not disputed. Twelve years after a beach in Namibia, the couple that had sold more magazine covers than anyone alive was over.
 
 What Angelina did not know, in that hotel room in Minnesota, was that the fight she had just started would last longer than the marriage.
 
@@ -246,21 +278,29 @@ In November of two thousand and sixteen, the FBI closed its investigation. Not e
 
 For Angelina, that meant one thing. He could be back around the children at any time, and there was nothing she could do about it.
 
-The custody battle dragged on for years. And then she opened a second front.
+The custody fight dragged on for years. In two thousand and twenty-one, a private judge the couple had hired, John Ouderkirk, gave Brad joint custody. Angelina appealed. And her lawyers found something. The judge had an undisclosed business relationship with Brad's attorneys. The appeals court threw him off the case. The custody ruling went with him. They were back to zero.
 
-In two thousand and twenty-one, she sold her half of Château Miraval. The estate where they had married. The place where Shiloh had scattered the petals. She sold it to Yuri Shefler, a Russian businessman who owns Stolichnaya vodka.
+Then she opened a second front.
 
-Brad Pitt was furious. In February of two thousand and twenty-two, he sued her in California. Weeks later, she countersued. The two most famous exes in the world were now fighting in court over a wine estate they had bought when they were in love.
+That same year, she sold her half of Château Miraval. The estate where they had married. The place where Shiloh had scattered the petals. She sold it to Yuri Shefler, a Russian businessman who owns Stolichnaya vodka.
 
-But the blow that actually broke him didn't come from a courtroom.
+A Russian. With his own vodka. Brad Pitt had said that exact phrase in a magazine four years earlier, bragging about how much he could drink. Now a Russian with his own vodka owned half of his wedding venue.
+
+Brad was furious. In February of two thousand and twenty-two, he sued her in California. Weeks later, she countersued. And it was in that countersuit, filed in October of two thousand and twenty-two, that the details of the plane became public for the first time. The beer. The wine on the children. The choking. Six years after the flight, the world finally read what the children had told investigators in that first week.
+
+Angelina had also sued the FBI herself, anonymously, as Jane Doe, to force the release of the agent's report. She wanted it on paper.
+
+But the blow that actually broke Brad Pitt didn't come from a courtroom.
 
 It came from the children.
 
-In two thousand and twenty-three, Vivienne, the youngest, appeared in the official playbill of a Broadway show. Her name was printed as Vivienne Jolie. No Pitt.
+It started in two thousand and twenty, though nobody saw it at the time. On Father's Day, Pax, then sixteen, wrote a post on a private Instagram account. It surfaced four years later. In it, he called his father "a world-class" expletive, and said Brad had made the lives of the people closest to him "a constant hell." He wrote that his father had no consideration for his four youngest children, who, in his words, "tremble in fear" in his presence.
 
-A few months later, Zahara was introduced at her college sorority ceremony. Zahara Marley Jolie. No Pitt.
+In two thousand and twenty-three, Vivienne, the youngest, worked alongside her mother on a Broadway show called The Outsiders. In the official playbill, her name was printed as Vivienne Jolie. No Pitt. The show won the Tony Award for Best Musical the following year. Angelina accepted it on stage with Vivienne beside her.
 
-In May of two thousand and twenty-four, Shiloh turned eighteen and, within days, petitioned a California court to remove Pitt from her legal name. Shiloh Nouvel Jolie.
+A few months after the playbill, Zahara was introduced at her college sorority ceremony at Spelman. Zahara Marley Jolie. No Pitt.
+
+In May of two thousand and twenty-four, Shiloh turned eighteen and, within days, petitioned a California court to remove Pitt from her legal name. She paid for a newspaper notice announcing it, as the law requires. Shiloh Nouvel Jolie.
 
 Weeks after that, Maddox did the same thing at his university in Seoul.
 
@@ -268,11 +308,11 @@ Four of the six children, in less than two years. Brad Pitt broke down talking a
 
 Then, on December thirtieth, two thousand and twenty-four, two days before New Year's, the California court finalized the divorce. Eight years and three months after the plane. One of the longest divorce battles in the history of Hollywood.
 
-Angelina kept custody. Brad kept the visits the court allowed him, which were far fewer than he wanted.
+Angelina kept custody. Brad kept the visits the court allowed him, which were far fewer than he wanted. The fight over Miraval goes on in court to this day.
 
-Today, Angelina Jolie is fifty-one. She lives between Los Angeles and New York with her children, still works in war zones for the United Nations, and was nominated for a Golden Globe for playing Maria Callas in the film Maria.
+Today, Angelina Jolie is fifty-one. She lives between Los Angeles and New York with her children, still works in war zones for the United Nations, and was nominated for a Golden Globe for playing Maria Callas in the film Maria. She has said she would like to leave Los Angeles for good once the youngest turn eighteen.
 
-Brad Pitt is sixty-two. He lives on a ranch in California, has been with the jewelry executive Ines de Ramon since two thousand and twenty-two, and is still trying to get his children back. With little success.
+Brad Pitt is sixty-two. He lives on a ranch in California, has been with the jewelry executive Ines de Ramon since two thousand and twenty-two, and says he has been sober since the plane. He is still trying to get his children back. With little success.
 
 Now go back to that kitchen in Sherman Oaks. The one I asked you to remember at the start.
 
@@ -280,7 +320,7 @@ A mother crying alone, abandoned by the most important man in the house, with tw
 
 Forty years later, almost to the month, her daughter walked off a plane in the middle of the night with six children and no man beside her.
 
-The difference is what she did next. Marcheline had no one to call. Angelina called a lawyer, and then she called the FBI. And for eight years she said nothing in public, because she decided her children would not grow up as a headline.
+The difference is what she did next. Marcheline had no one to call. Angelina called a lawyer, and then she sat down with the FBI. And for six years she said nothing in public, because she decided her children would not grow up as a headline. The world only found out because Brad Pitt sued her over a winery and she answered.
 
 That's the part of this story that matters more than any blood vial or any Oscar kiss.
 
@@ -299,6 +339,8 @@ If someone you know needs to hear this story, send it to them. And subscribe, be
 ---
 
 NOTE ON THE CLOSING: the Portuguese original points to Brazil's "Ligue 180". For an English-speaking audience the ending uses the US National Domestic Violence Hotline (1-800-799-7233, text START to 88788). If the video targets the UK, swap in Refuge's National Domestic Abuse Helpline: 0808 2000 247.
+
+NOTE ON SOURCES ADDED IN THIS VERSION (not in the Portuguese original): Jon Voight on Access Hollywood (2002); Angelina dropping "Voight" legally (2002); UNHCR Goodwill Ambassador (Aug 2001); Aniston "sensitivity chip" (Vanity Fair, 2005); Pitt "pretending" quote (Parade, 2011) and apology; Pitt GQ Style interview on drinking (2017); FBI report details and Jolie's Oct 2022 cross-complaint (beer, wine on children, choking, striking, "it's not her, it's you"); Jolie's Jane Doe FOIA lawsuit against the FBI (2022); Judge Ouderkirk disqualified (2021); Pax's Father's Day post (2020, surfaced 2024); Vivienne credited on The Outsiders, Tony 2024; Zahara at Spelman (2023); Shiloh's name petition (May 2024). Pitt's denial is included for balance and should stay in the final cut.
 
 ## TITLE OPTIONS
 
