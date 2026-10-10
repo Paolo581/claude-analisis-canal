@@ -5,25 +5,27 @@ import re,html,sys
 src=sys.argv[1]; out=re.sub(r'\.md$','.html',src)
 t=open(src,encoding='utf-8').read()
 title=t.splitlines()[0].lstrip('# ').strip()
-head,body=t.split('## INTRO',1); body='## INTRO'+body
-meta=[l.strip() for l in head.splitlines()[1:] if l.strip() and l.strip()!='---' and not l.startswith('VERMELHO')]
-sections=re.findall(r'## (INTRO|PARTE \d)\n(.*?)(?=\n## PARTE|\Z)',body,re.S)
+head,body=t.split('## INTRO',1); body=('## INTRO'+body).split('\n---\n')[0]
+en=bool(re.search(r'^## PART \d',body,re.M)); lang='en' if en else 'pt-BR'
+meta=[l.strip() for l in head.splitlines()[1:] if l.strip() and l.strip()!='---' and not l.startswith(('VERMELHO','RED'))]
+sections=re.findall(r'## (INTRO|PARTE? \d)\n(.*?)(?=\n## |\Z)',body,re.S)
 parts=[];total=0
 for name,txt in sections:
     paras=[p.strip() for p in txt.split('\n\n') if p.strip()]
-    w=sum(len(re.sub(r'^\[(VERMELHO|AZUL)\]\s*','',p).split()) for p in paras); total+=w
+    w=sum(len(re.sub(r'^\[(VERMELHO|AZUL|RED|BLUE)\]\s*','',p).split()) for p in paras); total+=w
     parts.append((name,paras,w))
 def para(p):
-    m=re.match(r'^\[(VERMELHO|AZUL)\]\s*(.*)$',p,re.S)
-    return f'<p class="{m.group(1).lower()}">{html.escape(m.group(2))}</p>' if m else f'<p>{html.escape(p)}</p>'
+    m=re.match(r'^\[(VERMELHO|AZUL|RED|BLUE)\]\s*(.*)$',p,re.S)
+    cls={'VERMELHO':'vermelho','RED':'vermelho','AZUL':'azul','BLUE':'azul'}
+    return f'<p class="{cls[m.group(1)]}">{html.escape(m.group(2))}</p>' if m else f'<p>{html.escape(p)}</p>'
 mm=lambda w:f'{w//150}:{int((w/150%1)*60):02d}'
 toc=''.join(f'<a href="#s{i}">{html.escape(n)}<small>{round(w/150)} min</small></a>' for i,(n,_,w) in enumerate(parts))
 acc=0;secs=[]
 for i,(n,paras,w) in enumerate(parts):
     start=acc; acc+=w
-    secs.append(f'<section id="s{i}"><h2>{html.escape(n)}<span>{mm(start)} → {mm(acc)} · {w} palavras</span></h2>'+''.join(para(p) for p in paras)+'</section>')
+    secs.append(f'<section id="s{i}"><h2>{html.escape(n)}<span>{mm(start)} → {mm(acc)} · {w} {"words" if en else "palavras"}</span></h2>'+''.join(para(p) for p in paras)+'</section>')
 doc=f'''<!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="{lang}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,11 +52,11 @@ p.vermelho{{color:var(--red)}} p.azul{{color:var(--blue)}}
 <body>
 <h1>{html.escape(title)}</h1>
 {''.join(f'<p class="meta">{html.escape(m)}</p>' for m in meta)}
-<p class="meta">{total} palavras narradas · {total//150} min a 150 ppm · {round(total/134)} min a 134 ppm</p>
-<div class="legend"><b class="r">Vermelho</b> = hook e microganchos · <b class="b">Azul</b> = revelação do 1º gancho e 2º grande gancho · Preto = narração. As marcas não são narradas.</div>
+<p class="meta">{total} {"narrated words" if en else "palavras narradas"} · {total//150} min {"at" if en else "a"} 150 {"wpm" if en else "ppm"} · {round(total/134)} min {"at" if en else "a"} 134 {"wpm" if en else "ppm"}</p>
+{"<div class=\"legend\"><b class=\"r\">Red</b> = hook and micro-hooks · <b class=\"b\">Blue</b> = payoff of the 1st hook and 2nd big hook · Black = narration. Tags are not read aloud.</div>" if en else "<div class=\"legend\"><b class=\"r\">Vermelho</b> = hook e microganchos · <b class=\"b\">Azul</b> = revelação do 1º gancho e 2º grande gancho · Preto = narração. As marcas não são narradas.</div>"}
 <nav>{toc}</nav>
 {''.join(secs)}
-<p class="foot">Gerado a partir de <code>{html.escape(src)}</code>. Para a narração, use a versão .md; para o Estudio, cole o .md em «Medir señales».</p>
+<p class="foot">{"Generated from" if en else "Gerado a partir de"} <code>{html.escape(src)}</code>. {"Narrate from the .md; paste the .md into «Medir señales» in the Estudio." if en else "Para a narração, use a versão .md; para o Estudio, cole o .md em «Medir señales»."}</p>
 </body>
 </html>'''
 open(out,'w',encoding='utf-8').write(doc); print(out,total,'palavras',f'{total/150:.1f} min')
