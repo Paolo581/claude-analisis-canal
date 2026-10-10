@@ -1,4 +1,4 @@
-# The SHOCKING Life of Angelina Jolie: The DISGUSTING Secret Brad Pitt Hid From the World
+# What Brad Pitt Did to Angelina Jolie at 30,000 Feet Was DISTURBING
 
 English version of the Portuguese script. Numbers spelled out for narration. Paragraph breaks mark the pauses. The closing hotline was adapted for a US audience (see note at the end).
 
@@ -827,3 +827,14 @@ And if you know someone who needs to hear this story about Brangelina, share thi
 ---
 
 NOTE ON THE CLOSING: the Portuguese original points to Brazil's "Ligue 180". For an English-speaking audience that number is useless, so the ending uses the US National Domestic Violence Hotline (1-800-799-7233, text START to 88788). If the video targets the UK, swap in Refuge's National Domestic Abuse Helpline: 0808 2000 247.
+
+## TITLE OPTIONS
+
+1. What Brad Pitt Did to Angelina Jolie at 30,000 Feet Was DISTURBING  (recommended)
+2. Angelina Jolie Hid This About Brad Pitt for 8 Years. Now We Know Why.
+3. The Night Brad Pitt Lost Control: What Really Happened on Angelina Jolie's Private Jet
+4. Angelina Jolie Reported Brad Pitt to the FBI. This Is What He Did.
+5. Knives, Blood Vials and a Private Jet: The DARK Life of Angelina Jolie
+6. The DISTURBING Truth About Angelina Jolie's Life (and the Night Brad Pitt Went Too Far)
+
+Thumbnail text to pair with option 1: "SHE TOLD THE FBI" or "AT 30,000 FEET".
