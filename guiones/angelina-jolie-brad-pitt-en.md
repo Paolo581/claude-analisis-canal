@@ -1,4 +1,4 @@
-# What Brad Pitt Did to Angelina Jolie at 30,000 Feet Was DISTURBING
+# The DISTURBING Truth About Angelina Jolie's Life (and the Night Brad Pitt Went Too Far)
 
 English version of the Portuguese script. Numbers spelled out for narration. Paragraph breaks mark the pauses. The closing hotline was adapted for a US audience (see note at the end).
 
@@ -830,11 +830,11 @@ NOTE ON THE CLOSING: the Portuguese original points to Brazil's "Ligue 180". For
 
 ## TITLE OPTIONS
 
-1. What Brad Pitt Did to Angelina Jolie at 30,000 Feet Was DISTURBING  (recommended)
+1. What Brad Pitt Did to Angelina Jolie at 30,000 Feet Was DISTURBING
 2. Angelina Jolie Hid This About Brad Pitt for 8 Years. Now We Know Why.
 3. The Night Brad Pitt Lost Control: What Really Happened on Angelina Jolie's Private Jet
 4. Angelina Jolie Reported Brad Pitt to the FBI. This Is What He Did.
 5. Knives, Blood Vials and a Private Jet: The DARK Life of Angelina Jolie
-6. The DISTURBING Truth About Angelina Jolie's Life (and the Night Brad Pitt Went Too Far)
+6. The DISTURBING Truth About Angelina Jolie's Life (and the Night Brad Pitt Went Too Far)  (chosen)
 
-Thumbnail text to pair with option 1: "SHE TOLD THE FBI" or "AT 30,000 FEET".
+Thumbnail text to pair with the chosen title: "THE NIGHT HE WENT TOO FAR" or "SHE TOLD THE FBI".
