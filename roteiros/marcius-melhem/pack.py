@@ -1,5 +1,5 @@
 import re, html
-TITLE="Assim FOI a VIDA de MARCIUS MELHEM — O Escândalo Que A Globo Não Conseguiu Abafar"
+TITLE="MARCIUS MELHEM: O Escândalo Que a Globo Nunca Explicou"
 files=['parte1.txt','parte2.txt','parte3.txt','parte4.txt','parte5.txt']
 raw=[]
 for f in files:
@@ -17,29 +17,33 @@ open('Melhem_Roteiro_Voz.html','w').write(f'''<!DOCTYPE html>
 </head><body>
 <h1>{html.escape(TITLE)}</h1>
 {body}</body></html>''')
-CH=[('Marcius Melhem passou anos','O escândalo','Silhueta de homem de terno num estúdio escuro · Letreiro "O ESCÂNDALO"'),
-('Para entender como uma história','O rapaz de Nilópolis','Imagens de Nilópolis e da Beija-Flor (arquivo, com crédito)'),
-('Em dois mil e cinco, Melhem','Do Zorra a Os Caras de Pau','Trechos curtos de Zorra Total e Os Caras de Pau (com crédito)'),
-('Em dois mil e dezoito, Marcius Melhem se tornou','O chefe do humor da Globo','Cadeira de diretor vazia numa sala (ilustrativo)'),
-('Um dos programas mais importantes','A festa do Zorra','Salão de festa vazio, luzes baixas (ilustrativo)'),
-('Para entender o peso daquela noite','Dani Calabresa','Fotos de imprensa de Dani Calabresa (com crédito)'),
-('Foi de lá que ela fez uma ligação.','A ligação de 22 de dezembro','Telefone/celular tocando à noite (ilustrativo)'),
-('Enquanto essa conversa acontecia','As duas notas da Globo','Letreiros com as notas de 6 de março e 14 de agosto de 2020'),
-('Até outubro.','A advogada e as 2.400 páginas','Pilha de papéis de inquérito (ilustrativo) · Letreiro "2.400 páginas"'),
-('Sexta-feira, quatro de dezembro','A reportagem da piauí','Capa/página da piauí (com crédito)'),
-('Antes de ouvir o que a reportagem contou','A versão de Melhem','Trecho curto da entrevista na Record (com crédito) · Celular com mensagens borradas'),
-('A reportagem começava por aquela noite.','O que a piauí contou','Corredor escuro com porta de banheiro entreaberta (ilustrativo, sem pessoas)'),
-('Mas a parte que mais revoltou','A resposta da Globo','Sala de reunião vazia · Letreiro "Terapia"'),
-('Agosto de dois mil e vinte e um.','A censura de 172 dias','Revista com tarja "CENSURADO" (ilustrativo) · Letreiro "R$ 500 mil"'),
-('Melhem levou a própria defesa','Os vídeos no YouTube','Tela de vídeo genérica (sem logotipo, sem imagem real do canal)'),
-('Enquanto isso, o inquérito seguia.','Réu por assédio sexual','Fachada do Tribunal de Justiça do Rio (arquivo)'),
-('Os casos de Dani e de outras','O relógio da prescrição','Relógio de areia esvaziando · Letreiro "4 anos"'),
-('Maio de dois mil e vinte e cinco.','O promotor e a suspensão','Martelo de juiz parado · Letreiro "processo suspenso"'),
-('Abril de dois mil e vinte e seis.','O tempo acabou','Calendário com folhas caindo (ilustrativo)'),
-('Quinta-feira, vinte e quatro de setembro','O acordo de R$ 8.105','Letreiro "5 salários mínimos = R$ 8.105" · Fachada do Retiro dos Artistas (com crédito)'),
-('Agora volte a cada objeto','Três reais por página','Letreiro "R$ 8.105 ÷ 2.400 páginas = R$ 3,38"'),
-('Enquanto o caso de assédio chegava','O processo que continua','Letreiro "4 atrizes · violência psicológica"'),
-('A gente costuma imaginar o poder','O poder silencioso','Cadeira de diretor vazia em contraluz'),
+CH=[('Marcius Melhem comandava todo o humor','O escândalo','Silhueta de homem num estúdio de TV escuro · Letreiro "17 ANOS"'),
+('Para entender esse silêncio','O jornalista que virou humorista','Redação antiga de jornal (banco de imagens) · Palco de teatro vazio'),
+('No começo dos anos dois mil, chegou','Zorra Total e Os Caras de Pau','Trechos curtos de Os Caras de Pau (com crédito)'),
+('Dois mil e catorze.','Tá no Ar e o Emmy','Trecho curto do Tá no Ar (com crédito) · Estatueta genérica de prêmio'),
+('Ao mesmo tempo, a Globo decidiu reformular','O novo Zorra e Dani Calabresa','Fotos de imprensa do elenco do Zorra (com crédito)'),
+('Até que, em dois mil e dezoito','O chefe de todo o humor','Corredor de emissora (ilustrativo) · Cadeira de diretor vazia'),
+('Catorze de agosto de dois mil e vinte.','O comunicado de agosto','Letreiro "em comum acordo" · Fachada da emissora (arquivo)'),
+('Para entender o que estava escondido','A primeira queixa','Mesa de reunião vazia (ilustrativo) · Letreiro "segundo a reportagem"'),
+('Dani não desistiu.','O compliance','Pastas e documentos sigilosos (ilustrativo)'),
+('Foi nesse período que um grupo de artistas','A carta e Marcelo Adnet','Fotos de imprensa de Adnet (com crédito)'),
+('Então veio agosto de dois mil e vinte.','O e-mail e a advogada','Tela de e-mail genérica · Letreiro "cerca de 30 profissionais"'),
+('Existe uma pergunta que atravessa','Poder e silêncio','Corredor escuro de estúdio · Letreiros com a diferença entre assédio sexual e moral'),
+('Quatro de dezembro de dois mil e vinte.','A reportagem da piauí','Revista sobre mesa (sem reproduzir páginas) · Letreiros "43 entrevistas" e "12 casos"'),
+('Melhem tinha recusado dar entrevista','A versão de Melhem','Letreiro "Melhem nega" · Trecho de entrevista (com crédito)'),
+('Oito de dezembro de dois mil e vinte.','A nota no Jornal Nacional','Trecho curto do JN (com crédito) · Letreiro "razões não serão tornadas públicas"'),
+('A reportagem tinha saído numa sexta-feira.','O país dividido','Montagem de telas de redes sociais genéricas (sem perfis reais)'),
+('Dezembro de dois mil e vinte. Menos de duas semanas','As mensagens','Celular com balões de conversa desfocados · Ondas de áudio (ilustrativo)'),
+('Janeiro de dois mil e vinte e um.','Os processos','Fachada do TJ-SP (arquivo) · Letreiro "R$ 246 mil"'),
+('Durante quase três anos, promotores','Réu por assédio sexual','Fachada do TJ-RJ (arquivo) · Letreiro "réu não é culpado"'),
+('O motivo era o tempo.','A prescrição','Ampulheta (ilustrativo) · Letreiro "prescrito"'),
+('Outubro de dois mil e vinte e três.','Leandro Hassum','Foto de imprensa de Hassum (com crédito)'),
+('Depois que Marcius Melhem virou réu','A fase lenta','Pilhas de processos (ilustrativo)'),
+('Maio de dois mil e vinte e cinco.','O pedido de arquivamento','Letreiro "falta de justa causa" · Martelo de juiz'),
+('Julho de dois mil e vinte e cinco.','O segundo processo','Letreiro "violência psicológica e perseguição" · "segredo de Justiça"'),
+('Vinte e quatro de setembro de dois mil e vinte e seis.','O acordo de R$ 8 mil','Letreiros "transação penal" e "não é confissão" · Fachada genérica de instituição'),
+('Até onde se sabe, a Globo nunca','O que a Globo nunca explicou','Fachada da emissora à noite (arquivo)'),
+('Agora volte ao começo.','Quem estava falando a verdade','Retrospectiva rápida das imagens do vídeo · Ligue 180 na tela'),
 ]
 cum=[];w=0
 for p in paras:
@@ -52,27 +56,27 @@ for key,name,img in CH:
 CHAPS='\n'.join(f'{t} {n}' for t,n,_ in out)
 open('chapters.txt','w').write(CHAPS+'\n')
 print(CHAPS); print('total min',round(w/195,1))
-DESC='''Marcius Melhem passou anos fazendo o Brasil rir e comandando o humor da Globo. Em agosto de 2020, a emissora anunciou o fim de uma parceria de 17 anos "em comum acordo", sem citar nenhuma acusação. Meses depois, uma reportagem da revista piauí, que ouviu 43 pessoas, revelou as denúncias de assédio que tinham chegado à Globo, entre elas a de Dani Calabresa sobre uma festa do Zorra em 2017.
+DESC='''Marcius Melhem comandava todo o humor da Globo quando, em agosto de 2020, deixou a emissora depois de 17 anos, num anúncio de "comum acordo" sem nenhum motivo. Quatro meses depois, uma reportagem da revista piauí, com 43 entrevistas, trouxe relatos de assédio nos bastidores do departamento de humor, entre eles o de Dani Calabresa. Do Tá no Ar ao banco dos réus, das mensagens de WhatsApp à prescrição, até o acordo de setembro de 2026 que encerrou o processo sem julgamento.
 
-Neste vídeo: a resposta da Globo à denúncia, a defesa de Melhem, a censura de 172 dias à piauí derrubada no STF, a prescrição de seis das sete denúncias e o acordo de R$ 8.105 ao Retiro dos Artistas, em setembro de 2026.
+Aviso importante: Marcius Melhem nega todas as acusações e nunca foi condenado. As acusações citadas são atribuídas à reportagem da piauí, às denunciantes e aos processos públicos. A prescrição não é condenação nem absolvição. A transação penal aceita em setembro de 2026 encerra o processo sem julgamento do mérito e, pela lei, não representa admissão de culpa. O processo por violência psicológica e perseguição citado no vídeo seguia em andamento até a produção deste conteúdo, e os réus negam as acusações.
 
-Importante: Marcius Melhem nega todas as acusações e nunca foi condenado. As acusações citadas são atribuídas às reportagens e aos processos públicos. A transação penal não representa admissão de culpa, e a prescrição não é absolvição nem condenação.
+Se você está passando por assédio no trabalho, ligue 180 (Central de Atendimento à Mulher, gratuito, 24 horas).
 
 {CHAPS}
 
 #MarciusMelhem #DaniCalabresa #Globo'''.replace('{CHAPS}',CHAPS)
-TAGS='marcius melhem, marcius melhem dani calabresa, marcius melhem acordo, marcius melhem assédio, caso marcius melhem, marcius melhem globo, dani calabresa, revista piauí melhem, zorra globo, marcius melhem processo, marcius melhem 2026, assim foi a vida, escândalo globo'
+TAGS='marcius melhem, marcius melhem dani calabresa, marcius melhem globo, caso marcius melhem, marcius melhem acordo, marcius melhem réu, dani calabresa, marcelo adnet, leandro hassum, zorra, tá no ar, os caras de pau, escândalo globo, revista piauí'
 assert len(TAGS)<=500, len(TAGS)
 open('desc.txt','w').write(DESC+'\n'); open('tags.txt','w').write(TAGS+'\n')
 rows=''.join(f'<tr><td class="t">{t}</td><td><b>{html.escape(n)}</b><br>{html.escape(i)}</td></tr>\n' for t,n,i in out)
-CAUT='''<li>Melhem não foi condenado: nunca usar letreiros como "assediador", "abusador", "culpado" ou "criminoso". Usar "acusado", "segundo a piauí", "segundo a denúncia".</li>
-<li>Toda acusação na tela deve vir com a fonte (piauí, Folha, MP-RJ) e, quando possível, com a frase "Melhem nega".</li>
-<li>Cena da festa: só ambientação neutra (corredor, porta); nada de reconstituição com atores ou silhuetas em contato físico.</li>
-<li>Vítimas: não mostrar nome nem rosto das mulheres do processo, exceto Dani Calabresa, que é pública; usar fotos de imprensa com crédito.</li>
-<li>Mensagens: não recriar prints; usar celular com tela borrada.</li>
-<li>Entrevista da Record e trechos da Globo: cortes curtos e com crédito.</li>
-<li>Thumbnail: nada de rosto de Melhem ou Dani gerado por IA; preferir silhuetas e números.</li>
-<li>Recomendado: revisão jurídica antes de publicar (ele já processou a Dani e obteve censura judicial contra a piauí).</li>'''
+CAUT='''<li>Toda acusação com letreiro "segundo a reportagem" ou "segundo a denunciante", e "Melhem nega" logo em seguida.</li>
+<li>Nunca dramatizar nem encenar os episódios relatados (festa, gravações). Usar imagens neutras e desfocadas.</li>
+<li>Mensagens de WhatsApp: nunca reproduzir prints reais; usar balões desfocados genéricos.</li>
+<li>Denunciantes anônimas: não sugerir identidade com fotos de atrizes do elenco.</li>
+<li>Prescrição e transação penal: letreiros "não é condenação" e "não é confissão". Nunca usar a palavra "culpado" em tela.</li>
+<li>Processo de 2025 (com Ricardo Feltrin): está em segredo de Justiça e em andamento. Só o que foi publicado na imprensa.</li>
+<li>Rostos reais: só fotos de imprensa ou arquivo com crédito; nunca rosto gerado por IA. Trechos de TV curtos e com crédito.</li>
+<li>Ligue 180 na tela durante o fechamento.</li>'''
 SEC=lambda h,i,c: f'<h2>{h} <button data-t="{i}">Copiar</button></h2><pre id="{i}">{html.escape(c)}</pre>'
 open('Melhem_Pacote_Producao.html','w').write(f'''<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Pacote de Produção — Marcius Melhem</title>
 <style>body{{background:#fff;color:#111;font-family:system-ui,Segoe UI,Arial,sans-serif;max-width:860px;margin:0 auto;padding:24px 16px;line-height:1.55}}h1{{font-size:24px}}h2{{font-size:19px;margin-top:32px;border-bottom:2px solid #eee;padding-bottom:4px}}pre{{white-space:pre-wrap;background:#f6f6f6;padding:12px;border-radius:6px;font-family:inherit}}table{{width:100%;border-collapse:collapse}}td{{border-bottom:1px solid #eee;padding:8px;vertical-align:top}}td.t{{font-weight:700;white-space:nowrap;width:60px}}.note{{color:#555;font-size:14px}}li{{margin-bottom:6px}}button{{font-size:13px;margin-left:8px}}</style></head><body>
