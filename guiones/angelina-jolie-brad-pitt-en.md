@@ -352,3 +352,32 @@ NOTE ON SOURCES ADDED IN THIS VERSION (not in the Portuguese original): Jon Voig
 6. The DISTURBING Truth About Angelina Jolie's Life (and the Night Brad Pitt Went Too Far)  (chosen)
 
 Thumbnail text to pair with the chosen title: "THE NIGHT HE WENT TOO FAR" or "SHE TOLD THE FBI".
+
+## YOUTUBE DESCRIPTION
+
+Three in the morning. A private jet lands unscheduled in Minnesota. Angelina Jolie walks off with six children and never speaks to Brad Pitt again. Forty-eight hours later, she's giving a statement to the FBI.
+
+For years, what happened on that flight stayed sealed in court files. This video tells the whole story: the knives Angelina hid in her bedroom at thirteen, the scar on her neck, the heroin years in New York, the Oscar-night kiss with her brother, the vials of blood she wore with Billy Bob Thornton, the affair that ended Brad and Jennifer Aniston, and the night in September 2016 when Brad Pitt went too far. You'll also hear what the FBI report and Angelina's 2022 court filing actually say, what Brad's lawyers answer, and why four of the six Jolie-Pitt children have removed his name from theirs.
+
+⏱️ CHAPTERS
+00:00 The night on the plane
+02:30 A two-room apartment and a father who left
+06:35 Knives, blood and heroin in New York
+10:20 The Oscar kiss, Billy Bob and the vials of blood
+17:00 Losing her mother, the BRCA gene and a wedding built on a lie
+20:55 September 14, 2016: what happened at 30,000 feet
+25:05 The FBI, the lawsuits and the children who dropped his name
+
+(Adjust timestamps to the final edit.)
+
+⚠️ The account of the flight comes from the FBI report and Angelina Jolie's court filings. Brad Pitt's lawyers dispute parts of it and say he never struck a child. The FBI closed its investigation in November 2016 without charges. We include both sides.
+
+If this story made you think of someone, the National Domestic Violence Hotline is free, confidential and open 24/7: 1-800-799-7233, or text START to 88788.
+
+👍 Like, subscribe and turn on notifications for more untold stories of the most famous people in the world.
+
+#AngelinaJolie #BradPitt #Brangelina
+
+## TAGS (comma-separated, under 500 characters)
+
+angelina jolie, brad pitt, angelina jolie brad pitt, brangelina, angelina jolie documentary, angelina jolie story, brad pitt plane incident, angelina jolie fbi, brad pitt angelina jolie divorce, angelina jolie life story, angelina jolie biography, brad pitt divorce, angelina jolie billy bob thornton, angelina jolie oscar kiss, angelina jolie knives, angelina jolie children, shiloh jolie, maddox jolie, jennifer aniston brad pitt, angelina jolie true story, brad pitt alcohol, angelina jolie secrets, hollywood scandal
