@@ -380,4 +380,4 @@ If this story made you think of someone, the National Domestic Violence Hotline 
 
 ## TAGS (comma-separated, under 500 characters)
 
-angelina jolie, brad pitt, angelina jolie brad pitt, brangelina, angelina jolie documentary, angelina jolie story, brad pitt plane incident, angelina jolie fbi, brad pitt angelina jolie divorce, angelina jolie life story, angelina jolie biography, brad pitt divorce, angelina jolie billy bob thornton, angelina jolie oscar kiss, angelina jolie knives, angelina jolie children, shiloh jolie, maddox jolie, jennifer aniston brad pitt, angelina jolie true story, brad pitt alcohol, angelina jolie secrets, hollywood scandal
+angelina jolie, brad pitt, angelina jolie brad pitt, brangelina, angelina jolie documentary, angelina jolie story, brad pitt plane incident, angelina jolie fbi, brad pitt angelina jolie divorce, angelina jolie biography, brad pitt divorce, angelina jolie billy bob thornton, angelina jolie oscar kiss, angelina jolie knives, angelina jolie children, shiloh jolie, maddox jolie, jennifer aniston brad pitt, angelina jolie true story, brad pitt alcohol, angelina jolie secrets
