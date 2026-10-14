@@ -24,6 +24,8 @@ His name was Farrokh Bulsara. He was born on September fifth, nineteen forty-six
 
 His parents were Parsis, Indians of the Zoroastrian faith, an ancient people who had fled Persia centuries earlier to escape religious persecution. His father worked as a clerk for the British colonial government.
 
+The family lived in a stone house near the harbor, in the old town, in a world of spice markets, prayer bells, and the call of the sea. His mother, Jer, would say later that he was a shy, polite boy who liked to draw. Nothing about him suggested what was coming.
+
 At eight years old, Farrokh was sent away. To a boarding school in Panchgani, India, more than twenty-five hundred miles from his parents. He stayed there nearly eight years, seeing his mother and father only on holidays.
 
 Hold on to that image. An eight-year-old boy, put on a boat, sent to grow up among strangers. Because the man he became would spend his whole life building families out of strangers, and then hiding the most important ones.
@@ -40,13 +42,19 @@ Nineteen sixty-four. A seventeen-year-old Parsi boy steps off a plane in London.
 
 Inside, he's carrying a dream so big he's embarrassed to say it out loud.
 
+The family lands in Feltham, a gray suburb under the Heathrow flight path. Four of them in a small house. Freddie takes the jobs an immigrant kid can get. Loading luggage at the airport. Stacking boxes in a warehouse. His coworkers remember a quiet young man with a strange accent who sang to himself while he worked, and who said, when they laughed at him, that one day he would not be stacking boxes.
+
 Two years later he enrolls at Ealing Art College. And in those hallways, he starts erasing himself. The name Farrokh, which nobody in England can pronounce, quietly goes away. He's Freddie now. Freddie Bulsara.
 
 In nineteen sixty-nine, Freddie walks into a boutique on Kensington High Street called Biba. It's the trendiest store in London. Behind the counter is a nineteen-year-old named Mary Austin.
 
+Mary is not a rock-and-roll girl. She grew up in a working-class family in Fulham, and both of her parents were deaf. She learned early how to say things without speaking, and how to listen for what people weren't saying. Remember that about her. It is going to matter in nineteen seventy-six.
+
 He comes back the next day. And the day after that. He waits outside for her shift to end. He takes her to cheap little restaurants in Kensington. And slowly, the girl behind the counter and the skinny art student become a couple.
 
 By day, Freddie and Roger Taylor run a vintage clothing stall at Kensington Market, selling old fur coats and velvet jackets to make rent. By night, Freddie is home, writing.
+
+And he's auditioning. For anybody. He sings in a band called Ibex, then one called Wreckage, then one called Sour Milk Sea. Each one falls apart within months. The singers who hear him in those years remember the same thing. A voice too big for the rooms he was playing, and a frontman who acted like he was already at Madison Square Garden while he was singing to forty people in a pub.
 
 They move into a tiny apartment together. And here's the part almost nobody knows. For years, Mary Austin paid for everything. She worked the sales floor at Biba while Freddie sat at the kitchen table writing songs nobody had heard. The rent, the groceries, the beginning of the biggest band in the world. A nineteen-year-old retail clerk paid for it.
 
@@ -59,6 +67,8 @@ Then Freddie picks a name that makes everyone in the London rock scene cringe.
 Queen.
 
 In nineteen seventy, in a scene full of long-haired tough guys, it sounded ridiculous. Freddie wouldn't budge. He never really explained why. Keep that in mind, because the real reason is going to come out of Mary Austin's mouth six years later.
+
+He also designed the band's crest himself, with his art school degree. A phoenix rising over a crown, surrounded by the zodiac signs of the four members. Two lions for Roger and John, a crab for Brian, and for himself, two fairies. He put fairies on the royal crest of a rock band in nineteen seventy and dared anyone to say something.
 
 In nineteen seventy-one, a quiet electronics student named John Deacon tries out on bass. Freddie hires him on the spot. The lineup is set.
 
@@ -80,11 +90,17 @@ The night she finally asked him about it is the night this whole story turns.
 
 Queen's first album came out in nineteen seventy-three and went nowhere.
 
+The band was broke. They toured America for the first time in nineteen seventy-four, opening for Mott the Hoople, and had to come home early when Brian May collapsed with hepatitis. Freddie, who had told everyone he would be a legend, was sleeping on floors and borrowing money from Mary.
+
 Then, in nineteen seventy-four, came Killer Queen. A weird, theatrical song that had no business being a hit, and became the band's first hit around the world.
 
 And in nineteen seventy-five, Freddie Mercury sat down and wrote the song that would outlive everyone in this story.
 
 Bohemian Rhapsody. Six minutes long. Rock, ballad, opera, and back again. The label said radio would never touch it. It spent nine weeks at number one in the UK. Overnight, Queen was the biggest band on earth.
+
+Here's how they got around the label. Freddie slipped a copy to a DJ friend named Kenny Everett and made him promise not to play it. Everett played it fourteen times in one weekend. By Monday morning, record stores were being asked for a song that didn't exist yet. The label gave in.
+
+The opera section alone took three weeks. The band sang the same passages so many times, layering voice on voice, that the recording tape wore thin enough to see through. Nobody in rock had ever worked like that. Nobody had ever needed to.
 
 And the bigger Freddie got, the further he drifted from the woman who had paid for it all.
 
@@ -110,6 +126,10 @@ Years later he explained it to a journalist in a way that nobody who heard it fo
 
 Mary put it even more simply. When he died, she said, she lost her family.
 
+The rest of his life, in those years, looked nothing like Mary's. In the late seventies and early eighties, Freddie practically lived in Munich. He kept a circle there that the London press never saw. Clubs that stayed open until breakfast. A German actress named Barbara Valentin who became his closest companion in the city. Parties that are still talked about forty years later. His thirty-ninth birthday, in nineteen eighty-five, was a black-and-white drag ball with hundreds of guests.
+
+By day, Mary ran his life. By night, Munich ran him.
+
 In nineteen eighty he bought a mansion in Kensington called Garden Lodge. And he bought Mary an apartment a few minutes' walk away, so she'd always be close. He had already written her a song, Love of My Life. He sang it at every Queen concert for the next fifteen years, and he was singing it to her.
 
 If this story is already getting to you, hit the like button and subscribe. Because the year of that confession, nineteen seventy-six, is about to come back. And when it does, it's going to break your heart.
@@ -123,6 +143,10 @@ Live Aid. Seventy-two thousand people in the stadium. Nearly two billion watchin
 Here's what those two billion people didn't know. That morning, Freddie had a throat infection. His doctor told him not to sing. He sang anyway. Six songs in twenty-one minutes, and right in the middle, the call and response with the crowd, the "ay-oh," that is still the most famous sound ever made in a stadium.
 
 Backstage afterward, Elton John walked into Queen's trailer and told them they'd stolen the show. Bob Geldof, who put the whole day together, said the same thing on the record.
+
+One year later, Queen went out on one last tour. It ended on August ninth, nineteen eighty-six, at Knebworth, in the English countryside, in front of a hundred and twenty thousand people. Freddie arrived by helicopter. He sang for two hours. When it was over, he turned to the others and told them he couldn't do this anymore.
+
+Nobody in that stadium knew it. Nobody in the band fully understood it. But that was the last time Freddie Mercury ever walked onto a stage with Queen.
 
 What none of them knew was that, in a London hotel barbershop, Freddie had just met a quiet Irish hairdresser named Jim Hutton. Jim would move into Garden Lodge. He'd be there, in the bedroom, on the last day.
 
@@ -146,6 +170,8 @@ He told Jim Hutton. He told Mary Austin. And he made them both swear it would ne
 
 When he told Jim, he added one sentence. If you want to leave, I'll understand. Jim stayed. He would later find out he was HIV positive himself.
 
+A few months earlier, the two of them had exchanged gold rings in private. No ceremony, no witnesses, no law that recognized it. Freddie wore his until he died. He also hired Jim as the gardener at Garden Lodge, so there would be an answer when the press asked who the Irishman was.
+
 That same year, he met the Spanish soprano Montserrat Caballé, one of the greatest opera voices alive. Freddie, who'd been sneaking opera into rock music since Bohemian Rhapsody, was starstruck. He asked her to make an album with him.
 
 The result was Barcelona. Released in nineteen eighty-eight. A rock singer and an opera diva, trading verses. The city of Barcelona adopted it for the nineteen ninety-two Olympic Games.
@@ -154,11 +180,19 @@ Here's the detail that hurts. Freddie knew, as he recorded it, that he wouldn't 
 
 Meanwhile, the British tabloids had caught the scent.
 
-The Sun started running stories about his health. Photographers camped outside Garden Lodge. Freddie's answer was to disappear. No interviews. No TV. He went behind the walls of his house and stayed there.
+They had been circling since nineteen eighty-six, when The Sun reported he had taken an AIDS test. Freddie denied it. Now, with every new photograph, the denials got harder.
+
+The Sun kept running stories about his health. Photographers camped outside Garden Lodge. Freddie's answer was to disappear. No interviews. No TV. He went behind the walls of his house and stayed there.
 
 But the few photographs that got out told the story anyway. The face getting thinner. The cheekbones sharpening. Dark lesions on his skin that fans started to notice and argue about.
 
+What the photographs couldn't show was worse. Years later, Brian May revealed that near the end, the disease had destroyed most of one of Freddie's feet. He was recording standing on one leg, in agony, and joking about it. He showed Brian once and said, Oh, Brian, look what's happened to me. Then he went back to the microphone.
+
 In early nineteen ninety-one, Queen released Innuendo. Freddie could barely stand in the studio. He insisted on recording every song.
+
+For the video of a song called I'm Going Slightly Mad, he wore a wig and a full mask of white makeup, and the band played the whole thing as a surreal comedy. It was the only way to put him on camera without the lesions showing. He turned his own disappearance into a joke, on purpose, so nobody would look too closely.
+
+And for all the darkness on that record, he also wrote a song called Delilah. About his cat. He had ten of them. On tour, he used to call home and have Mary or Jim hold the phone up so he could talk to them. The man who was dying wrote a love song to a tortoiseshell cat who peed on his furniture. That was Freddie too.
 
 One of them, Brian May had written for him. The Show Must Go On.
 
@@ -174,7 +208,7 @@ Brian, Roger, and John knew by then. Freddie had told them, in his own way, when
 
 On November twenty-third, nineteen ninety-one, he broke his own rule.
 
-A statement went out to the press from Garden Lodge. Freddie Mercury confirmed he had AIDS. He asked for privacy for the people around him.
+A statement went out to the press from Garden Lodge. It said: Following the enormous conjecture in the press over the last two weeks, I wish to confirm that I have been tested HIV positive and have AIDS. The time has come now for my friends and fans around the world to know the truth. It asked for privacy for the people around him. And it ended with one line about what he hoped would come next. That everyone would join him, his doctors, and all those worldwide in the fight against this terrible disease.
 
 The world had less than twenty-four hours to absorb it.
 
@@ -186,9 +220,13 @@ In the main bedroom at Garden Lodge, Freddie is too weak to speak. Jim Hutton is
 
 Two weeks earlier, he had made a decision. He stopped taking every medication except the painkillers. He had seen what the drugs could and couldn't do, and he had decided to let it end on his own terms. He asked for his cats to be brought to the bed. He asked to be propped up so he could look at his paintings one more time.
 
+By the last day, he could no longer see. His friend Dave Clark, the drummer from the Dave Clark Five, sat with him through the afternoon. Jim was in the room, changing the sheets, when it happened.
+
 At twelve minutes to seven in the evening, Freddie Mercury dies. The cause is bronchial pneumonia, brought on by AIDS. He is forty-five.
 
 By midnight, radio stations around the world have thrown out their playlists to play Queen. By morning, it's the top story on every newscast in Britain.
+
+By the next day, the brick wall outside Garden Lodge had become something else. Fans came from all over the world and wrote on it. Messages, lyrics, goodbyes, in dozens of languages. Flowers piled up along the sidewalk. The wall stayed covered for more than twenty-five years. People still come.
 
 And then his family discovers what he wanted done with his body.
 
@@ -218,11 +256,15 @@ Then they read the will.
 
 Mary Austin got Garden Lodge. She got half of his future income, including his share of Queen's royalties. His parents and his sister Kashmira got the rest, split between them. Jim Hutton got five hundred thousand pounds and the right to stay in the house. For a while.
 
+A while turned out to be about three years. According to Jim's own account, Mary told him it was time to go. He took the money, went home to Ireland, and built a house there. He never fully forgave her. Freddie's two closest companions, the woman and the man, could not share the house he left them.
+
 The girl from behind the counter at Biba, who had paid Freddie's rent in nineteen seventy, was now the keeper of his house, his ashes, and his fortune.
 
 A month after he died, Queen re-released Bohemian Rhapsody, with every penny going to AIDS charities. It went right back to number one.
 
-And on April twentieth, nineteen ninety-two, the three surviving members walked back onto the Wembley stage, where he had conquered the world seven years earlier, for a tribute concert. Seventy-two thousand people again. A billion watching again. David Bowie, Elton John, George Michael, Liza Minnelli, all of them singing his songs, and none of them able to sing them the way he had.
+And on April twentieth, nineteen ninety-two, the three surviving members walked back onto the Wembley stage, where he had conquered the world seven years earlier, for a tribute concert. Seventy-two thousand people again. A billion watching again. George Michael sang Somebody to Love so well that people in the band still say it was the best Queen performance without Freddie. David Bowie, in the middle of his set, dropped to one knee and recited the Lord's Prayer. Elizabeth Taylor walked out alone and spoke for five minutes about AIDS. Liza Minnelli closed the night with We Are the Champions, and seventy-two thousand people sang it for the man who wasn't there. None of them could sing it the way he had.
+
+The money launched a charity in his name, the Mercury Phoenix Trust, which has been fighting AIDS ever since. Four years later, a bronze statue of him went up on the shore of Lake Geneva in Montreux, one arm raised to the sky. His father, Bomi, who had never forgiven the name change, stood beside Montserrat Caballé and unveiled it.
 
 And somewhere inside Garden Lodge, according to the book that would come out thirty-four years later, there was a locked drawer nobody had opened yet.
 
@@ -282,6 +324,12 @@ Queen has sold more than three hundred million records. Bohemian Rhapsody became
 
 Mary Austin still lives at Garden Lodge. She never sold it. She has two sons of her own, born in the early nineties, raised in Freddie's house. His royalties have reportedly made her one of the wealthiest women in British music. And she still hasn't said where the ashes are.
 
+But in twenty twenty-three, she did something that surprised everyone. She emptied the house.
+
+More than fourteen hundred of Freddie's things went to auction at Sotheby's in London. His stage costumes. The crown and cape from the last tour. The handwritten lyrics to Bohemian Rhapsody, which sold for one point four million pounds. Even his cat drawings. The auction raised around forty million pounds. Mary said the house had started to feel like a mausoleum, and that it was time to close the chapter. Brian May said publicly that it was too sad for him to watch.
+
+Two years after she emptied the house, the book came out.
+
 And nobody has ever explained the plaque at Kensal Green. The French words. The single letter M. Mary has never claimed it. Whoever put it there, and whoever took it away, has never spoken.
 
 Jim Hutton stayed in the house a few more years, then went home to Ireland. He died in twenty ten.
@@ -322,6 +370,8 @@ NOTES FOR THE EDIT
 
 5. American English throughout: apartment not flat, color, organized, miles not kilometers, store not shop, movie not film.
 
+6. Documented additions in the long version (all public record): Feltham jobs; Mary Austin's deaf parents; Ibex / Wreckage / Sour Milk Sea; the Queen crest; 1974 US tour and Brian May's hepatitis; Kenny Everett and the worn tape; Munich and Barbara Valentin; the 1985 Munich birthday ball; Knebworth 1986; the 1986 Sun "AIDS test" story; rings with Jim Hutton; the foot (Brian May, 2017); I'm Going Slightly Mad makeup; Delilah; the wording of the 23 Nov 1991 statement; blindness in the last days and Dave Clark's presence; the Garden Lodge wall; Jim Hutton leaving in the mid-90s; tribute concert details and the Mercury Phoenix Trust; the Montreux statue (1996); the Sotheby's auction (Sept 2023).
+
 ## YOUTUBE DESCRIPTION
 
 Freddie Mercury died on November 24, 1991, one day after telling the world he had AIDS. But there was one thing he never told anyone: not Queen, not the press, not even Mary Austin, the woman he called the love of his life.
@@ -332,12 +382,12 @@ This is the full story: a Parsi boy named Farrokh Bulsara shipped to boarding sc
 
 ⏱️ CHAPTERS
 00:00 The notebooks and a boy named Farrokh
-03:35 London, Mary Austin and a band called Queen
-07:15 Bohemian Rhapsody, the ring and the night in 1976
-12:20 HIV, Barcelona and The Show Must Go On
-16:40 November 24, 1991: the funeral, the will and the hidden ashes
-21:30 What the book says: a daughter born in 1976
-25:10 Who believes it, and the plaque signed M
+03:55 London, Mary Austin and a band called Queen
+09:20 Bohemian Rhapsody, the ring and the night in 1976
+16:25 HIV, Barcelona and The Show Must Go On
+23:05 November 24, 1991: the funeral, the will and the hidden ashes
+29:40 What the book says: a daughter born in 1976
+33:20 The auction, the plaque signed M, and who believes it
 
 (Adjust timestamps to the final edit.)
 
