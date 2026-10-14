@@ -30,9 +30,7 @@ Hold on to that image. An eight-year-old boy, put on a boat, sent to grow up amo
 
 At that school he learned piano, formed his first band, and picked up the name the other boys gave him. Freddie. He also learned to live with the thing he was most ashamed of. He had been born with four extra teeth at the back of his mouth, which pushed his front teeth forward. The boys called him Bucky. He would cover his mouth with his hand for the rest of his life. But he refused, even when he was rich, to have them fixed. He was convinced those teeth gave him his range.
 
-In nineteen sixty-four, a violent revolution tore through Zanzibar. The Bulsaras fled with what they could carry and landed in London.
-
-Thousands were killed in a matter of days. The family of a British government clerk had every reason to run.
+In nineteen sixty-four, a violent revolution tore through Zanzibar. Thousands were killed in a matter of days. The family of a British government clerk had every reason to run. The Bulsaras fled with what they could carry and landed in London.
 
 And it was in London that Farrokh Bulsara found the two things that would define his life. A band that would become Queen. And a woman he would call, until the day he died, the love of his life.
 
@@ -108,7 +106,7 @@ That was the end of the romance. And the beginning of something stranger, and st
 
 They never fought about it. They spoke every day for the rest of his life. Freddie told her he would love her until he died, and he meant it literally.
 
-Years later he explained it to a journalist in a way that nobody who heard it forgot. He said all of his lovers had asked him why they could not replace Mary, and that it was simply impossible. He said she was the only real friend he had. To him, he said, it was a marriage.
+Years later he explained it to a journalist in a way that nobody who heard it forgot. He said all of his lovers had asked him why they couldn't replace Mary, and that it was simply impossible. He said she was the only real friend he had. To him, he said, it was a marriage.
 
 Mary put it even more simply. When he died, she said, she lost her family.
 
@@ -120,7 +118,7 @@ Through the early eighties, Queen became the biggest live act in the world. Stad
 
 And on July thirteenth, nineteen eighty-five, at Wembley Stadium, Freddie Mercury gave the greatest live performance in the history of rock.
 
-Live Aid. Seventy-two thousand people in the stadium. Nearly two billion watching on television. Queen were given twenty minutes in the afternoon. By the end of those twenty minutes, Freddie Mercury owned the planet.
+Live Aid. Seventy-two thousand people in the stadium. Nearly two billion watching on television. Queen was given twenty minutes in the afternoon. By the end of those twenty minutes, Freddie Mercury owned the planet.
 
 Here's what those two billion people didn't know. That morning, Freddie had a throat infection. His doctor told him not to sing. He sang anyway. Six songs in twenty-one minutes, and right in the middle, the call and response with the crowd, the "ay-oh," that is still the most famous sound ever made in a stadium.
 
@@ -152,7 +150,7 @@ That same year, he met the Spanish soprano Montserrat Caballé, one of the great
 
 The result was Barcelona. Released in nineteen eighty-eight. A rock singer and an opera diva, trading verses. The city of Barcelona adopted it for the nineteen ninety-two Olympic Games.
 
-Here is the detail that hurts. Freddie knew, as he recorded it, that he would not live to see those Games. He was writing a song for a celebration he would watch from nowhere. And in nineteen ninety-two, his voice did ring out over Barcelona, to a billion people, nine months after his funeral.
+Here's the detail that hurts. Freddie knew, as he recorded it, that he wouldn't live to see those Games. He was writing a song for a celebration he would watch from nowhere. And in nineteen ninety-two, his voice did ring out over Barcelona, to a billion people, nine months after his funeral.
 
 Meanwhile, the British tabloids had caught the scent.
 
@@ -186,7 +184,7 @@ November twenty-fourth, nineteen ninety-one. A cold Sunday in London.
 
 In the main bedroom at Garden Lodge, Freddie is too weak to speak. Jim Hutton is there. Mary Austin has been coming every day. His closest friends take turns at the bedside.
 
-Two weeks earlier, he had made a decision. He stopped taking every medication except the painkillers. He had seen what the drugs could and could not do, and he had decided to let it end on his own terms. He asked for his cats to be brought to the bed. He asked to be propped up so he could look at his paintings one more time.
+Two weeks earlier, he had made a decision. He stopped taking every medication except the painkillers. He had seen what the drugs could and couldn't do, and he had decided to let it end on his own terms. He asked for his cats to be brought to the bed. He asked to be propped up so he could look at his paintings one more time.
 
 At twelve minutes to seven in the evening, Freddie Mercury dies. The cause is bronchial pneumonia, brought on by AIDS. He is forty-five.
 
@@ -200,7 +198,7 @@ For his parents, that was unthinkable. In the Zoroastrian tradition, the dead ar
 
 Freddie knew exactly what he was asking of them. He asked anyway.
 
-And he asked one more thing. He told Mary Austin to take his ashes and hide them. To tell no one where. Not his family. Not the band. Not Jim.
+And he asked one more thing. He told Mary Austin to take his ashes and hide them. To tell no one where. Not his family. Not the band. Not even Jim.
 
 On November twenty-seventh, at Kensal Green in West London, a Zoroastrian priest chanted over his coffin in Avestan, a language none of the rock stars in the pews understood. Elton John was there. Brian, Roger, and John were there. Mary wept beside the coffin. The ceremony took twenty-five minutes. Then the body went to the crematorium.
 
@@ -242,17 +240,17 @@ The same year Mary Austin sat him down and he came clean to her. The same year t
 
 Her mother, the book says, was a married woman. And her husband was one of Freddie's closest friends. The child came from an affair Freddie never admitted to anyone, and she was raised in Europe, far from the London press, under a name the book keeps secret. In the book, she is simply called B.
 
-Freddie, the book says, visited her through the eighties. He called her his treasure. And through those years, he wrote to her. Not letters. Journals. Seventeen handwritten volumes, addressed to the daughter he could not acknowledge, covering the things he could never say in an interview. His childhood in Zanzibar. His fears. His illness. Why he hid.
+Freddie, the book says, visited her through the eighties. He called her his treasure. And through those years, he wrote to her. Not letters. Journals. Seventeen handwritten volumes, addressed to the daughter he couldn't acknowledge, covering the things he could never say in an interview. His childhood in Zanzibar. His fears. His illness. Why he hid.
 
-The book says a handful of people in his inner circle knew. It does not say that Mary Austin was one of them. It does not say she wasn't.
+The book says a handful of people in his inner circle knew. It doesn't say Mary Austin was one of them. It doesn't say she wasn't.
 
 The seventeen notebooks from the start of this video.
 
-According to the book, they were left to B. And B kept them, in silence, for more than thirty years, while she built a life as a medical professional in Europe, with two children of her own who did not know whose grandchildren they were.
+According to the book, they were left to B. And B kept them, in silence, for more than thirty years, while she built a life as a medical professional in Europe, with two children of her own who didn't know whose grandchildren they were.
 
 Then, in her late forties, she approached Lesley-Ann Jones. She handed over the notebooks. And she said she wanted the truth told while she could still tell it.
 
-In the book, B describes a father who was present in ways the world never saw. Who turned up. Who wrote. Who, in her words, cherished and adored her. She says she kept quiet for thirty years because that is what he asked.
+In the book, B describes a father who was present in ways the world never saw. Who turned up. Who wrote. Who, in her words, cherished and adored her. She says she kept quiet for thirty years because that's what he asked.
 
 Now, if this is real, go back and listen to that last Queen album again. Innuendo, nineteen ninety-one. A dying man's record. There is a song on it called Bijou. The French word for a small jewel. And there is another called Don't Try So Hard, a man telling someone young not to carry the weight he carried.
 
@@ -264,7 +262,7 @@ According to the reporting that followed the book, B didn't get to see what happ
 
 She died without ever publishing a DNA test.
 
-And that is why this story is still open.
+And that's why this story is still open.
 
 ## PART 6
 
@@ -272,7 +270,7 @@ After B died, the questions got louder.
 
 People who'd been in the room at Garden Lodge in nineteen ninety-one said they'd never heard of a daughter. Brian May, when asked, said he knew nothing about it and found it hard to believe. Mary Austin, who has spent thirty-four years saying almost nothing to anyone, said nothing to this either.
 
-So you are left with two possibilities, and both of them are extraordinary.
+So you're left with two possibilities, and both of them are extraordinary.
 
 Either a woman invented a father, seventeen notebooks, and a childhood of secret visits, and took it to her grave.
 
@@ -280,9 +278,9 @@ Or Freddie Mercury, the most watched man in rock and roll, kept a child hidden f
 
 Here's what nobody disputes.
 
-Queen have sold more than three hundred million records. Bohemian Rhapsody became the first song from the twentieth century to pass a billion views on YouTube. In twenty eighteen, a movie with the same name made more than nine hundred million dollars, and Rami Malek won the Oscar for playing him.
+Queen has sold more than three hundred million records. Bohemian Rhapsody became the first song from the twentieth century to pass a billion views on YouTube. In twenty eighteen, a movie with the same name made more than nine hundred million dollars, and Rami Malek won the Oscar for playing him.
 
-Mary Austin still lives at Garden Lodge. She never sold it. She has two sons of her own, born in the early nineties, raised in Freddie's house. His royalties have reportedly made her one of the wealthiest women in British music. And she still has not said where the ashes are.
+Mary Austin still lives at Garden Lodge. She never sold it. She has two sons of her own, born in the early nineties, raised in Freddie's house. His royalties have reportedly made her one of the wealthiest women in British music. And she still hasn't said where the ashes are.
 
 And nobody has ever explained the plaque at Kensal Green. The French words. The single letter M. Mary has never claimed it. Whoever put it there, and whoever took it away, has never spoken.
 
@@ -300,7 +298,7 @@ And if the book is right, he protected a little girl from the only thing he coul
 
 The man who could hold seventy-two thousand people in the palm of his hand at Wembley couldn't hold his own daughter's hand in public.
 
-That is the loneliness this story is really about.
+That's the loneliness this story is really about.
 
 So tell me in the comments. Do you believe the notebooks? Do you believe Freddie Mercury had a daughter and never told a soul? Or do you side with Brian May?
 
