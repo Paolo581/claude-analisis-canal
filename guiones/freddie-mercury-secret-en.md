@@ -1,4 +1,4 @@
-# Freddie Mercury Took One Secret to His Grave. 34 Years Later, His Notebooks Revealed It.
+# Freddie Mercury's Darkest Secret Wasn't AIDS
 
 English narration script, retention-edited from the Portuguese original. Numbers spelled out for the voice. Paragraph breaks mark the pauses. Claims that come from the 2025 book are attributed to it on purpose; see the note at the end before cutting.
 
@@ -403,10 +403,11 @@ freddie mercury, queen, freddie mercury documentary, freddie mercury secret, fre
 
 ## TITLE OPTIONS
 
-1. Freddie Mercury Took One Secret to His Grave. 34 Years Later, His Notebooks Revealed It.  (chosen)
-2. The HEARTBREAKING Secret Freddie Mercury Hid From Everyone (Even Mary Austin)
-3. Freddie Mercury Hid a Daughter for 40 Years. Then the Notebooks Were Opened.
-4. What Was in Freddie Mercury's 17 Secret Notebooks Changes Everything
-5. The Truth About Freddie Mercury's Life Came Out 34 Years Too Late
+1. Freddie Mercury's Darkest Secret Wasn't AIDS  (chosen)
+2. What Freddie Mercury Hid in 17 Notebooks Will Break Your Heart
+3. Freddie Mercury Had a Secret Daughter. Nobody Knew Until His Notebooks Were Opened.
+4. The Secret Freddie Mercury Kept From Everyone (Even the Love of His Life)
+5. Nobody Knew Why Freddie Mercury Hid His Own Ashes. Now We Might.
+6. Freddie Mercury Lied to the World for 15 Years. His Notebooks Finally Told the Truth.
 
-Thumbnail text to pair with the chosen title: "17 NOTEBOOKS" or "HE HAD A DAUGHTER?".
+Thumbnail text to pair with the chosen title: "17 NOTEBOOKS" or "HE HAD A DAUGHTER".
