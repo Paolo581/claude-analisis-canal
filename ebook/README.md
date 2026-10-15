@@ -24,7 +24,7 @@ Extensión: unas 16.000 palabras, 101 páginas en formato 6×9 pulgadas con letr
 
 ## Antes de publicarlo
 
-1. **Sustituir `[CHANNEL NAME]`** (aparece en la portada, la bienvenida y la despedida) por el nombre del canal, y añadir el enlace al canal en la última página.
+1. **Sustituir `Behind the Fame`** ya está sustituido por Behind the Fame; añadir el enlace al canal en la última página.
 2. **Portada.** No está hecha. Idea: fondo crema, título en serif granate como el interior, y un collage o ilustración de siluetas de estrellas clásicas; o una sola imagen de archivo libre de derechos de una mujer mayor elegante con sombrero (guiño al capítulo de Joan Collins). Evitar fotos reales de las estrellas (derechos de imagen).
 3. **Comprobar estos datos**, que escribí de memoria y conviene confirmar antes de imprimir:
    - Dick Van Dyke: cumplió 100 el 13 de diciembre de 2025; va al gimnasio tres días por semana con Arlene; se casaron en 2012.
@@ -58,4 +58,4 @@ Extensión: unas 16.000 palabras, 101 páginas en formato 6×9 pulgadas con letr
 - `web/index.html` — la página completa, lista para subir a cualquier hosting (Netlify, Vercel, Hostinger, Lovable…). Un solo archivo, sin dependencias salvo las fuentes de Google.
 - `web/body.html` — la misma página sin la cabecera HTML, que es la que se publica como artifact de Claude para previsualizar.
 - Estructura calcada de la página de Car Care Garage: barra con botón, titular con cifra, precio, tres «dónde se pierden los años», qué hay dentro (las cinco partes y las 15 estrellas), tarjeta de oferta, por qué lo escribimos, garantía de 60 días, «última llamada» con y sin el libro, preguntas frecuentes y pie con aviso legal.
-- **Antes de publicarla:** (1) sustituir `[CHANNEL NAME]`; (2) pegar el enlace de pago de Payhip o Gumroad en la variable `BUY_URL` del `<script>` final, que rellena todos los botones de compra; (3) revisar el precio, que está puesto en 19 $ con 29 $ tachados, y cambiarlo en los cuatro sitios donde aparece si decides otro; (4) si tienes una portada real, sustituir el mockup de libro de la cabecera (bloque `.book`) por una imagen.
+- **Antes de publicarla:** (1) sustituir `Behind the Fame`; (2) pegar el enlace de pago de Payhip o Gumroad en la variable `BUY_URL` del `<script>` final, que rellena todos los botones de compra; (3) revisar el precio, que está puesto en 19 $ con 29 $ tachados, y cambiarlo en los cuatro sitios donde aparece si decides otro; (4) si tienes una portada real, sustituir el mockup de libro de la cabecera (bloque `.book`) por una imagen.

@@ -104,4 +104,4 @@ If this book helped you, please tell us which chapter, and which star, in the co
 
 *Keep moving. Keep laughing. Keep saying yes.*
 
-*The [CHANNEL NAME] team*
+*The Behind the Fame team*

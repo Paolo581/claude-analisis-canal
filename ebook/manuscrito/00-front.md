@@ -2,7 +2,7 @@
 
 ## The Daily Habits of the Stars Who Stayed Sharp, Strong and Gorgeous Past 80, 90 and 100
 
-*A gift from the [CHANNEL NAME] YouTube channel*
+*A gift from the Behind the Fame YouTube channel*
 
 ---
 
@@ -40,7 +40,7 @@ And if a chapter reminds you of a star we should cover on the channel, or a habi
 
 With warmth,
 
-*The [CHANNEL NAME] team*
+*The Behind the Fame team*
 
 ---
 
