@@ -142,37 +142,62 @@ footer p{margin-top:8px}
 }
 @media (max-width:480px){.nav .btn{padding:10px 14px;font-size:.9rem}.offer{padding:32px 20px}}
 @media (prefers-reduced-motion:reduce){.btn{transition:none}}
+
+/* book stack in hero */
+.stack{justify-self:center;position:relative;width:min(100%,420px);aspect-ratio:1.15/1;max-width:100%}
+.stack .book{position:absolute;width:52%;top:6%;transform:none;padding:7% 6%;box-shadow:var(--shadow),inset 8px 0 14px -10px rgba(0,0,0,.45)}
+.stack .book h3{font-size:clamp(.95rem,2.2vw,1.2rem)}
+.stack .book .sub{font-size:.62rem;margin-top:6px}
+.stack .book .top,.stack .book .bottom{font-size:.5rem}
+.stack .b1{left:0;transform:rotate(-7deg);z-index:1}
+.stack .b2{left:24%;top:0;z-index:3;transform:rotate(0deg)}
+.stack .b3{left:48%;transform:rotate(7deg);z-index:2}
+.stack .b2{background:linear-gradient(135deg,#f6e9d2 0%,#e9d6b2 100%)}
+.stack .b3{background:linear-gradient(135deg,#fbefe8 0%,#efd8cc 100%)}
+/* offer grid */
+.bundle{max-width:860px;margin:36px auto 0}
+.tiers{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:22px}
+.tier{background:var(--bg);border:1px solid var(--line);border-radius:14px;padding:30px 26px;min-width:0;display:flex;flex-direction:column}
+.tier .eyebrow{color:var(--mute)}
+.tier h3{font-size:1.25rem;margin:6px 0 4px}
+.tier .sub{color:var(--mute);font-size:.95rem;font-style:italic;min-height:3.2em}
+.tier .price{font-size:2.2rem;margin:16px 0 6px;color:var(--accent)}
+.tier .price s{color:var(--mute);font-size:1rem}
+.tier ul{list-style:none;padding:0;margin:14px 0 22px;display:grid;gap:9px;font-size:.95rem;flex:1}
+.tier li{padding-left:26px;position:relative}
+.tier li::before{content:"✓";position:absolute;left:0;top:0;color:var(--good);font-weight:700}
+.tier .btn{width:100%;text-align:center}
+.tier .fine{text-align:center;margin-top:10px;font-size:.82rem}
+.offer .price{font-size:3.4rem}
+@media (max-width:820px){.tiers{grid-template-columns:1fr}.stack{width:min(100%,340px)}}
 </style>
+
 
 <header class="nav">
   <div class="wrap">
     <a class="brand" href="#top">
       <span class="mark">★</span>
-      <span><b>Behind the Fame</b><small>Presents</small></span>
+      <span><b>Behind the Fame</b><small>The Library</small></span>
     </a>
-    <a class="btn" data-buy href="#offer">Get the Book — $19</a>
+    <a class="btn" data-buy="bundle" href="#offer">Get the Bundle — $37</a>
   </div>
 </header>
 
 <section class="hero" id="top">
   <div class="wrap">
     <div>
-      <h1>The stars who stayed sharp past 90 all did the <em>same things every morning.</em></h1>
-      <p class="lede">Dick Van Dyke lifts weights at 100. Sophia Loren sleeps nine hours. Olivia de Havilland did a crossword every day until 104. The daily habits of 15 Hollywood legends, in plain English and large print, with three things to do each week.</p>
+      <h1>The stars who lived to 100 moved, ate and loved <em>differently.</em> Here is exactly how.</h1>
+      <p class="lede">Dick Van Dyke lifts weights at 100 and married at 86. Sophia Loren eats pasta every day. Betty White lived forty years a widow and was never alone. The three-book insider library on staying strong, slim and loved after 65, in plain English and large print.</p>
       <div class="pricebox">
-        <div class="price">$19<s>$29</s><small>Instant download · Large print</small></div>
-        <a class="btn big" data-buy href="#offer" style="width:auto">Get Instant Access</a>
+        <div class="price">$37<s>$57 value</s><small>3-book bundle · Instant download</small></div>
+        <a class="btn big" data-buy="bundle" href="#offer" style="width:auto">Get Instant Access</a>
       </div>
-      <div class="trust"><span>60-day guarantee</span><span>Instant PDF download</span><span>101 large-print pages</span></div>
+      <div class="trust"><span>60-day guarantee</span><span>Instant PDF download</span><span>258 large-print pages</span></div>
     </div>
-    <div class="book" aria-label="Book cover">
-      <div class="top">From the Behind the Fame team</div>
-      <div>
-        <h3>The Hollywood Secret to Aging Beautifully</h3>
-        <p class="sub">The Daily Habits of the Stars Who Stayed Sharp, Strong and Gorgeous Past 80, 90 and 100</p>
-      </div>
-      <div class="stars">★ ★ ★</div>
-      <div class="bottom">15 legends · 5 parts · 30-day plan</div>
+    <div class="stack" aria-label="The three books">
+      <div class="book b1"><div class="top">Book one</div><div><h3>The Hollywood Secret to Aging Beautifully</h3><p class="sub">The daily habits of the stars who stayed sharp and strong past 80, 90 and 100</p></div><div class="bottom">Body</div></div>
+      <div class="book b2"><div class="top">Book two</div><div><h3>The Hollywood Plate</h3><p class="sub">What the slim, strong stars really eat after 65, and a four-week menu</p></div><div class="bottom">Table</div></div>
+      <div class="book b3"><div class="top">Book three</div><div><h3>The Golden Years Love Story</h3><p class="sub">How the stars found love, friendship and company after 65</p></div><div class="bottom">Heart</div></div>
     </div>
   </div>
 </section>
@@ -180,78 +205,93 @@ footer p{margin-top:8px}
 <section class="band">
   <div class="wrap">
     <div class="eyebrow">Where the years go</div>
-    <h2>Three places women over 65 quietly lose their strength</h2>
+    <h2>Three places women over 65 quietly lose their strength, their figure and their company</h2>
     <div class="cards">
       <div class="card">
         <h3>The sofa</h3>
-        <p>After 60, an inactive woman loses muscle every year she sits still. By 70, a third of it can be gone. That is why a jar lid becomes impossible and a stumble becomes a fall. Dick Van Dyke, Helen Mirren and Jane Fonda show how to get it back at home, in twelve minutes, with two cans of soup.</p>
+        <p>After 60, an inactive woman loses muscle every year she sits still, and by 70 a third of it can be gone. That is why a jar lid becomes impossible and a stumble becomes a fall. Dick Van Dyke, Helen Mirren and Jane Fonda show how to get it back at home, in twelve minutes, with two cans of soup.</p>
       </div>
       <div class="card">
-        <h3>The beauty counter and the vitamin aisle</h3>
-        <p>Creams, serums, "anti-aging" pills. Most of it does nothing. Joan Collins' skin at 92 comes from one habit she has kept since the 1950s, and it costs less than a hat. Because it is a hat.</p>
+        <h3>The diet book</h3>
+        <p>Every diet you have ever done stripped muscle first and gave the fat back. Sophia Loren, Audrey Hepburn and Julia Child never dieted a day in their lives. Their plates, and a four-week menu built from them, lose the weight the gentle way and keep your strength.</p>
       </div>
       <div class="card">
         <h3>The quiet house</h3>
-        <p>Loneliness and sitting alone with the television are now counted among the biggest health risks after 65, ahead of most diets. Betty White, Rita Moreno and Dolly Parton each found the same cure, and it was not a pill.</p>
+        <p>One in three Americans over 65 lives alone, and loneliness is now ranked with smoking as a health risk. Dick Van Dyke married at 86. Carol Burnett at 68. Betty White never remarried and was never lonely. Every one of them had a method, and it is in Book Three.</p>
       </div>
     </div>
-    <p class="stat-line"><b>One in four Americans over 65 falls every year.</b> Falls are the leading cause of injury in that age group, and most of them are preventable with the strength and balance habits in Part One. No gym. No membership. A sturdy chair.</p>
-  </div>
-</section>
-
-<section class="band" id="inside">
-  <div class="wrap">
-    <div class="eyebrow">What's inside</div>
-    <h2>Fifteen legends. Five parts. One morning routine you can start tomorrow.</h2>
-    <p class="lede">Every chapter opens with the true story of how one star really lived, day by day. Then it stops and asks what that means for you, in plain words, and ends with three things to do this week.</p>
-    <div class="parts">
-      <div class="part"><div class="eyebrow">Part One</div><h3>Keep Moving</h3><ul>
-        <li><b>Dick Van Dyke, 100.</b> Three mornings a week at the gym and a dance in the kitchen every day.</li>
-        <li><b>Helen Mirren.</b> The twelve-minute routine she has done since the 1960s, and your own version of it.</li>
-        <li><b>Jane Fonda.</b> A new hip, a new knee, and the one kind of exercise every woman over 65 needs.</li></ul></div>
-      <div class="part"><div class="eyebrow">Part Two</div><h3>Eat Like a Star</h3><ul>
-        <li><b>Sophia Loren.</b> "Everything you see I owe to spaghetti." What she really eats, and the nine hours she will not give up.</li>
-        <li><b>Betty White.</b> Hot dogs, French fries and vodka. The honest truth about what kept her going to 99.</li>
-        <li><b>Martha Stewart.</b> The green juice, the garden and the swimsuit cover at 81.</li></ul></div>
-      <div class="part"><div class="eyebrow">Part Three</div><h3>Skin, Hair and Style</h3><ul>
-        <li><b>Joan Collins.</b> The one thing she refused to do for 70 years, and why her skin thanks her at 92.</li>
-        <li><b>Iris Apfel.</b> A fashion model at 97. "More is more, and less is a bore."</li></ul></div>
-      <div class="part"><div class="eyebrow">Part Four</div><h3>A Sharp Mind</h3><ul>
-        <li><b>Olivia de Havilland.</b> A crossword every morning, a lawsuit at 101, and the three L's that carried her to 104.</li>
-        <li><b>Kirk Douglas.</b> The stroke that took his voice at 79, and the 24 years he lived after it.</li>
-        <li><b>Judi Dench.</b> She can no longer read a script. She memorizes them anyway.</li>
-        <li><b>Goldie Hawn.</b> Ten quiet minutes a day for more than fifty years.</li></ul></div>
-      <div class="part"><div class="eyebrow">Part Five</div><h3>The Heart and the Spirit</h3><ul>
-        <li><b>Rita Moreno.</b> The night she nearly gave up, and the habit that saved her.</li>
-        <li><b>Dolly Parton.</b> Three in the morning, 58 years of marriage, and what she does with her grief.</li>
-        <li><b>June Squibb.</b> Her first leading role at 94. It is never too late.</li></ul></div>
-      <div class="part"><div class="eyebrow">At the back</div><h3>Your tools</h3><ul>
-        <li><b>The Stars' Morning.</b> A one-page routine built from their habits.</li>
-        <li><b>The gentle 30-Day Plan.</b> One small change a day.</li>
-        <li><b>Questions for your doctor</b> and the numbers to keep by the phone.</li></ul></div>
-    </div>
+    <p class="stat-line"><b>One in four Americans over 65 falls every year, and nearly half say they are lonely.</b> Both are preventable, and neither needs a gym, a diet or a dating service. The stars in these books did it with a sturdy chair, a small plate and a weekly phone call.</p>
   </div>
 </section>
 
 <section class="band offer-band" id="offer">
   <div class="wrap">
-    <div class="eyebrow" style="text-align:center">Get the book</div>
-    <h2 style="text-align:center">One book. One price. Yours in three minutes.</h2>
-    <div class="offer">
-      <span class="tag">Instant download</span>
-      <h3>The Hollywood Secret to Aging Beautifully</h3>
-      <p class="sub">The Daily Habits of the Stars Who Stayed Sharp, Strong and Gorgeous Past 80, 90 and 100</p>
-      <div class="price">$19<s>$29</s></div>
+    <div class="eyebrow" style="text-align:center">Choose your library</div>
+    <h2 style="text-align:center">Start with one book, or take all three</h2>
+    <p class="lede" style="text-align:center;margin-left:auto;margin-right:auto">Every book is an instant PDF download in large, easy-to-read print. No shipping, no waiting, no subscription.</p>
+
+    <div class="offer bundle">
+      <span class="tag">Most popular · Best value</span>
+      <h3>The Complete Behind the Fame Library</h3>
+      <p class="sub">All three books: move like them, eat like them, love like them</p>
+      <div class="price">$37<s>$57</s></div>
       <ul>
-        <li>15 chapters, 15 legends, 45 things to do this week</li>
-        <li>101 pages in large, easy-to-read print, on any phone, tablet or computer</li>
-        <li>The Stars' Morning: the one-page routine</li>
-        <li>The gentle 30-Day Plan, one small change a day</li>
-        <li>Questions to take to your doctor and the free helplines to keep by the phone</li>
-        <li>Print it at home, or read it on the screen with the letters as big as you like</li>
+        <li>Book 1, The Hollywood Secret to Aging Beautifully: 15 legends, 45 things to do this week, the 30-day plan</li>
+        <li>Book 2, The Hollywood Plate: 8 stars, 26 recipes, the four-week menu with shopping lists</li>
+        <li>Book 3, The Golden Years Love Story: 12 chapters, the safe-dating checklist, the 30-day connection plan</li>
+        <li>Save $20 against buying the three books separately</li>
+        <li>258 pages in large print, on any phone, tablet or computer, or printed at home</li>
       </ul>
-      <a class="btn big" data-buy href="#offer">Yes, send me the book — $19</a>
-      <p class="fine">Instant PDF download · 60-day money-back guarantee · No subscription</p>
+      <a class="btn big" data-buy="bundle" href="#offer">Yes, send me all three books — $37</a>
+      <p class="fine">Instant PDF download · 60-day money-back guarantee · One-time payment</p>
+    </div>
+
+    <div class="tiers">
+      <div class="tier">
+        <div class="eyebrow">Body</div>
+        <h3>The Hollywood Secret to Aging Beautifully</h3>
+        <p class="sub">The daily habits of the stars who stayed sharp, strong and gorgeous past 80, 90 and 100</p>
+        <div class="price">$19<s>$29</s></div>
+        <ul>
+          <li>Dick Van Dyke, Helen Mirren, Sophia Loren, Betty White, Joan Collins, Olivia de Havilland, Dolly Parton and 8 more</li>
+          <li>The twelve-minute routine beside your bed</li>
+          <li>The one thing Joan Collins refused to do for 70 years</li>
+          <li>The Stars' Morning and the gentle 30-day plan</li>
+          <li>100 pages, large print</li>
+        </ul>
+        <a class="btn" data-buy="aging" href="#offer">Get it for $19</a>
+        <p class="fine">Instant download · 60-day guarantee</p>
+      </div>
+      <div class="tier">
+        <div class="eyebrow">Table</div>
+        <h3>The Hollywood Plate</h3>
+        <p class="sub">What the slim, strong stars really eat after 65, and a four-week menu to eat like them</p>
+        <div class="price">$19<s>$29</s></div>
+        <ul>
+          <li>Sophia Loren, Audrey Hepburn, Julia Child, Jane Fonda, Betty White, Martha Stewart, Dolly Parton, Clint Eastwood</li>
+          <li>26 recipes, most of them 20 minutes, for one or two</li>
+          <li>Losing weight after 65 without losing your strength</li>
+          <li>Four weeks of menus with a shopping list for each</li>
+          <li>82 pages, large print</li>
+        </ul>
+        <a class="btn" data-buy="plate" href="#offer">Get it for $19</a>
+        <p class="fine">Instant download · 60-day guarantee</p>
+      </div>
+      <div class="tier">
+        <div class="eyebrow">Heart</div>
+        <h3>The Golden Years Love Story</h3>
+        <p class="sub">How the stars found love, friendship and company after 65, and how you can too</p>
+        <div class="price">$19<s>$29</s></div>
+        <ul>
+          <li>Dick Van Dyke at 86, Joan Collins at 68, Carol Burnett, Jane Fonda, Dolly and Carl, Betty White, Diane Keaton</li>
+          <li>Dating after 65, honestly, with the safety rules</li>
+          <li>Surviving retirement, illness and loss together</li>
+          <li>How to make a friend at 70, and the 30-day connection plan</li>
+          <li>76 pages, large print</li>
+        </ul>
+        <a class="btn" data-buy="love" href="#offer">Get it for $19</a>
+        <p class="fine">Instant download · 60-day guarantee</p>
+      </div>
     </div>
   </div>
 </section>
@@ -263,17 +303,44 @@ footer p{margin-top:8px}
       <b>The Behind the Fame team</b>
       <span>The channel that opens the files on the stars you grew up with</span>
       <div class="stats">
-        <div><b>15</b><span>legends, from 79 to 104</span></div>
-        <div><b>101</b><span>large-print pages</span></div>
+        <div><b>3</b><span>books, 35 legends</span></div>
+        <div><b>258</b><span>large-print pages</span></div>
         <div><b>60</b><span>days money-back</span></div>
       </div>
     </div>
     <div class="story">
-      <div class="eyebrow">Why we wrote it</div>
-      <h2>We spend our weeks on how the stars fell. This is about how they stayed standing.</h2>
-      <p>Every week on our channel we tell the stories the magazines never printed. The secret marriages, the fortunes that vanished, the last days. But after reading thousands of your comments, we noticed the same question again and again: how did the ones who lasted actually do it?</p>
-      <p>So we went back through the books, interviews and documentaries of the stars who stayed sharp and strong into their 80s, 90s and 100s, and wrote down what they did every day. Not the glamour. The routine. What time they got up, what they ate, how they moved, what they did when a husband died or the eyes gave out.</p>
-      <p>Then we checked each habit against what doctors and researchers say today, and turned it into something you can do this week in your own kitchen. None of it needs a gym, a trainer or a fortune.</p>
+      <div class="eyebrow">Why we wrote them</div>
+      <h2>We spend our weeks on how the stars fell. These books are about how they stayed standing.</h2>
+      <p>Every week on our channel we tell the stories the magazines never printed. The secret marriages, the fortunes that vanished, the last days. But after reading thousands of your comments, we kept seeing the same questions: how did the ones who lasted actually do it? What did they eat? How did Dick Van Dyke start over at 86? How did Betty White live forty years alone and never seem lonely?</p>
+      <p>So we went back through the memoirs, cookbooks, interviews and documentaries of the stars who stayed strong, slim and loved into their 80s, 90s and 100s, and wrote down what they did every day. Not the glamour. The routine. Then we checked each habit against what doctors and researchers say today, and turned it into something a woman over 65 can do this week, in her own kitchen, with her own phone.</p>
+      <p>Three books. Body, table and heart. None of it needs a gym, a diet or a dating service.</p>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="inside">
+  <div class="wrap">
+    <div class="eyebrow">What's inside</div>
+    <h2>Three books. Thirty-five legends. Everything they never planned to tell you.</h2>
+    <div class="parts">
+      <div class="part"><div class="eyebrow">Book 1 · Body</div><h3>The Hollywood Secret to Aging Beautifully</h3><ul>
+        <li><b>Dick Van Dyke, 100.</b> Three mornings a week at the gym and a dance in the kitchen every day.</li>
+        <li><b>Helen Mirren.</b> The twelve-minute routine she has done since the 1960s.</li>
+        <li><b>Betty White.</b> Hot dogs, French fries and vodka, and the honest truth about what kept her going to 99.</li>
+        <li><b>Olivia de Havilland.</b> A crossword every morning, a lawsuit at 101, and the three L's that carried her to 104.</li>
+        <li><b>Kirk Douglas, Judi Dench, Goldie Hawn, Rita Moreno, Dolly Parton, June Squibb</b> and more.</li></ul></div>
+      <div class="part"><div class="eyebrow">Book 2 · Table</div><h3>The Hollywood Plate</h3><ul>
+        <li><b>Sophia Loren.</b> Pasta every day, and the small plate that kept her the same size for 60 years.</li>
+        <li><b>Audrey Hepburn.</b> Spaghetti al pomodoro, a vegetable garden, and one square of chocolate.</li>
+        <li><b>Julia Child.</b> Butter, small helpings, and 91 years.</li>
+        <li><b>Jane Fonda.</b> Why she eats more protein at 88 than she did at 40, and why you should too.</li>
+        <li><b>The four-week menu.</b> Every meal, every shopping list, and how to lose weight after 65 the gentle way.</li></ul></div>
+      <div class="part"><div class="eyebrow">Book 3 · Heart</div><h3>The Golden Years Love Story</h3><ul>
+        <li><b>Dick Van Dyke.</b> Married at 86 to a woman 46 years younger. What his family said, and why it worked.</li>
+        <li><b>Joan Collins.</b> "If he dies, he dies." The confidence to choose, at 68, exactly what you want.</li>
+        <li><b>Dolly and Carl.</b> Fifty-eight years, and what she does with her grief.</li>
+        <li><b>The Golden Girls.</b> They did not all like each other. How to make a friend at 70.</li>
+        <li><b>Diane Keaton.</b> Never married, never lonely. A full life on its own.</li></ul></div>
     </div>
   </div>
 </section>
@@ -283,40 +350,41 @@ footer p{margin-top:8px}
     <div class="seal">60<br>DAYS</div>
     <div class="eyebrow" style="color:var(--gold)">The guarantee</div>
     <h2>Sixty days. Zero risk.</h2>
-    <p>Read every chapter. Try the twelve minutes. Do one week of the 30-Day Plan.</p>
-    <p><b>If you do not find at least one habit you are glad you started, send one email and get every dollar back.</b> No questions. No forms.</p>
+    <p>Read every chapter. Try the twelve minutes. Cook one week of the menu. Make one phone call from the connection plan.</p>
+    <p><b>If you do not find at least one habit, one recipe or one phone call you are glad you made, send one email and get every dollar back.</b> No questions. No forms. You keep the books.</p>
   </div>
 </section>
 
 <section class="band">
   <div class="wrap">
     <div class="eyebrow">Last call</div>
-    <h2>You already know how the next ten years go without it</h2>
+    <h2>You already know how the next ten years go without them</h2>
     <div class="compare">
       <div>
-        <h3>Without the book</h3>
+        <h3>Without the books</h3>
         <ul>
-          <li>Another cream, another vitamin, another promise</li>
-          <li>A little stiffer each winter, a little more careful on the stairs</li>
+          <li>Another cream, another diet, another vitamin</li>
+          <li>A little stiffer each winter, a little heavier each spring</li>
           <li>The doctor says "that's normal at your age"</li>
-          <li>The house gets quieter</li>
+          <li>The phone rings less. The house gets quieter.</li>
           <li>You decide, one by one, that things are too late</li>
         </ul>
       </div>
       <div class="with">
-        <h3>With the book</h3>
+        <h3>With the books</h3>
         <ul>
-          <li>Spend $19 once</li>
-          <li>A weekend with fifteen legends and their routines</li>
-          <li>Twelve minutes beside the bed, a hat by the door, a crossword with coffee</li>
-          <li>Questions in hand at your next appointment</li>
+          <li>Spend $37 once</li>
+          <li>A weekend with thirty-five legends and their routines</li>
+          <li>Twelve minutes beside the bed, Sophia's plate at lunch, a hat by the door</li>
+          <li>One weekly thing, with the same people, until they are your people</li>
           <li>One small change a day for thirty days</li>
         </ul>
       </div>
     </div>
     <div class="lastcta">
-      <div class="price">$19<s>$29</s><small style="display:block;font-family:var(--body);font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);margin-top:8px">One-time payment</small></div>
-      <a class="btn big" data-buy href="#offer">Yes, give me the book</a>
+      <div class="price">$37<s>$57</s><small style="display:block;font-family:var(--body);font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);margin-top:8px">One-time payment</small></div>
+      <a class="btn big" data-buy="bundle" href="#offer">Yes, give me all three books</a>
+      <p class="fine" style="margin-top:14px">Prefer a single book? Each one is $19. <a href="#offer">See all options</a>.</p>
       <div class="trust" style="justify-content:center;color:var(--mute)"><span>3-minute delivery</span><span>60-day money back</span><span>Any device</span></div>
     </div>
   </div>
@@ -327,12 +395,13 @@ footer p{margin-top:8px}
     <div class="eyebrow" style="text-align:center">Questions from readers</div>
     <h2 style="text-align:center">Honest answers</h2>
     <div class="faq">
-      <details><summary>Is this medical advice?</summary><p>No. It is the true story of how fifteen famous people lived, with what today's research says about each habit, written in plain English. Every chapter tells you to check with your own doctor before starting anything new, and the back of the book gives you the exact questions to ask.</p></details>
-      <details><summary>Is the print large enough for me?</summary><p>Yes. The book was designed for readers over 65. The type is the size of a large-print library book, and on a phone or tablet you can make it as big as you like. You can also print it at home.</p></details>
-      <details><summary>Do I need a gym or special equipment?</summary><p>No. Every exercise in the book is done at home with a sturdy chair and, at most, two cans of soup or two water bottles. Nothing to buy.</p></details>
-      <details><summary>How do I get the book?</summary><p>Within about three minutes of paying you receive an email with a download link. Open it on your phone, tablet or computer. If you have any trouble, reply to the email and a person will help you.</p></details>
-      <details><summary>Is it only for women?</summary><p>It is written for women over 65, and most of the stars are women. But Dick Van Dyke, Kirk Douglas and the stroke chapter are there for husbands too, and many readers share the book with theirs.</p></details>
-      <details><summary>What if it's not for me?</summary><p>You have sixty days. Send one email and you get every dollar back. You keep the book.</p></details>
+      <details><summary>Which book should I start with?</summary><p>If you want to feel stronger, start with Book 1. If you want to lose weight or just eat better, start with Book 2. If the house has gone quiet, start with Book 3. Most readers take the bundle and read them in that order over a month.</p></details>
+      <details><summary>Is this medical advice?</summary><p>No. These are the true stories of how famous people lived, with what today's research says about each habit, written in plain English. Every book tells you to check with your own doctor before starting anything new, and gives you the exact questions to ask.</p></details>
+      <details><summary>Is the print large enough for me?</summary><p>Yes. All three books were designed for readers over 65. The type is the size of a large-print library book, and on a phone or tablet you can make it as big as you like. You can also print them at home.</p></details>
+      <details><summary>Do I need a gym, special food or a dating site?</summary><p>No. Every exercise is done at home with a sturdy chair and two cans of soup. Every recipe uses ordinary supermarket food, for one or two people. And Book 3 is as much about friendship, family and living well alone as it is about romance.</p></details>
+      <details><summary>How do I get the books?</summary><p>Within about three minutes of paying you receive an email with the download links. Open them on your phone, tablet or computer. If you have any trouble, reply to the email and a person will help you.</p></details>
+      <details><summary>Are they only for women?</summary><p>They are written for women over 65. But Dick Van Dyke, Kirk Douglas, Clint Eastwood and the chapter on caring for a sick husband are there for the men too, and many readers share the books with theirs.</p></details>
+      <details><summary>What if they're not for me?</summary><p>You have sixty days. Send one email and you get every dollar back. You keep the books.</p></details>
     </div>
   </div>
 </section>
@@ -341,14 +410,20 @@ footer p{margin-top:8px}
   <div class="wrap">
     <b>Behind the Fame</b>
     <p>Stories from the files of the stars you grew up with.</p>
-    <p>© 2026 Behind the Fame · All rights reserved. This book is for information and enjoyment and is not medical advice. Talk to your doctor before beginning any exercise, diet or supplement. Not affiliated with or endorsed by any of the people mentioned.</p>
+    <p>© 2026 Behind the Fame · All rights reserved. These books are for information and enjoyment and are not medical, legal or financial advice. Talk to your doctor before beginning any exercise, diet or supplement. Not affiliated with or endorsed by any of the people mentioned.</p>
   </div>
 </footer>
 
 <script>
-  // Replace with the real checkout link (Payhip, Gumroad, etc.). Every "buy" button uses it.
-  var BUY_URL = "";
-  if (BUY_URL) {
-    document.querySelectorAll("a[data-buy]").forEach(function (a) { a.href = BUY_URL; a.target = "_blank"; a.rel = "noopener"; });
-  }
+  // Paste the Payhip (or Gumroad) links here. Each "buy" button uses the one for its product.
+  var BUY = {
+    bundle: "",   // The Complete Behind the Fame Library, $37
+    aging:  "",   // The Hollywood Secret to Aging Beautifully, $19
+    plate:  "",   // The Hollywood Plate, $19
+    love:   ""    // The Golden Years Love Story, $19
+  };
+  document.querySelectorAll("a[data-buy]").forEach(function (a) {
+    var url = BUY[a.getAttribute("data-buy")];
+    if (url) { a.href = url; a.target = "_blank"; a.rel = "noopener"; }
+  });
 </script>
