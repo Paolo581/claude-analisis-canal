@@ -21,8 +21,9 @@ h4{font-size:1.05rem;margin:1.2em 0 .3em;page-break-after:avoid}
 p{margin:0 0 1em} em{font-style:italic} strong{font-weight:700}
 ul,ol{padding-left:1.4em;margin:0 0 1em} li{margin:.35em 0}
 hr{border:0;border-top:1px solid var(--line);margin:2em 0}
-table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.9rem}
-th,td{border:1px solid var(--line);padding:.5em .6em;text-align:left;vertical-align:top}
+table{border-collapse:collapse;width:100%;margin:1em 0;font-size:.82rem;line-height:1.45}
+th,td{border:1px solid var(--line);padding:.45em .5em;text-align:left;vertical-align:top}
+td:first-child,th:first-child{white-space:nowrap}
 th{background:var(--box)}
 h3 + ol, h3 + ul, h4 + ul{background:var(--box);border-radius:10px;padding:1em 1em 1em 2.2em}
 @media print{html{font-size:14pt} body{max-width:none;padding:0} h1{page-break-before:always} a{color:inherit;text-decoration:none}}
