@@ -52,3 +52,10 @@ Extensión: unas 16.000 palabras, 101 páginas en formato 6×9 pulgadas con letr
 - **Amazon KDP.** El PDF ya está en 6×9. Para Kindle, sube `salida/libro.html` o el Markdown convertido a EPUB con pandoc (`pandoc salida/libro.md -o libro.epub`).
 - **Vídeos.** Cada capítulo es también un guion corto: "At 100, Dick Van Dyke still goes to the gym. This is his morning", "The one thing Joan Collins refused to do for 70 years". Sirven como vídeos de 8 a 12 minutos entre los documentales largos.
 - **Comentarios.** El libro pide al final que digan qué capítulo les ayudó y qué estrella quieren ver. Es la forma de medir qué personajes funcionan.
+
+## Página de ventas (`web/`)
+
+- `web/index.html` — la página completa, lista para subir a cualquier hosting (Netlify, Vercel, Hostinger, Lovable…). Un solo archivo, sin dependencias salvo las fuentes de Google.
+- `web/body.html` — la misma página sin la cabecera HTML, que es la que se publica como artifact de Claude para previsualizar.
+- Estructura calcada de la página de Car Care Garage: barra con botón, titular con cifra, precio, tres «dónde se pierden los años», qué hay dentro (las cinco partes y las 15 estrellas), tarjeta de oferta, por qué lo escribimos, garantía de 60 días, «última llamada» con y sin el libro, preguntas frecuentes y pie con aviso legal.
+- **Antes de publicarla:** (1) sustituir `[CHANNEL NAME]`; (2) pegar el enlace de pago de Payhip o Gumroad en la variable `BUY_URL` del `<script>` final, que rellena todos los botones de compra; (3) revisar el precio, que está puesto en 19 $ con 29 $ tachados, y cambiarlo en los cuatro sitios donde aparece si decides otro; (4) si tienes una portada real, sustituir el mockup de libro de la cabecera (bloque `.book`) por una imagen.
