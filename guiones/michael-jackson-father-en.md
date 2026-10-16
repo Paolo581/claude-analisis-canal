@@ -44,6 +44,8 @@ But somebody was organizing every minute of it. Somebody who decided when rehear
 
 And that's the man Michael Jackson was going to talk about, twenty-five years later, in front of ninety million people.
 
+Quick word before we go further. Most women over 65 were never told how the stars they grew up with stayed strong, slim and loved for the rest of their lives. That's why I created The Hollywood Secret to Aging Beautifully, a practical guide to the daily habits of 15 Hollywood legends who lived well into their 90s, and some past 100. Get your copy now. The link is in the description. Back to our story.
+
 ## PART 1
 
 Joe Jackson worked at a steel mill in Gary. He'd played guitar in a band that never went anywhere. When he realized what his own kids could do, he dropped the dream of being a musician and became something else. Their manager.
