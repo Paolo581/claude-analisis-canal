@@ -186,6 +186,8 @@ But it needs something that happened fourteen years before that interview. A dec
 
 It's the most important decision of his life. And it had nothing to do with music.
 
+## PART 3
+
 August tenth, nineteen seventy-nine. An album comes out called Off the Wall.
 
 It reached number three on the American album chart, spent sixteen weeks at number one on the R&B chart, and stayed in the top ten for almost nine months. The following year it was the best-selling album in the United States. It passed twenty million copies.
@@ -314,7 +316,7 @@ Nine years after that fire, when the son sat in front of ninety million people a
 
 And his answer was not a simple denial.
 
-## PART 3
+## PART 4
 
 November, two thousand and three. Ten years have passed since that interview.
 
@@ -444,7 +446,7 @@ Something started happening to his body long before two thousand and nine. And w
 
 Hold on to one word: propofol. I'll explain what it is, and I'll explain who was convicted because of it.
 
-## PART 4
+## PART 5
 
 Before I take you to two thousand and nine, there's someone you need to meet in this story.
 
@@ -592,7 +594,7 @@ Everything that happened that day is documented. There's a coroner's report, the
 
 That's where we're going now. And what's in the report is worse than what people say.
 
-## PART 5
+## PART 6
 
 June twenty-fourth, two thousand and nine. An arena in downtown Los Angeles called the Staples Center.
 
@@ -724,7 +726,7 @@ Both children are talking about their father. And the two sentences are the oppo
 
 I'm not drawing a conclusion for you. I just want you to notice that both of them said, each in their own way, the truth they had.
 
-## PART 6
+## PART 7
 
 Now there's one last person in this story. And it's about her that I want to ask you a question before we finish.
 
@@ -884,6 +886,7 @@ This video puts the two recordings side by side and follows everything in betwee
 00:00 Ninety million people and a five-year-old in Gary
 03:16 The belt, the Chitlin' Circuit and four number ones
 09:42 "I would start to regurgitate": what Michael told Oprah
+13:42 Off the Wall, Thriller, the fire and the Beatles catalog
 22:03 "I whipped him. I never beat him": Joe Jackson's three answers
 29:47 Lisa Marie Presley, the vampires and "I'm afraid I'll end up like him"
 38:33 June 25, 2009: propofol, the trial and an eleven-year-old with a microphone
@@ -899,7 +902,7 @@ This video puts the two recordings side by side and follows everything in betwee
 
 ## TAGS (comma-separated, under 500 characters)
 
-michael jackson, joe jackson, michael jackson documentary, michael jackson father, michael jackson oprah 1993, michael jackson childhood, jackson 5, michael jackson story, michael jackson death, michael jackson biography, michael jackson life story, conrad murray, propofol michael jackson, lisa marie presley michael jackson, michael jackson will, joe jackson interview, michael jackson abuse, thriller, michael jackson true story, king of pop, michael jackson last days, paris jackson, katherine jackson
+michael jackson, joe jackson, michael jackson documentary, michael jackson father, michael jackson oprah 1993, michael jackson childhood, jackson 5, michael jackson story, michael jackson death, michael jackson biography, conrad murray, propofol michael jackson, lisa marie presley michael jackson, michael jackson will, joe jackson interview, michael jackson abuse, thriller, michael jackson true story, king of pop, michael jackson last days, paris jackson, katherine jackson
 
 ## TITLE OPTIONS
 
