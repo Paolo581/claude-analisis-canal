@@ -17,6 +17,7 @@ Cada capítulo abre con la historia real de una estrella, en el tono de "secreto
 - `construir.py` — regenera los tres: `python3 ebook/construir.py` (o `python3 ebook/construir.py hollywood-plate` para uno).
 - `web/index.html` — la página de ventas completa, un solo archivo, lista para subir a cualquier hosting. `web/body.html` es la misma sin cabecera HTML, publicada como artifact para previsualizar.
 - `payhip-ficha.md` — nombre, precio y descripción de los cuatro productos para pegar en Payhip, y cómo crear el pack.
+- `cta.md` — el clip hablado del minuto 3, la línea 1 de la descripción del vídeo y del canal, y el cierre fijo, copiados del sistema de Car Care Garage.
 
 ## Antes de publicar
 
