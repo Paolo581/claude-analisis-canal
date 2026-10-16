@@ -4,7 +4,7 @@ Las tres piezas de texto, siempre idénticas, igual que hace Car Care Garage con
 
 ## 1. Clip hablado (grabar una vez, insertar en todos los vídeos)
 
-### Versión principal (la que usa Car Care Garage desde octubre), 70 palabras, unos 25 segundos
+### Versión principal (la que usa Car Care Garage desde octubre), 76 palabras, unos 26 segundos
 
 > Quick word before we go further. Most women over 65 were never told how the stars they grew up with stayed strong, slim and loved for the rest of their lives. That's why I created The Hollywood Secret to Aging Beautifully, a practical guide to the daily habits of 15 Hollywood legends who lived well into their 90s, and some past 100. Get your copy now. The link is in the description. Back to our story.
 
@@ -17,7 +17,7 @@ Original que imita, palabra por palabra en su estructura:
 
 > Quick word before we go further. Most people spend thousands on car repairs simply because nobody ever taught them the maintenance secrets that make vehicles last. That's why I created the Mechanics Bible 101, a practical guide to helping your car reach 300,000 plus miles while avoiding expensive dealer repairs. Get your copy now. The link is in the description. Now, let's get back to the video.
 
-### Versión alternativa (la de septiembre, con la promesa de no insistir), 79 palabras, unos 27 segundos
+### Versión alternativa (la de septiembre, con la promesa de no insistir), 84 palabras, unos 29 segundos
 
 > A quick word before we go on. There are things women in this country are told to accept after 65 that the stars never accepted. I've spent years opening their files, and I've put what the ones who lasted actually did, every day, into a book called The Hollywood Secret to Aging Beautifully. The daily habits of 15 legends who stayed sharp and strong well into their 90s. I won't mention it again. If you want the book, the link is in the description.
 
