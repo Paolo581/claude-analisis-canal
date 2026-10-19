@@ -19,7 +19,6 @@ CH=[('Oitenta e três milhões','Os dois números','Letreiros "R$ 83 milhões" e
 ('O sonho tinha nome.','O sonho da Presidência','Planalto (arquivo)'),
 ('Faustão.','Os domingos do Faustão','Foto de imprensa com crédito'),
 ('O nome dele era Daniel Vorcaro.','Daniel Vorcaro','Foto pública de Vorcaro com crédito · Belo Horizonte'),
-('Banco Master.','Banco Master','Avenida Faria Lima (arquivo)'),
 ('Quando você guarda dinheiro num banco','Juros bons demais','Animação simples: dois bancos e um aposentado'),
 ('No Brasil existe um tipo de seguro','O Fundo Garantidor','Letreiro "até R$ 250 mil por pessoa"'),
 ('Domingo, cinco de novembro','O primeiro abraço','Celular com mensagem genérica (ilustrativo)'),
