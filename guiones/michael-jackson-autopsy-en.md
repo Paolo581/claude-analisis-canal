@@ -197,11 +197,19 @@ The first was the dermatologist. Arnold Klein. Between March and June of that ye
 
 People at the rehearsals noticed. He was cold all the time. Shivering under blankets in a warm room. Rambling. Forgetting lyrics he'd sung ten thousand times. The director of the show wrote an email calling him a basket case. The makeup artist said he was wasting away.
 
+Five days before he died, the director sent another email to the promoters. He wrote that Michael had shown up to rehearsal trembling, that he couldn't eat, that he needed a psychological evaluation. He wrote that there were strong signs of paranoia and anxiety. He said he'd had to hand-feed him and wrap him in blankets. He asked whether they should stop.
+
+They didn't stop. The shows were sold out.
+
 Demerol does that. And when it wears off, it does something else. It takes your sleep.
 
 The second doctor was the one hired to fix that. A cardiologist from Las Vegas named Conrad Murray. One patient. One hundred and fifty thousand dollars a month. And according to what Murray told police himself, for about two months he put Michael Jackson under with propofol almost every night. In that bedroom. Through an IV. With no monitor on his chest.
 
 How much propofol? Murray ordered it himself, shipped to his girlfriend's apartment. Two hundred and fifty-five vials. More than four gallons.
+
+And here's a number that tells you why a cardiologist would agree to do that. At the time he took the job, Conrad Murray was drowning. Court records showed hundreds of thousands of dollars in unpaid debts, judgments, back child support, a clinic behind on rent. One hundred and fifty thousand a month was the lifeline. And the man paying it wanted one thing from him every night.
+
+Sleep. Whatever it took.
 
 For one man.
 
@@ -210,6 +218,8 @@ For one man.
 Wednesday, June twenty-fourth, two thousand and nine. The Staples Center. Michael rehearses until almost midnight. People on the floor say he was sharp. He sang. He danced. He gave notes.
 
 He gets home to Holmby Hills after one in the morning. And he can't sleep.
+
+Think about where his body is at this point. Six thousand milligrams of Demerol over the spring. Two months of nightly propofol. A thirty-pound frame that people are hand-feeding. And now a man with a bag of sedatives is sitting down next to the bed.
 
 What goes into his body over the next nine hours comes from Murray's own interview with detectives, two days later. Listen to the clock.
 
@@ -243,11 +253,19 @@ Thirty minutes.
 
 In those thirty minutes, according to the bodyguard who testified, Murray doesn't call for help. He calls Michael's personal assistant. He does chest compressions on a soft mattress, where they don't work. And when the bodyguard runs up the stairs, Murray tells him to grab a bag. Put the vials in it. Take down the IV bag. The slit one, with the propofol bottle inside. Then call nine-one-one.
 
+The assistant testified about that first call. Twelve twelve. A voicemail. Murray's voice saying get here right away, Mr. Jackson had a bad reaction. Not an ambulance. An assistant.
+
+The bodyguard, Alberto Alvarez, testified that when he got to the room, Michael was on the bed, eyes open, mouth open, and Murray was on top of him doing compressions with one hand. He said Murray grabbed a handful of vials and told him to put them in a bag. He said he looked up and saw the IV bag with a bottle inside it, and Murray told him to take that down too. Only then did Murray say to call nine-one-one. Alvarez made the call himself, with Murray's instructions in his ear.
+
 In the doorway, two children. Prince, twelve. Paris, eleven. Paris screams for her father.
 
 Twelve twenty-one. The dispatcher asks what's wrong. A man says there's a gentleman here who needs help, he's fifty, he's not breathing, he's not responding to CPR. There's a personal doctor with him.
 
 The paramedics arrive in four minutes. One of them, Richard Senneff, testified that when he walked in, he thought he was looking at a hospice patient. Thin. Pale. An IV stand. He asked the doctor what the patient had taken. Murray said nothing. Then he said lorazepam. He never said propofol. Not to the paramedics. Not to the emergency room.
+
+Senneff said something else that mattered. He looked at the patient and believed he had been down for a long time. Not minutes. His pupils were fixed. His skin was cool. The paramedics wanted to call it right there in the bedroom. Murray refused. He insisted they take him to the hospital. So they did, working on a man they believed was already gone, because the doctor in the room wouldn't let them stop.
+
+And in the hospital, while the emergency team was still working, Murray asked the assistant for a favor. He wanted a ride back to the house. He said there was some cream in the bedroom that Michael wouldn't want the world to know about. The assistant said no.
 
 Two twenty-six in the afternoon. UCLA Medical Center. Michael Jackson is pronounced dead. Fifty years old.
 
@@ -339,7 +357,7 @@ And if this story got to you, subscribe to the channel. Next week, there's anoth
 
 NOTES FOR THE EDIT
 
-1. On the "recent discovery" ask: there is no new autopsy finding from 2025–2026, and the script does not claim one. Instead the hook is built on documented material most viewers have never heard: the LAPD bedroom photographs (IV stand, oxygen tanks, urine jug, pill bottles, the slit saline bag with the propofol bottle inside, the Benoquin tube), the six substances in the toxicology, the 2.6 µg/mL propofol level (general-anesthesia range per the coroner), the IV line in the leg, the 255 vials, Murray's hour-by-hour timeline from his police interview, the phone records, the bodyguard's and paramedic's testimony, and Arnold Klein's 51 visits with roughly 6,500 mg of Demerol between March and June 2009 (medical records raised at the Murray trial and the 2013 AEG civil trial). The "basket case" email (Kenny Ortega) and the makeup artist's account (Karen Faye) are from the AEG trial.
+1. On the "recent discovery" ask: there is no new autopsy finding from 2025–2026, and the script does not claim one. Instead the hook is built on documented material most viewers have never heard: the LAPD bedroom photographs (IV stand, oxygen tanks, urine jug, pill bottles, the slit saline bag with the propofol bottle inside, the Benoquin tube), the six substances in the toxicology, the 2.6 µg/mL propofol level (general-anesthesia range per the coroner), the IV line in the leg, the 255 vials, Murray's hour-by-hour timeline from his police interview, the phone records, the bodyguard's and paramedic's testimony, and Arnold Klein's 51 visits with roughly 6,500 mg of Demerol between March and June 2009 (medical records raised at the Murray trial and the 2013 AEG civil trial). The "basket case" and "trouble at the front" emails (Kenny Ortega, June 2009), the makeup artist's account (Karen Faye), Murray's debts, the 12:12 voicemail to the assistant (Michael Amir Williams), Alvarez's account of the vials and the IV bag, Senneff's belief that the patient had been down a long time and Murray's refusal to call it at the house, and Murray's request to go back for "some cream" are all from sworn testimony at the Murray trial and the AEG civil trial.
 
 2. Facts kept from the original: Gary, Joseph and the guitar, the belt, Oprah 1993, Apollo, Motown, Thriller, the moonwalk, the Pepsi fire, the 1993 painkiller statement, vitiligo and Klein, the surgeries, the "milk", 2005 acquittal, This Is It, Murray's contract, June 24–25, the 911 call at 12:21, 2:26 pm, Paris at the memorial, the autopsy findings, the heart, the cause and manner of death, the four reasons, the trial, the verdict, the sentence, the films.
 
@@ -361,8 +379,8 @@ This video reconstructs exactly what was put into Michael Jackson's body: six su
 07:35 Thriller, the night of fire, and the first needle
 12:00 The skin: vitiligo, Oprah, and the scars
 15:42 Milk, the second doctor, and 255 vials
-19:10 June 25, by the clock: six drugs in nine hours
-22:35 The autopsy, the perfect heart, and the word homicide
+20:06 June 25, by the clock: six drugs in nine hours
+25:27 The autopsy, the perfect heart, and the word homicide
 
 (Adjust timestamps to the final edit.)
 
