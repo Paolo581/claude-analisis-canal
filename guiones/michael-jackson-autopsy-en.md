@@ -1,308 +1,204 @@
-# MICHAEL JACKSON: The HORRIFYING Secrets of the King of Pop's Autopsy
+# MICHAEL JACKSON: What They Put In His Body — The HORRIFYING Truth His Autopsy Revealed
 
-American-English narration script, retention build. Same story and facts as the Portuguese original; the structure is rebuilt so each chapter opens on a finding from the autopsy report and then traces it back to the moment in his life that caused it. Numbers spelled out for the voice. Paragraph breaks mark the pauses. Sponsor CTA at the end of the intro (about minute 3).
+American-English narration script. Built around what the police photographs, the toxicology and the trial record show was put into Michael Jackson's body, by whom, and how. Same core story as the Portuguese original; the structure and the hook are rebuilt. Numbers spelled out for the voice. Sponsor CTA at the end of the intro (about minute 3).
 
 ---
 
 ## INTRO
 
-June twenty-sixth, two thousand and nine. Eight in the morning. A steel table in an examination room at the Los Angeles County coroner's office.
+June twenty-fifth, two thousand and nine. A little after three in the afternoon. Detectives from the Los Angeles Police Department walk into a bedroom on the second floor of a rented mansion in Holmby Hills.
 
-On that table is the most famous body on the planet. And the man standing over it, Dr. Christopher Rogers, is about to spend the next several hours writing down everything the world was never allowed to see.
+The man who slept in that bedroom was pronounced dead forty minutes earlier. His name was Michael Jackson.
 
-By the time he's done, the report will run fifty-one pages.
+And what the police photographed in that room is something most people have never seen. Because it didn't look like a bedroom. It looked like a hospital ward that somebody had tried to hide.
 
-And inside those pages there are five marks. Five things on that body that most people never knew were there. A tattoo hidden under his hair. Skin with no color. Scars in places nobody photographed. Needle punctures on both arms. And lungs that had been sick for years.
+An IV stand next to the bed. Oxygen tanks on the floor. A jug of urine. Pill bottles lined up on the nightstand. Empty vials. A tube of a prescription skin cream. A child's doll on the pillow. And in a closet, something that stopped the detectives cold. A plastic saline bag, slit open with a blade, with a glass bottle shoved inside it. The bottle was labeled propofol.
 
-Each one of those marks is a chapter of Michael Jackson's life. Each one points to a specific day, a specific room, a specific decision. And I'm going to walk you through all five, one by one.
+Somebody had built a homemade anesthesia drip. In a bedroom. For the most famous man on earth.
 
-But the fifty-first page is where this story turns. Because after everything they found, the coroner wrote down one more thing. The one organ in that body that was in perfect condition.
+Stay with me until the end. Because over the next few minutes I'm going to show you exactly what was put into Michael Jackson's body in the last hours of his life. Six different substances. In what order. At what time. By whose hand. And how much. Because the amount they found in his blood was the dose you'd give a patient on an operating table, with his chest open.
 
-The heart.
+And then I'm going to show you the one thing the coroner found inside him that nobody expected. The thing that turned this from a tragedy into a crime.
 
-Stay with me until the end. Because that healthy heart is the reason the report ends with a word nobody expected. And that word put a doctor in front of a jury.
+But to understand how a man ends up with a slit saline bag hanging over his bed, you have to understand how he got there. And that starts fifty years earlier, in a house with two bedrooms and eleven people.
 
-To understand the first mark, you have to go back fifty years. To a house with two bedrooms and eleven people in it.
+Gary, Indiana. A steel town. Twenty-three hundred Jackson Street. The Jacksons lived on Jackson Street, and that's not a joke. Nine kids. The boys slept three to a bed.
 
-Gary, Indiana. A steel town. Smoke in the sky every hour of the day, and men coming home from the furnaces with their shirts stuck to their backs.
+The mother, Katherine, was gentle and religious. The father, Joseph, ran a crane at the mill and had a dead dream. He'd played guitar in a band once. It went nowhere. The guitar went into a closet, and the boys were told never to touch it.
 
-Twenty-three hundred Jackson Street. That's the address, and that's not a joke. The Jacksons lived on Jackson Street. Two bedrooms. Nine kids. The boys slept three to a bed.
+One of them touched it. A string broke. Joseph was furious. Then he made the boy play, heard him, and had an idea. If he couldn't make it in music, his sons would make it for him.
 
-Michael Joseph Jackson was born into that house on August twenty-ninth, nineteen fifty-eight. The eighth child.
-
-The mother, Katherine, was gentle, religious, and the glue of the family.
-
-The father was Joseph. And Joseph had a dream that had died on him.
-
-He'd played guitar in a band, years earlier. It went nowhere. The guitar went into a closet, and the boys were told never to touch it.
-
-One afternoon, with Joseph at the mill, one of them touched it. A string broke.
-
-When Joseph found out, he was furious. But instead of just punishing the boy, he made him play. And the boy could play.
-
-That's the moment Joseph Jackson stopped being a crane operator with a dead dream and became something else. A manager. If he couldn't make it in music, his sons would make it for him.
-
-Hold on to that broken guitar string. Because everything on that steel table in two thousand and nine, every single mark, starts with a father who decided his children were going to be famous whether they liked it or not.
+That decision is the first thing that was ever put into Michael Jackson. Long before any needle.
 
 Quick word before we go further. Most women over 65 were never told how the stars they grew up with stayed strong, slim and loved for the rest of their lives. That's why I created The Hollywood Secret to Aging Beautifully, a practical guide to the daily habits of 15 Hollywood legends who lived well into their 90s, and some past 100. Get your copy now. The link is in the description. Back to our story.
 
 ## PART 1
 
-The first mark isn't in the report. No coroner could have found it. But it's the one that explains all the others.
+Michael joined his brothers' group at five. The living room became a rehearsal studio, and Joseph sat in a chair watching, with a belt in his hand. He admitted that himself, years later, on camera.
 
-Joseph put the older boys in a group. Michael joined at five. He was the smallest one on the stage, and the one nobody could stop watching.
+Michael said more. In nineteen ninety-three, across from Oprah Winfrey, he said he was so afraid of his father that sometimes, just seeing him walk in, he would get sick and throw up. He said he was very lonely as a child.
 
-The living room on Jackson Street became a rehearsal studio. After school, every day, for hours. The same steps. The same harmonies. And Joseph in a chair, watching.
+Then came the clubs. Bars and strip joints in Gary and Chicago, after midnight, with an eight-year-old watching from the wings. Then the Apollo in Harlem, amateur night, nineteen sixty-seven. They won. Then Motown.
 
-With a belt in his hand.
+Nineteen seventy. Four singles in a row, all number one. Nobody had ever done it. Michael was eleven. Motown moved the family to Los Angeles and put the boy in Diana Ross's house to be polished. A tutor followed the brothers on tour. School followed the work. Never the other way around.
 
-Joseph admitted it himself, years later, on camera. He said he whipped his boys with a strap. He said that's how you raised kids in those days, and that it kept them out of jail.
+At fourteen, his face changed. Acne. A nose that grew before the rest of him. And a father who, Michael said, called him big nose in front of his brothers. He washed his face in the dark so he wouldn't see himself in the mirror.
 
-Michael remembered it differently. In nineteen ninety-three, sitting across from Oprah Winfrey, in front of tens of millions of people, he said he was beaten. He said he was so frightened of his father that sometimes, just seeing him walk in, he would get sick to his stomach and throw up.
+Hold on to that. Because the coroner is going to find the scars where that ended up.
 
-And he said something else that night, quietly. That as a child, he was very lonely.
+He said, as an adult, that he never had a childhood. He used to stand at the window and watch other kids play in the street. Years later he'd build himself one. A ranch with a Ferris wheel and a train, named after the place where children don't grow up. Neverland.
 
-A five-year-old who vomited from fear and felt alone in a house with ten other people. That's the first mark. And he carried it onto every stage he ever stood on.
-
-The stages came fast.
-
-Talent shows in Gary. Then clubs. Bars and strip joints in Gary and Chicago, where the brothers went on after midnight, between acts a child should never see. Michael watched it all from the wings. He was eight.
-
-August nineteen sixty-seven. The Apollo Theater in Harlem, the toughest crowd in Black America. Amateur night. The Jackson Five won it.
-
-Then Motown. The biggest label in Black music. The company told the press the boys had been discovered by Diana Ross. It wasn't true, but it sold records, and Motown knew what sold.
-
-Nineteen seventy. The first single went to number one. So did the second. And the third. And the fourth. No group in American history had done that.
-
-Michael was eleven.
-
-Motown moved the whole family to Los Angeles. And for a while, Michael didn't even live with them. The label put him in Diana Ross's house in the Hollywood hills, to be polished. An eleven-year-old, placed in the home of a superstar like an apprentice. A tutor traveled with the brothers so there'd be some kind of school between the shows. School followed the work. Never the other way around.
-
-There was a Saturday morning cartoon with his face in it. Lunchboxes. Posters on bedroom walls across the country. And at fourteen, a number one of his own, a song called Ben, a love song written for a movie about a rat, which he sang like it was about a person.
-
-And at fourteen, something else. His face changed. Acne. A nose that grew before the rest of him caught up. And a father who, according to Michael, teased him about it in front of his brothers. Called him big nose. Michael said he would wash his face in the dark so he wouldn't have to look at himself in the mirror.
-
-Remember that nose. Because thirty-five years later, a coroner is going to examine it with a magnifying glass. And what he writes down is the third mark.
-
-He said he used to stand at the window and watch other kids play in the street. He wanted to be out there. He never was.
-
-He said it plainly, as an adult. He never had a childhood.
-
-Years later he'd build one. A ranch in California, almost three thousand acres, with a Ferris wheel, a zoo, and a train. He named it after the place where children don't grow up. Neverland.
-
-But before Neverland, the boy who never got to play was going to become the biggest star the world had ever seen. And at the very top, on a stage full of fireworks, he was going to get the second mark. The one under his hair.
+But first, the kid from Jackson Street was going to become the biggest star alive. And at the very top, his body was going to take the first hit. From fire.
 
 ## PART 2
 
-Page twelve of the autopsy report.
+November nineteen eighty-two. Thriller. Still the best-selling album in history. Seventy million copies.
 
-The scalp. Under the hair, running from one ear to the other across the top of the head, the examiner found a dark tattoo. A band of ink, drawn to look like hair, covering an area where almost no hair grew.
+May nineteen eighty-three. Motown's twenty-fifth anniversary on television. Forty-seven million people. One white glove. Five seconds of a step nobody had seen. The moonwalk. The kid from Gary became the King of Pop that night.
 
-To understand that tattoo, you have to go back to the biggest year any musician ever had.
+Eight months later, his hair was on fire.
 
-In nineteen seventy-nine, he released Off the Wall. Twenty million copies. The best-selling album in America that year. And at the Grammys, it got two nominations and one award, in a minor category. Michael said out loud what he thought of that. He said it was totally unfair. And he said it could never happen again.
+January twenty-seventh, nineteen eighty-four. The Shrine Auditorium. A Pepsi commercial staged as a concert, three thousand real fans in the seats. Michael comes down a staircase, fireworks go off behind him. Take after take. The director wants the explosions closer.
 
-Hold on to that sentence. He meant it as a promise.
+Sixth take. They go off early. A spark lands in his hair.
 
-November thirtieth, nineteen eighty-two. Thriller.
+He keeps dancing. He doesn't feel it. Three, four seconds, spinning with his head on fire, until people rush in and smother it with their hands.
 
-It's still the best-selling album in the history of recorded music. Seventy million copies, give or take. Billie Jean. Beat It. Songs that played in every kitchen in America and every bar on earth.
+Second- and third-degree burns across his scalp. And before they wheeled him out, he asked for his glove, so he could wave to the fans and nobody would be scared.
 
-The Thriller video, fourteen minutes of zombies and a werewolf, was so big that MTV, which barely played Black artists in those days, couldn't say no. After Michael, that door never closed again.
+Pepsi settled for a million and a half dollars. He gave it all to a burn center. A month later he collected eight Grammys in one night with his scalp still healing under a wig.
 
-May sixteenth, nineteen eighty-three. A televised special for Motown's twenty-fifth anniversary. Forty-seven million people watching. Michael walks out alone, in a black jacket, with a single white glove on his left hand, and sings Billie Jean.
+And here's what nobody saw. The scalp never healed right. Over the next twenty-five years there were surgeries, skin expanders, reconstructions. The coroner would find a dark tattoo across the top of his head, ear to ear, inked to look like hair where no hair grew.
 
-And in the middle of the song, he does a step nobody had seen. He glides backward while his feet walk forward.
+But the fire did something worse than a scar. It introduced Michael Jackson to the needle.
 
-The moonwalk. Five seconds. The most replayed five seconds in the history of pop music.
+The surgeries hurt. The treatment for the pain was opioids. Strong ones. In November of nineteen ninety-three, in a recorded message from Mexico City, he told the world he had become dependent on painkillers, canceled the rest of a world tour, and let Elizabeth Taylor fly him to a clinic in London.
 
-That night, the kid from Jackson Street became the King of Pop.
-
-Eight months later, on another stage in Los Angeles, the King of Pop's hair caught fire.
-
-January twenty-seventh, nineteen eighty-four. The Shrine Auditorium. Michael and his brothers are shooting a Pepsi commercial, built to look like a concert, with three thousand real fans in the seats.
-
-The shot has Michael coming down a staircase while fireworks go off behind him. Take after take. The director wants the explosions closer.
-
-On the sixth take, they go off early. A spark lands in his hair.
-
-His hair ignites.
-
-He keeps dancing. He doesn't feel it yet. Three, four seconds, spinning with his head on fire, until people rush in and smother the flames with their hands and jackets.
-
-Second- and third-degree burns across the top of his scalp.
-
-And here's the detail people who were there have repeated for forty years. Before they wheeled him out, he asked for his glove. The white one. He wanted to be carried past the fans with his hand up, wearing it, so nobody would be scared.
-
-A man with a burned head, worried about the crowd.
-
-Pepsi settled for a million and a half dollars. He gave every cent to a burn center in Los Angeles, which put his name on the unit. A month later he walked into the Grammys and walked out with eight awards in one night, a record. It can never happen again, he'd said. It didn't. He collected all eight with his scalp still healing under a wig.
-
-To the world, he was untouchable.
-
-But the scalp never fully healed. The hair never grew back right. Over the next twenty-five years there were surgeries, skin expanders, reconstructions. And eventually, ink. A tattoo to fill in what the fire took, so that under the hats and the wigs, nobody would ever see.
-
-The coroner saw.
-
-And something else started on that stage that didn't show up as a mark. It showed up in his blood.
-
-The pain from those surgeries needed painkillers. Strong ones. In November of nineteen ninety-three, in a recorded message from Mexico City, Michael told the world he had become dependent on them. He canceled the rest of a world tour. Elizabeth Taylor flew to him and took him to a clinic in London herself.
-
-The boy who threw up from fear was now a man who needed pills to get through the day.
-
-And while he fought that, the world was watching his face change. And deciding, without asking him, why.
+Remember the name of the drug he'd come to lean on. Demerol. An injectable opioid. Because sixteen years later, in the spring of two thousand and nine, another doctor was going to be putting it into his body by the thousands of milligrams. And that is the part of this story almost nobody knows.
 
 ## PART 3
 
-Page nine of the report.
+Before the needles, the world got obsessed with his skin.
 
-The skin. The examiner found large areas with no pigment at all. On the chest. On the abdomen. On the face. On the arms. Patches where the skin had simply lost its color.
+Mid-eighties. Michael Jackson was getting lighter. First in patches. Then everywhere. The tabloids said he was bleaching himself. That he was ashamed of being Black.
 
-And on page ten, something else. Scars. Behind both ears. Beside each nostril. On the neck. On the abdomen.
+February nineteen ninety-three. Oprah, live from Neverland, ninety million people. She asked him straight. He said he had a skin disorder that destroyed his pigment. He said he didn't choose it. He said he wore makeup to even out the blotches. And he said he was proud to be a Black man.
 
-Two findings, two different stories. And for twenty years, the world had mixed them into one.
+Vitiligo. His dermatologist, Arnold Klein, had diagnosed it in nineteen eighty-six, along with lupus. The nurse in Klein's office who handled his treatments was a woman named Debbie Rowe. She later became his wife and the mother of his two oldest children. That's how private this disease was. The people who saw it were the people he let in.
 
-It started in the mid-eighties. Fans noticed Michael Jackson was getting lighter. First in patches. Then everywhere. Every new photo, a slightly different face.
+That prescription cream the police photographed on his nightstand? Benoquin. Not bleach. The cream vitiligo patients use when the white has spread so far that it's easier to fade the rest. Sixteen years after Oprah, it was still on his nightstand.
 
-The tabloids had their answer ready. He was bleaching himself. He was ashamed of being Black.
+Most people didn't believe him. The coroner would. Patches with no pigment on the chest, the abdomen, the face, the arms. Page after page. He had been telling the truth.
 
-He took it in silence for years. Until February of nineteen ninety-three, when Oprah Winfrey walked into Neverland with a camera crew and ninety million people watching live.
+The scars were a different matter. Behind both ears, the kind a facelift leaves. Beside each nostril, the kind a nose job leaves. More on the neck and abdomen. In his autobiography he'd admitted to two nose surgeries and a chin cleft. On Oprah's couch he'd said very little. The body said more.
 
-She asked him straight out.
+The fourteen-year-old washing his face in the dark. That's where he ended up.
 
-And he answered. He said he had a skin disorder that destroyed the pigment in his skin. He said he didn't choose it. He said he used makeup to even out the blotches because they came in uneven. And he said, looking straight at her, that he was proud to be a Black man.
+So he hid. Hats. Surgical masks. Umbrellas in the sun. Long sleeves in the California heat. The most photographed man alive, and nobody had seen his actual face in years.
 
-The disorder is called vitiligo. It kills the cells that make color, patch by patch, until the body is a map of white and brown. His dermatologist, Arnold Klein, had diagnosed it in nineteen eighty-six. He also diagnosed lupus, another disease that attacks the skin.
-
-The nurse in Klein's office who handled Michael's treatments, year after year, was a woman named Debbie Rowe. She would later become his wife, and the mother of his two oldest children. The woman who knew his skin better than anyone became the mother of his kids. That's how private this disease was. The people who saw it were the people he let in.
-
-When investigators searched Michael's bedroom in two thousand and nine, they found tubes of a cream called Benoquin on his nightstand. It's not bleach. It's a prescription cream vitiligo patients use when the white has spread so far that it's easier to fade the rest. That tube was the other half of the answer he gave Oprah.
-
-For sixteen years, most people didn't believe him.
-
-The steel table did. Page nine. No pigment. Chest, abdomen, face, arms. Vitiligo.
-
-He had been telling the truth.
-
-But page ten is where it gets complicated. Because the scars were real too.
-
-In his autobiography, in nineteen eighty-eight, he admitted to two nose surgeries and a cleft added to his chin. He said he'd broken his nose in a dance rehearsal in the late seventies and that the first operation came from that.
-
-On Oprah's couch in ninety-three he said there had been very little surgery. Far less than the papers said.
-
-The coroner found scars behind both ears, the kind a facelift leaves. Scars beside each nostril, the kind a nose job leaves. And a specialist who reviewed the report for the press said several of the others looked surgical too.
-
-Remember the fourteen-year-old washing his face in the dark so he wouldn't see his nose? Remember the father calling him big nose in front of his brothers?
-
-Those scars beside the nostrils are where that ended up.
-
-So the body said two things at once. On the skin, he had told the truth. On the surgeries, he had told less than the truth.
-
-And he had spent two decades hiding both. Hats. Surgical masks. Umbrellas in the sun. Long sleeves in the California heat. The most photographed man alive, and nobody had seen his actual face in years.
-
-There was one more thing he was hiding. And it wasn't on his skin. It was in his arms.
+And nobody had seen his arms. Which is where the real story was.
 
 ## PART 4
 
-Page fourteen.
+Michael Jackson could not sleep.
 
-Puncture marks. On both arms. On the left knee. On an ankle. Old ones and fresh ones. Years of needles going into the same veins.
+Not the way you and I can't sleep. He'd lie awake for days. The ordinary pills stopped working in the nineties. And somewhere on a tour, a doctor offered him something that wasn't a sleeping pill at all.
 
-That's the fourth mark. And it's the story of a man who could not sleep.
+Propofol. A surgical anesthetic. The drug that puts you under before they cut you open. A thick white liquid in a glass bottle.
 
-Insomnia had chased Michael Jackson for most of his adult life. The ordinary pills stopped working somewhere in the nineties. He wanted something stronger. And he found it.
+It looks like milk. That's what he called it. Milk.
 
-Propofol. A surgical anesthetic. The drug a hospital uses to put you under before they open you up. It comes in a glass bottle, and it's white and thick.
+Doctors who worked his tours in the nineties said later they'd given it to him in hotel rooms, between shows, with an IV in his arm, so he could sleep a few hours. The most famous man on earth, put under like a surgical patient, to rest.
 
-It looks like milk.
+The coroner would find the result. Puncture marks on both arms. On the left knee. On an ankle. Old and fresh. Years of needles into the same veins, until the veins in his arms were hard to use anymore.
 
-That's what Michael called it. Milk. Doctors who worked his tours in the nineties said later that they'd given it to him in hotel rooms, between shows, with an IV in his arm, just so he could close his eyes for a few hours. The most famous man on earth being put under like a surgical patient, night after night, to sleep.
+Hold on to that. Because on his last night, the IV line wasn't in his arm. It was in his leg.
 
-Those are the needle marks.
+Those years were also the worst of his public life. Nineteen ninety-three, an accusation, a settlement, a denial. Two thousand and five, a second accusation and a trial. Fourteen counts. Acquitted on all of them. He walked out free and broken, never slept at Neverland again, and left the country. Bahrain. Ireland. Hotel suites.
 
-And those years were also the darkest of his public life. In nineteen ninety-three, he was accused of molesting a boy. It ended in a multimillion-dollar settlement, and he always denied it. In two thousand and five there was a second accusation, and this time a trial. Fourteen counts. Acquitted on every one.
+March fifth, two thousand and nine. The O2 Arena, London. The comeback. This Is It. Fifty shows. Sold out in hours. He was fifty years old and he wanted to prove he was still who he used to be.
 
-He walked out of that courthouse a free man and a broken one. He never slept at Neverland again. He left the country. Bahrain. Ireland. Hotel suites. Years without a stage.
+And this is where the part nobody talks about begins. Because in the spring of two thousand and nine, there wasn't one doctor putting drugs into Michael Jackson. There were two.
 
-Then, March fifth, two thousand and nine. The O2 Arena, London. In front of a wall of cameras, he announced a comeback. This Is It. Fifty shows. He said it would be the last time he ever performed in London.
+The first was the dermatologist. Arnold Klein. Between March and June of that year, Michael visited Klein's Beverly Hills office fifty-one times. Fifty-one. And according to the medical records that came out at trial, on those visits he was injected with Demerol. The opioid from nineteen ninety-three. Sometimes two hundred milligrams at a time. More than six thousand milligrams in three months.
 
-Tickets sold out in hours. He was fifty years old. And he wanted to prove he was still who he used to be.
+People at the rehearsals noticed. He was cold all the time. Shivering under blankets in a warm room. Rambling. Forgetting lyrics he'd sung ten thousand times. The director of the show wrote an email calling him a basket case. The makeup artist said he was wasting away.
 
-To get through the rehearsals, he hired a doctor. A cardiologist from Las Vegas named Conrad Murray. One patient. One hundred and fifty thousand dollars a month.
+Demerol does that. And when it wears off, it does something else. It takes your sleep.
 
-And for about two months, according to what Murray himself told police, that doctor put Michael Jackson under with propofol almost every single night. In a bedroom. In a rented house. With no monitor on his chest.
+The second doctor was the one hired to fix that. A cardiologist from Las Vegas named Conrad Murray. One patient. One hundred and fifty thousand dollars a month. And according to what Murray told police himself, for about two months he put Michael Jackson under with propofol almost every night. In that bedroom. Through an IV. With no monitor on his chest.
 
-Wednesday, June twenty-fourth, two thousand and nine. The Staples Center. Michael rehearses until almost midnight. People on the floor say he looked sharp. He sang. He danced. He gave notes.
+How much propofol? Murray ordered it himself, shipped to his girlfriend's apartment. Two hundred and fifty-five vials. More than four gallons.
 
-He gets home to Holmby Hills after one in the morning. And he can't sleep.
-
-What happens next comes from Murray's own interview with detectives, two days later.
-
-Around one thirty, Valium. Around two, lorazepam through the IV. Around three, midazolam. Around five, more lorazepam. Around seven thirty, more midazolam. Michael is still awake. He's begging. Murray says Michael kept telling him he had to sleep, that he would have to cancel the rehearsal, that he couldn't do the shows if he didn't sleep.
-
-Around ten forty in the morning, Murray says, Michael asked for his milk.
-
-Murray gave him the propofol. Twenty-five milligrams, he told police. Then he says he watched him for a few minutes, saw he was asleep, and stepped out to the bathroom.
-
-The phone records say something different about those minutes.
-
-Between eleven eighteen and eleven fifty-one, Murray made and took several calls. Nearly an hour on the phone. The last one was to a woman he was seeing. She testified that in the middle of the conversation, he just stopped responding. She heard a commotion, like mumbling, like he had put the phone down. Then nothing.
-
-That was around eleven fifty.
-
-The nine-one-one call was made at twelve twenty-one.
-
-Thirty minutes.
-
-In those thirty minutes, according to the bodyguard who testified at trial, Murray did not call for help. He called Michael's personal assistant. He tried chest compressions on a soft mattress, where they don't work. And when the bodyguard came up the stairs, Murray told him to grab a bag and put vials of medication into it. Then to take down an IV bag. Then to call nine-one-one.
-
-And in the doorway, while all of this was happening, were two children. Prince, twelve. Paris, eleven. The bodyguard said Paris screamed for her father.
-
-Twelve twenty-one. The call. The dispatcher asks what's wrong. A man says there's a gentleman who needs help, that he's fifty, that he's not breathing, that he's not responding to CPR. The dispatcher asks if anyone saw what happened. The man says yes, there's a personal doctor with him.
-
-The paramedics are there in four minutes. One of them, Richard Senneff, testified that when he walked into that room, he assumed he was looking at a hospice patient. Thin. Pale. An IV stand. He asked the doctor what the patient had taken. Murray said nothing. Then he said lorazepam. He never said the word propofol.
-
-They worked on him on the bedroom floor. Then at the UCLA Medical Center, for more than an hour.
-
-Two twenty-six in the afternoon. Michael Jackson is pronounced dead.
-
-He was fifty.
-
-By three o'clock the news had crashed websites around the world. By evening there were thousands of people in the street outside the hospital. Two weeks later, at the memorial in the Staples Center, where he'd rehearsed thirteen days earlier, his daughter Paris, eleven years old, took the microphone and said her father had been the best father you could ever imagine.
-
-But one question was hanging over all of it. A fifty-year-old man dances for three hours and dies in his bed the next morning. How?
-
-The answer was going to come from the one place he could never hide from.
+For one man.
 
 ## PART 5
 
-Friday, June twenty-sixth. Eight in the morning. The steel table.
+Wednesday, June twenty-fourth, two thousand and nine. The Staples Center. Michael rehearses until almost midnight. People on the floor say he was sharp. He sang. He danced. He gave notes.
 
-Dr. Christopher Rogers begins. And for the next few hours, Michael Jackson's body says the things Michael Jackson never would.
+He gets home to Holmby Hills after one in the morning. And he can't sleep.
 
-The skin. Patches with no pigment. Chest, abdomen, face, arms. Vitiligo. True.
+What goes into his body over the next nine hours comes from Murray's own interview with detectives, two days later. Listen to the clock.
 
-The scalp. The tattoo, ear to ear, over thin and missing hair. The fire.
+One thirty in the morning. Valium. Ten milligrams. A pill.
 
-The eyebrows. Tattooed on. The eyelids. Tattooed. The lips. Tattooed pink. A face that had been drawn on so it would never have to be drawn again.
+Two o'clock. Lorazepam. Two milligrams. Into the IV.
 
-The scars. Behind both ears. Beside each nostril. Neck. Abdomen.
+Three o'clock. Midazolam. Two milligrams. Into the IV.
 
-The arms. Needle marks, old and new. The knee. The ankle.
+Five o'clock. Lorazepam again. Two milligrams.
 
-The weight. One hundred and thirty-six pounds. Five foot nine. Inside the normal range on paper. Rogers would say in court that he was thinner than most people, but not dangerously so.
+Seven thirty. Midazolam again. Two milligrams.
 
-The stomach. Almost empty. A little fluid. Whatever he'd eaten that day was close to nothing.
+Three different sedatives. Five doses. Six hours. And Michael Jackson is still awake. He's begging. Murray says he kept saying he had to sleep, that he'd have to cancel rehearsal, that he couldn't do the shows without sleep.
 
-The spine. Arthritis in the lower back. Arthritis in several fingers. The wear of forty-five years of spinning on hard stages.
+Ten forty in the morning. Michael asks for his milk.
 
-The lungs. Chronic inflammation. Scarring. Reduced capacity. Lungs that had been sick for a long time, and would have left him short of breath on a staircase.
+Murray gives him propofol. Twenty-five milligrams, he told police, mixed with lidocaine so it won't burn going in. Into the IV line in his leg.
 
-Rogers also wrote down what wasn't there. No sign of trauma. No bruises, no broken bones, no wound. Nothing on that body that said violence. Whatever had killed him had come from the inside.
+And then, Murray said, he watched him for a few minutes, saw he was asleep, and stepped out to the bathroom. Two minutes.
 
-An enlarged prostate. Polyps. Hair thinning across the crown. The ordinary wear of a man of fifty.
+The phone records say otherwise.
 
-Everything you'd expect from a body that had been through what this one had been through.
+From eleven eighteen to eleven fifty-one, Murray is on his phone. Call after call. Nearly an hour. The last one is to a woman he's seeing. She testified that in the middle of the conversation he just stopped responding. She heard a commotion. Mumbling. Like the phone had been set down. Then nothing.
+
+That's around eleven fifty.
+
+The nine-one-one call comes at twelve twenty-one.
+
+Thirty minutes.
+
+In those thirty minutes, according to the bodyguard who testified, Murray doesn't call for help. He calls Michael's personal assistant. He does chest compressions on a soft mattress, where they don't work. And when the bodyguard runs up the stairs, Murray tells him to grab a bag. Put the vials in it. Take down the IV bag. The slit one, with the propofol bottle inside. Then call nine-one-one.
+
+In the doorway, two children. Prince, twelve. Paris, eleven. Paris screams for her father.
+
+Twelve twenty-one. The dispatcher asks what's wrong. A man says there's a gentleman here who needs help, he's fifty, he's not breathing, he's not responding to CPR. There's a personal doctor with him.
+
+The paramedics arrive in four minutes. One of them, Richard Senneff, testified that when he walked in, he thought he was looking at a hospice patient. Thin. Pale. An IV stand. He asked the doctor what the patient had taken. Murray said nothing. Then he said lorazepam. He never said propofol. Not to the paramedics. Not to the emergency room.
+
+Two twenty-six in the afternoon. UCLA Medical Center. Michael Jackson is pronounced dead. Fifty years old.
+
+Forty minutes later, the detectives walk into the bedroom. And they photograph what you heard about at the start. The IV stand. The oxygen tanks. The jug. The pills. The bottle hidden in the slit saline bag.
+
+They have the room. The next morning, they get the body.
+
+## PART 6
+
+Friday, June twenty-sixth. Eight in the morning. A steel table at the Los Angeles County coroner's office. Dr. Christopher Rogers.
+
+Fifty-one pages.
+
+The skin with no pigment. Vitiligo. True.
+
+The scalp tattoo. The fire.
+
+The eyebrows, the eyelids, the lips. Tattooed on. A face drawn so it would never have to be drawn again.
+
+The scars. Behind the ears. Beside the nostrils.
+
+The puncture marks. Both arms. The knee. The ankle.
+
+One hundred and thirty-six pounds. Five foot nine. Thin, Rogers would say in court, but not dangerously so. The stomach almost empty. Arthritis in the lower spine and the fingers. Lungs chronically inflamed and scarred. An enlarged prostate. No trauma. No bruises. No wound. Whatever killed him came from inside.
 
 And then Rogers opened the chest.
 
@@ -310,101 +206,59 @@ If this story is getting to you, hit the like button and subscribe. Because what
 
 The heart was perfect.
 
-No blockage in the arteries. None. Rogers testified later that almost every man of fifty has at least the beginning of plaque in his coronary arteries, and Michael Jackson had none. The heart muscle was strong. The valves were fine.
+No blockage in the arteries. None. Rogers testified that almost every man of fifty has at least the beginning of plaque in his coronary arteries, and Michael Jackson had none. Strong muscle. Clean valves. He said it plainly: healthier than the average man his age.
 
-He said it plainly in court. Michael Jackson was in better health than the average man his age.
-
-Think about what that means.
-
-A body covered in the marks of pain, fire, surgery and needles. And a heart that was nowhere near stopping.
+A body covered in the marks of fire, surgery and needles. And a heart that was nowhere near stopping.
 
 So what stopped it?
 
 The blood.
 
-The toxicology came back with a list. Lorazepam. Midazolam. Diazepam. Lidocaine. Ephedrine. And propofol. The milk.
+Here is the full list of what the laboratory found in Michael Jackson. Propofol. Lidocaine. Lorazepam. Midazolam. Diazepam. Ephedrine. Six substances. Everything Murray described, and the lidocaine he'd mixed in, and a stimulant on top.
 
-The cause of death, in the coroner's words: acute propofol intoxication, with the benzodiazepines, the sedatives, as a contributing factor.
+And the propofol level. Two point six micrograms per milliliter of blood. The coroner put it in plain words: that is the concentration you find in a patient under general anesthesia for major surgery. Not twenty-five milligrams. Not a nap. A man on an operating table. Except there was no table, no anesthesiologist, and no machine watching whether he was breathing.
 
-And the amount mattered. The level of propofol in his blood, the coroner said, was the level you'd expect in a patient under general anesthesia for major surgery. Not a man trying to nap. A man on an operating table. Except there was no operating table, no anesthesiologist, and no machine watching his breathing.
+The family didn't take the county's word. They ordered their own autopsy. It reached the same place.
 
-The family didn't take the county's word for it. They ordered a second autopsy, by their own pathologist. It reached the same place.
-
-And then, on the last page, in the box marked manner of death, the coroner did not write accident.
-
-He wrote homicide.
-
-And he explained why, in four points.
+And in the box marked manner of death, the coroner did not write accident. He wrote homicide. Four reasons.
 
 One. The drugs were given to him by another person.
 
-Two. Propofol was used outside a hospital, for no medical reason that exists. It is not a sleep aid. It has never been a sleep aid.
+Two. Propofol was used outside a hospital, for a purpose it has never had. It is not, and has never been, a sleep aid.
 
-Three. None of the safeguards that drug requires were present. No heart monitor. No pulse oximeter. No trained person watching the patient every second, which is the only way propofol is ever supposed to be given.
+Three. None of the safeguards were there. No heart monitor. No pulse oximeter. No one watching, every second, which is the only way that drug is ever supposed to be given.
 
-Four. There was no evidence that Michael Jackson had administered it to himself.
+Four. No evidence that Michael Jackson gave it to himself. The line was in his leg. The bottle was in a bag in the closet.
 
 Which left one person.
 
-The man who had been in that bedroom with the bottle, the IV, and the phone.
+September twenty-seventh, two thousand and eleven. The People versus Conrad Murray.
 
-## PART 6
+The prosecution put the room back together in front of the jury. The slit saline bag. The two hundred and fifty-five vials. The phone records. The girlfriend who heard him go silent. The bodyguard told to bag the evidence. The paramedics never told the word propofol.
 
-September twenty-seventh, two thousand and eleven. Los Angeles. Cameras from every country.
+Then an anesthesiologist from Columbia University, Steven Shafer, the man who wrote the guidelines for the drug, stood up and listed seventeen separate violations of the standard of care. Propofol for sleep. In a bedroom. No monitoring. Leaving the room. Not calling for help. Not telling the paramedics. He said any one of them could kill a patient. Murray did all seventeen.
 
-The People versus Conrad Murray.
+Then the prosecutor pressed play on a recording from Murray's own phone. May tenth, two thousand and nine. Michael's voice, slurred almost past recognition, so drugged he could barely form words, talking about building the biggest children's hospital in the world. Murray had recorded his own patient in that condition. And kept it.
 
-The prosecution laid it out in order. The contract. The two months of nightly propofol. The orders: more than four gallons of it, shipped to the apartment of Murray's girlfriend, for one patient. The bedroom with no monitoring equipment, just a bottle on a nightstand and an IV stand next to the bed.
+The defense had one argument. That Michael, alone for two minutes, had grabbed the bottle and given himself the fatal dose. The coroner had already answered it. No evidence. None.
 
-The phone records. The forty-seven minutes of calls. The girlfriend who heard him go silent at eleven fifty.
+The jury took less than nine hours.
 
-The bodyguard who was told to bag the vials before anyone called nine-one-one.
+Guilty. Involuntary manslaughter. Four years, the maximum. The judge called it a recurring pattern of deceit. He called it medicine madness. Murray served two and walked out in October of twenty thirteen. He has never admitted fault. He still says Michael did it to himself.
 
-The paramedic who was never told about the propofol. The emergency room doctors who were never told either.
+Arnold Klein, the other doctor, the fifty-one visits, the six thousand milligrams of Demerol, was never charged with anything. He died in twenty fifteen.
 
-Then the prosecution called an anesthesiologist from Columbia University named Steven Shafer. He had written the official guidelines on propofol. He stood in front of the jury and listed what Murray had done wrong. Seventeen separate violations of the standard of care. Giving propofol for sleep. Giving it in a bedroom. Giving it with no monitoring. Leaving the room. Not calling for help. Not telling the paramedics. He said any one of them, alone, was enough to kill a patient. Murray had done all seventeen.
+Four months after the death, the rehearsal footage became This Is It, the biggest concert film ever made. In twenty twenty-six, the movie Michael became one of the biggest hits of the year and is now reaching streaming. The people who made it left the last years out. They said that's for the sequel.
 
-And then the prosecutor pressed play on a recording from Murray's own phone.
+But the last years are already on paper. In fifty-one pages. And in one police photograph of a bedroom that looked like a hospital somebody tried to hide.
 
-May tenth, two thousand and nine. Six weeks before. Michael Jackson's voice, slow, slurred, barely there, so drugged he could hardly form the words. Talking about the shows. Saying he wanted people to leave saying they'd never seen anything like it. Saying that when he was done, he wanted to build a children's hospital. The biggest in the world.
+Think about what was done to that man. Six drugs in nine hours. Six thousand milligrams of an opioid in the three months before. A homemade anesthesia drip in a slit plastic bag. All of it paid for, all of it prescribed, all of it by men with medical licenses. And a heart underneath it all that was perfectly fine.
 
-The courtroom didn't move.
+Michael Jackson didn't die because his body gave out. His body was holding on. He died because of what was put into it.
 
-The defense tried one argument. That Michael, alone for a few minutes, had grabbed the bottle and given himself a fatal dose.
+He spent his whole life singing for the world. In the end, his body got the last word. And the last word was homicide.
 
-The coroner had already answered that on page fifty-one. No evidence of it. None.
-
-November seventh, two thousand and eleven. The jury came back in less than nine hours.
-
-Guilty. Involuntary manslaughter.
-
-At sentencing, the judge said Murray had engaged in a recurring pattern of deceit. He called what happened in that bedroom medicine madness. Four years in prison. The maximum. His medical license, gone.
-
-He served two, and walked out in October of twenty thirteen. He has never admitted fault.
-
-The family tried one more time, in civil court, against the concert promoter that had put Murray on the payroll. In twenty thirteen, a jury decided the promoter had hired a licensed doctor and could not have known what he would do. The family lost. Murray, by then, was out, giving interviews, and still insisting Michael had done it to himself.
-
-Four months after the death, the rehearsal footage became a film. This Is It. Michael, thin, electric, running the band from the stage with a flick of his hand. It became the highest-grossing concert film ever made.
-
-And in twenty twenty-six, a new movie about his life, Michael, became one of the biggest hits of the year, and is now reaching streaming. The final years, according to the people who made it, were left for a sequel.
-
-But the final years were already written. In fifty-one pages. By a man in a white coat, on a steel table, the day after.
-
-Think about how strange it is.
-
-For forty-five years, Michael Jackson was the most photographed human being alive. Every step, every outfit, every expression, on a front page somewhere. And still, nobody knew what was actually happening to his body. He made sure of it. The hats. The masks. The glove. The umbrella.
-
-He had to die for the world to finally see him.
-
-And when the world finally saw him, the body said two things. It said he had been hiding more than he admitted. The scars. The needles. The tattooed face.
-
-And it said that on the one thing people had mocked him for the longest, the color of his skin, he had been telling the truth the whole time.
-
-Five marks. One perfect heart. And a single word at the end that sent a doctor to prison.
-
-Michael Jackson spent his whole life singing for the world. In the end, his body got the last word.
-
-So tell me in the comments. Which Michael Jackson song is yours? The one that takes you back to a specific room, a specific year.
+So tell me in the comments. Did you know about the second doctor? Did you know about the bag in the closet? And which Michael Jackson song is yours, the one that takes you back to a specific room, a specific year?
 
 And if this story got to you, subscribe to the channel. Next week, there's another one.
 
@@ -412,36 +266,34 @@ And if this story got to you, subscribe to the channel. Next week, there's anoth
 
 NOTES FOR THE EDIT
 
-1. Structure rebuilt for retention: the intro promises five marks and one perfect heart; each part opens on a page of the autopsy report and traces that finding back to the life event behind it; the heart is the mid-video twist that turns the autopsy into a criminal case; the trial is the payoff. Every fact from the Portuguese original is still here.
+1. On the "recent discovery" ask: there is no new autopsy finding from 2025–2026, and the script does not claim one. Instead the hook is built on documented material most viewers have never heard: the LAPD bedroom photographs (IV stand, oxygen tanks, urine jug, pill bottles, the slit saline bag with the propofol bottle inside, the Benoquin tube), the six substances in the toxicology, the 2.6 µg/mL propofol level (general-anesthesia range per the coroner), the IV line in the leg, the 255 vials, Murray's hour-by-hour timeline from his police interview, the phone records, the bodyguard's and paramedic's testimony, and Arnold Klein's 51 visits with roughly 6,500 mg of Demerol between March and June 2009 (medical records raised at the Murray trial and the 2013 AEG civil trial). The "basket case" email (Kenny Ortega) and the makeup artist's account (Karen Faye) are from the AEG trial.
 
-2. Added from the record: the Jackson Street address and sleeping arrangements; Apollo August 1967; Ben (1972); the "big nose" teasing (Michael's own account) planted to pay off at the nostril scars; MTV; three thousand fans and the sixth take at the Shrine; the glove after the fire; the Mexico City statement and Elizabeth Taylor; Arnold Klein's 1986 diagnosis and the Benoquin found in the bedroom; the surgeries admitted in Moonwalk (1988); propofol on the nineties tours (per tour doctors who spoke after 2009); Murray's timeline of sedatives from his police interview; the phone records and the girlfriend's testimony (silence around 11:50); the bodyguard's testimony about the vials, the IV bag and the children in the doorway; the 911 transcript; paramedic Richard Senneff's testimony; the toxicology list; the coroner's four reasons for "homicide"; the four gallons of propofol; the May 10, 2009 recording; the jury's deliberation time; the judge's words at sentencing; Murray's release in October 2013; Diana Ross's house and the tutor; Off the Wall's Grammy snub and the "never again" promise; the burn unit named after him; Debbie Rowe as Klein's nurse; the absence of trauma; the propofol level (general-anesthesia range) and the family's second autopsy; Steven Shafer's seventeen violations; the 2013 civil verdict against the family.
+2. Facts kept from the original: Gary, Joseph and the guitar, the belt, Oprah 1993, Apollo, Motown, Thriller, the moonwalk, the Pepsi fire, the 1993 painkiller statement, vitiligo and Klein, the surgeries, the "milk", 2005 acquittal, This Is It, Murray's contract, June 24–25, the 911 call at 12:21, 2:26 pm, Paris at the memorial, the autopsy findings, the heart, the cause and manner of death, the four reasons, the trial, the verdict, the sentence, the films.
 
-3. Page numbers of the report are used as narrative anchors ("page twelve", "page nine", "page fourteen"). The findings are real and in the report; the specific page numbers are a storytelling device. If you prefer, replace them with "in the report" and nothing else changes.
+3. Sponsor CTA at the end of the intro (about 3:10). Like/subscribe CTA right before the heart reveal.
 
-4. Sponsor CTA at the end of the intro (about 3:20). Like/subscribe CTA right before the heart reveal.
+4. The Portuguese line about the Michael biopic reaching Prime Video in Brazil on Friday became "is now reaching streaming". Check the US date and platform.
 
-5. The Portuguese line about the Michael biopic reaching Prime Video in Brazil on Friday became "is now reaching streaming". Check the US date and platform before recording.
-
-6. "The channel" in the closing: put the English channel name there.
+5. "The channel" in the closing: put the English channel name there.
 
 ## YOUTUBE DESCRIPTION
 
-On June 26, 2009, one day after Michael Jackson died, a doctor at the Los Angeles County coroner's office opened his body and wrote fifty-one pages. Inside them were five marks the world had never seen: a tattoo hidden under his hair, skin with no pigment, scars nobody had photographed, needle punctures on both arms, and lungs that had been sick for years. And one organ in perfect condition. His heart.
+Forty minutes after Michael Jackson was pronounced dead, LAPD detectives walked into his bedroom and photographed something that didn't look like a bedroom. An IV stand. Oxygen tanks. Pill bottles. A jug of urine. And in a closet, a saline bag slit open with a blade, with a bottle of propofol hidden inside. A homemade anesthesia drip.
 
-This video follows each of those marks back to the day it was made: a two-bedroom house on Jackson Street in Gary, Indiana; a father with a belt; a boy famous at eleven who washed his face in the dark; the night his hair caught fire on a Pepsi set; the Oprah interview where he said the word vitiligo; the "milk" he begged for; the 911 call that came thirty minutes late; and the one word the coroner wrote on the last page that put Conrad Murray in front of a jury.
+This video reconstructs exactly what was put into Michael Jackson's body: six substances in nine hours, by the clock, from his doctor's own police interview; the propofol level the coroner compared to open-heart surgery; the IV line in his leg; the 255 vials shipped to a girlfriend's apartment; the second doctor almost nobody talks about, who injected him with more than 6,000 milligrams of Demerol in the three months before; the thirty minutes between the moment the doctor went silent on the phone and the 911 call; the two children in the doorway; and the one thing the coroner found inside him that nobody expected. A perfect heart.
 
 ⏱️ CHAPTERS
-00:00 A steel table, five marks and a perfect heart
-03:44 The first mark: a belt, the Apollo and a boy at the window
-08:11 The scalp: Thriller, the moonwalk and the night of fire
-12:56 The skin and the scars: vitiligo, Oprah and the surgeries
-17:06 The needles: the milk, This Is It and the morning of June 25
-23:26 The autopsy, page by page, and the heart that was fine
-27:43 Homicide: the trial of Conrad Murray and the last word
+00:00 The bedroom the police photographed
+03:26 Jackson Street, a belt, and a boy at the window
+05:29 Thriller, the night of fire, and the first needle
+07:56 The skin: vitiligo, Oprah, and the scars
+10:06 Milk, the second doctor, and 255 vials
+13:33 June 25, by the clock: six drugs in nine hours
+16:59 The autopsy, the perfect heart, and the word homicide
 
 (Adjust timestamps to the final edit.)
 
-⚠️ Everything in this video comes from the Los Angeles County coroner's autopsy report, sworn testimony at the 2011 trial of Conrad Murray, the 911 recording, and Michael Jackson's own on-camera statements. Michael Jackson was acquitted on all counts in 2005; we present that as the record shows.
+⚠️ Everything in this video comes from the Los Angeles County coroner's autopsy and toxicology report, LAPD evidence presented at the 2011 trial of Conrad Murray, sworn testimony at that trial and at the 2013 AEG civil trial, the 911 recording, and Michael Jackson's own on-camera statements. Michael Jackson was acquitted on all counts in 2005. Dr. Arnold Klein was never charged with any crime.
 
 👍 Like, subscribe and turn on notifications for more untold stories of the most famous people in the world.
 
@@ -449,13 +301,13 @@ This video follows each of those marks back to the day it was made: a two-bedroo
 
 ## TAGS (comma-separated, under 500 characters)
 
-michael jackson, michael jackson autopsy, michael jackson death, michael jackson documentary, king of pop, conrad murray, propofol, michael jackson vitiligo, michael jackson pepsi fire, michael jackson last days, michael jackson story, michael jackson biography, michael jackson true story, michael jackson 2009, michael jackson trial, michael jackson secrets, michael jackson body, michael jackson oprah, this is it, michael jackson movie, michael jackson surgery, jackson 5
+michael jackson, michael jackson autopsy, michael jackson death, michael jackson documentary, king of pop, conrad murray, propofol, michael jackson vitiligo, michael jackson pepsi fire, michael jackson last days, michael jackson story, michael jackson biography, michael jackson true story, michael jackson 2009, michael jackson trial, michael jackson secrets, michael jackson body, michael jackson oprah, this is it, michael jackson movie, arnold klein, demerol, jackson 5
 
 ## TITLE OPTIONS
 
-1. MICHAEL JACKSON: The HORRIFYING Secrets of the King of Pop's Autopsy  (chosen)
-2. MICHAEL JACKSON: The Body That Told It All — The HORRIFYING Secrets of the King of Pop's Autopsy  (literal, long)
-3. Michael Jackson's Autopsy Found 5 Marks He Hid for Decades. And One Perfect Heart.
-4. What Michael Jackson's Autopsy Revealed Was DISTURBING (His Heart Was Perfect)
+1. MICHAEL JACKSON: What They Put In His Body — The HORRIFYING Truth His Autopsy Revealed  (chosen)
+2. MICHAEL JACKSON: The HORRIFYING Secrets of the King of Pop's Autopsy
+3. 6 Drugs in 9 Hours: What Michael Jackson's Autopsy Really Found
+4. Michael Jackson's Heart Was Perfect. His Blood Was Not. (The Autopsy, Line by Line)
 
-Thumbnail text: "51 PAGES" or "HIS HEART WAS PERFECT".
+Thumbnail text: "6 DRUGS. 9 HOURS." or "THE BAG IN THE CLOSET".
