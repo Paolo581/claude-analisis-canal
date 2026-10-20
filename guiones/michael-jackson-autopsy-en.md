@@ -76,6 +76,8 @@ Nineteen seventy. The first single went to number one. So did the second. And th
 
 Michael was eleven.
 
+Motown moved the whole family to Los Angeles. And for a while, Michael didn't even live with them. The label put him in Diana Ross's house in the Hollywood hills, to be polished. An eleven-year-old, placed in the home of a superstar like an apprentice. A tutor traveled with the brothers so there'd be some kind of school between the shows. School followed the work. Never the other way around.
+
 There was a Saturday morning cartoon with his face in it. Lunchboxes. Posters on bedroom walls across the country. And at fourteen, a number one of his own, a song called Ben, a love song written for a movie about a rat, which he sang like it was about a person.
 
 And at fourteen, something else. His face changed. Acne. A nose that grew before the rest of him caught up. And a father who, according to Michael, teased him about it in front of his brothers. Called him big nose. Michael said he would wash his face in the dark so he wouldn't have to look at himself in the mirror.
@@ -99,6 +101,10 @@ The scalp. Under the hair, running from one ear to the other across the top of t
 To understand that tattoo, you have to go back to the biggest year any musician ever had.
 
 November thirtieth, nineteen eighty-two. Thriller.
+
+Three years earlier, he'd released Off the Wall. Twenty million copies. The best-selling album in America that year. And at the Grammys, it got two nominations and one award, in a minor category. Michael said out loud what he thought of that. He said it was totally unfair. And he said it could never happen again.
+
+Hold on to that sentence. He meant it as a promise.
 
 It's still the best-selling album in the history of recorded music. Seventy million copies, give or take. Billie Jean. Beat It. Songs that played in every kitchen in America and every bar on earth.
 
@@ -130,7 +136,7 @@ And here's the detail people who were there have repeated for forty years. Befor
 
 A man with a burned head, worried about the crowd.
 
-Pepsi settled for a million and a half dollars. He gave every cent to a burn center in Los Angeles. A month later he walked into the Grammys and walked out with eight awards, a record, with his scalp still healing under a wig.
+Pepsi settled for a million and a half dollars. He gave every cent to a burn center in Los Angeles. He gave every cent to a burn center in Los Angeles, which put his name on the unit. A month later he walked into the Grammys and walked out with eight awards in one night, a record. It can never happen again, he'd said. It didn't. He collected all eight with his scalp still healing under a wig.
 
 To the world, he was untouchable.
 
@@ -167,6 +173,8 @@ She asked him straight out.
 And he answered. He said he had a skin disorder that destroyed the pigment in his skin. He said he didn't choose it. He said he used makeup to even out the blotches because they came in uneven. And he said, looking straight at her, that he was proud to be a Black man.
 
 The disorder is called vitiligo. It kills the cells that make color, patch by patch, until the body is a map of white and brown. His dermatologist, Arnold Klein, had diagnosed it in nineteen eighty-six. He also diagnosed lupus, another disease that attacks the skin.
+
+The nurse in Klein's office who handled Michael's treatments, year after year, was a woman named Debbie Rowe. She would later become his wife, and the mother of his two oldest children. The woman who knew his skin better than anyone became the mother of his kids. That's how private this disease was. The people who saw it were the people he let in.
 
 When investigators searched Michael's bedroom in two thousand and nine, they found tubes of a cream called Benoquin on his nightstand. It's not bleach. It's a prescription cream vitiligo patients use when the white has spread so far that it's easier to fade the rest. That tube was the other half of the answer he gave Oprah.
 
@@ -290,6 +298,8 @@ The spine. Arthritis in the lower back. Arthritis in several fingers. The wear o
 
 The lungs. Chronic inflammation. Scarring. Reduced capacity. Lungs that had been sick for a long time, and would have left him short of breath on a staircase.
 
+Rogers also wrote down what wasn't there. No sign of trauma. No bruises, no broken bones, no wound. Nothing on that body that said violence. Whatever had killed him had come from the inside.
+
 An enlarged prostate. Polyps. Hair thinning across the crown. The ordinary wear of a man of fifty.
 
 Everything you'd expect from a body that had been through what this one had been through.
@@ -315,6 +325,10 @@ The blood.
 The toxicology came back with a list. Lorazepam. Midazolam. Diazepam. Lidocaine. Ephedrine. And propofol. The milk.
 
 The cause of death, in the coroner's words: acute propofol intoxication, with the benzodiazepines, the sedatives, as a contributing factor.
+
+And the amount mattered. The level of propofol in his blood, the coroner said, was the level you'd expect in a patient under general anesthesia for major surgery. Not a man trying to nap. A man on an operating table. Except there was no operating table, no anesthesiologist, and no machine watching his breathing.
+
+The family didn't take the county's word for it. They ordered a second autopsy, by their own pathologist. It reached the same place.
 
 And then, on the last page, in the box marked manner of death, the coroner did not write accident.
 
@@ -348,6 +362,8 @@ The bodyguard who was told to bag the vials before anyone called nine-one-one.
 
 The paramedic who was never told about the propofol. The emergency room doctors who were never told either.
 
+Then the prosecution called an anesthesiologist from Columbia University named Steven Shafer. He had written the official guidelines on propofol. He stood in front of the jury and listed what Murray had done wrong. Seventeen separate violations of the standard of care. Giving propofol for sleep. Giving it in a bedroom. Giving it with no monitoring. Leaving the room. Not calling for help. Not telling the paramedics. He said any one of them, alone, was enough to kill a patient. Murray had done all seventeen.
+
 And then the prosecutor pressed play on a recording from Murray's own phone.
 
 May tenth, two thousand and nine. Six weeks before. Michael Jackson's voice, slow, slurred, barely there, so drugged he could hardly form the words. Talking about the shows. Saying he wanted people to leave saying they'd never seen anything like it. Saying that when he was done, he wanted to build a children's hospital. The biggest in the world.
@@ -365,6 +381,8 @@ Guilty. Involuntary manslaughter.
 At sentencing, the judge said Murray had engaged in a recurring pattern of deceit. He called what happened in that bedroom medicine madness. Four years in prison. The maximum. His medical license, gone.
 
 He served two, and walked out in October of twenty thirteen. He has never admitted fault.
+
+The family tried one more time, in civil court, against the concert promoter that had put Murray on the payroll. In twenty thirteen, a jury decided the promoter had hired a licensed doctor and could not have known what he would do. The family lost. Murray, by then, was out, giving interviews, and still insisting Michael had done it to himself.
 
 Four months after the death, the rehearsal footage became a film. This Is It. Michael, thin, electric, running the band from the stage with a flick of his hand. It became the highest-grossing concert film ever made.
 
@@ -396,7 +414,7 @@ NOTES FOR THE EDIT
 
 1. Structure rebuilt for retention: the intro promises five marks and one perfect heart; each part opens on a page of the autopsy report and traces that finding back to the life event behind it; the heart is the mid-video twist that turns the autopsy into a criminal case; the trial is the payoff. Every fact from the Portuguese original is still here.
 
-2. Added from the record: the Jackson Street address and sleeping arrangements; Apollo August 1967; Ben (1972); the "big nose" teasing (Michael's own account) planted to pay off at the nostril scars; MTV; three thousand fans and the sixth take at the Shrine; the glove after the fire; the Mexico City statement and Elizabeth Taylor; Arnold Klein's 1986 diagnosis and the Benoquin found in the bedroom; the surgeries admitted in Moonwalk (1988); propofol on the nineties tours (per tour doctors who spoke after 2009); Murray's timeline of sedatives from his police interview; the phone records and the girlfriend's testimony (silence around 11:50); the bodyguard's testimony about the vials, the IV bag and the children in the doorway; the 911 transcript; paramedic Richard Senneff's testimony; the toxicology list; the coroner's four reasons for "homicide"; the four gallons of propofol; the May 10, 2009 recording; the jury's deliberation time; the judge's words at sentencing; Murray's release in October 2013.
+2. Added from the record: the Jackson Street address and sleeping arrangements; Apollo August 1967; Ben (1972); the "big nose" teasing (Michael's own account) planted to pay off at the nostril scars; MTV; three thousand fans and the sixth take at the Shrine; the glove after the fire; the Mexico City statement and Elizabeth Taylor; Arnold Klein's 1986 diagnosis and the Benoquin found in the bedroom; the surgeries admitted in Moonwalk (1988); propofol on the nineties tours (per tour doctors who spoke after 2009); Murray's timeline of sedatives from his police interview; the phone records and the girlfriend's testimony (silence around 11:50); the bodyguard's testimony about the vials, the IV bag and the children in the doorway; the 911 transcript; paramedic Richard Senneff's testimony; the toxicology list; the coroner's four reasons for "homicide"; the four gallons of propofol; the May 10, 2009 recording; the jury's deliberation time; the judge's words at sentencing; Murray's release in October 2013; Diana Ross's house and the tutor; Off the Wall's Grammy snub and the "never again" promise; the burn unit named after him; Debbie Rowe as Klein's nurse; the absence of trauma; the propofol level (general-anesthesia range) and the family's second autopsy; Steven Shafer's seventeen violations; the 2013 civil verdict against the family.
 
 3. Page numbers of the report are used as narrative anchors ("page twelve", "page nine", "page fourteen"). The findings are real and in the report; the specific page numbers are a storytelling device. If you prefer, replace them with "in the report" and nothing else changes.
 
@@ -415,11 +433,11 @@ This video follows each of those marks back to the day it was made: a two-bedroo
 ⏱️ CHAPTERS
 00:00 A steel table, five marks and a perfect heart
 03:44 The first mark: a belt, the Apollo and a boy at the window
-07:43 The scalp: Thriller, the moonwalk and the night of fire
-11:48 The skin and the scars: vitiligo, Oprah and the surgeries
-15:32 The needles: the milk, This Is It and the morning of June 25
-21:52 The autopsy, page by page, and the heart that was fine
-25:25 Homicide: the trial of Conrad Murray and the last word
+08:11 The scalp: Thriller, the moonwalk and the night of fire
+12:56 The skin and the scars: vitiligo, Oprah and the surgeries
+17:06 The needles: the milk, This Is It and the morning of June 25
+23:26 The autopsy, page by page, and the heart that was fine
+27:43 Homicide: the trial of Conrad Murray and the last word
 
 (Adjust timestamps to the final edit.)
 
