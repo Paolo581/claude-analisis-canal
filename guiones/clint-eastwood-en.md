@@ -6,13 +6,13 @@ American-English narration script. Same story, structure and hooks as the Portug
 
 ## INTRO
 
-Behind the most famous cowboy in Hollywood, there was a man almost nobody got to know. A man who, according to the people who shared his life, could erase a person from it overnight.
+April, nineteen eighty-nine. Sondra Locke, the actress who had lived with Clint Eastwood for fourteen years, came home from a film shoot and found the locks changed. Her clothes were in a storage unit. Nobody had called to tell her.
 
-One woman came home from a film shoot and found out, with no warning, that the house she lived in was no longer hers. The locks had been changed. Her things were in storage.
+Behind the most famous cowboy in Hollywood there was a man who, according to the people who shared his life, could erase someone from it overnight.
 
-And a baby girl, given away in nineteen fifty-four, grew up not knowing who her father was. Until the day she held her own birth certificate and read a name on it.
+That same man had a daughter, born in Seattle in nineteen fifty-four and given away at birth, who grew up not knowing his name. She found it, years later, on her own birth certificate.
 
-Stay with me until the end. Because that secret ended up in a courtroom. And what came out there changed, forever, the image of the greatest cowboy Hollywood ever produced.
+Stay with me until the end, because the woman behind that locked door took Clint Eastwood to court, and what came out at that trial changed the image of the greatest cowboy Hollywood ever produced.
 
 But to understand the man behind the myth, you have to go back to San Francisco, in nineteen thirty.
 
@@ -26,7 +26,7 @@ Because a few months earlier, the country had fallen into a crisis that would le
 
 The Great Depression.
 
-Clint's father spent years bouncing from job to job. He sold stocks. He sold refrigerators. For a short stretch, he worked as a private detective.
+Clint's father spent years bouncing from job to job, selling stocks, then refrigerators, and for a short stretch working as a private detective.
 
 And with every new job, the family packed up and moved to a new town.
 
@@ -34,23 +34,15 @@ The boy grew up like that. Always moving.
 
 It wasn't until nineteen forty that the Eastwoods settled down, in a town called Piedmont, California, in the hills above Oakland.
 
-And this is where the first crack in this story shows up. Because the hard-times childhood Clint always talked about was going to be questioned, years later, by someone who knew the family very well.
+Clint always described those years as a struggle. Sondra Locke, who knew the family well, told it differently. She said the Eastwoods were never poor, that Piedmont was a wealthy neighborhood, and that the house had a swimming pool.
 
-Clint always described those years as a struggle.
-
-But a woman who spent fourteen years by his side would tell a very different version. She said the family was never poor. She said they lived in a wealthy neighborhood, in a house with a swimming pool.
-
-Hold on to that woman. She's coming back into this story. And when she does, she's bringing accusations far more serious than a swimming pool.
+It's the first place where his version of his own life and someone else's don't match. It won't be the last.
 
 Quick word before we go further. Most women over 65 were never told how the stars they grew up with stayed strong, slim and loved for the rest of their lives. That's why I created The Hollywood Secret to Aging Beautifully, a practical guide to the daily habits of 15 Hollywood legends who lived well into their 90s, and some past 100. Get your copy now. The link is in the description. Back to our story.
 
 ## PART 1
 
-In school, Clint was nowhere near a good student.
-
-He was held back a grade.
-
-Years later, he admitted it himself. As a teenager, all he thought about was fast cars and girls.
+In school, Clint was nowhere near a good student. He was held back a grade, and years later he admitted why himself: as a teenager, all he thought about was fast cars and girls.
 
 When school was over, he took whatever work came along.
 
@@ -60,41 +52,19 @@ Nobody looked at that tall, skinny young man and saw a movie star.
 
 And before any door in Hollywood opened for him, Clint Eastwood almost lost his life. In the middle of the ocean. At twenty-one.
 
-In nineteen fifty-one, the United States was at war in Korea.
+In nineteen fifty-one, the United States was at war in Korea, and Clint got drafted. But he wasn't sent to the front. He landed at Fort Ord, an Army base in California, working as a swimming instructor and lifeguard at the soldiers' pool, and running the projector for the troops' movie nights.
 
-And Clint got drafted.
-
-But he wasn't sent to the front. He landed at Fort Ord, an Army base in California, working as a swimming instructor and lifeguard at the soldiers' pool, and running the projector for the troops' movie nights.
-
-He made sixty-seven dollars a month.
-
-It looked like an easy ride, far from the war.
-
-Until September thirtieth, nineteen fifty-one.
+He made sixty-seven dollars a month, and it looked like an easy ride, far from the war. Until September thirtieth, nineteen fifty-one.
 
 That day, Clint climbed into a military plane to get back to base. And a few hours later, he was in the Pacific Ocean, fighting to stay alive.
 
-He'd hitched a ride on a Navy plane out of Seattle.
-
-And during the flight, everything started to go wrong.
-
-The rear door wouldn't seal. The oxygen failed. Then the navigation and the radio went dead.
-
-And finally, the fuel ran out.
+He'd hitched a ride on a Navy plane out of Seattle, and during the flight everything started to go wrong. The rear door wouldn't seal. The oxygen failed. Then the navigation and the radio went dead, and finally the fuel ran out.
 
 The plane went down in the ocean off the coast of Northern California. Near Point Reyes.
 
-It was a Navy Skyraider, a single-engine bomber with room for exactly one passenger. Clint was the passenger. When it hit the water, both men got out. The pilot swam one way. Clint swam the other.
+It was a Navy Skyraider, a single-engine bomber with room for exactly one passenger. Clint was the passenger. When it hit the water, both men got out, and the pilot swam one way while Clint swam the other.
 
-The water was freezing.
-
-And Clint started swimming.
-
-Years later, he described what went through his head in that moment. And it tells you everything about the man.
-
-He said he thought he was going to die.
-
-But right after that, he thought something else. That other people had survived situations like this. And that he could survive it too.
+The water was freezing, and Clint started swimming. Years later he described what went through his head in that moment, and it tells you a lot about the man. He said he thought he was going to die. But right after that, he thought something else: other people had survived situations like this, and he could survive it too.
 
 And he did.
 
@@ -106,33 +76,17 @@ The man who almost died at sea ended up skipping the war because of that plane.
 
 But away from the barracks, Clint's private life was about to write the first chapter of a story that would stay hidden for decades.
 
-In nineteen fifty-three, out of the Army, Clint met a young woman named Maggie Johnson.
+In nineteen fifty-three, out of the Army, Clint met a young woman named Maggie Johnson on a blind date. In December of that same year, they got married. He was twenty-three.
 
-It was a blind date.
+But while he was starting his married life, there was a woman in Seattle who was pregnant. And in February of nineteen fifty-four, less than two months after Clint's wedding, that baby was born. A girl.
 
-In December of that same year, they got married.
+That girl was given to another family within days. The world would not learn her name for sixty-four years. Keep that birth certificate in mind, because it comes back at the end of this story.
 
-Clint was twenty-three.
-
-But while he was starting his married life, there was a woman in Seattle who was pregnant.
-
-And in February of nineteen fifty-four, less than two months after Clint's wedding, that baby was born.
-
-A girl.
-
-Think about that date. February, nineteen fifty-four.
-
-Because that little girl was going to grow up far away from all of this. Raised by another family. And it would take more than sixty years before the world learned her name.
+## PART 2
 
 In April of nineteen fifty-four, Clint got what every young man in Los Angeles dreamed of.
 
-A contract with a major Hollywood studio. Universal.
-
-About a hundred dollars a week.
-
-It looked like the beginning of everything.
-
-Except the roles he got were tiny. In his first one, he played a lab technician in a monster movie.
+A contract with a major Hollywood studio, Universal, for about a hundred dollars a week. It looked like the beginning of everything. Except the roles he got were tiny. In his first one, he played a lab technician in a monster movie.
 
 And the people at the studio didn't hide what they thought of him.
 
@@ -140,7 +94,7 @@ Because according to the people who worked with him back then, the studio found 
 
 One studio director called him an amateur.
 
-A fellow actor described him in a way that was flat-out cruel. Skinny. A hick's face. And an Adam's apple that stuck out too far.
+A fellow actor described him in a way that was flat-out cruel: skinny, with a hick's face and an Adam's apple that stuck out too far.
 
 And in October of nineteen fifty-five came the blow.
 
@@ -154,15 +108,11 @@ Think about that. The future biggest star in Hollywood got fired over his own ne
 
 And what Clint did to survive after that says a lot about the man he was going to become.
 
-No contract. No paycheck. Clint went back to hard labor.
-
-He dug swimming pools.
-
-He spent his days with a shovel in his hands, opening holes in the ground in Beverly Hills backyards. And he kept chasing a shot as an actor.
+No contract, no paycheck, so Clint went back to hard labor. He dug swimming pools. He spent his days with a shovel in his hands, opening holes in the ground in Beverly Hills backyards. And he kept chasing a shot as an actor.
 
 Until nineteen fifty-eight, when his luck turned in a way that's almost hard to believe.
 
-Clint was in a studio commissary, visiting a friend, when an executive from the CBS television network noticed him. Tall. Quiet. The right kind of face for a Western.
+Clint was in a studio commissary, visiting a friend, when an executive from the CBS television network noticed him. Tall and quiet, with the right kind of face for a Western.
 
 The executive called him in for a screen test.
 
@@ -176,21 +126,11 @@ Clint Eastwood finally had a face America knew.
 
 But while the career was taking off, he started living a second life. A parallel life, away from his wife. And it was going to last fourteen years.
 
-## PART 2
+## PART 3
 
-Around that time, Clint met a stuntwoman on the Rawhide set named Roxanne Tunis.
+Around that time, Clint met a stuntwoman on the Rawhide set named Roxanne Tunis, and in nineteen fifty-nine the two of them began an affair. Clint was still married to Maggie. And the thing with Roxanne lasted far longer than a fling: fourteen years, until nineteen seventy-three.
 
-And in nineteen fifty-nine, the two of them began an affair.
-
-Clint was still married to Maggie.
-
-And the thing with Roxanne lasted far longer than a fling. Fourteen years, until nineteen seventy-three.
-
-In June of nineteen sixty-four, Roxanne gave birth to a girl. Her name was Kimber.
-
-She was Clint Eastwood's daughter.
-
-And almost nobody knew.
+In June of nineteen sixty-four, Roxanne gave birth to a girl named Kimber. She was Clint Eastwood's daughter, and almost nobody knew.
 
 To the public, Clint was the honest cowboy on television, a married man about to become the biggest hero in the movies. And the little girl born far from the spotlight was going to spend more than twenty years outside her father's official story.
 
@@ -202,7 +142,7 @@ And that's where the character was born that changed his life. A gunslinger in a
 
 The Man With No Name.
 
-Two more films with Leone followed. For a Few Dollars More. And The Good, the Bad and the Ugly.
+Two more films with Leone followed, For a Few Dollars More and The Good, the Bad and the Ugly.
 
 The guy who got fired over his neck became a worldwide star.
 
@@ -226,7 +166,7 @@ On screen, he was the cold one who never lost control.
 
 At home, life looked like the script of a perfect family.
 
-With Maggie, Clint had two children. Kyle, in nineteen sixty-eight. And Alison, in nineteen seventy-two.
+With Maggie, Clint had two children: Kyle, in nineteen sixty-eight, and Alison, in nineteen seventy-two.
 
 But according to his biographers, that marriage was nowhere near what it looked like. It was described as an open marriage.
 
@@ -236,23 +176,23 @@ Just before all of that, in nineteen seventy, a loss hit Clint in a way that wou
 
 His father died of a heart attack. He was only sixty-four.
 
-From that point on, Clint got even stricter about his own health. He worked out every day. He meditated every morning. He cut out the things his father hadn't.
+From that point on, Clint got even stricter about his own health. He worked out every day and meditated every morning, and he cut out the things his father hadn't.
 
 And it was a few years later, at the height of his success, with a marriage drifting further and further apart, that a woman walked into his life.
 
-A delicate blonde actress who, in her early twenties, had already been nominated for an Oscar. She would spend fourteen years at Clint's side. And in the end, she would tell a version of this man that nobody wanted to hear.
+A delicate blonde actress who, in her early twenties, had already been nominated for an Oscar. She would spend fourteen years at Clint's side. And in the end, she would tell a version of this man that Hollywood did not want to hear.
 
-## PART 3
+## PART 4
 
 Her name was Sondra Locke.
 
-Remember the woman who questioned Clint's hard-times childhood? That was her.
+The woman who said the Eastwoods had a swimming pool.
 
 The two of them met in nineteen seventy-five, on the set of the Western The Outlaw Josey Wales.
 
 And they fell for each other.
 
-But there was a detail that made the whole thing even stranger.
+But there was a detail that made it even stranger.
 
 Sondra was still legally married to another man, a sculptor named Gordon Anderson. And Clint was still married to Maggie.
 
@@ -264,7 +204,7 @@ Sondra wasn't a nobody he'd plucked off a set. At twenty-four, she'd been nomina
 
 To the public, it was one of the most famous love stories in Hollywood. But inside that house, according to what Sondra said years later, things were happening that would turn into extremely serious accusations.
 
-In nineteen seventy-nine, Clint's marriage to Maggie came to an end. First the separation. Years later, the divorce.
+In nineteen seventy-nine, Clint's marriage to Maggie came to an end, first with a separation and, years later, the divorce.
 
 According to the records, Maggie walked away with somewhere between twenty and twenty-five million dollars.
 
@@ -274,7 +214,7 @@ To the fans, they were the perfect couple. The tough-guy star and the delicate a
 
 But years later, Sondra told the world what, according to her, was happening away from the cameras.
 
-And what she said is so heavy that, to this day, Clint Eastwood denies every word of it.
+And what she said is so serious that, to this day, Clint Eastwood denies every word of it.
 
 In the late nineteen seventies, Sondra Locke had two abortions. And then a tubal ligation, the surgery that keeps a woman from ever getting pregnant.
 
@@ -294,21 +234,9 @@ And this man, the same man who already had a daughter with Roxanne, was now livi
 
 Because while Sondra was living with him, Clint was building, in secret, yet another family. And from everything that's known, not even the woman who shared his house had any idea.
 
-Her name was Jacelyn Reeves.
-
-She was a flight attendant.
-
-In March of nineteen eighty-six, Jacelyn gave birth to a boy. Scott.
-
-Two years later, a girl. Kathryn.
-
-Both of them were Clint Eastwood's children.
-
-And both of them were conceived while Clint was living with Sondra.
+Her name was Jacelyn Reeves, and she was a flight attendant. In March of nineteen eighty-six, Jacelyn gave birth to a boy, Scott. Two years later, a girl, Kathryn. Both of them were Clint Eastwood's children, and both were conceived while Clint was living with Sondra.
 
 Now think about the woman who, by her own account, had been through two abortions and a tubal ligation. And while that was happening, another woman was having two children with her partner.
-
-But the coldest detail was still to come.
 
 On both children's birth certificates, in the space where the father's name should have been, there was no Clint Eastwood. There was one word.
 
@@ -332,23 +260,15 @@ A few hours away, he had two small children who didn't carry his name on their d
 
 But that castle was about to come down. And it all started on a day in April of nineteen eighty-nine, when Sondra Locke was away from home, shooting a movie.
 
-## PART 4
+## PART 5
 
-April, nineteen eighty-nine.
-
-Sondra Locke was out of town, directing a new film.
+April, nineteen eighty-nine. Sondra Locke was out of town, directing a new film.
 
 Her second film as a director. A thriller called Impulse. She'd finally gotten the career behind the camera she'd been promised. And while she was on location building it, the home she was going to come back to was being emptied.
 
 Because Clint had made a decision.
 
-He had the locks changed on the house the two of them lived in.
-
-And Sondra's belongings were taken out and moved to a storage unit.
-
-After fourteen years together, she could no longer get into the house where she lived.
-
-Remember the woman at the start of this video, who found out with no warning that the house was no longer hers? That was Sondra.
+He had the locks changed on the house the two of them lived in, and Sondra's belongings were taken out and moved to a storage unit. After fourteen years together, she could no longer get into the house where she lived.
 
 But that locked door opened another one, far more dangerous for Clint. Because from that moment on, the secrets he'd kept for decades started coming out, one after another, on the newsstands.
 
@@ -364,9 +284,9 @@ In nineteen ninety, she said her father had disowned her. And that he'd cut out 
 
 Clint did not attend his own daughter's wedding.
 
-But the hardest blow was still coming. Because Sondra Locke was not going to stand outside that door in silence.
+But the hardest blow was still coming. Because Sondra Locke was not going to stand outside that door and say nothing.
 
-Sondra took Clint to court. A palimony suit. Half of everything they'd built in fourteen years.
+Sondra took Clint to court with a palimony suit, asking for half of everything they'd built in fourteen years.
 
 In nineteen ninety, the two of them reached a deal. She dropped the lawsuit in exchange for money. And for a contract to direct films at the Warner Brothers studio, worth a million and a half dollars.
 
@@ -394,7 +314,7 @@ In nineteen ninety-three, the film Unforgiven won the Oscar for Best Picture. An
 
 And in the middle of that triumph, there was one more woman in his life. And one more child he asked her to hide.
 
-Her name was Frances Fisher. An actress. She even acted in Unforgiven.
+Her name was Frances Fisher, an actress who even had a role in Unforgiven.
 
 When Frances got pregnant, Clint asked her to hide the pregnancy until the final months.
 
@@ -402,23 +322,15 @@ In August of nineteen ninety-three, Francesca was born.
 
 A year and a half later, the two of them split up.
 
-But the biggest secret of all still hadn't surfaced. And it had been sitting since nineteen fifty-four, on a birth certificate in Seattle.
+But the biggest secret of all still hadn't surfaced. It had been sitting since nineteen fifty-four, on a birth certificate in Seattle.
 
-## PART 5
+## PART 6
 
 Remember the girl born in Seattle, in February of nineteen fifty-four? Less than two months after Clint's wedding?
 
-Her name is Laurie.
+Her name is Laurie. Right after she was born, she was given up for adoption, and she grew up in another family, not knowing where she'd come from. Until the day she held her own birth certificate in her hands and read the father's name. Clint Eastwood.
 
-Right after she was born, Laurie was given up for adoption. She grew up in another family, not knowing where she'd come from.
-
-Until the day she held her own birth certificate in her hands. And read a name there that changed her life forever.
-
-The father's name.
-
-Clint Eastwood.
-
-The sources don't agree on when that happened. Some say the late eighties. Others say two thousand and four.
+The sources don't agree on when that happened. Some say the late eighties, others say two thousand and four.
 
 And they don't agree on something else, something much more delicate.
 
@@ -428,7 +340,7 @@ But one of Laurie's grandsons disputes that version. According to him, Clint nev
 
 What's known is what happened afterward.
 
-Because for decades, the whole world knew Clint Eastwood's children without knowing there was one more. And when she finally appeared, it was in front of the cameras.
+Because for decades, the world knew Clint Eastwood's children without knowing there was one more. And when she finally appeared, it was in front of the cameras.
 
 December, two thousand and eighteen. The premiere of The Mule, directed by and starring Clint, in the United States.
 
@@ -436,7 +348,7 @@ On the red carpet, next to him, stood a woman the press had never seen. It was L
 
 Sixty-four years.
 
-A whole life away from a famous father. A life in which Clint won four Oscars, became a legend, and climbed back to the top in two thousand and five with Million Dollar Baby.
+A lifetime away from a famous father. A life in which Clint won four Oscars, became a legend, and climbed back to the top in two thousand and five with Million Dollar Baby.
 
 Million Dollar Baby took Best Picture and Best Director. Clint was seventy-four, the oldest person ever to win Best Director at the time. Three years later came Gran Torino, the grumpy old man on the porch with the rifle, and another hundred and fifty million dollars at the box office. The man Universal fired for talking too slow was, in his late seventies, the most bankable director in America.
 
@@ -460,33 +372,23 @@ Years earlier, on an American television show, Clint was asked how many children
 
 The answer was short. I have a few.
 
-Today, at least eight are known. By six different women.
+Today, at least eight are known. By six different women. The eighth, Morgan, was born in nineteen ninety-six, to his second wife, Dina Ruiz, a television news anchor thirty-five years younger who had come to interview him. That marriage lasted almost two decades and ended in divorce in two thousand and fourteen.
 
 And explaining why he protected his family so fiercely, Clint said something that reveals another side of him. He said his children are vulnerable people. That he knows how to protect himself, but they don't.
 
 But even with all of that out in the open, the story of Clint Eastwood still had one last chapter. And it was being written now, at ninety-six years old.
 
-## PART 6
+## PART 7
 
-In nineteen ninety-six, Clint Eastwood got married again.
-
-The bride was Dina Ruiz, a television news anchor about thirty-five years younger. They'd met when she came to interview him.
-
-At the end of that year, Morgan was born. Child number eight.
-
-The marriage lasted almost two decades. It ended in divorce in two thousand and fourteen.
-
-That's when a new woman came into his life.
-
-Her name was Christina Sandera. She worked as a hostess at a restaurant Clint owned in Carmel, the same town where he'd been mayor.
+After the divorce, a new woman came into his life. Her name was Christina Sandera. She worked as a hostess at a restaurant Clint owned in Carmel, the same town where he'd been mayor.
 
 They met in twenty fourteen, at Mission Ranch, the old dairy farm by the ocean that he'd bought and turned into an inn and a restaurant. She seated the guests. He owned the place. She was thirty-three years younger than he was. And unlike almost every other woman in this story, she never gave an interview, never wrote a book, and never had a child with him. For ten years, she just stayed.
 
 And ten years later, at ninety-four, Clint was going to face a loss that not even the toughest cowboy in the movies could hide.
 
-In July of two thousand and twenty-four, Christina Sandera died. Her heart gave out. She was sixty-one.
+In July of two thousand and twenty-four, Christina Sandera died when her heart gave out. She was sixty-one.
 
-This time, Clint spoke. He said Christina was a lovely, caring woman. And that he would miss her very much.
+This time, Clint spoke. He said Christina was a lovely, caring woman, and that he would miss her very much.
 
 The man who never said a word about Sondra's death spoke publicly about losing his last companion.
 
@@ -528,7 +430,7 @@ He said he got up every morning and didn't let the old man in.
 
 The line became a song, in one of his films.
 
-And that line helps explain the man behind the myth. A man who, for almost a century, didn't let the old man in. And who also almost never let anyone else truly in.
+And that line helps explain the man behind the myth. The boy who moved house every year and never got to keep anything became the man who changed the locks. A man who, for almost a century, didn't let the old man in, and almost never let anyone else in either.
 
 On screen, Clint Eastwood was the gunslinger with no name and the hero who handled everything alone.
 
@@ -580,12 +482,13 @@ This video tells the whole story: the Depression-era childhood he described and 
 
 ⏱️ CHAPTERS
 00:00 A locked door, a birth certificate, and a boy named Samson
-03:14 The plane crash, the blind date, and the studio that fired him
-10:06 The stuntwoman, the Man With No Name, and Dirty Harry
-13:59 Sondra Locke, the flight attendant, and the word "Declined"
-19:48 The changed locks, the tabloids, and the fraud trial
-24:03 Laurie: the daughter who waited sixty-four years
-28:11 Dina, Christina, and the man who doesn't let the old man in
+02:57 Held back a grade, the draft, and a plane in the Pacific
+06:49 Universal, the Adam's apple, swimming pools, and Rawhide
+09:50 The stuntwoman, the Man With No Name, and Dirty Harry
+13:43 Sondra Locke, the flight attendant, and the word "Declined"
+19:28 The changed locks, the tabloids, and the fraud trial
+23:33 Laurie: the daughter who waited sixty-four years
+27:55 Christina, Juror Number Two, and the man who doesn't let the old man in
 
 (Adjust timestamps to the final edit.)
 
