@@ -17,15 +17,16 @@ CH=[('Durante meses, Carlos Alberto de Nóbrega sentiu','Os meses de cansaço','
 ('Nos anos seguintes, Carlos Alberto passou por várias emissoras.','Família Trapo','Foto de Família Trapo (com crédito)'),
 ('O negócio se chamava Baú da Felicidade.','O Baú e Silvio Santos','Carnê antigo (ilustrativo) · Foto de arquivo de Silvio (crédito)'),
 ('Manoel de Nóbrega morreu em mil novecentos e setenta e seis.','A morte do pai','Foto de arquivo de Manoel de Nóbrega (com crédito)'),
+('Numa entrevista de rádio, Carlos Alberto acusou Silvio','Os 10% do Baú','Letreiro com a acusação narrada'),
 ('O programa era Os Trapalhões.','Os Trapalhões','Foto de arquivo dos Trapalhões (com crédito)'),
-('Anos depois, ele contou como foi a conversa com Renato Aragão.','"Prefiro ser teu amigo"','Letreiro com a frase'),
-('Depois de uma rápida passagem pela Band','Nasce A Praça É Nossa','Abertura da Praça (com crédito)'),
-('Onze anos.','Onze anos sem Silvio','Fotos públicas de Carlos e Silvio (com crédito)'),
-('Segundo o próprio Carlos Alberto, uma noite ele sonhou','O sonho','Céu noturno (ilustrativo)'),
+('Segundo Carlos Alberto, Renato Aragão tinha crescido muito.','"Prefiro ser teu amigo"','Letreiro com a frase'),
+('Segundo o próprio Carlos Alberto, ele começou a sonhar','O sonho','Céu noturno (ilustrativo)'),
+('Silvio convenceu Carlos Alberto','Nasce A Praça É Nossa','Abertura da Praça (com crédito)'),
+('Segundo Carlos Alberto, quando o pai ficou doente','O que Silvio fez','Foto de arquivo de Silvio Santos (com crédito)'),
 ('Em setembro de dois mil e cinco, Ronald Golias morreu.','Adeus, Golias','Foto de Golias na Escolinha (com crédito)'),
 ('O nome dele era Batoré.','Batoré','Foto de arquivo de Batoré (com crédito)'),
 ('Silvio Santos morreu no dia dezessete de agosto','A morte de Silvio','Trecho curto do choro no SBT (com crédito)'),
-('O primeiro aviso veio em outubro de dois mil e vinte e um.','Arritmia e covid','Monitor cardíaco (ilustrativo)'),
+('O primeiro aviso veio em dois mil e vinte e um.','Covid e arritmia','Monitor cardíaco (ilustrativo)'),
 ('Em novembro de dois mil e vinte e três, ele estava no sítio','A queda e a cirurgia','Escada de madeira (ilustrativo)'),
 ('Desta vez, foi uma virose.','A semi-UTI','Corredor de hospital (ilustrativo)'),
 ('Em março de dois mil e vinte e seis, poucos dias antes','A pneumonia e os 90 anos','Bolo com velas "90" (ilustrativo)'),
@@ -54,7 +55,7 @@ CHAPS='\n'.join(f'{t} {n}' for t,n,_ in out)
 open('chapters.txt','w').write(CHAPS+'\n')
 DESC='''Aos 90 anos, Carlos Alberto de Nóbrega, o eterno apresentador de "A Praça É Nossa", foi internado em outubro de 2026 no Hospital Sírio-Libanês. Um vírus agravou a insuficiência cardíaca que ele já tinha, o coração passou a bater devagar demais e ele recebeu um marcapasso.
 
-Neste documentário: o pai, Manoel de Nóbrega, e o banco de praça que nasceu em Buenos Aires; Golias, Jô Soares e a Família Trapo; o Baú da Felicidade e Silvio Santos; a saída dos Trapalhões; os 11 anos sem falar com Silvio e o sonho que os reaproximou; as perdas de Golias, Batoré e Silvio; a sequência de sustos de saúde desde 2021; o filho Marcelo e as 8 paradas cardíacas; a herança passada em vida; a briga pública com a ex Andréa; e a frase que hoje soa como um aviso.
+Neste documentário: o pai, Manoel de Nóbrega, e o banco de praça que nasceu em Buenos Aires; Golias, Jô Soares e a Família Trapo; o Baú da Felicidade e Silvio Santos; a saída dos Trapalhões; a acusação dos 10% que o afastou de Silvio por 11 anos, o sonho que os reaproximou e o que Silvio tinha feito pela família; as perdas de Golias, Batoré e Silvio; a sequência de sustos de saúde desde 2021; o filho Marcelo e as 8 paradas cardíacas; a herança passada em vida; a briga pública com a ex Andréa; e a frase que hoje soa como um aviso.
 
 Informações de SBT News, O Tempo/Folhapress, UAI, RepórterMT, Terra/Contigo, CNN Brasil, IstoÉ, Diário do Nordeste, Itatiaia, Folha PE, DOL, Gazeta, Correio Braziliense e Poder360. Carlos Alberto de Nóbrega está vivo; o vídeo traz as informações disponíveis até 23/10/2026.
 
