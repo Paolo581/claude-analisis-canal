@@ -84,6 +84,8 @@ And finally, the fuel ran out.
 
 The plane went down in the ocean off the coast of Northern California. Near Point Reyes.
 
+It was a Navy Skyraider, a single-engine bomber with room for exactly one passenger. Clint was the passenger. When it hit the water, both men got out. The pilot swam one way. Clint swam the other.
+
 The water was freezing.
 
 And Clint started swimming.
@@ -168,6 +170,8 @@ And Clint won the role of Rowdy Yates, a young cattle driver on a new Western se
 
 The show premiered in nineteen fifty-nine. And it stayed on the air until nineteen sixty-five.
 
+Seven seasons. Over two hundred episodes. Every week, in living rooms across the country, Rowdy Yates drove cattle and got into fights. And every week, a young actor who'd been told his neck was wrong learned how to hold a camera's attention by doing almost nothing.
+
 Clint Eastwood finally had a face America knew.
 
 But while the career was taking off, he started living a second life. A parallel life, away from his wife. And it was going to last fourteen years.
@@ -209,6 +213,8 @@ In nineteen seventy-one, Clint became Inspector Harry Callahan.
 Dirty Harry.
 
 A San Francisco cop who delivered justice his own way, with a forty-four Magnum in his hand and very few words.
+
+One of those few words became the most quoted line in American movies. A gun pointed at a man on the ground, and a question. Do you feel lucky?
 
 That same year, Clint also started directing his own films. The first one was a thriller called Play Misty for Me.
 
@@ -254,6 +260,8 @@ Even so, Clint and Sondra started living together.
 
 And she became a fixture in his movies. Six of them in a row.
 
+Sondra wasn't a nobody he'd plucked off a set. At twenty-four, she'd been nominated for an Academy Award for her very first film, The Heart Is a Lonely Hunter. She was a serious actress with a career of her own. And for the next fourteen years, that career ran through one man. The Gauntlet. Every Which Way But Loose, the biggest hit of his life, with an orangutan. Bronco Billy. Sudden Impact. She was in all of them.
+
 To the public, it was one of the most famous love stories in Hollywood. But inside that house, according to what Sondra said years later, things were happening that would turn into extremely serious accusations.
 
 In nineteen seventy-nine, Clint's marriage to Maggie came to an end. First the separation. Years later, the divorce.
@@ -271,6 +279,8 @@ And what she said is so heavy that, to this day, Clint Eastwood denies every wor
 In the late nineteen seventies, Sondra Locke had two abortions. And then a tubal ligation, the surgery that keeps a woman from ever getting pregnant.
 
 In a lawsuit, and later in a memoir about her own life, Sondra stated that she was pressured by Clint into all of it.
+
+The memoir came out in nineteen ninety-seven. She gave it a title that left no doubt about who it was aimed at. The Good, the Bad, and the Very Ugly.
 
 In the book, she wrote that Clint complained about the birth control she used, because it was uncomfortable for him. That he didn't like the pill either. And that the method they ended up with failed twice.
 
@@ -310,6 +320,8 @@ While those children were being born in secret, Clint Eastwood was living the mo
 
 In nineteen eighty-six, Clint was elected mayor of Carmel-by-the-Sea, a small, wealthy town on the California coast.
 
+The story of why he ran says a lot about him. The town council had turned down a building permit for an office he owned, and had passed rules against things like eating ice cream cones on the sidewalk. Clint decided the way to deal with a council he didn't like was to replace it. He ran. He won with more than seventy percent of the vote. Two thousand people in a town of five thousand showed up to vote for Dirty Harry.
+
 He served two years. He donated his mayor's salary to a youth center in town.
 
 To the voters, he was the man of integrity who served his community.
@@ -325,6 +337,8 @@ But that castle was about to come down. And it all started on a day in April of 
 April, nineteen eighty-nine.
 
 Sondra Locke was out of town, directing a new film.
+
+Her second film as a director. A thriller called Impulse. She'd finally gotten the career behind the camera she'd been promised. And while she was on location building it, the home she was going to come back to was being emptied.
 
 And while she was gone, Clint made a decision.
 
@@ -424,6 +438,8 @@ Sixty-four years.
 
 A whole life away from a famous father. A life in which Clint won four Oscars, became a legend, and climbed back to the top in two thousand and five with Million Dollar Baby.
 
+Million Dollar Baby took Best Picture and Best Director. Clint was seventy-four, the oldest person ever to win Best Director at the time. Three years later came Gran Torino, the grumpy old man on the porch with the rifle, and another hundred and fifty million dollars at the box office. The man Universal fired for talking too slow was, in his late seventies, the most bankable director in America.
+
 Years later, Laurie described what it was like to meet Clint. She said it was love at first sight.
 
 But that December of two thousand and eighteen held another piece of news. News that caught everyone off guard.
@@ -463,6 +479,8 @@ The marriage lasted almost two decades. It ended in divorce in two thousand and 
 That's when a new woman came into his life.
 
 Her name was Christina Sandera. She worked as a hostess at a restaurant Clint owned in Carmel, the same town where he'd been mayor.
+
+They met in twenty fourteen, at Mission Ranch, the old dairy farm by the ocean that he'd bought and turned into an inn and a restaurant. She seated the guests. He owned the place. She was thirty-three years younger than he was. And unlike almost every other woman in this story, she never gave an interview, never wrote a book, and never had a child with him. For ten years, she just stayed.
 
 And ten years later, at ninety-four, Clint was going to face a loss that not even the toughest cowboy in the movies could hide.
 
@@ -542,7 +560,7 @@ NOTES FOR THE EDIT
 
 1. Follows the Portuguese script beat by beat and hook by hook. Wording is new.
 
-2. Added from the public record: birth weight; Point Reyes; the Beverly Hills pools; "visiting a friend" in the commissary; Leone's fee ($15,000); Play Misty for Me; the .44 Magnum; Sondra's six films with him; "more than thirty" projects pitched at Warner (her account); Clint reimbursing Warner; the 1996 settlement while the jury was out; Christina Sandera's age. Everything else is in the original.
+2. Added from the public record: birth weight; Point Reyes; the Beverly Hills pools; "visiting a friend" in the commissary; Leone's fee ($15,000); Play Misty for Me; the .44 Magnum; Sondra's six films with him; "more than thirty" projects pitched at Warner (her account); Clint reimbursing Warner; the 1996 settlement while the jury was out; Christina Sandera's age; the Skyraider and the pilot; Rawhide's run; "Do you feel lucky?"; Sondra's 1968 Oscar nomination and her films with him; the Carmel campaign (permit dispute, ice cream ordinance, 72% of the vote); Impulse (1989); the title of Sondra's 1997 memoir; Million Dollar Baby and Gran Torino; Mission Ranch. Everything else is in the original.
 
 3. Items from 2025–2026 (Kathryn's video, Maggie Johnson's death, the Kyle/Scott quotes, the poster auction) are taken from your script as written; check them before recording.
 
@@ -563,11 +581,11 @@ This video tells the whole story: the Depression-era childhood he described and 
 ⏱️ CHAPTERS
 00:00 A locked door, a birth certificate, and a boy named Samson
 03:14 The plane crash, the blind date, and the studio that fired him
-09:33 The stuntwoman, the Man With No Name, and Dirty Harry
-13:14 Sondra Locke, the flight attendant, and the word "Declined"
-17:48 The changed locks, the tabloids, and the fraud trial
-21:45 Laurie: the daughter who waited sixty-four years
-25:26 Dina, Christina, and the man who doesn't let the old man in
+10:06 The stuntwoman, the Man With No Name, and Dirty Harry
+13:59 Sondra Locke, the flight attendant, and the word "Declined"
+19:48 The changed locks, the tabloids, and the fraud trial
+24:03 Laurie: the daughter who waited sixty-four years
+28:11 Dina, Christina, and the man who doesn't let the old man in
 
 (Adjust timestamps to the final edit.)
 
@@ -579,7 +597,7 @@ This video tells the whole story: the Depression-era childhood he described and 
 
 ## TAGS (comma-separated, under 500 characters)
 
-clint eastwood, clint eastwood documentary, clint eastwood children, clint eastwood secret daughter, sondra locke, clint eastwood sondra locke, clint eastwood biography, clint eastwood story, clint eastwood life story, clint eastwood family, clint eastwood 96, clint eastwood true story, clint eastwood wives, laurie eastwood, clint eastwood scandal, dirty harry, clint eastwood young, clint eastwood plane crash, clint eastwood dark side, hollywood secrets, clint eastwood 2026, clint eastwood kids
+clint eastwood, clint eastwood documentary, clint eastwood children, clint eastwood secret daughter, sondra locke, clint eastwood sondra locke, clint eastwood biography, clint eastwood story, clint eastwood family, clint eastwood 96, clint eastwood true story, clint eastwood wives, laurie eastwood, clint eastwood scandal, dirty harry, clint eastwood young, clint eastwood plane crash, clint eastwood dark side, hollywood secrets, clint eastwood 2026, clint eastwood kids
 
 ## TITLE OPTIONS
 
