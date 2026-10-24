@@ -1,0 +1,60 @@
+{
+ "titulo": "Por que a Virgínia se partiu em dois",
+ "lang": "pt",
+ "formato": "long",
+ "paras": [
+  {
+   "texto": "Em mil oitocentos e sessenta e um, um estado americano fez algo que nenhum outro fez.",
+   "ini": 0,
+   "fim": 6.4
+  },
+  {
+   "texto": "Ele se partiu em dois. E a parte que saiu nunca mais voltou.",
+   "ini": 6.4,
+   "fim": 11.600000000000001
+  },
+  {
+   "texto": "Para entender por quê, precisamos voltar às montanhas do oeste da Virgínia.",
+   "ini": 11.600000000000001,
+   "fim": 16.400000000000002
+  },
+  {
+   "texto": "Ali viviam fazendeiros pobres, sem escravos, que odiavam os ricos do litoral.",
+   "ini": 16.400000000000002,
+   "fim": 21.200000000000003
+  }
+ ],
+ "cenas": [
+  {
+   "ini": 0,
+   "fim": 4,
+   "tipo": "Mapas",
+   "visual": "Mapa dos EUA em 1861 com a Virgínia em destaque",
+   "busca": "virginia map",
+   "texto_tela": "1861"
+  },
+  {
+   "ini": 4,
+   "fim": 8,
+   "tipo": "Imágenes IA",
+   "visual": "Um mapa rasgado ao meio",
+   "prompt_ia": "a torn antique map of Virginia, dramatic light, cinematic",
+   "busca": "torn map"
+  },
+  {
+   "ini": 8,
+   "fim": 13,
+   "tipo": "Stock",
+   "visual": "Montanhas Apalaches com neblina",
+   "busca": "appalachian mountains fog"
+  },
+  {
+   "ini": 13,
+   "fim": 21.200000000000003,
+   "tipo": "Stock",
+   "visual": "Fazenda pobre antiga",
+   "busca": "old farm cabin",
+   "texto_tela": "Oeste da Virgínia"
+  }
+ ]
+}
