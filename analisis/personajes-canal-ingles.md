@@ -133,3 +133,54 @@ Señales de demanda medidas en canales de menos de 50.000 suscriptores en 2026: 
 - **Cifra exacta en la miniatura**: "10,000 pills", "91 cancers", "$26 million", "80 pounds".
 - **Nada inventado.** Los "breaks silence" tiran pero matan el canal. Lo documentado paga 10-13 dólares de RPM y dura años.
 - **Vivos**: solo con ángulo histórico (Clint, Dolly, Cher, Jane Fonda). Nunca "su despedida".
+
+---
+
+## Hueco medido en YouTube (26 de octubre de 2026)
+
+Método: búsqueda directa en YouTube (vídeos de más de 20 minutos, primera página de resultados) para 28 historias de la lista. Se cuenta cuántos vídeos pasan de 100.000 vistas y cuántos tratan la historia concreta. NexLev agotó la cuota semanal (se renueva el 27 a las 04:25 UTC), por eso se midió en YouTube directamente.
+
+| Historia | Vídeos largos >100K | Mejor vídeo sobre la historia concreta | Demanda del nombre (mejor vídeo largo del último año) | Veredicto |
+|---|---|---|---|---|
+| **El secuestro del hijo de Sinatra (1963)** | 0 | 4.700 vistas (francés); en inglés, 1.250 | Sinatra: 767K, 357K, 291K, 248K | **Hueco total con nombre enorme** |
+| **John Wayne y "The Conqueror"** | 1 (Kyle Hill, canal de ciencia, hace 3 años, 997K) | 28K (2023) | John Wayne: 808K, 473K | Hueco en formato documental de famosos |
+| Elizabeth Taylor y Mike Todd | 0 | 52K (1h06, hace 5 meses) | Liz: moderada | Hueco, demanda media |
+| Grace Kelly, el accidente real | 1 (inventado, 337K) | 4.500 y 4.200 (reales) | Media | Hueco en la versión real |
+| Jane Fonda y su madre | 1 (86K, Old Money Allure) | 86K | Media | Medio hueco |
+| Clark Gable y la hija secreta | 0 recientes | 61K (hace 8 meses) | Media-baja | Medio hueco |
+| Cary Grant y el LSD | 0 | 85K (ángulo hija) | Baja | Hueco sin demanda clara |
+| Peter Falk | 0 | 55K | Baja | Hueco sin demanda clara |
+| Bing Crosby y sus hijos | 1 (581K, hace 1 año) | 581K | Alta | Cubierto una vez; cabe otro |
+| Dean Martin y su hijo | 3 (569K, 290K, 107K) | 569K | Alta | Cubierto |
+| Roy Orbison | 2 (299K, 142K) | 20K (hace 2 meses) | Media | Semicubierto |
+| Jackie y Onassis | 5 (452K a 233K, todos del último año) | 438K | Alta | Saturado |
+| Natalie Wood | 14 | 15,5M | Altísima | Saturado |
+| Karen Carpenter | 7 | 996K | Alta | Saturado |
+| Judy Garland | 8 | 1,16M | Alta | Saturado |
+| Lucille Ball y Desi | 2 (1,2M, 679K) + 90K hace 4 semanas | 1,2M | Altísima | Saturado |
+| John Travolta y Jett | 9 (casi todos inventados) | 1,4M | Altísima | Saturado |
+| Hank Williams | 4 (248K hace 2 meses) | 248K | Alta | Cubierto |
+| Patsy Cline | 3 | 468K | Media | Cubierto |
+| Elvis y el Dr. Nick | 3 (3,3M, 2,1M, 455K) | 2,1M (emisión de 1979) | Altísima | Cubierto; solo como 2.º vídeo de tu mundo Elvis |
+
+### Recomendación: el secuestro de Frank Sinatra Jr.
+
+Por qué este y no otro: es el único caso medido donde el nombre tiene demanda masiva (cuatro vídeos largos de más de 240.000 vistas en el último año) y la historia concreta no tiene ni un solo vídeo en inglés que pase de 1.300 vistas. Y es la historia más dramática de toda la lista que no sea una muerte: un secuestro a punta de pistola, un padre llamando desde cabinas, el FBI, un juicio con una mentira que persiguió al hijo hasta la tumba.
+
+Hechos documentados para el guion (verifica cada uno):
+
+- 8 de diciembre de 1963, dos semanas después del asesinato de Kennedy. Frank Jr., 19 años, cantaba en el Harrah's de Lake Tahoe. Barry Keenan y Joe Amsler entraron en su habitación con una pistola y se lo llevaron en plena tormenta de nieve. El tercero, John Irwin, hizo las llamadas.
+- Keenan había sido compañero de clase de Nancy Sinatra en el instituto University High. Tomaba Percodan y anfetaminas; su plan era "pedir prestado" el dinero, invertirlo y devolvérselo a Sinatra con intereses.
+- Sinatra llamó al fiscal general Robert Kennedy; el FBI entró en el caso. Los secuestradores exigieron que Sinatra llamara desde cabinas públicas. Pidieron 240.000 dólares, no un millón: Sinatra ofreció un millón y lo rechazaron. Desde entonces llevó siempre monedas de diez centavos encima; dicen que lo enterraron con un rollo de ellas.
+- Pago el 11 de diciembre entre dos autobuses escolares en Sepulveda Boulevard. Frank Jr. fue soltado en Bel Air y lo recogió un guardia de seguridad; lo metieron en el maletero para pasar entre los periodistas de la casa de Nancy.
+- El FBI los detuvo en días; recuperaron casi todo el dinero. Parte estaba en manos de Dean Torrence, de Jan & Dean, amigo de Keenan, que declaró en el juicio.
+- Juicio de febrero-marzo de 1964: la abogada Gladys Root sostuvo que todo había sido un montaje publicitario organizado por los Sinatra. El jurado lo rechazó; Keenan recibió cadena perpetua más 75 años, pero fue declarado legalmente enajenado en el momento del crimen y salió en 1968, tras cuatro años y medio. Se hizo rico en el sector inmobiliario.
+- La mentira del "montaje" persiguió a Frank Jr. toda la vida: en 1998 un estudio quiso hacer una película con Keenan cobrando; Frank Jr. demandó y el caso llegó al Tribunal Supremo de California (2002), que anuló la ley "Son of Sam" del estado.
+- Frank Jr. murió el 16 de marzo de 2016, a los 72, de un paro cardíaco en Daytona Beach, en mitad de una gira cantando las canciones de su padre.
+
+Título: **They Kidnapped Frank Sinatra's Son. The Lie They Told In Court Followed Him To His Grave**
+Alternativa: **Frank Sinatra Paid The Ransom In Dimes From A Phone Booth. Then The Kidnappers Called It A Hoax**
+Miniatura: foto de archivo de Frank Jr. a los 19 (blanco y negro) junto a Sinatra padre con el teléfono; texto en amarillo: "$240,000" y "DEC 8, 1963". Sin la palabra "kidnapping" en la imagen; el título ya la lleva.
+Gancho de los primeros 60 segundos: la escena del maletero del coche entrando en la casa de Nancy, no la fecha. Después, retroceder a la habitación del Harrah's.
+
+Segunda opción si prefieres una muerte: **John Wayne y "The Conqueror"**. Único vídeo grande es de un canal de ciencia de hace tres años; nadie lo ha contado como documental de famosos con los 91 enfermos nombre por nombre (Susan Hayward, Agnes Moorehead, Dick Powell, Pedro Armendáriz, que se disparó al saber su diagnóstico).
