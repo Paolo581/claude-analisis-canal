@@ -1,155 +1,135 @@
-# Personajes para el canal en inglés: solo primera fila mundial
+# Personajes para el canal en inglés: nivel Elvis
 
-Fecha: 24 de octubre de 2026 (versión 2, sustituye a la lista de segunda fila de la mañana)
+Fecha: 26 de octubre de 2026 (versión 3; sustituye a las dos anteriores)
 Canal: Alvina Ericyan (@BehindtheFame_10). Formato: documental largo de 35-50 minutos, un personaje, un secreto oscuro documentado.
 
-Regla de esta lista: nombres que cualquier mujer de 55+ en Estados Unidos reconoce sin pensar. Para cada uno pongo (1) la señal de demanda medida en canales de menos de 50.000 suscriptores durante 2026, (2) el ángulo **documentado** (juicio, autopsia, informe oficial, declaración pública) y (3) el título. Los hechos están en el registro público, pero el guion sale de fuentes, no de esta tabla.
+Filtro de esta versión: solo nombres que una mujer estadounidense de 65 años o más reconoce al instante, como Elvis. El protagonista del vídeo es siempre el icono, nunca su mujer, su hijo o su mánager (esos entran como villanos o víctimas dentro de la historia). Cada fila: ángulo **documentado** (juicio, autopsia, testamento, declaración pública) y título. Verifica los hechos con fuentes antes del guion.
+
+Señales de demanda medidas en canales de menos de 50.000 suscriptores en 2026: Clint Eastwood 2,88 millones y 725.000; Princess Diana 870.000 y 334.000; John Wayne 808.000; Michael Jackson 703.000; Elvis 523.000; Jackie Kennedy 395.000; Audrey Hepburn 364.000; Marilyn 163.000; Grace Kelly 145.000; Sinatra 127.000.
 
 ---
 
-## Lo que dicen los datos (medido hoy)
+## Nivel 1. Los 20 más grandes (empieza aquí)
 
-| Personaje | Mejor vídeo 2026 en canal pequeño | Vistas | Subs del canal |
+| # | Icono | Ángulo documentado | Título |
 |---|---|---|---|
-| Clint Eastwood | "When Celebrities Couldn't Handle Clint Eastwood ZERO Filter" | 2.880.000 | 3.580 |
-| Clint Eastwood | "Clint Eastwood's 8 Children Today" (25 min) | 725.000 | 21.900 |
-| Princess Diana | "French Firefighter Who Tried to Save Diana Breaks Silence" | 870.000 | 1.820 |
-| John Wayne | "When Celebrities Couldn't Handle John Wayne" | 808.000 | 2.020 |
-| Michael Jackson | "When Michael Jackson's Father HUMILIATED Him on Live TV" | 703.000 | 26.400 |
-| Elvis | "Elvis Presley's Last Photos (1977)" | 523.000 | 50.100 |
-| Ethel Kennedy | "Ethel Kennedy's Marriage Was Much Nastier Than You Thought" | 421.000 | 24.700 |
-| Joan Kennedy | "The Tragic Story of Joan Kennedy" (40 min) | 413.000 | 44.400 |
-| Jackie Kennedy | "Jackie Kennedy's Marriage With JFK Is Even MORE Disturbing" | 395.000 | 24.700 |
-| Audrey Hepburn | "Audrey Hepburn Love Life" | 364.000 | 11.000 |
-| Princess Diana | "Inside Princess Diana's Funeral" (56 min) | 334.000 | 1.150 |
-| Paul Newman | "Paul Newman REVEALS 9 Racist Golden Age Actors" (inventado) | 298.000 | 9.490 |
-| Queen Elizabeth / Margaret | "Secret Lives" (44 min) | 214.000 | 57.900 |
-| Princess Margaret | "Princess Margaret's FUNERAL Was Much More Tragic" (34 min) | 183.000 | 3.590 |
-| Marilyn Monroe | "When Hollywood Legends were asked about Marilyn Monroe" | 163.000 | 2.830 |
-| Grace Kelly | documental de 62 min en español | 145.000 | 22.900 |
-| Carolyn Bessette | "What Nobody Said At Carolyn Bessette's Funeral" (37 min) | 145.000 | 2.920 |
-| Frank Sinatra / Mia Farrow | "The Frank Sinatra Marriage That Haunted Her Career" (41 min) | 127.000 | 9.280 |
+| 1 | **Elvis Presley** (ya tienes el del Coronel) | Segundo vídeo: la autopsia. 14 fármacos en sangre; el Dr. George Nichopoulos ("Dr. Nick") le recetó más de 10.000 pastillas en los últimos 20 meses; juzgado en 1981 y absuelto; licencia retirada en 1995. | 10,000 Pills In 20 Months: The Doctor Who Kept Elvis Alive Until He Didn't |
+| 2 | **Marilyn Monroe** | Noche del 4 al 5 de agosto de 1962: el ama de llaves Eunice Murray cambió su versión varias veces; el psiquiatra Greenson; la revisión del fiscal de Los Ángeles en 1982. Y la herencia: el 75 % fue a Lee Strasberg y acabó en su viuda Anna, que nunca la conoció. | The Housekeeper Changed Her Story Three Times: The Last Night Of Marilyn Monroe |
+| 3 | **Michael Jackson** (ya tienes el de Conrad Murray) | Segundo vídeo: Joe Jackson. Michael contó a Oprah en 1993 las palizas con cinturones y cables; Joe lo admitió a medias en 2010; no aparece en el testamento. Señal: 703.000. | The Father Michael Jackson Left Out Of His Will |
+| 4 | **Frank Sinatra** | El secuestro de Frank Jr. el 8 de diciembre de 1963 en Lake Tahoe: rescate de 240.000 dólares, Sinatra llamando desde cabinas con monedas de diez centavos; Barry Keenan condenado. Y el expediente del FBI de 2.403 páginas. | They Kidnapped Frank Sinatra's Son. He Paid With Dimes From A Phone Booth |
+| 5 | **Elizabeth Taylor** | Mike Todd murió el 22 de marzo de 1958 en su avión "The Liz"; ella iba a volar y se quedó con fiebre. Eddie Fisher, el mejor amigo de Todd, la consoló y dejó a Debbie Reynolds. | The Plane She Was Supposed To Be On: Elizabeth Taylor And The Husband She Never Got Over |
+| 6 | **Princess Diana** | 31 de agosto de 1997: el médico Frédéric Mailliez, el bombero Xavier Gourmelon y sus últimas palabras; Operation Paget (2006); veredicto de 2008: Henri Paul con tres veces el alcohol permitido. | The Last Four Hours Of Princess Diana, From The Official Record |
+| 7 | **John Wayne** | "The Conqueror" (1956) rodada a favor del viento de las pruebas nucleares de Nevada; de 220 personas, 91 tuvieron cáncer y 46 habían muerto en 1980, Wayne entre ellas (11 de junio de 1979). | The Movie That Killed John Wayne |
+| 8 | **Clint Eastwood** (ya tienes vídeo: retitúlalo) | Ocho hijos con seis mujeres, dos nacidos durante su matrimonio de 31 años con Maggie Johnson; demandas de Sondra Locke en 1989 y 1996. Señal: 2,88 millones y 725.000. | Eight Children, Six Women, One 31-Year Marriage: Clint Eastwood |
+| 9 | **Dolly Parton** | Carl Dean, invisible durante 58 años, murió el 3 de marzo de 2025; "Jolene" nació de una cajera que coqueteaba con él. Segundo: Porter Wagoner la demandó por 3 millones en 1979. | The Husband Nobody Saw For 58 Years: Dolly Parton And Carl Dean |
+| 10 | **Johnny Cash** | Vivian Liberto, la primera mujer y las cuatro hijas que "Walk the Line" borró; detención en El Paso en 1965; la cueva de Nickajack en 1967. | The Wife "Walk The Line" Erased: Johnny Cash And Vivian |
+| 11 | **Lucille Ball** | Pidió el divorcio el 3 de marzo de 1960, la mañana después de grabar el último episodio; compró la parte de Desi en Desilu en 1962; él la llamó en su aniversario dos días antes de morir en 1986. | She Filed For Divorce The Morning After The Last Episode: Lucille Ball And Desi |
+| 12 | **Jackie Kennedy** | Onassis mantuvo a Maria Callas, consultó a Roy Cohn para divorciarse y murió en 1975; Christina Onassis le pagó unos 26 millones. Señal: 395.000. | The Marriage Jackie Kennedy Regretted: Onassis, Callas And $26 Million |
+| 13 | **Audrey Hepburn** | Padre nazi que la abandonó; hambruna holandesa de 1944; dos maridos infieles; murió en 1993. Señal: 364.000. | Her Father Was A Nazi. She Nearly Starved At 15. Then She Became Audrey Hepburn |
+| 14 | **Marlon Brando** | Su hijo Christian mató al novio de su hija Cheyenne en casa de Brando el 16 de mayo de 1990; diez años de condena; Cheyenne se ahorcó en 1995. | A Son In Prison, A Daughter In The Ground: Marlon Brando |
+| 15 | **James Dean** | 30 de septiembre de 1955, cruce de las carreteras 46 y 41; Donald Turnupseed; Pier Angeli se casó con Vic Damone semanas antes y murió de sobredosis en 1971. | The Girl He Lost And The Road That Killed Him: James Dean |
+| 16 | **Judy Garland** | Pastillas desde MGM a los 15; sus representantes Begelman y Fields y el dinero desaparecido; murió en Londres en 1969 a los 47 con deudas. | The Men Who ROBBED Judy Garland While She Was Dying |
+| 17 | **Whitney Houston** | Bañera del Beverly Hilton, 11 de febrero de 2012; Bobbi Kristina hallada en una bañera el 31 de enero de 2015. | The Same Bathtub, Three Years Apart: Whitney And Bobbi Kristina |
+| 18 | **Cher** | Cher Enterprises era 95 % de Sonny; ella cobraba sueldo; divorcio en 1975; Sonny murió esquiando en 1998 y ella dio el elogio; en 2021 demandó a su viuda. | The Man Who ROBBED Cher: Sonny Bono |
+| 19 | **John Lennon** | 8 de diciembre de 1980; el testamento lo dejaba todo a Yoko y un fideicomiso; Julian litigó hasta 1996. | The Son John Lennon Left Behind |
+| 20 | **Grace Kelly** | Mónaco le prohibió volver al cine (Marnie, 1962); accidente del 13 de septiembre de 1982 con Stéphanie en el coche. Señal: 145.000. | She Gave Up Hollywood For A Prince. The Palace Never Let Her Go Back |
 
-Conclusión: los tres mundos con más tirón para tu público son **Clint Eastwood y los vaqueros**, **los Kennedy y Diana** (realeza americana y británica) y **Michael Jackson / Elvis**. Las mujeres de Hollywood clásico (Audrey, Marilyn, Grace, Liz) tiran si el ángulo es un matrimonio o una traición, no la biografía.
+## Nivel 2. Hollywood dorado (ellas lo vieron en el cine)
 
----
-
-## Bloque A. Clint Eastwood y los duros del oeste
-
-| # | Personaje | Ángulo documentado | Título |
+| # | Icono | Ángulo documentado | Título |
 |---|---|---|---|
-| 1 | **Clint Eastwood** (ya tienes vídeo: retitúlalo) | Ocho hijos con seis mujeres; dos nacieron durante su matrimonio de 31 años con Maggie Johnson (Kimber, 1964, con Roxanne Tunis; Scott y Kathryn con Jacelyn Reeves). Sondra Locke lo demandó en 1989 y en 1996; acuerdos extrajudiciales. Su pareja Christina Sandera murió en julio de 2024. | Eight Children, Six Women, One 31-Year Marriage: The Secret Family Tree Of Clint Eastwood |
-| 2 | **John Wayne** | "The Conqueror" (1956) se rodó en Utah a favor del viento de las pruebas nucleares de Nevada. De 220 personas del equipo, 91 tuvieron cáncer y 46 habían muerto en 1980, entre ellas Wayne, Susan Hayward, Agnes Moorehead y Dick Powell. Wayne murió de cáncer de estómago el 11 de junio de 1979. | The Movie That Killed John Wayne: 91 Cancers On One Film Set |
-| 3 | **Steve McQueen** | Murió el 7 de noviembre de 1980 en Juárez, México, tras una operación en una clínica alternativa, por un mesotelioma. Ali MacGraw, Barbara Minty. (Señal: 838.000 en un vídeo inventado McQueen contra Eastwood.) | He Crossed The Border To Cheat Death. He Died The Next Morning: Steve McQueen |
-| 4 | **Paul Newman** | Su hijo Scott murió el 20 de noviembre de 1978, a los 28, por alcohol y Valium. Newman dejó a su primera mujer Jackie Witte por Joanne Woodward en 1958; nunca dejó de culparse por Scott. | The Son Paul Newman Couldn't Save |
-| 5 | **Burt Reynolds** | El actor mejor pagado del mundo cinco años seguidos; bancarrota en 1996 tras el divorcio de Loni Anderson; murió en 2018 y su testamento dejaba fuera expresamente a su único hijo, Quinton, "porque ya está atendido en un fideicomiso". | Hollywood's Highest-Paid Star Died Broke: Burt Reynolds |
-| 6 | **Marlon Brando** | Su hijo Christian mató a Dag Drollet, novio de su hija Cheyenne, en la casa de Brando el 16 de mayo de 1990; condena de 10 años. Cheyenne se ahorcó en Tahití en abril de 1995. | A Son In Prison, A Daughter In The Ground: The Last Years Of Marlon Brando |
-| 7 | **Robert Redford** | Murió el 16 de septiembre de 2025 a los 89 en Utah. Su primer hijo, Scott, murió a los dos meses en 1959 (muerte súbita); su hijo James murió en 2020 de cáncer de vías biliares. | He Buried Two Sons Before He Died: Robert Redford |
+| 21 | **Clark Gable** | Carole Lombard murió el 16 de enero de 1942 en un avión volviendo de vender bonos de guerra; su hija secreta con Loretta Young (Judy Lewis, 1935), confirmada en 1994. | The Daughter Clark Gable Never Acknowledged |
+| 22 | **Loretta Young** | Crió a su propia hija con Gable como "adoptada"; Judy Lewis lo supo a los 31; la biografía póstuma de 2015 lo describe como un abuso. | America's Most Devout Actress Hid A Secret For 60 Years: Loretta Young |
+| 23 | **Cary Grant** | Unas 100 sesiones de LSD con psiquiatras entre 1958 y 1961 (él mismo lo contó en 1959); Dyan Cannon lo alegó en el divorcio de 1968; padre por primera vez a los 62. | Cary Grant Took LSD 100 Times. His Wife Used It Against Him In Court |
+| 24 | **Bette Davis** | Su hija B.D. Hyman publicó "My Mother's Keeper" en 1985; Davis la desheredó; murió en 1989 en Francia. | Her Daughter Wrote The Book That Broke Her: Bette Davis |
+| 25 | **Joan Crawford** | "Mommie Dearest" (1978); el testamento desheredó a Christina y Christopher "por razones que ellos conocen bien". | "For Reasons Well Known To Them": The Will Of Joan Crawford |
+| 26 | **Katharine Hepburn** | 26 años con Spencer Tracy, que nunca se divorció de Louise; Hepburn no fue al funeral de 1967. | 26 Years As The Other Woman: Katharine Hepburn And Spencer Tracy |
+| 27 | **Humphrey Bogart** | Murió el 14 de enero de 1957 a los 57, con 36 kilos, de cáncer de esófago; Lauren Bacall tenía 32. | He Weighed 80 Pounds When He Died. She Was 32: Bogart And Bacall |
+| 28 | **Shirley Temple** | Ganó más de 3 millones de niña; a los 22 quedaban 44.000 dólares: su padre y los asesores lo gastaron (ella lo contó en 1988). | The Man Who ROBBED Shirley Temple: Her Own Father |
+| 29 | **Jimmy Stewart** | Su hijastro Ronald murió en Vietnam en 1969; 45 años con Gloria; tras su muerte en 1994 dejó de salir de casa. | The Son Jimmy Stewart Lost In Vietnam |
+| 30 | **Doris Day** | Su marido Martin Melcher la dejó arruinada en 1968; sentencia de 22,8 millones en 1974. | The Man Who ROBBED Doris Day: Her Own Husband |
+| 31 | **Rock Hudson** | La rueda de prensa con Doris Day en julio de 1985; murió el 2 de octubre; Marc Christian ganó el juicio en 1989. | He Kissed Her On TV Knowing What He Had: Rock Hudson |
+| 32 | **Natalie Wood** | Catalina, 29 de noviembre de 1981; Wagner "persona de interés" en 2018. | Water, Wagner & Walken: The Night Natalie Wood Didn't Come Back |
+| 33 | **Sophia Loren** | 17 días en la cárcel de Caserta en 1982 por evasión fiscal; Carlo Ponti acusado de bigamia en Italia en 1957. | The Most Beautiful Woman In The World Went To Prison: Sophia Loren |
+| 34 | **Henry Fonda y Jane Fonda** | Frances Fonda se cortó el cuello en un sanatorio en abril de 1950; Jane, de 12 años, lo supo por una revista; Henry se casó ocho meses después. | Jane Fonda Learned How Her Mother Died From A Magazine |
+| 35 | **Kirk Douglas** | Su hijo Eric murió por sobredosis en 2004; accidente de helicóptero en 1991; murió en 2020 a los 103 y dejó casi todo a la caridad. | He Lived To 103 And Left His Famous Son Nothing: Kirk Douglas |
+| 36 | **Tony Curtis** | Dejó a sus cinco hijos, Jamie Lee incluida, fuera del testamento de 2010. | He Cut All Five Children From The Will: Tony Curtis |
+| 37 | **Elizabeth Taylor y Richard Burton** | Dos bodas (1964, 1975), dos divorcios; el diamante Krupp; la última carta de Burton en 1984 que ella guardó en la mesilla hasta morir. | The Letter Richard Burton Sent Three Days Before He Died |
+| 38 | **Debbie Reynolds** | Eddie Fisher la dejó por Liz en 1959; Carrie murió el 27 de diciembre de 2016, ella el 28. | Her Husband Left For Elizabeth Taylor. Her Daughter Died On A Tuesday. She Followed On Wednesday |
 
-## Bloque B. Los Kennedy y la realeza (Diana, Margaret)
+## Nivel 3. Música que ellas bailaron
 
-| # | Personaje | Ángulo documentado | Título |
+| # | Icono | Ángulo documentado | Título |
 |---|---|---|---|
-| 8 | **Jackie Kennedy y Onassis** | Boda en octubre de 1968; Onassis mantuvo a Maria Callas y consultó a Roy Cohn para divorciarse; murió el 15 de marzo de 1975; Christina Onassis pagó a Jackie unos 26 millones para cerrar la herencia. | The Marriage Jackie Kennedy Regretted: Onassis, Callas And A $26 Million Goodbye |
-| 9 | **Ethel Kennedy** | Murió el 10 de octubre de 2024 a los 96. Sus padres murieron en un accidente aéreo en 1955 y su hermano en otro en 1966; Bobby fue asesinado en 1968 cuando ella estaba embarazada del undécimo hijo; David murió por sobredosis en 1984 y Michael esquiando en 1997. | Two Plane Crashes, One Assassination, Two Dead Sons: Ethel Kennedy Outlived Them All |
-| 10 | **Joan Kennedy** | Alcoholismo, abortos espontáneos tras Chappaquiddick (1969), infidelidades de Ted, divorcio en 1982, ingresos repetidos. | Chappaquiddick, Bottles & A Senate Smile: The Lonely Life Of Joan Kennedy |
-| 11 | **Carolyn Bessette y JFK Jr.** | 16 de julio de 1999: John pilotó de noche sin habilitación para instrumentos; murieron él, Carolyn y su hermana Lauren. Informe de la NTSB: desorientación espacial. | The Night JFK Jr. Flew Into The Dark |
-| 12 | **Princess Diana** | 31 de agosto de 1997. El médico Frédéric Mailliez, el primero en atenderla; el bombero Xavier Gourmelon contó en 2017 sus últimas palabras ("My God, what's happened?"); informe Operation Paget (2006) y veredicto de la investigación de 2008: homicidio por conducción negligente de Henri Paul, con tres veces el alcohol permitido. | The Last Four Hours Of Princess Diana, Told From The Official Record |
-| 13 | **Princess Margaret** | Le prohibieron casarse con Peter Townsend (1955); matrimonio y divorcio con Armstrong-Jones (1978); Roddy Llewellyn; tabaco y alcohol, derrames en 1998 y 2001; murió el 9 de febrero de 2002 a los 71. | The Sister The Crown Sacrificed: Princess Margaret |
+| 39 | **Bing Crosby** | Su hijo Gary publicó en 1983 que les pegaba; dos hijos se suicidaron (Lindsay 1989, Dennis 1991). | America's Favorite Father, According To His Sons: Bing Crosby |
+| 40 | **Dean Martin** | Su hijo Dean Paul murió el 21 de marzo de 1987 pilotando un F-4; Dean murió el día de Navidad de 1995. | The Crash That Silenced Dean Martin |
+| 41 | **Sammy Davis Jr.** | Murió en 1990 debiendo más de 5 millones a Hacienda; embargaron a su viuda Altovise. | He Earned $50 Million And Died Owing The IRS: Sammy Davis Jr. |
+| 42 | **Roy Orbison** | Su mujer Claudette murió en moto en 1966; dos de sus hijos murieron en el incendio de su casa en 1968; él murió en 1988 a los 52. | He Lost His Wife, Then His Sons, Then His Voice: Roy Orbison |
+| 43 | **Jerry Lee Lewis** | Se casó con su prima Myra, de 13 años, en 1957; dos esposas murieron en 1982 y 1983. | Two Dead Wives And A 13-Year-Old Bride: Jerry Lee Lewis |
+| 44 | **Buddy Holly** | 3 de febrero de 1959; su viuda María Elena, embarazada, perdió al bebé días después; supo de la muerte por la tele. | She Found Out On Television. Then She Lost The Baby: Buddy Holly |
+| 45 | **Hank Williams** | Murió el 1 de enero de 1953 a los 29 en el asiento trasero de un Cadillac; su "médico" Toby Marshall era un estafador sin título. | The Fake Doctor Who Killed Hank Williams |
+| 46 | **Patsy Cline** | Accidente casi mortal en 1961; avión del 5 de marzo de 1963; dijo a Loretta y a Dottie West que no llegaría a los 31. | She Told Her Friends She Wouldn't Live To See 31: Patsy Cline |
+| 47 | **Tina Turner** | Ike (documentado en su autobiografía y el divorcio de 1978, donde solo pidió su nombre); su hijo Craig se suicidó en 2018 y Ronnie murió en 2022; ella en 2023. | She Left With 36 Cents And Her Name. Then She Buried Two Sons: Tina Turner |
+| 48 | **Aretha Franklin** | Dos testamentos manuscritos, uno bajo los cojines del sofá; jurado de 2023. | The Will Under The Couch Cushions: Aretha Franklin |
+| 49 | **Diana Ross** | Florence Ballard, expulsada de las Supremes en 1967, murió en 1976 a los 32 cobrando asistencia social. | The Supreme Diana Ross Left Behind |
+| 50 | **Ray Charles** | Doce hijos con diez mujeres; detención por heroína en 1965; pelea por la herencia tras 2004. | Twelve Children, Ten Mothers, One Will: Ray Charles |
+| 51 | **Elton John** | Demandó a su mánager John Reid en 1998; perdió el juicio contra PwC en 2001 y pagó 8 millones de libras; 1,5 millones en flores en 20 meses. | The Man Who ROBBED Elton John |
+| 52 | **Freddie Mercury** | Anunció el sida el 23 de noviembre de 1991 y murió al día siguiente; la casa y la mitad de sus ingresos a Mary Austin. | He Left Everything To The Woman He Couldn't Love: Freddie Mercury |
+| 53 | **Prince** | Fentanilo, sin testamento, la cámara de Paisley Park taladrada. | No Will, Six Siblings And A Vault They Had To Drill Open: Prince |
+| 54 | **Andy Williams** | Su exmujer Claudine Longet mató al esquiador Spider Sabich en 1976; Andy la acompañó al juzgado cada día; 30 días de cárcel. | His Ex-Wife Shot Her Lover. He Sat Beside Her In Court: Andy Williams |
+| 55 | **Karen Carpenter** | Anorexia, la vasectomía oculta de Tom Burris, el divorcio sin terminar; 4 de febrero de 1983. | Pills, A Vasectomy & A Divorce She Never Finished: Karen Carpenter |
+| 56 | **Bee Gees** | Barry enterró a Andy (1988, 30 años), Maurice (2003) y Robin (2012). | The Last Brother Standing: Barry Gibb |
+| 57 | **Willie Nelson** | Hacienda le embargó todo en 1990; "The IRS Tapes"; su hijo Billy murió en Navidad de 1991. | They Took Everything But His Guitar: Willie Nelson |
+| 58 | **Kenny Rogers** | Cinco matrimonios; divorcio de 60 millones en 1993. | Five Wives And A $60 Million Divorce: Kenny Rogers |
+| 59 | **Loretta Lynn** | Casada a los 15 con Doolittle, 48 años de infidelidades; su hijo murió ahogado en 1984. Señal: 338.000. | Married At 15 To A Man Who Cheated For 48 Years: Loretta Lynn |
+| 60 | **Reba McEntire** | 16 de marzo de 1991: su banda murió en un avión en San Diego. | Her Entire Band Died In One Night: Reba McEntire |
 
-## Bloque C. Michael Jackson y Elvis (tus dos vídeos ya publicados; agrupa aquí)
+## Nivel 4. La tele de su vida y los que acaban de irse
 
-| # | Personaje | Ángulo documentado | Título |
+| # | Icono | Ángulo documentado | Título |
 |---|---|---|---|
-| 14 | **Michael Jackson y Joe Jackson** | Michael contó a Oprah en 1993 que su padre le pegaba con cinturones y cables; Joe lo reconoció a medias ("I whipped him") en 2010 con Oprah; murió en 2018 sin estar en el testamento de Michael. Señal: 703.000. | The Father Michael Jackson Left Out Of His Will: Joe Jackson |
-| 15 | **Michael Jackson y Conrad Murray** (ya tienes vídeo: retitúlalo) | Seis fármacos en nueve horas la noche del 25 de junio de 2009; condena por homicidio involuntario en 2011; dos años de cárcel. | The Doctor Who Gave Michael Jackson Six Drugs In Nine Hours |
-| 16 | **Elvis y el Coronel Parker** (ya tienes vídeo: retitúlalo) | Parker se llevaba el 50 %; el informe del tribunal de Memphis de 1980 (Blanchard Tual) lo calificó de fraude. | Colonel Parker Took Half Of Everything Elvis Earned. The Night Elvis Tried To Fire Him, He Found Out Why |
-| 17 | **Elvis: la pelea por Graceland** | Lisa Marie murió el 12 de enero de 2023; Priscilla impugnó el fideicomiso; acuerdo con Riley Keough en mayo de 2023. En 2024 una falsa empresa intentó subastar Graceland; Lisa Findley fue condenada en 2025. | Lisa Marie Died In January. By May Her Mother And Her Daughter Were In Court: The Fight For Graceland |
-| 18 | **Whitney Houston** | 11 de febrero de 2012, bañera del Beverly Hilton; Bobbi Kristina hallada en una bañera el 31 de enero de 2015, murió en julio. | The Same Bathtub, Three Years Apart: Whitney Houston And Bobbi Kristina |
-| 19 | **Prince** | Fentanilo, 21 de abril de 2016; sin testamento; seis hermanos; el banco Bremer Trust taladró la cámara de Paisley Park. | No Will, Six Siblings And A Vault They Had To Drill Open: Prince |
-
-## Bloque D. Las reinas de Hollywood (ángulo matrimonio o traición, nunca biografía)
-
-| # | Personaje | Ángulo documentado | Título |
-|---|---|---|---|
-| 20 | **Elizabeth Taylor y Mike Todd** | Todd murió el 22 de marzo de 1958 al estrellarse su avión "The Liz" en Nuevo México; ella iba a volar y se quedó por una gripe. Su mejor amigo Eddie Fisher la consoló y dejó a Debbie Reynolds. | The Plane She Was Supposed To Be On: Elizabeth Taylor, Mike Todd And The Husband She Never Got Over |
-| 21 | **Debbie Reynolds y Carrie Fisher** | Eddie Fisher la dejó por Liz Taylor en 1959 con dos niños; Carrie murió el 27 de diciembre de 2016 y Debbie al día siguiente. | Her Husband Left For Elizabeth Taylor. Her Daughter Died On A Tuesday. She Followed On Wednesday: Debbie Reynolds |
-| 22 | **Marilyn Monroe: la herencia** | Dejó el 75 % de su patrimonio a Lee Strasberg. Él murió en 1982 y todo pasó a su viuda Anna, que nunca conoció a Marilyn y vendió la mayoría de los derechos en 2010 por decenas de millones. | The Woman Who Inherited Marilyn Monroe Never Met Her |
-| 23 | **Audrey Hepburn** | Infancia en la Holanda ocupada, hambruna de 1944; su padre, simpatizante nazi, la abandonó; dos matrimonios infieles (Mel Ferrer, Andrea Dotti); murió en 1993 de cáncer de colon. Señal: 364.000 y 205.000. | Her Father Was A Nazi. She Nearly Starved At 15. Then She Became Audrey Hepburn |
-| 24 | **Grace Kelly** | Mónaco le prohibió volver al cine (Marnie, 1962); accidente en la Moyenne Corniche el 13 de septiembre de 1982 con Stéphanie en el coche; derrame previo; murió al día siguiente. | She Gave Up Hollywood For A Prince. The Palace Never Let Her Go Back: Grace Kelly |
-| 25 | **Doris Day** | Su marido Martin Melcher murió en 1968 y la dejó arruinada; sentencia de 22,8 millones contra el abogado Jerome Rosenthal en 1974. Y en 1985 presentó a Rock Hudson, ya enfermo, en su programa. | The Man Who ROBBED Doris Day: Her Own Husband |
-| 26 | **Rock Hudson** | Rueda de prensa con Doris Day en julio de 1985; murió el 2 de octubre; su pareja Marc Christian ganó un juicio millonario en 1989 por ocultarle la enfermedad. | He Kissed Her On TV Knowing What He Had: Rock Hudson |
-| 27 | **Lucille Ball y Desi Arnaz** | Pidió el divorcio el 3 de marzo de 1960, el día después de grabar el último episodio; en 1962 le compró su parte de Desilu; Desi la llamó en su aniversario dos días antes de morir, en 1986. | She Filed For Divorce The Morning After The Last Episode: Lucille Ball And Desi Arnaz |
-| 28 | **Natalie Wood** | 29 de noviembre de 1981, Catalina; caso reabierto en 2011; Robert Wagner nombrado "persona de interés" en 2018. | Water, Wagner & Walken: The Night Natalie Wood Didn't Come Back |
-| 29 | **Judy Garland** | Pastillas desde MGM; demanda contra Begelman y Fields por el dinero desaparecido; murió en Londres en 1969 a los 47 con deudas. | The Men Who ROBBED Judy Garland While She Was Dying |
-| 30 | **Farrah Fawcett** | Murió el 25 de junio de 2009, el mismo día que Michael Jackson; Ryan O'Neal y el juicio por el retrato de Warhol (2013). | She Died The Same Day As Michael Jackson. Nobody Noticed: Farrah Fawcett |
-| 31 | **Diane Keaton** | Murió el 11 de octubre de 2025 a los 79 (neumonía, según la familia). Nunca se casó; Woody Allen, Al Pacino, Warren Beatty; adoptó a Dexter y Duke pasados los 50. | Three Famous Men Who Never Married Her. Two Children She Chose Alone: Diane Keaton |
-
-## Bloque E. La serie "The Man Who ROBBED…" con nombres enormes
-
-| # | Personaje | Ángulo documentado | Título |
-|---|---|---|---|
-| 32 | **Cher y Sonny Bono** | Cher Enterprises era 95 % de Sonny y 5 % del abogado; Cher cobraba un sueldo. Divorcio en 1975. Sonny murió esquiando el 5 de enero de 1998; Cher dio el elogio. En 2021 demandó a la viuda de Sonny por las regalías. | The Man Who ROBBED Cher: Sonny Bono |
-| 33 | **Elton John** | Demandó en 1998 a su exmánager John Reid (acuerdo de 3,4 millones de libras) y a PwC; perdió en 2001 y pagó unos 8 millones de costas. El juicio reveló 1,5 millones gastados en flores en 20 meses. | The Man Who ROBBED Elton John — And The Trial Elton Lost Anyway |
-| 34 | **Leonard Cohen** | Kelley Lynch vació su fondo de retiro (unos 5 millones); sentencia de 9 millones en 2006; ella fue condenada por acoso en 2012; él volvió a girar a los 73. | The Woman Who ROBBED Leonard Cohen |
-| 35 | **Willie Nelson** | Hacienda le embargó todo en 1990 por 16,7 millones; grabó "The IRS Tapes"; su hijo Billy murió el 25 de diciembre de 1991. | They Took Everything But His Guitar: Willie Nelson's War With The IRS |
-| 36 | **Aretha Franklin** | Murió en 2018 "sin testamento"; aparecieron dos manuscritos, uno bajo los cojines del sofá; un jurado eligió el de 2014 en julio de 2023. | The Will Under The Couch Cushions: Aretha Franklin's Children Go To War |
-| 37 | **Freddie Mercury y Mary Austin** | Anunció el sida el 23 de noviembre de 1991 y murió al día siguiente. Dejó la casa y la mitad de sus ingresos futuros a Mary Austin, su exnovia; a Jim Hutton, su pareja, 500.000 libras. (Señal: 2,57 millones en un vídeo inventado Freddie/Dolly.) | He Left Everything To The Woman He Couldn't Love: Freddie Mercury And Mary Austin |
-| 38 | **John Lennon y Julian** | Asesinado el 8 de diciembre de 1980; el testamento dejaba todo a Yoko y a un fideicomiso; Julian litigó y llegó a un acuerdo en 1996. | The Son John Lennon Left Behind: Julian |
-
-## Bloque F. Finales que todo el mundo recuerda
-
-| # | Personaje | Ángulo documentado | Título |
-|---|---|---|---|
-| 39 | **Robin Williams** | 11 de agosto de 2014. Diagnosticado de Parkinson en mayo; la autopsia halló demencia por cuerpos de Lewy difusa. Su viuda Susan Schneider lo contó en 2016; disputa por la herencia con los hijos en 2015. | They Told Him It Was Parkinson's. It Wasn't: The Last Year Of Robin Williams |
-| 40 | **Gene Hackman y Betsy Arakawa** | Betsy murió hacia el 11 de febrero de 2025 de hantavirus; Gene, con Alzheimer avanzado, siguió solo en la casa y murió hacia el 18; hallados el 26. Los vídeos inventados del "túnel" suman más de 2 millones. | He Had Alzheimer's. His Wife Died First. He Lived Alone With Her Body For A Week: Gene Hackman |
-| 41 | **Patrick Swayze** | Cáncer de páncreas diagnosticado en enero de 2008; murió el 14 de septiembre de 2009 a los 57, casado 34 años con Lisa Niemi; su hermana Vicky se suicidó en 1994. | He Was Given Weeks. He Fought 20 Months: Patrick Swayze |
-| 42 | **Frank Sinatra y Mia Farrow** | Boda en 1966 (ella 21, él 50); le mandó los papeles del divorcio al plató de "Rosemary's Baby" en 1968. Señal: 127.000 (41 min). | He Served Her Divorce Papers On Set: Frank Sinatra And Mia Farrow |
-| 43 | **Dean Martin** | Su hijo Dean Paul murió el 21 de marzo de 1987 pilotando un F-4 de la Guardia Nacional; Dean nunca se recuperó y murió el día de Navidad de 1995. | The Crash That Silenced Dean Martin |
-| 44 | **Karen Carpenter** | Murió el 4 de febrero de 1983 a los 32; su marido Tom Burris le ocultó una vasectomía; estaba tramitando el divorcio. | Pills, A Vasectomy & A Divorce She Never Finished: Karen Carpenter |
-| 45 | **Olivia Newton-John** | Su pareja Patrick McDermott desapareció de un barco de pesca en 2005; nunca apareció. Murió el 8 de agosto de 2022. | Her Boyfriend Vanished From A Fishing Boat. She Never Got An Answer: Olivia Newton-John |
-| 46 | **Val Kilmer y Cher** | Cáncer de garganta en 2015; vivió en la casa de invitados de Cher durante el tratamiento; murió el 1 de abril de 2025 de neumonía. | The Ex-Girlfriend Who Took Him In To Die: Val Kilmer And Cher |
-
-## Bloque G. Country de primera fila (tu público exacto)
-
-| # | Personaje | Ángulo documentado | Título |
-|---|---|---|---|
-| 47 | **Dolly Parton y Carl Dean** | Casados desde 1966; él casi nunca fotografiado; murió el 3 de marzo de 2025; "Jolene" nació de una cajera que coqueteaba con Carl. | The Husband Nobody Saw For 58 Years: Carl Dean And Dolly Parton |
-| 48 | **Dolly y Porter Wagoner** | Él la demandó por 3 millones en 1979; "I Will Always Love You" era su despedida. | He Made Her A Star, Then Sued Her For $3 Million |
-| 49 | **Johnny Cash y Vivian Liberto** | La primera mujer y las cuatro hijas que "Walk the Line" borró; su libro de 2007. | The Wife "Walk The Line" Erased |
-| 50 | **Loretta Lynn** | Casada a los 15 con Doolittle, infiel y alcohólico, 48 años; su hijo Jack Benny murió ahogado en 1984. Señal: 338.000. | Married At 15 To A Man Who Cheated For 48 Years. She Never Left |
-| 51 | **Reba McEntire** | 16 de marzo de 1991: su banda entera murió en un avión en San Diego; ella no iba. | Her Entire Band Died In One Night. She Was Supposed To Be On That Plane |
-| 52 | **Kenny Rogers** | Cinco matrimonios; divorcio de Marianne Gordon en 1993 por unos 60 millones; murió en 2020. | Five Wives And A $60 Million Divorce: Kenny Rogers |
-| 53 | **Glen Campbell** | Alzheimer anunciado en 2011; sus hijos mayores pelearon en 2015 por poder visitarlo; murió en 2017. | He Forgot The Words On Stage. His Children Fought Over Who Could Visit Him |
-| 54 | **Tammy Wynette** | Murió en 1998 a los 55; sus hijas exhumaron el cuerpo en 1999 y demandaron al viudo y al médico. | Her Daughters Had Her Body Exhumed To Prove What Killed Her |
+| 61 | **Johnny Carson** | Su hijo Rick murió en 1991 en un accidente de coche; cuatro matrimonios; distanciado de sus hijos. | The King Of Late Night Went Home To An Empty House: Johnny Carson |
+| 62 | **Carroll O'Connor** (Archie Bunker) | Su hijo Hugh se suicidó en 1995; persiguió al camello hasta conseguir una ley con el nombre de su hijo. | Archie Bunker's Real War: Carroll O'Connor |
+| 63 | **Peter Falk** (Columbo) | Alzheimer; su hija Catherine litigó en 2009 contra la viuda por poder visitarlo; "Peter Falk's Law" en varios estados. | Columbo Forgot He Was Columbo: Peter Falk |
+| 64 | **Mary Tyler Moore** | Su hijo Richie murió en 1980 de un disparo accidental a los 24; alcoholismo; diabetes. | The Smile That Hid Everything: Mary Tyler Moore |
+| 65 | **Andy Griffith** | Su hijo Sam murió en 1996 de alcoholismo a los 36. | Mayberry's Sheriff Buried His Only Son: Andy Griffith |
+| 66 | **Michael Landon** | Tres meses del diagnóstico a la muerte, 1 de julio de 1991; nueve hijos, tres matrimonios. | Three Months From Diagnosis To Death: Michael Landon |
+| 67 | **Carol Burnett** | Su hija Carrie murió en 2002 a los 38; la adicción de adolescente que Carol hizo pública en 1979. | She Went Public To Save Her Daughter. Twenty Years Later She Buried Her: Carol Burnett |
+| 68 | **Jerry Lewis** | Excluyó a sus seis hijos del primer matrimonio en el testamento de 2012; su hijo Joseph murió por sobredosis en 2009. | He Cut Six Sons From His Will: Jerry Lewis |
+| 69 | **Burt Reynolds** | Bancarrota en 1996; testamento de 2018 que deja fuera a Quinton. | Hollywood's Highest-Paid Star Died Broke: Burt Reynolds |
+| 70 | **Paul Newman** | Su hijo Scott murió el 20 de noviembre de 1978 por alcohol y Valium. | The Son Paul Newman Couldn't Save |
+| 71 | **Robert Redford** | Murió el 16 de septiembre de 2025; enterró a dos hijos (Scott, 1959; James, 2020). | He Buried Two Sons Before He Died: Robert Redford |
+| 72 | **Robin Williams** | Diagnóstico de Parkinson en mayo de 2014; la autopsia dijo cuerpos de Lewy. | They Told Him It Was Parkinson's. It Wasn't: Robin Williams |
+| 73 | **Patrick Swayze** | Cáncer de páncreas, 20 meses, 34 años con Lisa Niemi. | He Was Given Weeks. He Fought 20 Months: Patrick Swayze |
+| 74 | **John Travolta** | Su hijo Jett murió en Bahamas en enero de 2009 a los 16; juicio por extorsión; Kelly Preston murió en 2020. | The Son He Lost In The Bahamas: John Travolta |
+| 75 | **Olivia Newton-John** | Patrick McDermott desapareció de un barco de pesca en 2005. | Her Boyfriend Vanished From A Fishing Boat: Olivia Newton-John |
+| 76 | **Farrah Fawcett** | Murió el mismo día que Michael Jackson; el juicio del retrato de Warhol. | She Died The Same Day As Michael Jackson. Nobody Noticed |
+| 77 | **Gene Hackman** | Betsy murió primero de hantavirus; él, con Alzheimer, siguió solo una semana. | He Had Alzheimer's. His Wife Died First. He Lived Alone With Her Body For A Week |
+| 78 | **Sean Connery** | Diane Cilento contó en 2006 los malos tratos; la entrevista de Playboy de 1965. | The Wife Who Said Bond Hit Her: Sean Connery |
+| 79 | **Sylvester Stallone** | Su hijo Sage murió en 2012 a los 36; su hijo Seargeoh, autista. | The Son Rocky Couldn't Save: Sylvester Stallone |
+| 80 | **Nancy y Ronald Reagan** | Diez años de Alzheimer; Patti Davis, la hija distanciada que volvió al final. | The Long Goodbye: Nancy Reagan's Ten Years |
 
 ---
 
 ## Los 12 primeros, en orden
 
-1. **Clint Eastwood**: retitula el que ya tienes con el título del #1. Es el personaje con más tirón de todo lo medido.
-2. **Princess Diana**, las últimas cuatro horas según el registro oficial.
-3. **Jackie Kennedy y Onassis**.
-4. **Michael Jackson y Joe Jackson**.
-5. **John Wayne** y la película que mató a 46 personas.
-6. **Elizabeth Taylor y Mike Todd**.
-7. **Debbie Reynolds** (encadena con el anterior: el mismo Eddie Fisher).
-8. **Robin Williams**.
-9. **Cher y Sonny**, primer "ROBBED" de la serie.
-10. **Doris Day** (y encadena con Rock Hudson).
-11. **Ethel Kennedy**.
-12. **Marilyn Monroe**, la herencia que fue a una desconocida.
+1. Clint Eastwood (retitula el que tienes)
+2. Marilyn Monroe, la última noche
+3. Princess Diana, las últimas cuatro horas
+4. Frank Sinatra, el secuestro de su hijo
+5. John Wayne, la película que lo mató
+6. Elizabeth Taylor y Mike Todd
+7. Michael Jackson y Joe Jackson
+8. Jackie Kennedy y Onassis
+9. Lucille Ball y Desi
+10. Elvis, la autopsia y el Dr. Nick (encadena con tu Coronel)
+11. Clark Gable y la hija secreta (encadena con Loretta Young)
+12. Cher y Sonny
 
-Son dos de Clint/vaqueros, tres Kennedy/realeza, uno MJ, cuatro reinas de Hollywood, un ROBBED y Robin Williams. Cada uno abre la puerta al siguiente del mismo bloque (Liz → Debbie → Carrie; Doris → Rock; Jackie → Ethel → Joan; Clint → John Wayne → McQueen).
+## Reglas
 
-## Reglas para que un nombre enorme funcione en un canal pequeño
-
-- **Nunca la biografía.** Los canales pequeños que hacen "la vida de Marilyn" sacan 300-900 vistas. Los que hacen "el matrimonio de Jackie" sacan 395.000. Un hecho, un villano, una fecha.
-- **El villano en el título** (Onassis, Joe Jackson, Sonny Bono, Mike Todd, Eddie Fisher).
-- **Fechas y cifras exactas en la miniatura**: "91 cancers", "$26 million", "48 years".
-- **Nada inventado.** Los vídeos de "breaks silence" de Paul Newman o Clint sacan vistas pero mueren con el canal (Final Curtain, Hollywood Veil). Los de hechos reales tienen RPM de 10-13 dólares y viven años.
-- **Vivos sin noticia real**: no. Clint y Dolly sí, porque el ángulo es histórico, no "su despedida".
-
-## Segunda fila (la lista de esta mañana, para cuando el canal tenga 5.000 suscriptores)
-
-Dan Blocker, Michael Landon, Amanda Blake, James Arness, Barbara Mandrell, Patsy Cline, Conway Twitty, George Strait, Jayne Mansfield, Gene Tierney, Bob Crane, Tom Petty, John Denver, Marvin Gaye, Sam Cooke, Eric Burdon, Billy Joel, Sting. Tienen señales fuertes (Dan Blocker 768.000) pero el reconocimiento de nombre es menor; funcionan como sugeridos de los grandes, no como puerta de entrada.
+- **Nunca la biografía.** "La vida de Marilyn" en un canal pequeño: 300-900 vistas. "La última noche de Marilyn": otra cosa. Un hecho, una fecha, un villano.
+- **El villano o la víctima en el título**, siempre junto al nombre del icono: Onassis, Joe Jackson, Sonny Bono, Mike Todd, Dr. Nick.
+- **Cifra exacta en la miniatura**: "10,000 pills", "91 cancers", "$26 million", "80 pounds".
+- **Nada inventado.** Los "breaks silence" tiran pero matan el canal. Lo documentado paga 10-13 dólares de RPM y dura años.
+- **Vivos**: solo con ángulo histórico (Clint, Dolly, Cher, Jane Fonda). Nunca "su despedida".
