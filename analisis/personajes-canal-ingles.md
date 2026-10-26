@@ -227,3 +227,44 @@ Gancho de 60 segundos: la lápida sin nombre en el cementerio de Pacific View, 1
 Duración: 40-45 minutos, 7.000 palabras a 160 palabras por minuto.
 
 Segunda opción: **Bing Crosby**, para publicar la primera semana de diciembre, cuando suena "White Christmas". El secreto es sobre él (el cinturón, la báscula, los detectives que puso a sus hijos, el libro de Gary de 1983, los suicidios de Lindsay y Dennis). Hollywood Mysteries ya lo hizo hace diez meses con 11.600 vistas, así que el hueco es menor, pero la fecha lo compensa.
+
+---
+
+## Estilo "lo abrieron después de 48 años" (26 de octubre)
+
+Referencia del usuario: "Elvis Presley's Attic Was Opened After 48 Years - And Who's Inside Is Shocking" (1,3M vistas, 31 min), miniatura de Priscilla mirando a un Elvis envejecido por IA, banda roja "BREAKING NEWS" y la frase "I LIED FOR 48 YEARS...". El contenido de ese vídeo es inventado. La fórmula sí es real y se puede copiar con hechos documentados:
+
+1. Algo **cerrado, sellado, perdido o escondido** durante décadas (un piso, un archivo, una cinta, una tumba, un testamento).
+2. Un **familiar vivo** en la miniatura (Priscilla, Riley, Paris Jackson, Nancy Sinatra, el príncipe Harry) mirando al icono.
+3. Una **frase entre comillas** que alguien dijo de verdad.
+4. Un número de años exacto en el título.
+
+Las doce historias reales que encajan, ordenadas por la fuerza del gancho:
+
+| # | Título | Miniatura (cara + frase) | Qué es verdad |
+|---|---|---|---|
+| 1 | **The Second Floor Of Graceland Has Been Locked Since August 16, 1977. Here's Who Has Been Up There** | Priscilla + Graceland de noche; "NO ONE GOES UPSTAIRS" | El piso de arriba de Graceland está cerrado al público desde 1982 y solo entra la familia. Priscilla, Lisa Marie, Jerry Schilling y Riley lo han descrito en entrevistas y libros: la habitación, el baño donde murió, el despacho, la ropa en los armarios. Es el "ático" real. |
+| 2 | **Lisa Marie Presley Kept Her Son's Body In Her House For Two Months. Her Daughter Finished The Book That Explains Why** | Riley Keough + Lisa Marie; "I KEPT HIM AT HOME FOR TWO MONTHS" | En sus memorias póstumas "From Here to the Great Unknown" (octubre de 2024, terminadas por Riley), Lisa Marie cuenta que mantuvo el cuerpo de Benjamin en hielo seco en su casa dos meses antes de enterrarlo en Graceland. |
+| 3 | **Elvis Presley's Autopsy Is Sealed Until 2027. His Own Doctor Already Admitted What's In It** | Priscilla + Elvis de 1977; "SEALED UNTIL 2027" | Vernon Presley pidió sellar el informe de la autopsia 50 años (hasta 2027). El Dr. Nichopoulos fue juzgado en 1981 por las recetas (10.000 pastillas en 20 meses) y contó en su libro de 2010 lo que vio. |
+| 4 | **"I Lied For 48 Years": What Priscilla Presley Finally Admitted In 2025** | Priscilla 2025 + Elvis; "I NEVER STOPPED" | Memorias "Softly, As I Leave You" (septiembre de 2025): la relación con Elvis después del divorcio hasta su muerte, lo que no contó en "Elvis and Me" en 1985, y la pelea legal por el fideicomiso de Lisa Marie. |
+| 5 | **Marilyn Monroe's Filing Cabinets Were Opened After 43 Years. What Was Inside Changed The Story Of Her Death** | Marilyn + archivador; "43 YEARS LOCKED" | Dos archivadores con sus cartas, recibos y notas, guardados desde 1962, aparecieron en 2005 y se publicaron en "MM Personal" (2011): cartas de Joe DiMaggio, Arthur Miller, facturas de sus psiquiatras, su última semana. |
+| 6 | **Princess Diana Wrote "He Is Planning An Accident In My Car". The Letter Was Read In Court 10 Years Later** | Príncipe Harry + Diana; la frase en comillas | La nota de octubre de 1995 a su abogado Lord Mishcon, entregada a la policía por Paul Burrell en 2003 y leída en la investigación de 2007-2008. Veredicto: conducción negligente de Henri Paul. |
+| 7 | **Michael Jackson's Bedroom: The Photos The Jury Saw In 2011** | Paris Jackson + puerta de Carolwood; "WHAT THE JURY SAW" | Las fotos de la habitación de Carolwood Drive (botes de propofol, notas pegadas en el espejo, el muñeco en la cama) se mostraron en el juicio de Conrad Murray en 2011 y son públicas. |
+| 8 | **Prince's Vault Was Drilled Open 5 Days After He Died. Here's What Was Inside** | Prince + puerta de la cámara; "THEY DRILLED IT OPEN" | Bremer Trust contrató a un cerrajero para abrir la cámara de Paisley Park en abril de 2016 porque solo Prince sabía la combinación: miles de grabaciones inéditas. |
+| 9 | **The JFK Files Were Opened After 62 Years. This Is What Was In Them** | Jackie + JFK; "62 YEARS SEALED" | Desclasificación de marzo de 2025 (unas 80.000 páginas) por orden del presidente. Contar lo que hay y lo que no hay. |
+| 10 | **Frank Sinatra's FBI File Was 2,403 Pages. His Daughter Read It** | Nancy Sinatra + Sinatra; "2,403 PAGES" | Expediente del FBI publicado en 1998 tras su muerte: vigilancia de 50 años, Giancana, la pérdida de la licencia del Cal Neva en 1963, el secuestro de Frank Jr. Tina Sinatra habló de ello en su libro de 2000. |
+| 11 | **Natalie Wood's Case Was Reopened After 30 Years. In 2018 Police Named Her Husband** | Natasha Gregson Wagner + Natalie; "PERSON OF INTEREST" | Caso reabierto en 2011; en 2012 el forense cambió la causa de "ahogamiento accidental" a "ahogamiento y otros factores indeterminados"; en 2018 la policía nombró a Robert Wagner persona de interés. |
+| 12 | **Elvis Had A Twin. His Grave Had No Name For Decades** | Elvis niño con Gladys; "JESSE GARON" | Jesse Garon Presley murió al nacer el 8 de enero de 1935 y fue enterrado en una tumba sin marcar en el cementerio Priceville de Tupelo; Elvis hablaba con él. Hay una placa conmemorativa en Graceland desde 1977. |
+
+### Por qué este estilo funciona y dónde está el límite
+
+- Lo que vende la miniatura del ejemplo no es Elvis envejecido: es la cara de Priscilla "a punto de confesar" más una frase entre comillas. Eso se puede hacer con una frase real (las de la tabla son todas reales).
+- La banda roja "BREAKING NEWS" la usan los canales de 2026 que medimos (Vintage Expeditions, 222K con el Papa). Úsala solo cuando haya noticia real de la semana (una desclasificación, un juicio, un libro que acaba de salir).
+- Lo inventado ("quién está dentro del ático", "Elvis sigue vivo") da vistas una vez y mata el canal: YouTube lo clasifica como metadatos engañosos y los canales que medimos con esa fórmula (Final Curtain, Hollywood Veil) están muertos. Los que usan la fórmula con hechos reales (Hollywood Mysteries, Disposable Glamour) cobran RPM de 10 a 13 dólares y siguen creciendo.
+- Si quieres el tirón de "Elvis sigue vivo", hazlo como tema, no como afirmación: "Why One In Four Americans Believed Elvis Was Alive: The Sightings, The Jesse Garon Theory And What The Records Say". Es el mismo clic con la verdad dentro.
+
+### Los tres que haría primero en este estilo
+
+1. El segundo piso de Graceland (#1): encadena con tu vídeo del Coronel y con la pelea por Graceland.
+2. Lisa Marie y el cuerpo de Benjamin (#2): es el dato más impactante y documentado de todo el mundo Elvis, y nadie lo ha hecho en 40 minutos.
+3. La carta de Diana (#6): la frase entre comillas más fuerte posible, y es textual.
