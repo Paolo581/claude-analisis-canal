@@ -8,7 +8,7 @@ title=t.splitlines()[0].lstrip('# ').strip()
 head,body=t.split('## INTRO',1); body=('## INTRO'+body).split('\n---\n')[0]
 en=bool(re.search(r'^## PART \d',body,re.M)); lang='en' if en else 'pt-BR'
 meta=[l.strip() for l in head.splitlines()[1:] if l.strip() and l.strip()!='---' and not l.startswith(('VERMELHO','RED'))]
-sections=re.findall(r'## (INTRO|PARTE? \d)\n(.*?)(?=\n## |\Z)',body,re.S)
+sections=re.findall(r'## (INTRO|PARTE? \d+)\n(.*?)(?=\n## |\Z)',body,re.S)
 parts=[];total=0
 for name,txt in sections:
     paras=[p.strip() for p in txt.split('\n\n') if p.strip()]

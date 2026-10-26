@@ -30,13 +30,13 @@ Her father, John Spencer, and her mother, Frances, had badly wanted a boy. A yea
 
 She grew up feeling like she'd arrived in somebody else's place. And that feeling, of being one step outside of everything, would be the exact door the most dangerous man in her life would walk through.
 
+Quick word before we go further. Most women over 65 were never told how the stars they grew up with stayed strong, slim and loved for the rest of their lives. That's why I created The Hollywood Secret to Aging Beautifully, a practical guide to the daily habits of 15 Hollywood legends who lived well into their 90s, and some past 100. Get your copy now. The link is in the description. Back to our story.
+
 In nineteen sixty-seven, when Diana was six, her mother left Park House. Diana said later that she sat on the bottom step of the staircase, listening to the tires on the gravel driveway getting farther and farther away. She waited on that step all afternoon.
 
 That night, her little brother Charles, who was three, cried in the next room, calling for his mother. Diana heard all of it, lying in the dark, too scared to get up and cross the hallway. She carried the guilt of those nights for years.
 
 In nineteen sixty-nine, her father won custody in court. Her mother could only see the children on certain weekends. The girl learned to listen at doors, to read the faces of adults, and to be wary of anyone who smiled too much.
-
-Quick word before we go further. Most women over 65 were never told how the stars they grew up with stayed strong, slim and loved for the rest of their lives. That's why I created The Hollywood Secret to Aging Beautifully, a practical guide to the daily habits of 15 Hollywood legends who lived well into their 90s, and some past 100. Get your copy now. The link is in the description. Back to our story.
 
 That little boy crying for his mother in the next room, Charles Spencer, would grow up, inherit his father's title, and twenty-eight years later open the door of his own house to the man who would wreck his sister's peace.
 
@@ -433,7 +433,7 @@ And if this story got to you, subscribe to the channel. Next week, there's anoth
 - Everything in this script is on the public record: the Dyson Report (May 2021), Operation Paget (2006), the 2007–2008 inquest transcripts, Lord Mishcon's note (dated 30 Oct 1995, handed to Sir Paul Condon 18 Sep 1997, disclosed 2003), Prince William's statement (20 May 2021), Prince Harry's memoir, and the testimony of the Paris medical team and of Dr. Robert Chapman.
 - Deliberately NOT in this script: any "leaked autopsy", redacted page, reopened investigation or new finding. None of that exists, and claiming it would expose the channel to a strike and to a claim from living people. The real documents are stronger than an invented one.
 - Simone Simmons's account of Diana having her brakes checked is her account; the script attributes it to her.
-- Sponsor CTA in PART 1, after "anyone who smiled too much" (≈ minute 3). Like/subscribe CTA after the "not pregnant" reveal in PART 4.
+- Sponsor CTA in PART 1, after "most dangerous man in her life would walk through." (≈ minute 3). Like/subscribe CTA after the "not pregnant" reveal in PART 4.
 
 ## YOUTUBE DESCRIPTION
 
