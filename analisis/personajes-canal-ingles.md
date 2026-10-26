@@ -184,3 +184,46 @@ Miniatura: foto de archivo de Frank Jr. a los 19 (blanco y negro) junto a Sinatr
 Gancho de los primeros 60 segundos: la escena del maletero del coche entrando en la casa de Nancy, no la fecha. Después, retroceder a la habitación del Harrah's.
 
 Segunda opción si prefieres una muerte: **John Wayne y "The Conqueror"**. Único vídeo grande es de un canal de ciencia de hace tres años; nadie lo ha contado como documental de famosos con los 91 enfermos nombre por nombre (Susan Hayward, Agnes Moorehead, Dick Powell, Pedro Armendáriz, que se disparó al saber su diagnóstico).
+
+---
+
+## Secreto oscuro sobre el propio icono: medición del 26 de octubre (segunda ronda)
+
+Criterio nuevo del usuario: el secreto tiene que ser sobre la persona famosa, no sobre su hijo o su mujer. Se midieron 24 ángulos más en YouTube (vídeos de más de 20 minutos, primera página).
+
+| Icono y secreto | Competencia real sobre ese secreto | Demanda del nombre en formato largo | Veredicto |
+|---|---|---|---|
+| **John Wayne: no fue a la guerra, su mujer lo acusó en un juicio, la entrevista de 1971** | Ninguna. Lo más cercano: "3 wives" 44K (3 meses), divorcio de Chata 1.500 y 729 vistas, entrevista de Playboy solo en recopilaciones de "actores racistas" (405K) | 2,48M y 1,09M (biografías), 808K y 473K (canales pequeños, 2026), 162K y 121K (vídeos inventados "Dean Martin exposes John Wayne") | **Elegido** |
+| Bing Crosby: pegaba a sus hijos | 581K (título inventado, hace 1 año), Hollywood Mysteries 11.6K (10 meses), 87K, 46K | Alta | Segunda opción; publicar en diciembre |
+| Doris Day: su primer marido la golpeaba embarazada | Ninguna dedicada | 431K (hace 6 años), 83K, 43K | Tercera opción; demanda media |
+| Shirley Temple: el productor que se desnudó ante ella a los 12; su padre gastó su fortuna | 1,9M, 873K, 618K, 123K ya lo cuentan | Alta | Cubierto |
+| Charlie Chaplin: esposas adolescentes, juicio de paternidad | 172K (1 mes), 113K (12 días), 42K | Alta | Saturándose ahora |
+| Lucille Ball: registrada como comunista (1953) | 99K (3 años), TCM 27K | Altísima para el nombre | Posible; ángulo distinto al de Desi |
+| Sammy Davis Jr.: la Iglesia de Satán | 240K hace 3 meses | Media | Cubierto |
+| Jerry Lewis: el padre cruel | 117K (1 mes), 116K, 77K | Media | Cubierto |
+| Hitchcock y Tippi Hedren | 20K, 9K | Media | Hueco con demanda modesta |
+| Cary Grant: LSD y la hija | 85K | Media-baja | Hueco con demanda modesta |
+| Clark Gable: negó a su hija; Loretta Young habló de abuso | 61K (8 meses), 17K | Media | Medio hueco |
+| Elvis y Priscilla a los 14 | 665K, 260K, 202K y dos películas | Altísima | Saturado |
+
+### Recomendación: John Wayne, el patriota que nunca fue a la guerra
+
+Es el nombre con más demanda de toda la medición después de Elvis, y el único de los grandes cuyos secretos reales no tienen ni un documental dedicado. Los canales pequeños sacan 100.000 a 160.000 vistas con vídeos inventados sobre él ("Dean Martin exposes John Wayne"); la versión documentada no existe.
+
+Tres secretos documentados, en orden de impacto para mujeres de 65+:
+
+1. **No fue a la guerra.** Tenía 34 años en 1941. Pidió y obtuvo aplazamientos (3-A por familia, después 2-A por "interés nacional" a petición de Republic Pictures) mientras James Stewart, Clark Gable, Henry Fonda y Tyrone Power se alistaban. Nunca se presentó. En la gira de la USO de 1943-44 por el Pacífico, el historiador William Manchester cuenta en "Goodbye, Darkness" que los heridos de un hospital de Hawái lo abuchearon. Su tercera mujer, Pilar, escribió que su hiperpatriotismo posterior fue una forma de expiar esa culpa. (Biografías de Scott Eyman y Garry Wills.)
+2. **El juicio de divorcio de 1953.** Su segunda mujer, Esperanza "Chata" Baur, declaró ante el tribunal que llegaba borracho, que la había golpeado y que tenía una aventura con la actriz Gail Russell. Wayne declaró que Chata y su madre lo esperaron con una pistola la noche que volvió tarde de la fiesta de fin de rodaje de "Angel and the Badman". El juez concedió el divorcio a ambos por crueldad mental. La acusación hundió a Gail Russell, que murió alcohólica a los 36 en 1961; Chata murió ese mismo año en México, también alcohólica, a los 37. Mientras estuvo casado con su primera mujer, Josephine, mantuvo una relación de tres años con Marlene Dietrich.
+3. **La entrevista de Playboy de mayo de 1971.** "Creo en la supremacía blanca hasta que los negros sean educados hasta un punto de responsabilidad" y sus frases sobre los indios americanos. Documentado palabra por palabra; resurgió en 2019 y provocó el debate sobre el aeropuerto John Wayne del condado de Orange.
+
+Cierre: murió el 11 de junio de 1979 de cáncer de estómago, convertido al catolicismo dos días antes; su lápida estuvo sin nombre 20 años por miedo a vandalismo (documentado). La frase que pidió para su epitafio: "Feo, fuerte y con dignidad".
+
+Lo que NO incluir: la anécdota de que seis guardias tuvieron que sujetarlo en los Oscar de 1973 por Sacheen Littlefeather. La Academia investigó en 2022 y no encontró pruebas; se puede mencionar como leyenda desmentida, no como hecho.
+
+Título: **America's War Hero Never Went To War. His Wife Told A Court He Beat Her. Then Came The Interview: John Wayne**
+Alternativa: **Three Secrets John Wayne Took To An Unmarked Grave**
+Miniatura: Wayne de uniforme en una película (blanco y negro) con texto amarillo "NEVER SERVED" y, debajo, "1941-1945". Una sola cara, tres frases cortas en cursiva (plantilla A).
+Gancho de 60 segundos: la lápida sin nombre en el cementerio de Pacific View, 1979-1999. Por qué el hombre más famoso de América fue enterrado sin su nombre. Después, retroceder a 1941.
+Duración: 40-45 minutos, 7.000 palabras a 160 palabras por minuto.
+
+Segunda opción: **Bing Crosby**, para publicar la primera semana de diciembre, cuando suena "White Christmas". El secreto es sobre él (el cinturón, la báscula, los detectives que puso a sus hijos, el libro de Gary de 1983, los suicidios de Lindsay y Dennis). Hollywood Mysteries ya lo hizo hace diez meses con 11.600 vistas, así que el hueco es menor, pero la fecha lo compensa.
