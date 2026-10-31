@@ -6,13 +6,13 @@ American-English narration script. Same story, structure and hooks as the Portug
 
 ## INTRO
 
-For decades, Elizabeth Taylor was called the most beautiful woman in the world. The violet eyes and the enormous diamonds became legend. She was the first actress in Hollywood history to get paid a million dollars for a single movie, and the whole planet stopped to watch every move she made.
+For decades, Elizabeth Taylor was called the most beautiful woman in the world. The violet eyes and the enormous diamonds became legend. She was the first actress in Hollywood history to get paid a million dollars for a single movie, and the planet stopped to watch every move she made.
 
 But when the cameras went dark, the most beautiful woman in the world was living a second life. A life chained to pills and alcohol. An addiction so deep that one day she had to do something no Hollywood star had ever had the nerve to do in front of the public.
 
-Stay with me until the end, because there was a day when the entire world was told that Elizabeth Taylor was dead. She wasn't. And what happened to her in the weeks that followed became one of the strangest episodes in the history of Hollywood.
+Stay with me until the end, because there was a day when the world was told that Elizabeth Taylor was dead. She wasn't. And what happened to her in the weeks that followed became one of the strangest episodes in the history of Hollywood.
 
-That dark side started long before the fame. In an elegant house in London, where a mother decided her daughter was going to be a star. And where a pain that would never go away was about to begin.
+That dark side started long before the fame. In a fine house in London, where a mother decided her daughter was going to be a star. And where a pain that would never go away was about to begin.
 
 February twenty-seventh, nineteen thirty-two. In a leafy neighborhood in North London, Elizabeth Rosemond Taylor was born.
 
@@ -34,21 +34,21 @@ April, nineteen thirty-nine. Afraid of the war that was coming, Sara took the ch
 
 The family ended up settling in Beverly Hills. A few minutes from the big Hollywood studios.
 
+Quick word before we go further. Most women over 65 were never told how the stars they grew up with stayed strong, slim and loved for the rest of their lives. That's why I created The Hollywood Secret to Aging Beautifully, a practical guide to the daily habits of 15 Hollywood legends who lived well into their 90s, and some past 100. Get your copy now. The link is in the description. Back to our story.
+
 Elizabeth was seven. And it didn't take long for her mother to start bringing her around to the movie studios. Sara's dream was within reach.
 
 In nineteen forty-one, at nine years old, Elizabeth signed her first contract. It was with a major Hollywood studio, Universal.
 
-She made one movie. And a year later, the studio dropped her.
+She made one movie, and a year later the studio dropped her.
 
 According to accounts from the time, a Universal executive said the girl had nothing special about her. That she had the eyes of an adult, not the face of a child.
 
 It was the first rejection of her life. And that sentence, said about a ten-year-old, would turn into one of the great ironies in the history of film. Because those adult eyes were going to be worth millions.
 
-Sara didn't give up. And before long, a new chance came along. At an even bigger studio.
+Sara didn't give up, and before long a new chance came along, at an even bigger studio.
 
 The most powerful studio in Hollywood. MGM. The star factory that controlled its actors' lives from the moment they woke up to the moment they went to sleep. And it was inside that place that Elizabeth Taylor would learn the price of being famous before she was even a teenager.
-
-Quick word before we go further. Most women over 65 were never told how the stars they grew up with stayed strong, slim and loved for the rest of their lives. That's why I created The Hollywood Secret to Aging Beautifully, a practical guide to the daily habits of 15 Hollywood legends who lived well into their 90s, and some past 100. Get your copy now. The link is in the description. Back to our story.
 
 That little girl didn't know it yet, but her life was going to be marked by details that seemed to mean nothing at all.
 
@@ -70,13 +70,13 @@ Years later, she said she had forgiven her father. And that the two of them made
 
 January, nineteen forty-three. After three months of testing, Elizabeth signed a seven-year contract with MGM.
 
-Her first part was small. In a movie about a dog who would become one of the most famous characters in film history. Lassie.
+Her first part was small, in a movie about a dog who would become one of the most famous characters in film history. Lassie.
 
 But the role that turned that girl into a star came right after. And it came along with the accident that would follow Elizabeth Taylor for the rest of her life. Back at the start of this video, I set aside a horse.
 
 The movie was National Velvet. It was the story of a girl crazy about horses, who dreamed of winning the toughest race in England.
 
-Elizabeth was twelve. And during the shoot, she fell off the horse.
+Elizabeth was twelve, and during the shoot she fell off the horse.
 
 The fall fractured her spine.
 
@@ -88,7 +88,7 @@ The pain that started on a movie set at twelve would lead Elizabeth, decades lat
 
 But for the public, none of that existed. When National Velvet opened, in nineteen forty-four, the world saw one thing only. A girl with violet eyes who had been born for the screen.
 
-The movie was a huge hit. And MGM did what it did with every star that made money. It locked Elizabeth into a new seven-year contract.
+The movie was a huge hit, and MGM did what it did with every star that made money. It locked Elizabeth into a new seven-year contract.
 
 She'd be making seven hundred fifty dollars a week.
 
@@ -104,7 +104,7 @@ Elizabeth looked the most powerful man in the studio in the eye.
 
 And she told him that he and his studio could go to hell.
 
-Then she walked out of the room. According to the accounts, she never set foot in Mayer's office again.
+Then she walked out of the room, and according to the accounts, she never set foot in Mayer's office again.
 
 The blunt little girl who used to scare the grown-ups had grown up.
 
@@ -152,7 +152,7 @@ Giant. An epic set in Texas, alongside two men who would mark her life forever. 
 
 The first was James Dean. He died in a car crash in nineteen fifty-five, at twenty-four.
 
-The second was Rock Hudson. Remember that name. He's coming back into this story.
+The second was Rock Hudson. Remember that name.
 
 May twelfth, nineteen fifty-six. Elizabeth was shooting another picture, Raintree County. And that night, she hosted a dinner at her house for friends from the cast.
 
@@ -162,7 +162,7 @@ When the night was over, Clift got into his car to drive home. A little later, o
 
 Elizabeth ran to the scene.
 
-She found Montgomery Clift inside the car, his face destroyed. He was choking. His broken teeth had gone down his throat.
+She found Montgomery Clift inside the car, his face destroyed. He was choking, because his broken teeth had gone down his throat.
 
 And Elizabeth Taylor, the most beautiful star in Hollywood, reached into her friend's mouth and pulled the teeth out.
 
@@ -170,13 +170,13 @@ She saved his life. And that night showed a side of Elizabeth the public didn't 
 
 Not long after, the marriage to Michael Wilding was over.
 
-And Elizabeth met a man she would fall for completely. A flamboyant movie producer who showered her with gifts and seemed capable of anything for her. He would give Elizabeth a daughter. And a plane named after her nickname.
+And Elizabeth met a man she would fall for, hard. A flamboyant movie producer who showered her with gifts and seemed capable of anything for her. He would give Elizabeth a daughter. And a plane named after her nickname.
 
 ## PART 4
 
 His name was Mike Todd. He was a movie producer famous for doing everything bigger than life. He had just produced Around the World in Eighty Days, which won the Oscar for Best Picture.
 
-Todd was over the top. And he was head over heels for Elizabeth. She was in love with him too.
+Todd was larger than life. And he was head over heels for Elizabeth. She was in love with him too.
 
 In February of nineteen fifty-seven, the two of them got married in Mexico.
 
@@ -214,9 +214,9 @@ Back at the start of this video, I set aside a plane Elizabeth was supposed to b
 
 If this story is getting to you, hit the like button and subscribe. Because what happened to Elizabeth after that crash turned her from America's sweetheart into its villain.
 
-Elizabeth was a widow at twenty-six. With three small children, and the husband she had loved most up to then dead in a crash.
+Elizabeth was a widow at twenty-six, with three small children, and the husband she had loved most up to then dead in a crash.
 
-The whole country followed her grief in the papers.
+The country followed her grief in the papers.
 
 And in the weeks that followed, she did what she had always done. She went back to the set.
 
@@ -234,13 +234,13 @@ Debbie and Eddie were seen as America's perfect couple. Young, with two small ch
 
 And the woman who had come between them was the widow of his best friend.
 
-The public picked a side on the spot. And it wasn't Elizabeth's. A few months after grieving her husband in front of the entire country, she was being treated as the villain of Hollywood.
+The public picked a side on the spot. And it wasn't Elizabeth's. A few months after grieving her husband in front of the country, she was being treated as the villain of Hollywood.
 
 The papers started calling her a homewrecker. Debbie Reynolds became the betrayed wife everyone wanted to protect. And Eddie Fisher paid a steep price. His television show was canceled.
 
 Even so, in nineteen fifty-nine, Elizabeth and Eddie got married.
 
-It was her fourth marriage. She was twenty-seven.
+It was her fourth marriage, and she was twenty-seven.
 
 But that marriage, which cost her reputation and broke up a family, hid a truth Elizabeth would only admit many years later. One short sentence. And a cruel one.
 
@@ -250,7 +250,7 @@ Her biographers believe Elizabeth clung to him out of grief. Because Eddie was t
 
 And decades later, Elizabeth and Debbie Reynolds made peace. The two of them even acted together in a television movie, as older women, as if the feud that stopped America had never happened.
 
-But at the end of the fifties, peace was still a long way off. And in the middle of the scandal, Elizabeth got the boldest offer a Hollywood studio had ever made to an actress. A number that left the whole industry with its mouth open.
+But at the end of the fifties, peace was still a long way off. And in the middle of the scandal, Elizabeth got the boldest offer a Hollywood studio had ever made to an actress. A number that left the industry with its mouth open.
 
 ## PART 5
 
@@ -264,11 +264,11 @@ The girl who started out making seven hundred fifty dollars a week was now worth
 
 But before she could put on the robes of the Queen of Egypt, Elizabeth had an obligation to fulfill. She still owed MGM one last movie. And it was a part she hated with everything she had.
 
-The movie was called Butterfield 8. Elizabeth played a woman of questionable reputation in New York. She made it against her will.
+The movie was called Butterfield 8. Elizabeth played a woman of questionable reputation in New York, and she made it against her will.
 
 Years later, in one of the recordings she made about her own life, she called the movie embarrassing. She said it was just awful.
 
-Remember the name of that movie. Butterfield 8. Because it's coming back into this story in the strangest way possible.
+Keep Butterfield 8 in mind.
 
 And that's exactly when Elizabeth's body started calling in the debt. In November of nineteen sixty, during the preparation for Cleopatra in England, she was hospitalized. The diagnosis scared everyone. It was meningitis.
 
@@ -288,7 +288,7 @@ And while the doctors fought to keep her alive, a piece of news raced around the
 
 Back at the start of this video, I set aside a day when the world was told Elizabeth Taylor was dead. This was it.
 
-A wire service actually announced her death. It was a mistake. Elizabeth was alive. Barely. But alive.
+A wire service actually announced her death. It was a mistake. Elizabeth was alive, barely, but alive.
 
 And she pulled through. She left the hospital still weak, with a scar at the base of her neck. And a few weeks later, she had to face a night that would turn into one of the strangest episodes in the history of Hollywood.
 
@@ -340,19 +340,19 @@ March fifteenth, nineteen sixty-four. Montreal, Canada.
 
 After leaving Eddie Fisher, Elizabeth Taylor married Richard Burton. It was her fifth marriage.
 
-And this time, the whole world seemed hypnotized by the couple.
+And this time, the world seemed hypnotized by the couple.
 
 The two of them made movies together and showed up in every magazine. Burton once joked that they moved more money than some small countries.
 
 And Burton had a very particular way of showing love. A way that left the greatest jewelers on earth speechless. And that turned Elizabeth Taylor into the owner of one of the most famous jewelry collections in history.
 
-In nineteen sixty-nine, he bought her a diamond of almost seventy carats. It cost more than a million dollars. The stone became known as the Taylor-Burton diamond.
+In nineteen sixty-nine, he bought her a diamond of almost seventy carats. It cost more than a million dollars, and the stone became known as the Taylor-Burton diamond.
 
 That same year, Burton gave her a pearl with four centuries of history, one that had belonged to kings and queens of Europe. The pearl was called La Peregrina.
 
 But behind the diamonds, their life together was a war. And there's one movie where that war showed up on screen so real that it still unsettles people who watch it today.
 
-The movie was Who's Afraid of Virginia Woolf. Elizabeth and Burton played a middle-aged couple who spend an entire night drinking and tearing each other apart with words.
+The movie was Who's Afraid of Virginia Woolf. Elizabeth and Burton played a middle-aged couple who spend a night drinking and tearing each other apart with words.
 
 A lot of people thought the two of them weren't acting.
 
@@ -374,7 +374,7 @@ But the second marriage lasted even less time. In nineteen seventy-six, they spl
 
 That same year, Elizabeth got married for the seventh time. To an American politician, John Warner, who later became a senator. She went to live in Washington, in a world of political dinners and campaigns.
 
-But away from the studios, the addiction that had been growing for years took over completely. The back pain, the one that started with the horse, had never gone away. And Elizabeth leaned harder and harder on painkillers. And on drinking.
+But away from the studios, the addiction that had been growing for years took over for good. The back pain, the one that started with the horse, had never gone away. And Elizabeth leaned harder and harder on painkillers. And on drinking.
 
 The marriage to John Warner ended in nineteen eighty-two.
 
@@ -384,7 +384,7 @@ Back at the start of this video, I left you a promise. An addiction so deep that
 
 December, nineteen eighty-three. Elizabeth Taylor, the most beautiful woman in the world, checked into a rehab clinic for alcohol and drug dependency. And she made a point of not hiding it. She was the first major celebrity to publicly admit to that kind of treatment.
 
-The clinic was the Betty Ford Center. Elizabeth stayed seven weeks.
+The clinic was the Betty Ford Center, and Elizabeth stayed seven weeks.
 
 In an era when stars hid their addictions at any cost, she showed her face. And she opened the door for other famous people to do the same.
 
@@ -412,7 +412,7 @@ And she described what she saw in that hospital bed. She said what was lying the
 
 Rock Hudson died in October of nineteen eighty-five. And her friend's death woke something up in Elizabeth that no movie role ever had. A rage. And a mission.
 
-That same year, Elizabeth helped found an organization to fund AIDS research. It was called amfAR. One of its first donors was Rock Hudson himself.
+That same year, Elizabeth helped found an organization to fund AIDS research. It was called amfAR, and one of its first donors was Rock Hudson himself.
 
 Elizabeth started using her own fame as a weapon. She put together dinners and campaigns to raise money. At a time when almost no star wanted their name anywhere near that disease.
 
@@ -448,7 +448,7 @@ And that same year, she created her own foundation to fight the disease, the Eli
 
 But her body kept collecting on a lifetime of pain. She went through hip surgeries. And in nineteen ninety-seven, the doctors found something in her brain.
 
-It was a tumor. Benign, but dangerous.
+It was a tumor, benign but dangerous.
 
 In February of that year, Elizabeth went through a surgery of about four hours to remove it. And she survived. One more time.
 
@@ -476,13 +476,13 @@ March twenty-third, two thousand eleven. The woman who had survived almost every
 
 The family announced that she left behind four children, ten grandchildren and four great-grandchildren.
 
-The whole world stopped to say goodbye.
+The world stopped to say goodbye.
 
 And the next day came the burial. A small ceremony, for about forty family members and friends, at a cemetery near Los Angeles.
 
 But even at her own funeral, Elizabeth Taylor made sure to leave one last mark. A request she had left in advance. And it shows who she was, right to the end.
 
-The funeral started fifteen minutes late. At her request.
+The funeral started fifteen minutes late, at her request.
 
 Elizabeth's publicist explained it to the reporters. She said Elizabeth wanted to be late even to her own funeral.
 
@@ -512,7 +512,7 @@ The little girl who learned to smile for the cameras the morning after a beating
 
 Behind the most beautiful face in the world, there was a survivor.
 
-And even after her death, she keeps inspiring new generations. In two thousand twenty-five, the singer Taylor Swift released a song that carries her name. The video, from two thousand twenty-six, was cut together entirely from scenes of Elizabeth's movies.
+And even after her death, she keeps inspiring new generations. In two thousand twenty-five, the singer Taylor Swift released a song that carries her name. The video, from two thousand twenty-six, was cut together from scenes of Elizabeth's movies.
 
 The girl a studio dropped because she had the eyes of an adult became the most famous face in the history of film.
 
@@ -526,26 +526,26 @@ And if this story got to you, subscribe to the channel. Next week, there's anoth
 
 ## NOTES FOR THE EDIT
 
-- Sponsor CTA sits in PART 1, right after the MGM "star factory" paragraph (about minute 3). Like/subscribe CTA sits in PART 4, right after the plane crash reveal.
+- Sponsor CTA sits in PART 1, right after "A few minutes from the big Hollywood studios." (about minute 3). Like/subscribe CTA sits in PART 4, right after the plane crash reveal.
 - The Nicky Hilton miscarriage account is Elizabeth's own, as she wrote it; Joan Collins's corroboration is on record; Hilton never responded. The "won the Oscar for the tracheotomy" and "Butterfield 8 was awful" lines come from the 1964 tapes released in the 2024 documentary. The Rock Hudson hospital visit comes from his physician's account. The "never loved Eddie Fisher" line is from People magazine. Keep all of these attributed as written.
 - The jewelry auction figure (over 137 million dollars) is the combined jewelry sessions at Christie's, December 2011.
 
 ## YOUTUBE DESCRIPTION
 
-She was called the most beautiful woman in the world. Violet eyes, a double row of lashes, diamonds the size of ice cubes, and the first million-dollar paycheck in Hollywood history. But behind the face, Elizabeth Taylor was living a second life: a spine broken at twelve on the set of National Velvet, a father who hit her, a first husband who kicked her while she was pregnant, a plane named after her that crashed without her, a wire-service report that announced her death while she lay with a tube in her throat, and an addiction to pills and alcohol so deep that she became the first major star to walk into rehab in front of the whole world.
+She was called the most beautiful woman in the world. Violet eyes, a double row of lashes, diamonds the size of ice cubes, and the first million-dollar paycheck in Hollywood history. But behind the face, Elizabeth Taylor was living a second life: a spine broken at twelve on the set of National Velvet, a father who hit her, a first husband who kicked her while she was pregnant, a plane named after her that crashed without her, a wire-service report that announced her death while she lay with a tube in her throat, and an addiction to pills and alcohol so deep that she became the first major star to walk into rehab in front of the world.
 
 This video tells the full story: the London childhood and the mother who decided she'd be a star; the studio that dropped her for having "the eyes of an adult"; MGM, Lassie, National Velvet and the fall that never healed; the day she told Louis B. Mayer to go to hell; Nicky Hilton; Montgomery Clift's crash and the night she pulled his teeth out of his throat; Mike Todd and The Liz; the Eddie Fisher scandal; Cleopatra and the million dollars; the tracheotomy, the false death report and the Oscar she said she won out of pity; Richard Burton, the diamond and the pearl; two weddings and two divorces; the Betty Ford Center; Rock Hudson, amfAR and the letter that got Ronald Reagan to talk about AIDS; Michael Jackson's ranch; White Diamonds; the brain tumor; the heart that finally gave out; the funeral that started fifteen minutes late; the record-breaking auction; and the tapes that, thirteen years after her death, finally let the world hear her own voice.
 
 ⏱️ CHAPTERS
 00:00 The most beautiful woman in the world, and the day she was declared dead
-02:43 Beverly Hills, Universal, MGM, and the father who hit her
+02:42 Beverly Hills, Universal, MGM, and the father who hit her
 06:10 Lassie, National Velvet, the broken spine, and Louis B. Mayer
-09:37 Nicky Hilton, Montgomery Clift, Michael Wilding and Giant
-14:00 Mike Todd, The Liz, and the Eddie Fisher scandal
-20:10 Cleopatra, Butterfield 8, the tracheotomy and the Oscar
-24:57 Richard Burton, the diamond, two weddings, and the Betty Ford Center
-30:53 Rock Hudson, amfAR, Reagan, Larry Fortensky and Michael Jackson
-35:28 The heart, the funeral, the auction, and the tapes
+09:36 Nicky Hilton, Montgomery Clift, Michael Wilding and Giant
+13:57 Mike Todd, The Liz, and the Eddie Fisher scandal
+20:06 Cleopatra, Butterfield 8, the tracheotomy and the Oscar
+24:48 Richard Burton, the diamond, two weddings, and the Betty Ford Center
+30:45 Rock Hudson, amfAR, Reagan, Larry Fortensky and Michael Jackson
+35:20 The heart, the funeral, the auction, and the tapes
 
 (Adjust timestamps to the final edit.)
 
@@ -555,7 +555,7 @@ This video tells the full story: the London childhood and the mother who decided
 
 ## TAGS
 
-elizabeth taylor, elizabeth taylor documentary, elizabeth taylor life story, elizabeth taylor richard burton, richard burton, elizabeth taylor husbands, elizabeth taylor jewelry, taylor burton diamond, la peregrina pearl, elizabeth taylor cleopatra, cleopatra 1963, elizabeth taylor oscar, butterfield 8, national velvet, mike todd plane crash, eddie fisher debbie reynolds, elizabeth taylor addiction, betty ford center, elizabeth taylor rock hudson, amfar, elizabeth taylor michael jackson, elizabeth taylor death, elizabeth taylor lost tapes, old hollywood secrets, classic hollywood stars
+elizabeth taylor, elizabeth taylor documentary, elizabeth taylor richard burton, richard burton, elizabeth taylor husbands, elizabeth taylor jewelry, taylor burton diamond, elizabeth taylor cleopatra, cleopatra 1963, elizabeth taylor oscar, butterfield 8, national velvet, mike todd plane crash, eddie fisher debbie reynolds, elizabeth taylor addiction, betty ford center, elizabeth taylor rock hudson, elizabeth taylor michael jackson, elizabeth taylor death, old hollywood secrets
 
 ## TITLE OPTIONS
 
