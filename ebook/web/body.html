@@ -1,0 +1,429 @@
+<title>The Hollywood Secret to Aging Beautifully</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500&family=Lora:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+/* Layout: dark burgundy marquee hero, then a cream page of wide single-column sections; large type for readers over 65. */
+:root{
+  --bg:#fbf7ef; --fg:#231c18; --mute:#6a5f55; --line:#e4d9c6; --panel:#f3ebdb;
+  --ink:#2a1216; --ink2:#3a1a20; --ink-fg:#f7efe3; --ink-mute:#cdb9ad;
+  --accent:#c2531f; --accent-fg:#fff8f0; --gold:#d9a441; --good:#2f6b3a;
+  --display:"Playfair Display",Georgia,"Times New Roman",serif;
+  --body:"Lora",Georgia,"Times New Roman",serif;
+  --shadow:0 18px 40px rgba(42,18,22,.18);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#1a1512; --fg:#efe6d8; --mute:#b4a697; --line:#3a3128; --panel:#241e19;
+  --ink:#1f0d10; --ink2:#2b1317; --ink-fg:#f7efe3; --ink-mute:#cdb9ad;
+  --accent:#e0703a; --accent-fg:#fff8f0; --gold:#e2b259; --good:#7cc98a;
+  --shadow:0 18px 40px rgba(0,0,0,.45); color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#1a1512; --fg:#efe6d8; --mute:#b4a697; --line:#3a3128; --panel:#241e19;
+  --ink:#1f0d10; --ink2:#2b1317; --ink-fg:#f7efe3; --ink-mute:#cdb9ad;
+  --accent:#e0703a; --accent-fg:#fff8f0; --gold:#e2b259; --good:#7cc98a;
+  --shadow:0 18px 40px rgba(0,0,0,.45); color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:20px;line-height:1.6}
+h1,h2,h3{font-family:var(--display);line-height:1.15;margin:0;text-wrap:balance}
+p{margin:0}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.eyebrow{font-family:var(--body);font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.band{padding-block:72px}
+.band h2{font-size:clamp(1.9rem,3.6vw,2.7rem);margin-top:10px}
+.lede{color:var(--mute);max-width:40rem;margin-top:14px}
+.btn{display:inline-block;background:var(--accent);color:var(--accent-fg);font-family:var(--body);font-weight:600;font-size:1.1rem;text-decoration:none;padding:16px 28px;border-radius:8px;line-height:1.2;transition:transform .15s ease,filter .15s ease}
+.btn:hover{filter:brightness(1.08);transform:translateY(-1px)}
+.btn:focus-visible,details summary:focus-visible{outline:3px solid var(--gold);outline-offset:3px}
+.btn.big{font-size:1.25rem;padding:20px 36px;width:100%;text-align:center}
+.fine{font-size:.9rem;color:var(--mute)}
+/* nav */
+.nav{background:var(--ink);color:var(--ink-fg);position:sticky;top:env(safe-area-inset-top,0px);z-index:5;border-bottom:1px solid rgba(255,255,255,.08)}
+.nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding-block:14px}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none;color:inherit;min-width:0}
+.brand .mark{width:42px;height:42px;border-radius:50%;background:radial-gradient(circle at 35% 35%,var(--gold),#8a5a12);flex:none;display:grid;place-items:center;font-family:var(--display);font-weight:900;color:var(--ink);font-size:1.3rem}
+.brand b{display:block;font-family:var(--display);font-size:1rem;letter-spacing:.04em}
+.brand small{display:block;font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-mute)}
+.nav .btn{padding:12px 20px;font-size:1rem;white-space:nowrap}
+/* hero */
+.hero{background:linear-gradient(180deg,var(--ink) 0%,var(--ink2) 100%);color:var(--ink-fg);padding-block:64px 80px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background:radial-gradient(60% 50% at 50% 0%,rgba(217,164,65,.18),transparent 70%);pointer-events:none}
+.hero .wrap{position:relative;display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}
+.hero h1{font-size:clamp(2.2rem,5vw,3.9rem);font-weight:700}
+.hero h1 em{font-style:normal;color:var(--gold)}
+.hero .lede{color:var(--ink-mute);font-size:1.15rem;max-width:36rem}
+.pricebox{margin-top:30px;display:flex;flex-wrap:wrap;align-items:center;gap:18px 28px}
+.price{font-family:var(--display);font-size:3rem;font-weight:900;line-height:1;color:var(--gold)}
+.price s{font-size:1.3rem;color:var(--ink-mute);font-weight:500;margin-left:10px;font-family:var(--body)}
+.price small{display:block;font-family:var(--body);font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute);font-weight:600;margin-top:8px}
+.trust{display:flex;flex-wrap:wrap;gap:10px 26px;margin-top:26px;font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-mute);font-weight:600}
+.trust span::before{content:"✓";color:var(--gold);margin-right:8px}
+/* book mockup */
+.book{justify-self:center;width:min(100%,340px);aspect-ratio:2/3;max-width:100%;border-radius:6px 14px 14px 6px;background:linear-gradient(135deg,#fbf3e2 0%,#efe2c6 100%);color:#2a1216;box-shadow:var(--shadow),inset 8px 0 14px -10px rgba(0,0,0,.45);padding:9% 8%;display:flex;flex-direction:column;justify-content:space-between;transform:rotate(-3deg);position:relative}
+.book::after{content:"";position:absolute;left:0;top:0;bottom:0;width:10px;background:linear-gradient(90deg,rgba(0,0,0,.25),transparent);border-radius:6px 0 0 6px}
+.book .top{font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:#8a2a2a;font-weight:600;text-align:center}
+.book h3{font-family:var(--display);font-size:clamp(1.3rem,3.2vw,1.75rem);font-weight:900;color:#8a2a2a;text-align:center;line-height:1.1}
+.book .sub{font-size:.78rem;line-height:1.35;text-align:center;color:#3f3127;margin-top:10px;font-style:italic}
+.book .stars{display:flex;justify-content:center;gap:6px;color:#c2531f;font-size:1.1rem;letter-spacing:.2em}
+.book .bottom{font-size:.6rem;letter-spacing:.16em;text-transform:uppercase;text-align:center;color:#6a5f55}
+/* cards */
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:40px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:28px 26px;min-width:0}
+.card h3{font-size:1.35rem;margin-bottom:12px}
+.card p{color:var(--mute);font-size:1rem}
+.stat-line{margin-top:40px;padding:26px 30px;border-left:5px solid var(--accent);background:var(--panel);font-size:1.15rem;max-width:52rem}
+.stat-line b{color:var(--accent)}
+/* parts */
+.parts{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:22px;margin-top:40px}
+.part{border:1px solid var(--line);border-radius:12px;padding:26px;min-width:0}
+.part .eyebrow{color:var(--mute)}
+.part h3{font-size:1.3rem;margin:6px 0 12px}
+.part ul{margin:0;padding-left:1.2em;font-size:1rem;color:var(--mute)}
+.part li{margin:.3em 0}
+.part li b{color:var(--fg);font-weight:600}
+/* offer */
+.offer-band{background:var(--panel);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.offer{max-width:720px;margin:36px auto 0;background:var(--bg);border:2px solid var(--accent);border-radius:16px;padding:40px 36px;box-shadow:var(--shadow);position:relative}
+.offer .tag{position:absolute;top:-16px;left:50%;transform:translateX(-50%);background:var(--accent);color:var(--accent-fg);font-size:.75rem;letter-spacing:.16em;text-transform:uppercase;font-weight:600;padding:7px 16px;border-radius:999px;white-space:nowrap}
+.offer h3{font-size:1.9rem;text-align:center}
+.offer .sub{text-align:center;color:var(--mute);margin-top:8px;font-style:italic}
+.offer .price{text-align:center;margin:26px 0 8px;color:var(--accent)}
+.offer .price s{color:var(--mute)}
+.offer ul{list-style:none;padding:0;margin:26px 0 30px;display:grid;gap:12px;font-size:1.05rem}
+.offer li{padding-left:34px;position:relative}
+.offer li::before{content:"✓";position:absolute;left:0;top:0;color:var(--good);font-weight:700;font-size:1.2rem}
+.offer .fine{text-align:center;margin-top:14px}
+/* author */
+.author .wrap{display:grid;grid-template-columns:1fr 1.4fr;gap:48px;align-items:start}
+.author .who{background:var(--panel);border-radius:12px;padding:30px;border:1px solid var(--line)}
+.author .who .mark{width:88px;height:88px;border-radius:50%;background:radial-gradient(circle at 35% 35%,var(--gold),#8a5a12);display:grid;place-items:center;font-family:var(--display);font-weight:900;font-size:2.4rem;color:var(--ink);margin-bottom:18px}
+.author .who b{display:block;font-family:var(--display);font-size:1.4rem}
+.author .who span{color:var(--mute);font-size:.95rem}
+.author .story p{margin-top:16px;color:var(--fg)}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:32px}
+.stats div{border-top:3px solid var(--gold);padding-top:12px}
+.stats b{display:block;font-family:var(--display);font-size:2rem;line-height:1;font-variant-numeric:tabular-nums}
+.stats span{color:var(--mute);font-size:.9rem}
+/* guarantee */
+.guarantee{background:var(--ink);color:var(--ink-fg)}
+.guarantee .wrap{max-width:760px;text-align:center}
+.guarantee .seal{width:120px;height:120px;border-radius:50%;border:3px dashed var(--gold);margin:0 auto 24px;display:grid;place-items:center;font-family:var(--display);font-weight:900;color:var(--gold);line-height:1.05;font-size:1.05rem}
+.guarantee p{color:var(--ink-mute);margin-top:18px}
+.guarantee p b{color:var(--ink-fg)}
+/* last call */
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:40px}
+.compare > div{border-radius:12px;padding:28px;min-width:0;border:1px solid var(--line)}
+.compare .with{background:var(--panel);border-color:var(--accent)}
+.compare h3{font-size:.8rem;letter-spacing:.16em;text-transform:uppercase;font-family:var(--body);font-weight:600;margin-bottom:16px;color:var(--mute)}
+.compare .with h3{color:var(--accent)}
+.compare ul{list-style:none;padding:0;margin:0;display:grid;gap:10px;font-size:1.05rem}
+.compare li::before{content:"→ ";color:var(--mute)}
+.compare .with li::before{color:var(--accent)}
+.lastcta{max-width:560px;margin:44px auto 0;text-align:center}
+.lastcta .price{color:var(--accent);margin-bottom:18px}
+/* faq */
+.faq{max-width:760px;margin:36px auto 0;display:grid;gap:12px}
+details{border:1px solid var(--line);border-radius:10px;background:var(--panel)}
+summary{cursor:pointer;padding:18px 22px;font-family:var(--display);font-size:1.15rem;font-weight:700;list-style:none;display:flex;justify-content:space-between;gap:16px}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";color:var(--accent);font-size:1.5rem;line-height:1;flex:none}
+details[open] summary::after{content:"–"}
+details p{padding:0 22px 20px;color:var(--mute);font-size:1.02rem}
+/* footer */
+footer{background:var(--ink);color:var(--ink-mute);padding-block:40px;font-size:.9rem}
+footer b{color:var(--ink-fg);font-family:var(--display);font-size:1.1rem;display:block}
+footer p{margin-top:8px}
+@media (max-width:820px){
+  .hero .wrap,.author .wrap{grid-template-columns:1fr}
+  .book{transform:none;width:min(100%,300px)}
+  .cards,.stats,.compare{grid-template-columns:1fr}
+  .band{padding-block:52px}
+  body{font-size:19px}
+  .nav .brand small{display:none}
+}
+@media (max-width:480px){.nav .btn{padding:10px 14px;font-size:.9rem}.offer{padding:32px 20px}}
+@media (prefers-reduced-motion:reduce){.btn{transition:none}}
+
+/* book stack in hero */
+.stack{justify-self:center;position:relative;width:min(100%,420px);aspect-ratio:1.15/1;max-width:100%}
+.stack .book{position:absolute;width:52%;top:6%;transform:none;padding:7% 6%;box-shadow:var(--shadow),inset 8px 0 14px -10px rgba(0,0,0,.45)}
+.stack .book h3{font-size:clamp(.95rem,2.2vw,1.2rem)}
+.stack .book .sub{font-size:.62rem;margin-top:6px}
+.stack .book .top,.stack .book .bottom{font-size:.5rem}
+.stack .b1{left:0;transform:rotate(-7deg);z-index:1}
+.stack .b2{left:24%;top:0;z-index:3;transform:rotate(0deg)}
+.stack .b3{left:48%;transform:rotate(7deg);z-index:2}
+.stack .b2{background:linear-gradient(135deg,#f6e9d2 0%,#e9d6b2 100%)}
+.stack .b3{background:linear-gradient(135deg,#fbefe8 0%,#efd8cc 100%)}
+/* offer grid */
+.bundle{max-width:860px;margin:36px auto 0}
+.tiers{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:22px}
+.tier{background:var(--bg);border:1px solid var(--line);border-radius:14px;padding:30px 26px;min-width:0;display:flex;flex-direction:column}
+.tier .eyebrow{color:var(--mute)}
+.tier h3{font-size:1.25rem;margin:6px 0 4px}
+.tier .sub{color:var(--mute);font-size:.95rem;font-style:italic;min-height:3.2em}
+.tier .price{font-size:2.2rem;margin:16px 0 6px;color:var(--accent)}
+.tier .price s{color:var(--mute);font-size:1rem}
+.tier ul{list-style:none;padding:0;margin:14px 0 22px;display:grid;gap:9px;font-size:.95rem;flex:1}
+.tier li{padding-left:26px;position:relative}
+.tier li::before{content:"✓";position:absolute;left:0;top:0;color:var(--good);font-weight:700}
+.tier .btn{width:100%;text-align:center}
+.tier .fine{text-align:center;margin-top:10px;font-size:.82rem}
+.offer .price{font-size:3.4rem}
+@media (max-width:820px){.tiers{grid-template-columns:1fr}.stack{width:min(100%,340px)}}
+</style>
+
+
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="#top">
+      <span class="mark">★</span>
+      <span><b>Behind the Fame</b><small>The Library</small></span>
+    </a>
+    <a class="btn" data-buy="bundle" href="#offer">Get the Bundle — $37</a>
+  </div>
+</header>
+
+<section class="hero" id="top">
+  <div class="wrap">
+    <div>
+      <h1>The stars who lived to 100 moved, ate and loved <em>differently.</em> Here is exactly how.</h1>
+      <p class="lede">Dick Van Dyke lifts weights at 100 and married at 86. Sophia Loren eats pasta every day. Betty White lived forty years a widow and was never alone. The three-book insider library on staying strong, slim and loved after 65, in plain English and large print.</p>
+      <div class="pricebox">
+        <div class="price">$37<s>$57 value</s><small>3-book bundle · Instant download</small></div>
+        <a class="btn big" data-buy="bundle" href="#offer" style="width:auto">Get Instant Access</a>
+      </div>
+      <div class="trust"><span>60-day guarantee</span><span>Instant PDF download</span><span>258 large-print pages</span></div>
+    </div>
+    <div class="stack" aria-label="The three books">
+      <div class="book b1"><div class="top">Book one</div><div><h3>The Hollywood Secret to Aging Beautifully</h3><p class="sub">The daily habits of the stars who stayed sharp and strong past 80, 90 and 100</p></div><div class="bottom">Body</div></div>
+      <div class="book b2"><div class="top">Book two</div><div><h3>The Hollywood Plate</h3><p class="sub">What the slim, strong stars really eat after 65, and a four-week menu</p></div><div class="bottom">Table</div></div>
+      <div class="book b3"><div class="top">Book three</div><div><h3>The Golden Years Love Story</h3><p class="sub">How the stars found love, friendship and company after 65</p></div><div class="bottom">Heart</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="eyebrow">Where the years go</div>
+    <h2>Three places women over 65 quietly lose their strength, their figure and their company</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>The sofa</h3>
+        <p>After 60, an inactive woman loses muscle every year she sits still, and by 70 a third of it can be gone. That is why a jar lid becomes impossible and a stumble becomes a fall. Dick Van Dyke, Helen Mirren and Jane Fonda show how to get it back at home, in twelve minutes, with two cans of soup.</p>
+      </div>
+      <div class="card">
+        <h3>The diet book</h3>
+        <p>Every diet you have ever done stripped muscle first and gave the fat back. Sophia Loren, Audrey Hepburn and Julia Child never dieted a day in their lives. Their plates, and a four-week menu built from them, lose the weight the gentle way and keep your strength.</p>
+      </div>
+      <div class="card">
+        <h3>The quiet house</h3>
+        <p>One in three Americans over 65 lives alone, and loneliness is now ranked with smoking as a health risk. Dick Van Dyke married at 86. Carol Burnett at 68. Betty White never remarried and was never lonely. Every one of them had a method, and it is in Book Three.</p>
+      </div>
+    </div>
+    <p class="stat-line"><b>One in four Americans over 65 falls every year, and nearly half say they are lonely.</b> Both are preventable, and neither needs a gym, a diet or a dating service. The stars in these books did it with a sturdy chair, a small plate and a weekly phone call.</p>
+  </div>
+</section>
+
+<section class="band offer-band" id="offer">
+  <div class="wrap">
+    <div class="eyebrow" style="text-align:center">Choose your library</div>
+    <h2 style="text-align:center">Start with one book, or take all three</h2>
+    <p class="lede" style="text-align:center;margin-left:auto;margin-right:auto">Every book is an instant PDF download in large, easy-to-read print. No shipping, no waiting, no subscription.</p>
+
+    <div class="offer bundle">
+      <span class="tag">Most popular · Best value</span>
+      <h3>The Complete Behind the Fame Library</h3>
+      <p class="sub">All three books: move like them, eat like them, love like them</p>
+      <div class="price">$37<s>$57</s></div>
+      <ul>
+        <li>Book 1, The Hollywood Secret to Aging Beautifully: 15 legends, 45 things to do this week, the 30-day plan</li>
+        <li>Book 2, The Hollywood Plate: 8 stars, 26 recipes, the four-week menu with shopping lists</li>
+        <li>Book 3, The Golden Years Love Story: 12 chapters, the safe-dating checklist, the 30-day connection plan</li>
+        <li>Save $20 against buying the three books separately</li>
+        <li>258 pages in large print, on any phone, tablet or computer, or printed at home</li>
+      </ul>
+      <a class="btn big" data-buy="bundle" href="#offer">Yes, send me all three books — $37</a>
+      <p class="fine">Instant PDF download · 60-day money-back guarantee · One-time payment</p>
+    </div>
+
+    <div class="tiers">
+      <div class="tier">
+        <div class="eyebrow">Body</div>
+        <h3>The Hollywood Secret to Aging Beautifully</h3>
+        <p class="sub">The daily habits of the stars who stayed sharp, strong and gorgeous past 80, 90 and 100</p>
+        <div class="price">$19<s>$29</s></div>
+        <ul>
+          <li>Dick Van Dyke, Helen Mirren, Sophia Loren, Betty White, Joan Collins, Olivia de Havilland, Dolly Parton and 8 more</li>
+          <li>The twelve-minute routine beside your bed</li>
+          <li>The one thing Joan Collins refused to do for 70 years</li>
+          <li>The Stars' Morning and the gentle 30-day plan</li>
+          <li>100 pages, large print</li>
+        </ul>
+        <a class="btn" data-buy="aging" href="#offer">Get it for $19</a>
+        <p class="fine">Instant download · 60-day guarantee</p>
+      </div>
+      <div class="tier">
+        <div class="eyebrow">Table</div>
+        <h3>The Hollywood Plate</h3>
+        <p class="sub">What the slim, strong stars really eat after 65, and a four-week menu to eat like them</p>
+        <div class="price">$19<s>$29</s></div>
+        <ul>
+          <li>Sophia Loren, Audrey Hepburn, Julia Child, Jane Fonda, Betty White, Martha Stewart, Dolly Parton, Clint Eastwood</li>
+          <li>26 recipes, most of them 20 minutes, for one or two</li>
+          <li>Losing weight after 65 without losing your strength</li>
+          <li>Four weeks of menus with a shopping list for each</li>
+          <li>82 pages, large print</li>
+        </ul>
+        <a class="btn" data-buy="plate" href="#offer">Get it for $19</a>
+        <p class="fine">Instant download · 60-day guarantee</p>
+      </div>
+      <div class="tier">
+        <div class="eyebrow">Heart</div>
+        <h3>The Golden Years Love Story</h3>
+        <p class="sub">How the stars found love, friendship and company after 65, and how you can too</p>
+        <div class="price">$19<s>$29</s></div>
+        <ul>
+          <li>Dick Van Dyke at 86, Joan Collins at 68, Carol Burnett, Jane Fonda, Dolly and Carl, Betty White, Diane Keaton</li>
+          <li>Dating after 65, honestly, with the safety rules</li>
+          <li>Surviving retirement, illness and loss together</li>
+          <li>How to make a friend at 70, and the 30-day connection plan</li>
+          <li>76 pages, large print</li>
+        </ul>
+        <a class="btn" data-buy="love" href="#offer">Get it for $19</a>
+        <p class="fine">Instant download · 60-day guarantee</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="band author">
+  <div class="wrap">
+    <div class="who">
+      <div class="mark">★</div>
+      <b>The Behind the Fame team</b>
+      <span>The channel that opens the files on the stars you grew up with</span>
+      <div class="stats">
+        <div><b>3</b><span>books, 35 legends</span></div>
+        <div><b>258</b><span>large-print pages</span></div>
+        <div><b>60</b><span>days money-back</span></div>
+      </div>
+    </div>
+    <div class="story">
+      <div class="eyebrow">Why we wrote them</div>
+      <h2>We spend our weeks on how the stars fell. These books are about how they stayed standing.</h2>
+      <p>Every week on our channel we tell the stories the magazines never printed. The secret marriages, the fortunes that vanished, the last days. But after reading thousands of your comments, we kept seeing the same questions: how did the ones who lasted actually do it? What did they eat? How did Dick Van Dyke start over at 86? How did Betty White live forty years alone and never seem lonely?</p>
+      <p>So we went back through the memoirs, cookbooks, interviews and documentaries of the stars who stayed strong, slim and loved into their 80s, 90s and 100s, and wrote down what they did every day. Not the glamour. The routine. Then we checked each habit against what doctors and researchers say today, and turned it into something a woman over 65 can do this week, in her own kitchen, with her own phone.</p>
+      <p>Three books. Body, table and heart. None of it needs a gym, a diet or a dating service.</p>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="inside">
+  <div class="wrap">
+    <div class="eyebrow">What's inside</div>
+    <h2>Three books. Thirty-five legends. Everything they never planned to tell you.</h2>
+    <div class="parts">
+      <div class="part"><div class="eyebrow">Book 1 · Body</div><h3>The Hollywood Secret to Aging Beautifully</h3><ul>
+        <li><b>Dick Van Dyke, 100.</b> Three mornings a week at the gym and a dance in the kitchen every day.</li>
+        <li><b>Helen Mirren.</b> The twelve-minute routine she has done since the 1960s.</li>
+        <li><b>Betty White.</b> Hot dogs, French fries and vodka, and the honest truth about what kept her going to 99.</li>
+        <li><b>Olivia de Havilland.</b> A crossword every morning, a lawsuit at 101, and the three L's that carried her to 104.</li>
+        <li><b>Kirk Douglas, Judi Dench, Goldie Hawn, Rita Moreno, Dolly Parton, June Squibb</b> and more.</li></ul></div>
+      <div class="part"><div class="eyebrow">Book 2 · Table</div><h3>The Hollywood Plate</h3><ul>
+        <li><b>Sophia Loren.</b> Pasta every day, and the small plate that kept her the same size for 60 years.</li>
+        <li><b>Audrey Hepburn.</b> Spaghetti al pomodoro, a vegetable garden, and one square of chocolate.</li>
+        <li><b>Julia Child.</b> Butter, small helpings, and 91 years.</li>
+        <li><b>Jane Fonda.</b> Why she eats more protein at 88 than she did at 40, and why you should too.</li>
+        <li><b>The four-week menu.</b> Every meal, every shopping list, and how to lose weight after 65 the gentle way.</li></ul></div>
+      <div class="part"><div class="eyebrow">Book 3 · Heart</div><h3>The Golden Years Love Story</h3><ul>
+        <li><b>Dick Van Dyke.</b> Married at 86 to a woman 46 years younger. What his family said, and why it worked.</li>
+        <li><b>Joan Collins.</b> "If he dies, he dies." The confidence to choose, at 68, exactly what you want.</li>
+        <li><b>Dolly and Carl.</b> Fifty-eight years, and what she does with her grief.</li>
+        <li><b>The Golden Girls.</b> They did not all like each other. How to make a friend at 70.</li>
+        <li><b>Diane Keaton.</b> Never married, never lonely. A full life on its own.</li></ul></div>
+    </div>
+  </div>
+</section>
+
+<section class="band guarantee">
+  <div class="wrap">
+    <div class="seal">60<br>DAYS</div>
+    <div class="eyebrow" style="color:var(--gold)">The guarantee</div>
+    <h2>Sixty days. Zero risk.</h2>
+    <p>Read every chapter. Try the twelve minutes. Cook one week of the menu. Make one phone call from the connection plan.</p>
+    <p><b>If you do not find at least one habit, one recipe or one phone call you are glad you made, send one email and get every dollar back.</b> No questions. No forms. You keep the books.</p>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <div class="eyebrow">Last call</div>
+    <h2>You already know how the next ten years go without them</h2>
+    <div class="compare">
+      <div>
+        <h3>Without the books</h3>
+        <ul>
+          <li>Another cream, another diet, another vitamin</li>
+          <li>A little stiffer each winter, a little heavier each spring</li>
+          <li>The doctor says "that's normal at your age"</li>
+          <li>The phone rings less. The house gets quieter.</li>
+          <li>You decide, one by one, that things are too late</li>
+        </ul>
+      </div>
+      <div class="with">
+        <h3>With the books</h3>
+        <ul>
+          <li>Spend $37 once</li>
+          <li>A weekend with thirty-five legends and their routines</li>
+          <li>Twelve minutes beside the bed, Sophia's plate at lunch, a hat by the door</li>
+          <li>One weekly thing, with the same people, until they are your people</li>
+          <li>One small change a day for thirty days</li>
+        </ul>
+      </div>
+    </div>
+    <div class="lastcta">
+      <div class="price">$37<s>$57</s><small style="display:block;font-family:var(--body);font-size:.75rem;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);margin-top:8px">One-time payment</small></div>
+      <a class="btn big" data-buy="bundle" href="#offer">Yes, give me all three books</a>
+      <p class="fine" style="margin-top:14px">Prefer a single book? Each one is $19. <a href="#offer">See all options</a>.</p>
+      <div class="trust" style="justify-content:center;color:var(--mute)"><span>3-minute delivery</span><span>60-day money back</span><span>Any device</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="band" id="faq">
+  <div class="wrap">
+    <div class="eyebrow" style="text-align:center">Questions from readers</div>
+    <h2 style="text-align:center">Honest answers</h2>
+    <div class="faq">
+      <details><summary>Which book should I start with?</summary><p>If you want to feel stronger, start with Book 1. If you want to lose weight or just eat better, start with Book 2. If the house has gone quiet, start with Book 3. Most readers take the bundle and read them in that order over a month.</p></details>
+      <details><summary>Is this medical advice?</summary><p>No. These are the true stories of how famous people lived, with what today's research says about each habit, written in plain English. Every book tells you to check with your own doctor before starting anything new, and gives you the exact questions to ask.</p></details>
+      <details><summary>Is the print large enough for me?</summary><p>Yes. All three books were designed for readers over 65. The type is the size of a large-print library book, and on a phone or tablet you can make it as big as you like. You can also print them at home.</p></details>
+      <details><summary>Do I need a gym, special food or a dating site?</summary><p>No. Every exercise is done at home with a sturdy chair and two cans of soup. Every recipe uses ordinary supermarket food, for one or two people. And Book 3 is as much about friendship, family and living well alone as it is about romance.</p></details>
+      <details><summary>How do I get the books?</summary><p>Within about three minutes of paying you receive an email with the download links. Open them on your phone, tablet or computer. If you have any trouble, reply to the email and a person will help you.</p></details>
+      <details><summary>Are they only for women?</summary><p>They are written for women over 65. But Dick Van Dyke, Kirk Douglas, Clint Eastwood and the chapter on caring for a sick husband are there for the men too, and many readers share the books with theirs.</p></details>
+      <details><summary>What if they're not for me?</summary><p>You have sixty days. Send one email and you get every dollar back. You keep the books.</p></details>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <b>Behind the Fame</b>
+    <p>Stories from the files of the stars you grew up with.</p>
+    <p>© 2026 Behind the Fame · All rights reserved. These books are for information and enjoyment and are not medical, legal or financial advice. Talk to your doctor before beginning any exercise, diet or supplement. Not affiliated with or endorsed by any of the people mentioned.</p>
+  </div>
+</footer>
+
+<script>
+  // Paste the Payhip (or Gumroad) links here. Each "buy" button uses the one for its product.
+  var BUY = {
+    bundle: "",   // The Complete Behind the Fame Library, $37
+    aging:  "",   // The Hollywood Secret to Aging Beautifully, $19
+    plate:  "",   // The Hollywood Plate, $19
+    love:   ""    // The Golden Years Love Story, $19
+  };
+  document.querySelectorAll("a[data-buy]").forEach(function (a) {
+    var url = BUY[a.getAttribute("data-buy")];
+    if (url) { a.href = url; a.target = "_blank"; a.rel = "noopener"; }
+  });
+</script>
