@@ -415,15 +415,24 @@ footer p{margin-top:8px}
 </footer>
 
 <script>
-  // Paste the Payhip (or Gumroad) links here. Each "buy" button uses the one for its product.
+  // Paste the Gumroad (or Payhip) links here. Each "buy" button uses the one for its product.
+  // Gumroad: add ?wanted=true to open the overlay straight on the payment form. See ../publicar-netlify-gumroad.md
   var BUY = {
     bundle: "",   // The Complete Behind the Fame Library, $37
     aging:  "",   // The Hollywood Secret to Aging Beautifully, $19
     plate:  "",   // The Hollywood Plate, $19
     love:   ""    // The Golden Years Love Story, $19
   };
+  var gumroad = false;
   document.querySelectorAll("a[data-buy]").forEach(function (a) {
     var url = BUY[a.getAttribute("data-buy")];
-    if (url) { a.href = url; a.target = "_blank"; a.rel = "noopener"; }
+    if (!url) return;
+    a.href = url;
+    if (/\.gumroad\.com\//.test(url)) { gumroad = true; }   // Gumroad links open in the overlay, on this page
+    else { a.target = "_blank"; a.rel = "noopener"; }       // any other store opens in a new tab
   });
+  if (gumroad) {
+    // Gumroad overlay: the checkout opens on top of this page instead of leaving it.
+    var s = document.createElement("script"); s.src = "https://gumroad.com/js/gumroad.js"; document.head.appendChild(s);
+  }
 </script>

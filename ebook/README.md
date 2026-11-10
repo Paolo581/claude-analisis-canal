@@ -16,12 +16,13 @@ Cada capítulo abre con la historia real de una estrella, en el tono de "secreto
 - `libros/<slug>/salida/` — `libro.md`, `libro.html` (letra grande, modo oscuro automático) y `libro.pdf` listos para entregar.
 - `construir.py` — regenera los tres: `python3 ebook/construir.py` (o `python3 ebook/construir.py hollywood-plate` para uno).
 - `web/index.html` — la página de ventas completa, un solo archivo, lista para subir a cualquier hosting. `web/body.html` es la misma sin cabecera HTML, publicada como artifact para previsualizar.
-- `payhip-ficha.md` — nombre, precio y descripción de los cuatro productos para pegar en Payhip, y cómo crear el pack.
+- `payhip-ficha.md` — nombre, precio y descripción de los cuatro productos para pegar en Payhip o Gumroad, y cómo crear el pack.
+- `publicar-netlify-gumroad.md` — cómo poner la web en línea gratis con Netlify Drop (y dominio propio) y cobrar con Gumroad: cuenta, cuatro productos, overlay de pago en la propia web, comprobaciones y qué enlace va en YouTube.
 - `cta.md` — el clip hablado del minuto 3, la línea 1 de la descripción del vídeo y del canal, y el cierre fijo, copiados del sistema de Car Care Garage.
 
 ## Antes de publicar
 
-1. **Pago.** Crear los cuatro productos en Payhip con `payhip-ficha.md` y pegar los cuatro enlaces en el objeto `BUY` del `<script>` final de `web/index.html`. Cada botón usa el enlace de su producto.
+1. **Pago y hosting.** Seguir `publicar-netlify-gumroad.md`: crear los cuatro productos en Gumroad (o Payhip) con las fichas de `payhip-ficha.md`, pegar los cuatro enlaces en el objeto `BUY` del `<script>` final de `web/index.html` y arrastrar la carpeta `web/` a Netlify Drop. Cada botón usa el enlace de su producto; si es de Gumroad, el pago se abre encima de la web (overlay).
 2. **Precios.** 19 $ por libro (29 $ tachados) y 37 $ el pack (57 $ tachados). Están en la web y en las fichas; si cambias uno, cámbialo en los dos sitios.
 3. **Portadas.** No están hechas. Recomendado 1600 × 2400 px, sin fotos reales de las estrellas (derechos de imagen); la web usa mockups tipográficos que se pueden sustituir por imágenes en el bloque `.stack`.
 4. **Datos.** Las fechas, cifras y anécdotas están escritas de memoria, sin verificar en internet. Antes de imprimir conviene confirmar al menos: fechas de bodas y muertes (Carl Dean, 3 de marzo de 2025; Diane Keaton, octubre de 2025; Dick Van Dyke 100 años en diciembre de 2025), las cifras de estudios citados (CDC caídas, estudio de Harvard, estudio de Chicago sobre verduras, Yale sobre actitud ante la vejez) y los teléfonos de ayuda (988, 1-800-677-1116, 877-908-3360, 800-272-3900, 1-800-772-1213, 1-800-799-7233).
