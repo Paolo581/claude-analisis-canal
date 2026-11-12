@@ -1,6 +1,6 @@
 # LAWRENCE WELK: The Man 30 MILLION Americans Watched Every Week and Never Understood
 
-American-English narration script. Same content, structure and facts as the source script, rewritten sentence by sentence so the wording is new. Numbers spelled out for the voice. Paragraph breaks mark the pauses. Sponsor CTA in Part 1 (about minute 3).
+American-English narration script. Same content, structure and facts as the source script, rewritten sentence by sentence so the wording is new. Numbers spelled out for the voice. Paragraph breaks mark the pauses. Sponsor CTA at the end of the intro (about minute 3).
 
 ---
 
@@ -222,7 +222,7 @@ And if this story got to you, subscribe to the channel. Next week, there's anoth
 
 ## NOTES FOR THE EDIT
 
-- Same content, order and facts as the source script; every sentence reworded. Nothing added, nothing removed, except: numbers spelled out, the sponsor CTA in Part 1 (about minute 3), and the standard closing comment question and subscribe line.
+- Same content, order and facts as the source script; every sentence reworded. Nothing added, nothing removed, except: numbers spelled out, the sponsor CTA at the end of the intro (about minute 3), and the standard closing comment question and subscribe line.
 - The like CTA stays where the source put it, at the end of the intro.
 - All figures are the source's: 30 million weekly viewers (reported), 200-plus stations, union scale plus profit sharing from 1956, death May 17, 1992, Santa Monica, age 89.
 
@@ -248,7 +248,7 @@ This video tells the full story: the overturned wagon the Welks spent their firs
 
 ## TAGS
 
-lawrence welk, lawrence welk show, lawrence welk documentary, lawrence welk life story, lawrence welk accordion, lawrence welk fern renner, champagne music, lawrence welk bubble machine, lawrence welk abc cancelled, rural purge 1971, lawrence welk syndication, myron floren, lennon sisters, lawrence welk strasburg north dakota, lawrence welk german, lawrence welk death, lawrence welk 1992, classic television history, old tv shows documentary, variety show history, big band era, lawrence welk pbs, lawrence welk musical family, 1960s television
+lawrence welk, lawrence welk show, lawrence welk documentary, lawrence welk life story, lawrence welk accordion, lawrence welk fern renner, champagne music, lawrence welk bubble machine, lawrence welk abc cancelled, rural purge 1971, lawrence welk syndication, myron floren, lennon sisters, lawrence welk strasburg north dakota, lawrence welk german, lawrence welk death, lawrence welk 1992, classic television history, variety show history, lawrence welk pbs
 
 ## TITLE OPTIONS
 
