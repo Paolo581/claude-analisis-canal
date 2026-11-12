@@ -244,7 +244,7 @@ For more than a decade, Frank Fritz dug through other people's barns on American
 
 ## TAGS
 
-frank fritz, frank fritz death, frank fritz american pickers, american pickers, mike wolfe, mike wolfe frank fritz, frank fritz stroke, frank fritz estate, frank fritz will, frank fritz father lawsuit, frank fritz motorcycles, frank fritz collection, frank's finds savanna, american pickers cast, what happened to frank fritz, frank fritz final days, frank fritz garage, frank fritz net worth, frank fritz crohn's, frank fritz mike wolfe feud, vintage motorcycle collection, indian chief prototype, aerosmith van american pickers, history channel
+frank fritz, frank fritz death, frank fritz american pickers, american pickers, mike wolfe, mike wolfe frank fritz, frank fritz stroke, frank fritz estate, frank fritz will, frank fritz father lawsuit, frank fritz motorcycles, frank fritz collection, frank's finds savanna, american pickers cast, what happened to frank fritz, frank fritz garage, frank fritz net worth, frank fritz crohn's, frank fritz mike wolfe feud, vintage motorcycle collection, history channel
 
 ## TITLE OPTIONS
 
